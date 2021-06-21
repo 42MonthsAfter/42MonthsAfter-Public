@@ -21,3 +21,5 @@ Address: 67.222.140.78:7315<br/>
 Server version: 1.12.153904<br/>
 Required game version: 1.12.0<br/>
 Map: SwansIisland`
+
+Be sure to join the discord for more information and to meet the best community in the game: https://discord.gg/aSveEtZjS7
