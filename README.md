@@ -8,16 +8,16 @@ Checking out the wiki is the best place to start: https://github.com/42MonthsAft
 You can join our servers here:
 
 **42 Months After PvEvP Server:**  
-`Server name: 42 Months After : PvEvP Survival RP : 42MonthsAfter.com</br>
-Address: 73.103.115.55:2302</br>
-Server version: 1.12.153904</br>
-Required game version: 1.12.0</br>
+`Server name: 42 Months After : PvEvP Survival RP : 42MonthsAfter.com<br/>
+Address: 73.103.115.55:2302<br/>
+Server version: 1.12.153904<br/>
+Required game version: 1.12.0<br/>
 Map: Deerisle`
 
 **Death Isle PvP Server:**  
-`Server name: 42 Months After : PvEvP Survival RP : 42MonthsAfter.com</br>
-Server name: 42 Months After : Death Isle PvP : 42MonthsAfter.com</br>
-Address: 67.222.140.78:7315</br> 
-Server version: 1.12.153904</br>
-Required game version: 1.12.0</br>
+`Server name: 42 Months After : PvEvP Survival RP : 42MonthsAfter.com<br/>
+Server name: 42 Months After : Death Isle PvP : 42MonthsAfter.com<br/>
+Address: 67.222.140.78:7315<br/>
+Server version: 1.12.153904<br/>
+Required game version: 1.12.0<br/>
 Map: SwansIisland`
