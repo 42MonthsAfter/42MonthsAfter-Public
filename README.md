@@ -2,7 +2,7 @@ Welcome to the wonderful world of 42 Months After!
 
 While our server code is private, we publish our mod configs and server specific files for anyone to use, tweak, improve, etc. 
 
-Checking out the wiki is the best place to start: https://github.com/42MonthsAfter/home/wiki
+Checking out the wiki is the best place to start: https://github.com/42MonthsAfter/42MonthsAfter-Prod/wiki
 
 
 You can join our servers here:
