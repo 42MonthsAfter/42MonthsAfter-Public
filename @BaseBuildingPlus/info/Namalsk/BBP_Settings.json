@@ -1,0 +1,144 @@
+{
+    "g_BBPDisableCraftVanillaFence": 0,
+    "g_BBPDisableCraftVanillaWatchtower": 0,
+    "g_BBPRequireLandClaim": 0,
+    "g_BBPLandClaimBlockDismantle": 0,
+    "g_BBPLandClaimRadius": 30,
+    "g_BBPAdminLandClaimRadius": 100,
+    "g_BBPFloatingPlacement": 0,
+    "g_BBPAdvanceRotation": 0,
+    "g_BBPInventoryToggle": 0,
+    "g_BBPBarbedWireRemoveOutside": 1,
+    "g_BBPSetInfiniteLifetime": 0,
+    "g_BBPEnableTimeDestructionMod": 0,
+    "g_BBPRaidOnlyDoors": 0,
+    "g_BBPTier1RaidTime": 300,
+    "g_BBPTier2RaidTime": 600,
+    "g_BBPTier3RaidTime": 1200,
+    "g_BBPTier1RaidToolDamage": 25,
+    "g_BBPTier2RaidToolDamage": 50,
+    "g_BBPTier3RaidToolDamage": 1000,
+    "g_BBPTier1RaidTools": [
+        "SledgeHammer",
+        "FirefighterAxe",
+        "WoodAxe"
+    ],
+    "g_BBPTier2RaidTools": [
+        "SledgeHammer",
+        "FirefighterAxe"
+    ],
+    "g_BBPTier3RaidTools": [
+        "SledgeHammer"
+    ],
+    "g_BBPCementMixerTime": 252,
+    "g_BBPCementMixerLocations": [
+        {
+            "position": [
+                6067.7,
+                30.826376,
+                10815.968750
+            ],
+            "orientation": [
+                -40.321,
+                0,
+                0
+            ]
+        },
+        {
+            "position": [
+                6665.76,
+                19.352148,
+                11413.36
+            ],
+            "orientation": [
+                124.321,
+                0,
+                0
+            ]
+        },
+        {
+            "position": [
+                8136.71,
+                15.752542,
+                10647.04
+            ],
+            "orientation": [
+                120.321,
+                0,
+                0
+            ]
+        },
+        {
+            "position": [
+                7648.56,
+                75.987511,
+                8745.38
+            ],
+            "orientation": [
+                -161.321,
+                0,
+                0
+            ]
+        },
+        {
+            "position": [
+                7020.64,
+                41.325546,
+                5833.95
+            ],
+            "orientation": [
+                -39.321,
+                0,
+                0
+            ]
+        },
+        {
+            "position": [
+                4831.3,
+                40.998348,
+                6166.91
+            ],
+            "orientation": [
+                143.321,
+                0,
+                0
+            ]
+        },
+        {
+            "position": [
+                3971.0,
+                52.998348,
+                7619.75
+            ],
+            "orientation": [
+                67.321,
+                0,
+                0
+            ]
+        },
+        {
+            "position": [
+                5066.63,
+                39.401810,
+                8154.86
+            ],
+            "orientation": [
+                -105.321,
+                0,
+                0
+            ]
+        },
+        {
+            "position": [
+                5714.53,
+                21.338718,
+                9802.83
+            ],
+            "orientation": [
+                -54.321,
+                0,
+                0
+            ]
+        }
+	]
+}

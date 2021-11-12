@@ -1,0 +1,261 @@
+{
+    "m_CraftClasses": {
+		"m_CustomizationSetting" : {
+			"PathToMainBackgroundImg" : "my path to main img",
+			"PathToRepairImg" : "my path to RepairImg",
+			"PathToPaintImg" : "my path to PaintImg",
+			"PathToCraftImg" : "my path to CraftImg"
+		},
+		"WorkbenchesClassnames": [
+			"BP_Workbench"
+		],
+        "CraftItems": [
+            {
+                "Result": "Mosin9130_Green",
+                "ResultCount": 1,
+                "CraftType": "paint",
+                "RecipeName": "Paint mosin in green",
+                "CraftComponents": [
+                    {
+                        "Classname": "Mosin9130",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenStick",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "ChickenFeather",
+                        "Amount": 10,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "GoatSteakMeat",
+                        "Amount": 900,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WaterBottle",
+                        "Amount": 5000,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+					"BPDrill"
+				]
+            },
+			{
+                "Result": "Nail",
+                "ResultCount": 20,
+                "CraftType": "craft",
+                "RecipeName": "Recycle junk",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalWire",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+					"BPCutting_saw"
+				]
+            },
+			{
+                "Result": "AK74",
+                "ResultCount": 1,
+                "CraftType": "repair",
+                "RecipeName": "Repair ak74",
+                "CraftComponents": [
+                    {
+                        "Classname": "AK74",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+					{
+                        "Classname": "WeaponCleaningKit",
+                        "Amount": 25,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+					"BPGrinder"
+				]
+            },
+			{
+                "Result": "bp_window_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "craft window kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "WoodenStick",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+					{
+                        "Classname": "Rope",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+					"BPGrinder",
+					"BPCutting_saw"
+				]
+            },
+			{
+                "Result": "BP_Mag_AKM_60Rnd",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "craft mag",
+                "CraftComponents": [
+                    {
+                        "Classname": "Mag_AKM_30Rnd",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+					{
+                        "Classname": "BP3_BluTape",
+                        "Amount": 150,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+					"BPGrinder"
+				]
+            },
+			{
+                "Result": "BP_Mag_AK101_60",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "craft mag",
+                "CraftComponents": [
+                    {
+                        "Classname": "Mag_AK101_30Rnd",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+					{
+                        "Classname": "BP3_BluTape",
+                        "Amount": 200,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+					"BPGrinder"
+				]
+            },
+			{
+                "Result": "BP_Mag_AK74_60Rnd",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "craft mag",
+                "CraftComponents": [
+                    {
+                        "Classname": "Mag_AK74_30Rnd",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+					{
+                        "Classname": "BP3_BluTape",
+                        "Amount": 150,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+					"BPGrinder"
+				]
+            },
+			{
+                "Result": "BP_Mag_Glock_30Rnd",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "craft mag",
+                "CraftComponents": [
+                    {
+                        "Classname": "Mag_Glock_15Rnd",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+					{
+                        "Classname": "Pliers",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+					{
+                        "Classname": "Hacksaw",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+					{
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+					"BPGrinder",
+					"BPCutting_saw",
+					"BPDrill"
+				]
+            },
+			{
+                "Result": "BP_BeltGunBag",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "craft Belt Gun Bag",
+                "CraftComponents": [
+                    {
+                        "Classname": "ChestHolster",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+					{
+                        "Classname": "FirstAidKit",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+					{
+                        "Classname": "SewingKit",
+                        "Amount": 100,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+					{
+                        "Classname": "LeatherSewingKit",
+                        "Amount": 100,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+				"AttachmentsNeed": [
+					"BPSewing_machine"
+				]
+            }
+        ]
+    }
+}

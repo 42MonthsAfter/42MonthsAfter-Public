@@ -1,0 +1,83 @@
+{
+    "m_CampfireLight": {
+        "Radius": 25,
+        "WithShadows": 0,
+        "Brightness": 4.75,
+        "VisibleDuringDaylight": 0
+    },
+    "m_FireplaceLight": {
+        "Radius": 25,
+        "WithShadows": 0,
+        "Brightness": 4.75,
+        "VisibleDuringDaylight": 0
+    },
+    "m_TorchLight": {
+        "Radius": 30,
+        "WithShadows": 0,
+        "Brightness": 5,
+        "VisibleDuringDaylight": 0
+    },
+    "m_SpotlightLight": {
+        "Radius": 60,
+        "WithShadows": 0,
+        "Brightness": 20,
+        "VisibleDuringDaylight": 0
+    },
+    "m_AreaLight_White": {
+        "Radius": 100,
+        "WithShadows": 0,
+        "Brightness": 10,
+        "VisibleDuringDaylight": 0
+    },
+    "m_AreaLight_Warm": {
+        "Radius": 100,
+        "WithShadows": 0,
+        "Brightness": 10,
+        "VisibleDuringDaylight": 0
+    },
+    "m_CustomLight1": {
+        "Radius": 100,
+        "WithShadows": 0,
+        "Brightness": 10,
+        "VisibleDuringDaylight": 0,
+        "DiffuseColorRed": 1,
+        "DiffuseColorGreen": 0,
+        "DiffuseColorBlue": 0
+    },
+    "m_CustomLight2": {
+        "Radius": 100,
+        "WithShadows": 0,
+        "Brightness": 10,
+        "VisibleDuringDaylight": 0,
+        "DiffuseColorRed": 0,
+        "DiffuseColorGreen": 1,
+        "DiffuseColorBlue": 0
+    },
+    "m_CustomLight3": {
+        "Radius": 100,
+        "WithShadows": 0,
+        "Brightness": 10,
+        "VisibleDuringDaylight": 0,
+        "DiffuseColorRed": 0,
+        "DiffuseColorGreen": 0,
+        "DiffuseColorBlue": 1
+    },
+    "m_CustomLight4": {
+        "Radius": 100,
+        "WithShadows": 0,
+        "Brightness": 10,
+        "VisibleDuringDaylight": 0,
+        "DiffuseColorRed": 0.8,
+        "DiffuseColorGreen": 0,
+        "DiffuseColorBlue": 0.2
+    },
+    "m_CustomLight5": {
+        "Radius": 100,
+        "WithShadows": 0,
+        "Brightness": 10,
+        "VisibleDuringDaylight": 0,
+        "DiffuseColorRed": 1,
+        "DiffuseColorGreen": 1,
+        "DiffuseColorBlue": 1
+    }
+}

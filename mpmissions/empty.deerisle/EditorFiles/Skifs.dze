@@ -1,0 +1,923 @@
+{
+    "Version": 1,
+    "MapName": "deerisle",
+    "CameraPosition": [
+        6322.38232421875,
+        65.01713562011719,
+        3004.52880859375
+    ],
+    "EditorObjects": [
+        {
+            "Type": "Land_Garage_Big",
+            "DisplayName": "Land_Garage_Big",
+            "Position": [
+                6267.15966796875,
+                48.147743225097659,
+                2994.071533203125
+            ],
+            "Orientation": [
+                -63.97852325439453,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999971389770508,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                6272.6494140625,
+                46.88495635986328,
+                3017.5322265625
+            ],
+            "Orientation": [
+                -53.99998474121094,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                6284.220703125,
+                46.97581481933594,
+                3021.23828125
+            ],
+            "Orientation": [
+                -145.25999450683595,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                6302.4443359375,
+                47.12660217285156,
+                3008.418212890625
+            ],
+            "Orientation": [
+                61.258113861083987,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.999990701675415,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                6315.400390625,
+                47.10491943359375,
+                2998.09619140625
+            ],
+            "Orientation": [
+                -145.25999450683595,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                6319.087890625,
+                47.107200622558597,
+                2987.046875
+            ],
+            "Orientation": [
+                -53.99998474121094,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Factory_Small",
+            "DisplayName": "Land_Factory_Small",
+            "Position": [
+                6310.0595703125,
+                51.69654846191406,
+                2968.7373046875
+            ],
+            "Orientation": [
+                -153.4277801513672,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_GuardTower",
+            "DisplayName": "Land_Mil_GuardTower",
+            "Position": [
+                6317.43603515625,
+                52.064292907714847,
+                2989.946533203125
+            ],
+            "Orientation": [
+                -154.79977416992188,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_GuardTower",
+            "DisplayName": "Land_Mil_GuardTower",
+            "Position": [
+                6276.2744140625,
+                51.09064483642578,
+                3017.880615234375
+            ],
+            "Orientation": [
+                -154.79977416992188,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                6261.171875,
+                46.883338928222659,
+                2970.449462890625
+            ],
+            "Orientation": [
+                -56.70972442626953,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999990463256836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                6271.26904296875,
+                47.03883361816406,
+                2956.668701171875
+            ],
+            "Orientation": [
+                -145.25999450683595,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                6286.35693359375,
+                47.156883239746097,
+                2949.624267578125
+            ],
+            "Orientation": [
+                -145.25999450683595,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                6301.44970703125,
+                47.162567138671878,
+                2942.568603515625
+            ],
+            "Orientation": [
+                -145.25999450683595,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_container_2b",
+            "DisplayName": "bldr_container_2b",
+            "Position": [
+                6316.4365234375,
+                48.11250305175781,
+                2977.661376953125
+            ],
+            "Orientation": [
+                -61.199947357177737,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_container_2c",
+            "DisplayName": "bldr_container_2c",
+            "Position": [
+                6321.70556640625,
+                48.0117301940918,
+                2974.92138671875
+            ],
+            "Orientation": [
+                -62.999961853027347,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_container_2d",
+            "DisplayName": "bldr_container_2d",
+            "Position": [
+                6319.6708984375,
+                47.57109451293945,
+                2955.695068359375
+            ],
+            "Orientation": [
+                27.146427154541017,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999986290931702,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_GuardTower",
+            "DisplayName": "Land_Mil_GuardTower",
+            "Position": [
+                6305.001953125,
+                51.54505157470703,
+                2945.569580078125
+            ],
+            "Orientation": [
+                -63.897159576416019,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999978542327881,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Wreck_Mi8",
+            "DisplayName": "Wreck_Mi8",
+            "Position": [
+                6283.13525390625,
+                46.90934753417969,
+                3029.557373046875
+            ],
+            "Orientation": [
+                155.28384399414063,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_hmmwv",
+            "DisplayName": "bldr_wreck_hmmwv",
+            "Position": [
+                6297.16455078125,
+                46.87531280517578,
+                3008.5361328125
+            ],
+            "Orientation": [
+                -9.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_hmmwv",
+            "DisplayName": "bldr_wreck_hmmwv",
+            "Position": [
+                6301.00048828125,
+                46.967464447021487,
+                3004.844482421875
+            ],
+            "Orientation": [
+                137.5199432373047,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999966621398926,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_Barracks4",
+            "DisplayName": "Land_Mil_Barracks4",
+            "Position": [
+                6275.38134765625,
+                46.95198440551758,
+                2965.5419921875
+            ],
+            "Orientation": [
+                -66.60000610351563,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_Barracks4",
+            "DisplayName": "Land_Mil_Barracks4",
+            "Position": [
+                6285.09130859375,
+                47.02964401245117,
+                2961.354248046875
+            ],
+            "Orientation": [
+                -66.60000610351563,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_mil_camonet_roof_nato",
+            "DisplayName": "bldr_mil_camonet_roof_nato",
+            "Position": [
+                6306.36376953125,
+                48.12109375,
+                2991.26513671875
+            ],
+            "Orientation": [
+                -62.99997329711914,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Misc_Well_Pump_Blue",
+            "DisplayName": "Land_Misc_Well_Pump_Blue",
+            "Position": [
+                6308.1025390625,
+                46.64875793457031,
+                2994.896240234375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_t72_chassis",
+            "DisplayName": "bldr_wreck_t72_chassis",
+            "Position": [
+                6294.54931640625,
+                46.84223175048828,
+                3029.15869140625
+            ],
+            "Orientation": [
+                -161.9998321533203,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_hmmwv",
+            "DisplayName": "bldr_wreck_hmmwv",
+            "Position": [
+                6303.4091796875,
+                47.182437896728519,
+                3022.008056640625
+            ],
+            "Orientation": [
+                -18.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_trailer_cistern",
+            "DisplayName": "bldr_wreck_trailer_cistern",
+            "Position": [
+                6286.232421875,
+                45.425846099853519,
+                3017.843505859375
+            ],
+            "Orientation": [
+                27.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Farm_WaterTower_Small",
+            "DisplayName": "Land_Farm_WaterTower_Small",
+            "Position": [
+                6281.21533203125,
+                50.87107467651367,
+                3008.034912109375
+            ],
+            "Orientation": [
+                21.60004425048828,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                6323.90478515625,
+                60.2969856262207,
+                2968.142578125
+            ],
+            "Orientation": [
+                -62.99991989135742,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                6321.82421875,
+                60.23530960083008,
+                2963.89306640625
+            ],
+            "Orientation": [
+                -62.99991989135742,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                6319.0048828125,
+                60.25343704223633,
+                2958.481201171875
+            ],
+            "Orientation": [
+                -62.99991989135742,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                6314.4326171875,
+                60.235050201416019,
+                2976.599609375
+            ],
+            "Orientation": [
+                -154.3776397705078,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                6316.87890625,
+                60.2992057800293,
+                2975.466064453125
+            ],
+            "Orientation": [
+                -154.37791442871095,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                6322.36083984375,
+                60.31733322143555,
+                2972.778564453125
+            ],
+            "Orientation": [
+                -154.37791442871095,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                6309.54736328125,
+                60.09897232055664,
+                2975.03564453125
+            ],
+            "Orientation": [
+                -62.99991989135742,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                6307.466796875,
+                60.037296295166019,
+                2970.7861328125
+            ],
+            "Orientation": [
+                -62.99991989135742,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                6304.6474609375,
+                60.055423736572269,
+                2965.374267578125
+            ],
+            "Orientation": [
+                -62.99991989135742,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                6306.40380859375,
+                59.98140335083008,
+                2960.692626953125
+            ],
+            "Orientation": [
+                -154.3776397705078,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                6308.85009765625,
+                60.04555892944336,
+                2959.55908203125
+            ],
+            "Orientation": [
+                -154.37791442871095,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                6314.33203125,
+                60.06368637084961,
+                2956.87158203125
+            ],
+            "Orientation": [
+                -154.37791442871095,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                6309.95703125,
+                58.89571762084961,
+                2958.530517578125
+            ],
+            "Orientation": [
+                -154.37791442871095,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_hbarrier_big",
+            "DisplayName": "bldr_hbarrier_big",
+            "Position": [
+                6298.7041015625,
+                46.710411071777347,
+                3036.820556640625
+            ],
+            "Orientation": [
+                -64.46900939941406,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_hbarrier_big",
+            "DisplayName": "bldr_hbarrier_big",
+            "Position": [
+                6306.48291015625,
+                47.30662536621094,
+                3032.1259765625
+            ],
+            "Orientation": [
+                -64.46898651123047,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999990463256836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_hbarrier_big",
+            "DisplayName": "bldr_hbarrier_big",
+            "Position": [
+                6303.1728515625,
+                46.39789581298828,
+                3047.251220703125
+            ],
+            "Orientation": [
+                -64.46900939941406,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_hbarrier_big",
+            "DisplayName": "bldr_hbarrier_big",
+            "Position": [
+                6310.73876953125,
+                47.06537628173828,
+                3042.185546875
+            ],
+            "Orientation": [
+                -64.46898651123047,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999990463256836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_hbarrier_big",
+            "DisplayName": "bldr_hbarrier_big",
+            "Position": [
+                6307.44140625,
+                45.378334045410159,
+                3057.758544921875
+            ],
+            "Orientation": [
+                -64.46900939941406,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_hbarrier_big",
+            "DisplayName": "bldr_hbarrier_big",
+            "Position": [
+                6315.3603515625,
+                46.399436950683597,
+                3052.677734375
+            ],
+            "Orientation": [
+                -64.46898651123047,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999990463256836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_Guardhouse2",
+            "DisplayName": "Land_Mil_Guardhouse2",
+            "Position": [
+                6317.744140625,
+                46.45843505859375,
+                3061.1513671875
+            ],
+            "Orientation": [
+                19.799999237060548,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                6312.77490234375,
+                47.09307861328125,
+                2947.0
+            ],
+            "Orientation": [
+                125.42015075683594,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        }
+    ],
+    "EditorDeletedObjects": [
+        {
+            "Type": "",
+            "Position": [
+                6270.0625,
+                46.200355529785159,
+                3000.41650390625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                6274.890625,
+                46.475250244140628,
+                2997.260009765625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_sambucusNigra_1s",
+            "Position": [
+                6275.578125,
+                46.339447021484378,
+                3008.0244140625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                6282.265625,
+                46.18367385864258,
+                3006.486572265625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeSoft_t_PiceaAbies_1f",
+            "Position": [
+                6256.66455078125,
+                49.50596618652344,
+                3005.97216796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_t_PiceaAbies_1sb",
+            "Position": [
+                6261.6572265625,
+                46.58507537841797,
+                3005.821044921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeSoft_t_PiceaAbies_2sb",
+            "Position": [
+                6259.98828125,
+                51.52237319946289,
+                3010.380126953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s",
+            "Position": [
+                6259.06103515625,
+                49.69467544555664,
+                3012.4091796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_t_PiceaAbies_1sb",
+            "Position": [
+                6262.0244140625,
+                47.21730041503906,
+                3008.33544921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                6255.703125,
+                45.5969352722168,
+                3009.795654296875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeSoft_t_PiceaAbies_2sb",
+            "Position": [
+                6253.56298828125,
+                52.707462310791019,
+                3004.525634765625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                6260.6689453125,
+                45.53135681152344,
+                3013.548095703125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                6256.68798828125,
+                45.64759063720703,
+                3013.955322265625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_t_PiceaAbies_1s",
+            "Position": [
+                6295.5625,
+                47.488407135009769,
+                3021.1357421875
+            ],
+            "Flags": 0
+        }
+    ]
+}

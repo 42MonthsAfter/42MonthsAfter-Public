@@ -1,0 +1,144 @@
+{
+    "ConvertTraderConfigToTraderPlus": 0,
+    "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
+    "UseGarageToTradeCar": 0,
+    "DisableHeightFailSafeForReceiptDeployment": 0,
+    "EnableShowAllPrices": 0,
+    "EnableShowAllCheckBox": 1,
+    "EnableStockAllCategory": 1,
+    "IsReceiptTraderOnly": 0,
+    "LockPickChance": 0.10000000894069672,
+    "LicenceKeyWord": "Licence",
+    "Licences": [
+        "Weapon Licence",
+        "Admin Licence"
+    ],
+    "AcceptedStates": {
+        "AcceptWorn": 0,
+        "AcceptDamaged": 0,
+        "AcceptBadlyDamaged": 0
+    },
+    "StoreOnlyToPristineState": 0,
+    "Currencies": [
+        {
+            "ClassName": "TraderPlus_Money_Euro500,TraderPlus_Money_Ruble500",
+            "Value": 500
+        },
+        {
+            "ClassName": "TraderPlus_Money_Dollar100,TraderPlus_Money_Euro100,TraderPlus_Money_Ruble100",
+            "Value": 100
+        },
+        {
+            "ClassName": "TraderPlus_Money_Dollar50,TraderPlus_Money_Euro50,TraderPlus_Money_Ruble50,CustomMoney50,CustomMoney50",
+            "Value": 50
+        },
+        {
+            "ClassName": "TraderPlus_Money_Dollar20,TraderPlus_Money_Euro20",
+            "Value": 20
+        },
+        {
+            "ClassName": "TraderPlus_Money_Dollar10,TraderPlus_Money_Euro10,TraderPlus_Money_Ruble10",
+            "Value": 10
+        },
+        {
+            "ClassName": "TraderPlus_Money_Dollar5,TraderPlus_Money_Euro5,TraderPlus_Money_Ruble5,TraderPlus_Money_Ruble5_Coin",
+            "Value": 5
+        },
+        {
+            "ClassName": "TraderPlus_Money_Dollar2,TraderPlus_Money_Ruble2_Coin,TraderPlus_Money_Euro2",
+            "Value": 2
+        },
+        {
+            "ClassName": "TraderPlus_Money_Dollar1,TraderPlus_Coin,TraderPlus_Money_Ruble1_Coin,TraderPlus_Money_Euro1",
+            "Value": 1
+        }
+    ],
+    "Traders": [
+        {
+            "Id": 0,
+            "Name": "bldr_sign_rail_platformend",
+            "GivenName": "QuickStop",
+            "Role": "Food Trader",
+            "Position": [
+                6255.009765625,
+                5.800000190734863,
+                9593.8798828125
+            ],
+            "Orientation": [
+                60.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 1,
+            "Name": "bldr_sign_rail_platformend",
+            "GivenName": "QuickStop",
+            "Role": "Weapon Trader",
+            "Position": [
+                6254.8701171875,
+                5.800000190734863,
+                9590.5703125
+            ],
+            "Orientation": [
+                65.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 2,
+            "Name": "bldr_sign_rail_platformend",
+            "GivenName": "QuickStop",
+            "Role": "Tool Trader",
+            "Position": [
+                6247.7001953125,
+                5.800000190734863,
+                9591.490234375
+            ],
+            "Orientation": [
+                -50.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 3,
+            "Name": "bldr_sign_rail_platformend",
+            "GivenName": "QuickStop",
+            "Role": "Clothes Trader",
+            "Position": [
+                6248.22021484375,
+                5.800000190734863,
+                9594.51953125
+            ],
+            "Orientation": [
+                -50.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 4,
+            "Name": "bldr_sign_rail_platformend",
+            "GivenName": "QuickStop",
+            "Role": "Auto Trader",
+            "Position": [
+                6241.0,
+                5.800000190734863,
+                9594.51953125
+            ],
+            "Orientation": [
+                -50.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        }
+    ],
+    "TraderObjects": []
+}

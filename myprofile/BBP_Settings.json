@@ -1,0 +1,97 @@
+{
+    "g_BBPDisableCraftVanillaFence": 1,
+    "g_BBPDisableCraftVanillaWatchtower": 1,
+    "g_BBPRequireLandClaim": 1,
+    "g_BBPLandClaimBlockDismantle": 1,
+    "g_BBPLandClaimRadius": 80,
+    "g_BBPAdminLandClaimRadius": 100,
+    "g_BBPFloatingPlacement": 0,
+    "g_BBPAdvanceRotation": 0,
+    "g_BBPInventoryToggle": 0,
+    "g_BBPBarbedWireRemoveOutside": 0,
+    "g_BBPSetInfiniteLifetime": 1,
+    "g_BBPEnableTimeDestructionMod": 0,
+    "g_BBPRaidOnlyDoors": 0,
+    "g_BBPTier1RaidTime": 600,
+    "g_BBPTier2RaidTime": 1200,
+    "g_BBPTier3RaidTime": 2400,
+    "g_BBPTier1RaidToolDamage": 100,
+    "g_BBPTier2RaidToolDamage": 100,
+    "g_BBPTier3RaidToolDamage": 100,
+    "g_BBPTier1RaidTools": [
+        "Hatchet",
+        "SledgeHammer",
+        "FirefighterAxe",
+        "WoodAxe"
+    ],
+    "g_BBPTier2RaidTools": [
+        "SledgeHammer",
+        "FirefighterAxe"
+    ],
+    "g_BBPTier3RaidTools": [
+        "SledgeHammer"
+    ],
+    "g_BBPCementMixerTime": 240,
+    "g_BBPCementMixerLocations": [
+        {
+            "position": [
+                4501.45,
+                20.42,
+                7079.82
+            ],
+            "orientation": [
+                50.00,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "position": [
+                8249.67,
+                5.15704,
+                8581.49
+            ],
+            "orientation": [
+                -134.31700134277345,
+                0.0,
+                -9.999999974752428e-7
+            ]
+        },
+        {
+            "position": [
+                5652.81,
+                6.0914,
+                15123.9
+            ],
+            "orientation": [
+                31.42186164855957,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "position": [
+                5358.28,
+                4.88519,
+                12427.2
+            ],
+            "orientation": [
+                0.4880000054836273,
+                0.002672000089660287,
+                1.681928038597107
+            ]
+        },
+        {
+            "position": [
+                1724.35,
+                12.9468,
+                8956.45
+            ],
+            "orientation": [
+                105.10449981689453,
+                0.0,
+                0.0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+name = "InventoryInCar"; 								                                            // name 
+picture = "InventoryInCar/data/icon_CA.paa";			                                        // picture in expanded description
+logoSmall = "InventoryInCar/data/icon_CA.paa";	                                            // icon next to mod name when description is not expanded
+logo = "InventoryInCar/data/icon_CA.paa";				                                    // logo below game menu
+logoOver = "InventoryInCar/data/icon_CA.paa";	                                            // on mouse hover over logo
+tooltip = "InventoryInCar by Tim";						                                    // tool tip on mouse hover
+overview = ""; 					// overview
+action = "";					// link
+author = "Tim";							                                                // author
+version = "1";								                                                // version

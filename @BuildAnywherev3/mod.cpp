@@ -1,0 +1,10 @@
+name 		= "BuildAnywhere_v3"; 
+picture 	= "BuildAnywhere_v3/images/logos/modlogohover.edds";
+logoSmall 	= "BuildAnywhere_v3/images/logos/modlogohover.edds";
+logo 		= "BuildAnywhere_v3/images/logos/modlogo.edds";
+logoOver 	= "BuildAnywhere_v3/images/logos/modlogohover.edds";
+tooltip 	= "BuildAnywhere v3 - By Borizz.K and Cleetus";
+overview 	= "BuildAnywhere v3 is a mod that removes collision detection from Base Building Object placement and Construction and increases chances for installing Tents and other objects on roofs, indoors etc.";
+action		= "https://steamcommunity.com/sharedfiles/filedetails/?id=1854626456";
+author 		= "Borizz.K and Cleetus";
+version 	= "3.4.23.07.2021.5";

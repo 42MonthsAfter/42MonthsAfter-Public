@@ -1,0 +1,7 @@
+//Change prices as you see fit
+
+	<Category> Electronics
+		//This version is obsolete, but was kept to prevent item config issues. It uses 9V, while the v2 uses the new battery type
+		//TACSATBattery,																				*,			20,			10
+		TACSATBattery_v2,																				*,			20,			10
+		TacSatRadio_v2,																					*,		   100,			50

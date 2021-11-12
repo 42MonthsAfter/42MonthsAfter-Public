@@ -1,0 +1,948 @@
+{
+    "Version": 1,
+    "MapName": "deerisle",
+    "CameraPosition": [
+        7369.2724609375,
+        117.6484146118164,
+        6055.73828125
+    ],
+    "EditorObjects": [
+        {
+            "Type": "Land_Garage_Big",
+            "DisplayName": "Land_Garage_Big",
+            "Position": [
+                7343.52197265625,
+                68.20777893066406,
+                6054.7041015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Shed_Closed",
+            "DisplayName": "Land_Shed_Closed",
+            "Position": [
+                7361.14404296875,
+                70.72705841064453,
+                6026.05224609375
+            ],
+            "Orientation": [
+                143.99977111816407,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                7347.62353515625,
+                67.06015014648438,
+                6020.5146484375
+            ],
+            "Orientation": [
+                -23.399980545043947,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                7323.546875,
+                67.00633239746094,
+                6017.66845703125
+            ],
+            "Orientation": [
+                88.83273315429688,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999961853027344,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                7332.66796875,
+                66.95958709716797,
+                6012.57763671875
+            ],
+            "Orientation": [
+                -12.889363288879395,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999963045120239,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                7319.36279296875,
+                67.04097747802735,
+                6039.021484375
+            ],
+            "Orientation": [
+                88.83273315429688,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999961853027344,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                7374.078125,
+                68.14788055419922,
+                6030.9873046875
+            ],
+            "Orientation": [
+                -26.046367645263673,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999972581863403,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                7375.9853515625,
+                68.15972900390625,
+                6042.46826171875
+            ],
+            "Orientation": [
+                -115.81028747558594,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_Guardhouse2",
+            "DisplayName": "Land_Mil_Guardhouse2",
+            "Position": [
+                7316.646484375,
+                66.88813018798828,
+                6031.390625
+            ],
+            "Orientation": [
+                -98.99996185302735,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_GuardTower",
+            "DisplayName": "Land_Mil_GuardTower",
+            "Position": [
+                7330.775390625,
+                71.63461303710938,
+                6016.6650390625
+            ],
+            "Orientation": [
+                71.99994659423828,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_mil_camonet_roof_east",
+            "DisplayName": "bldr_mil_camonet_roof_east",
+            "Position": [
+                7369.2861328125,
+                68.30387115478516,
+                6037.26318359375
+            ],
+            "Orientation": [
+                -34.19999313354492,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Misc_Well_Pump_Blue",
+            "DisplayName": "Land_Misc_Well_Pump_Blue",
+            "Position": [
+                7367.27880859375,
+                66.24720764160156,
+                6034.580078125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_hbarrier_6m",
+            "DisplayName": "bldr_hbarrier_6m",
+            "Position": [
+                7307.15673828125,
+                64.36251831054688,
+                6030.51611328125
+            ],
+            "Orientation": [
+                -9.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_hbarrier_6m",
+            "DisplayName": "bldr_hbarrier_6m",
+            "Position": [
+                7308.4345703125,
+                64.27994537353516,
+                6022.03271484375
+            ],
+            "Orientation": [
+                -9.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_bmp1",
+            "DisplayName": "bldr_wreck_bmp1",
+            "Position": [
+                7319.1025390625,
+                65.936279296875,
+                6017.96435546875
+            ],
+            "Orientation": [
+                9.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_t72_chassis",
+            "DisplayName": "bldr_wreck_t72_chassis",
+            "Position": [
+                7315.064453125,
+                64.30720520019531,
+                6012.98583984375
+            ],
+            "Orientation": [
+                171.0001220703125,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Farm_WaterTower_Small",
+            "DisplayName": "Land_Farm_WaterTower_Small",
+            "Position": [
+                7349.72705078125,
+                71.01895904541016,
+                6026.10546875
+            ],
+            "Orientation": [
+                -124.19986724853516,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                7364.830078125,
+                68.15702819824219,
+                6055.22265625
+            ],
+            "Orientation": [
+                -127.1357421875,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_container_2b",
+            "DisplayName": "bldr_container_2b",
+            "Position": [
+                7369.75439453125,
+                66.86087036132813,
+                6017.478515625
+            ],
+            "Orientation": [
+                55.799983978271487,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Guardhouse",
+            "DisplayName": "Land_Guardhouse",
+            "Position": [
+                7339.9697265625,
+                66.60325622558594,
+                6029.98828125
+            ],
+            "Orientation": [
+                7.199995040893555,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Radio_PanelBig",
+            "DisplayName": "Land_Radio_PanelBig",
+            "Position": [
+                7339.078125,
+                65.72691345214844,
+                6031.330078125
+            ],
+            "Orientation": [
+                -82.80003356933594,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_radio_building_logo",
+            "DisplayName": "bldr_radio_building_logo",
+            "Position": [
+                7339.75146484375,
+                68.67794799804688,
+                6028.45751953125
+            ],
+            "Orientation": [
+                9.59331226348877,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999976754188538,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_couch_beige84x213x75_dz",
+            "DisplayName": "bldr_couch_beige84x213x75_dz",
+            "Position": [
+                7341.283203125,
+                65.7354736328125,
+                6028.69677734375
+            ],
+            "Orientation": [
+                -174.59994506835938,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        }
+    ],
+    "EditorDeletedObjects": [
+        {
+            "Type": "BushHard_b_crataegusLaevigata_2s",
+            "Position": [
+                7318.83837890625,
+                68.37482452392578,
+                6035.03759765625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7322.10595703125,
+                66.2028579711914,
+                6035.8828125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7320.869140625,
+                66.23088836669922,
+                6044.7919921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7324.966796875,
+                66.2462387084961,
+                6050.4306640625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7333.42138671875,
+                66.24677276611328,
+                6053.50732421875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7338.67431640625,
+                66.24614715576172,
+                6055.2783203125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_t_PinusSylvestris_1s",
+            "Position": [
+                7342.625,
+                66.34834289550781,
+                6055.1025390625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7344.59912109375,
+                66.24601745605469,
+                6057.970703125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7351.84814453125,
+                66.24340057373047,
+                6055.8720703125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7358.24560546875,
+                66.22547912597656,
+                6049.55908203125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7362.1123046875,
+                66.21560668945313,
+                6045.5712890625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7367.01513671875,
+                66.35611724853516,
+                6041.39501953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_sambucusNigra_1s",
+            "Position": [
+                7373.6875,
+                67.39995574951172,
+                6034.51708984375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_sambucusNigra_1s",
+            "Position": [
+                7370.984375,
+                67.73268127441406,
+                6030.66552734375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7366.35546875,
+                66.43604278564453,
+                6035.11767578125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7359.93701171875,
+                66.32333374023438,
+                6028.814453125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_t_PinusSylvestris_1s",
+            "Position": [
+                7359.65625,
+                66.66028594970703,
+                6028.43994140625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7355.93896484375,
+                66.24504852294922,
+                6025.03564453125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7356.640625,
+                66.06078338623047,
+                6025.9580078125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_crataegusLaevigata_2s",
+            "Position": [
+                7350.98828125,
+                68.50930786132813,
+                6017.681640625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7349.7119140625,
+                66.24745178222656,
+                6023.51171875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7344.17822265625,
+                66.24610900878906,
+                6023.03564453125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7337.81494140625,
+                66.24730682373047,
+                6021.91943359375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_corylusAvellana_1f",
+            "Position": [
+                7339.03125,
+                66.5251693725586,
+                6026.02197265625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_t_PinusSylvestris_1s",
+            "Position": [
+                7355.546875,
+                66.33020782470703,
+                6031.5
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Wall_Gate_FenR_Big_Open",
+            "Position": [
+                7323.279296875,
+                66.45886993408203,
+                6028.5634765625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7323.89013671875,
+                66.23907470703125,
+                6024.56640625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7323.55859375,
+                66.23041534423828,
+                6026.08642578125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7324.5068359375,
+                66.24727630615235,
+                6021.63720703125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7326.28125,
+                66.48026275634766,
+                6024.58837890625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_crataegusLaevigata_1s",
+            "Position": [
+                7324.046875,
+                66.39071655273438,
+                6017.95458984375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7328.892578125,
+                66.24641418457031,
+                6020.75634765625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeSoft_t_PiceaAbies_2sb",
+            "Position": [
+                7361.9375,
+                72.76243591308594,
+                6050.501953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeSoft_t_PiceaAbies_2sb",
+            "Position": [
+                7367.8125,
+                72.79061889648438,
+                6050.1806640625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeSoft_t_PiceaAbies_2sb",
+            "Position": [
+                7353.265625,
+                71.84696960449219,
+                6070.03857421875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_3f",
+            "Position": [
+                7355.0625,
+                77.34224700927735,
+                6064.85986328125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_3s",
+            "Position": [
+                7361.796875,
+                74.43685150146485,
+                6061.8857421875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f",
+            "Position": [
+                7344.265625,
+                74.56756591796875,
+                6068.7119140625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_3f",
+            "Position": [
+                7342.140625,
+                75.10502624511719,
+                6075.13134765625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeSoft_t_PiceaAbies_2sb",
+            "Position": [
+                7332.0,
+                70.23860168457031,
+                6073.46240234375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb",
+            "Position": [
+                7326.171875,
+                73.95121002197266,
+                6059.57470703125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_naked_2s",
+            "Position": [
+                7329.6875,
+                66.26131439208985,
+                6058.61181640625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_t_PinusSylvestris_1f",
+            "Position": [
+                7321.984375,
+                66.9670639038086,
+                6052.79150390625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_corylusAvellana_1f",
+            "Position": [
+                7328.8837890625,
+                66.65751647949219,
+                6046.0966796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_corylusAvellana_1f",
+            "Position": [
+                7334.8125,
+                66.30692291259766,
+                6045.580078125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_naked_2s",
+            "Position": [
+                7333.90625,
+                66.94926452636719,
+                6062.591796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_t_PinusSylvestris_1s",
+            "Position": [
+                7343.40625,
+                66.15418243408203,
+                6063.51171875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_crataegusLaevigata_2s",
+            "Position": [
+                7338.578125,
+                66.21499633789063,
+                6072.306640625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                7361.125,
+                66.32865905761719,
+                6056.60009765625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_crataegusLaevigata_2s",
+            "Position": [
+                7350.0625,
+                67.29222106933594,
+                6031.07177734375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_corylusAvellana_1f",
+            "Position": [
+                7349.765625,
+                66.49011993408203,
+                6032.63427734375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_corylusAvellana_1f",
+            "Position": [
+                7356.453125,
+                66.6810531616211,
+                6037.27734375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Workshop5",
+            "Position": [
+                7353.80908203125,
+                66.953125,
+                6035.76708984375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb",
+            "Position": [
+                7366.546875,
+                75.6368637084961,
+                6027.69091796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_t_PinusSylvestris_1s",
+            "Position": [
+                7363.0625,
+                66.74140930175781,
+                6025.03759765625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_3f",
+            "Position": [
+                7340.5625,
+                75.66688537597656,
+                6013.65380859375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_3f",
+            "Position": [
+                7337.390625,
+                76.2327880859375,
+                6016.54248046875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_corylusAvellana_1f",
+            "Position": [
+                7341.609375,
+                66.53396606445313,
+                6017.74072265625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeSoft_t_PiceaAbies_2sb",
+            "Position": [
+                7374.84375,
+                72.47000885009766,
+                6044.66015625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb",
+            "Position": [
+                7372.453125,
+                73.72734069824219,
+                6048.041015625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f",
+            "Position": [
+                7372.453125,
+                72.45501708984375,
+                6054.65283203125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_1s",
+            "Position": [
+                7317.421875,
+                66.1764907836914,
+                6020.73681640625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_crataegusLaevigata_1s",
+            "Position": [
+                7313.5,
+                65.255859375,
+                6017.6982421875
+            ],
+            "Flags": 0
+        }
+    ]
+}

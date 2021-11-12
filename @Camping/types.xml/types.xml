@@ -1,0 +1,313 @@
+	<!-- Tents -->
+	<type name="CivilianTentCamoPacked">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<tag name="floor"/>
+	    <usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="CivilianTentBlackPacked">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<tag name="floor"/>
+	    <usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="CivilianTentWoodlandCamoPacked">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<tag name="floor"/>
+	    <usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="CivilianTentDesertCamoPacked">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<tag name="floor"/>
+	    <usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="CivilianTentGreyCamoPacked">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<tag name="floor"/>
+	    <usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="CivilianTentGreyPacked">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<tag name="floor"/>
+	    <usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="CivilianTentMil001Packed">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<tag name="floor"/>
+	    <usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="CivilianTentRedCamoPacked">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<tag name="floor"/>
+	    <usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="CivilianTentRedPacked">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<tag name="floor"/>
+	    <usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="CivilianTentWinterCamoPacked">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<tag name="floor"/>
+	    <usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="CivilianTentYellowPacked">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<tag name="floor"/>
+	    <usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="CivilianTentBluePacked">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<tag name="floor"/>
+	    <usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="CivilianTentCamoDeployed">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="CivilianTentDesertCamoDeployed">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="CivilianTentGreyCamoDeployed">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="CivilianTentRedCamoDeployed">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="CivilianTentMil001Deployed">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="CivilianTentWinterCamoDeployed">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="CivilianTentYellowDeployed">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="CivilianTentWoodlandCamoDeployed">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="CivilianTentBlackDeployed">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="CivilianTentBlueDeployed">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="CivilianTentGreyDeployed">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="CivilianTentRedDeployed">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<!-- Sleeping Bags -->
+	<type name="SleepingBagBlackPacked">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+	    <usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="SleepingBagBluePacked">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+	    <usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="SleepingBagGreyPacked">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+	    <usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="SleepingBagRedPacked">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+	    <usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="SleepingBagGreenPacked">
+        <nominal>15</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+		<tag name="shelves"/>
+		<tag name="floor"/>
+	    <usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="SleepingBagBlackDeployed">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="SleepingBagBlueDeployed">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="SleepingBagGreyDeployed">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="SleepingBagRedDeployed">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="SleepingBagGreenDeployed">
+        <lifetime>604800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
