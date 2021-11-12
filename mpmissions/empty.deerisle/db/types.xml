@@ -57148,10 +57148,10 @@
     <value name="Tier15" />
   </type>
   <type name="BBP_Workbench">
-    <nominal>4</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>600</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -57369,10 +57369,10 @@
     <value name="Tier15" />
   </type>
   <type name="BBP_Land_Claim_Pole">
-    <nominal>4</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>600</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -57387,10 +57387,10 @@
     <value name="Tier15" />
   </type>
   <type name="BBP_Land_Claim_Flag">
-    <nominal>4</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>600</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -57596,10 +57596,10 @@
     <value name="Tier15" />
   </type>
   <type name="BBP_T3_Door_Half">
-    <nominal>4</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>600</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -57632,10 +57632,10 @@
     <value name="Tier15" />
   </type>
   <type name="BBP_T1_Foundation">
-    <nominal>4</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>600</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -57668,10 +57668,10 @@
     <value name="Tier15" />
   </type>
   <type name="BBP_T2_Foundation">
-    <nominal>4</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>600</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -57704,10 +57704,10 @@
     <value name="Tier15" />
   </type>
   <type name="BBP_T3_Foundation">
-    <nominal>4</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>600</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -57740,10 +57740,10 @@
     <value name="Tier15" />
   </type>
   <type name="BBP_Pillar">
-    <nominal>4</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>600</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -57782,7 +57782,7 @@
     <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>600</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -58337,10 +58337,10 @@
     <value name="Tier15" />
   </type>
   <type name="BBP_XmasLights_String">
-    <nominal>4</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>600</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
