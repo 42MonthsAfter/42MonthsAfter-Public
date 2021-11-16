@@ -1,0 +1,65 @@
+{
+    "VehiclesParts": [
+        {
+            "VehicleName": "OffroadHatchback",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "HatchbackDoors_CoDriver",
+                "HatchbackDoors_Driver",
+                "HatchbackHood",
+                "HatchbackTrunk",
+                "HatchbackWheel",
+                "HatchbackWheel",
+                "HatchbackWheel",
+                "HatchbackWheel"
+            ]
+        },
+        {
+            "VehicleName": "Hatchback_02",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "Hatchback_02_Door_1_1",
+                "Hatchback_02_Door_1_2",
+                "Hatchback_02_Door_2_1",
+                "Hatchback_02_Door_2_2",
+                "Hatchback_02_Hood",
+                "Hatchback_02_Trunk",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel"
+            ]
+        },
+        {
+            "VehicleName": "CivilianSedan",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "CarBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "CivSedanDoors_Driver",
+                "CivSedanDoors_CoDriver",
+                "CivSedanDoors_BackLeft",
+                "CivSedanDoors_BackRight",
+                "CivSedanHood",
+                "CivSedanTrunk",
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanWheel"
+            ]
+        }
+    ]
+}

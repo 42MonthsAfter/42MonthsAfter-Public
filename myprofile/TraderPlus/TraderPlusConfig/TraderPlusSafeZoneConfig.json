@@ -1,0 +1,24 @@
+{
+    "EnableNameTag": 1,
+    "EnableAfkDisconnect": 0,
+    "KickAfterDelay": 0,
+    "MsgEnterZone": "Welcome to the Quick Stop!",
+    "MsgExitZone": "Be safe out there!",
+    "MsgOnLeavingZone": "You're leaving the safezone in:",
+    "SafeAreaLocation": [
+        {
+            "SafeZoneStatut": "Quick Stop",
+            "X": 6249.0,
+            "Y": 9593.0,
+            "Radius": 9.0,
+            "Countdown": 10
+        }
+    ],
+    "CleanUpTimer": 300,
+    "ObjectsToDelete": [
+        "Paper"
+    ],
+    "SZSteamUIDs": [
+        "76561198036774377"
+    ]
+}

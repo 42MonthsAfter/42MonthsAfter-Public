@@ -1,0 +1,10 @@
+name = "Munghards itempack"; 								// name 
+picture = "Munghardsitems/icons/MI2.paa";			// picture in expanded description
+logoSmall = "Munghardsitems/icons/MI_small.edds";		// icon next to mod name when description is not expanded
+logo = "Munghardsitems/icons/MI.paa";					// logo below game menu
+logoOver = "Munghardsitems/icons/MI_over.paa";		// on mouse hover over logo
+tooltip = "tooltip";							// tool tip on mouse hover
+overview = "This is an itempack adding a plethora of new items to DayZ, all models and textures are made by myself excluding: sizla rolling papers and the brain model."; 						// overview
+action = "https://discord.gg/NQn8hgW";					// link
+author = "Munghard";								// author
+version = "-";	

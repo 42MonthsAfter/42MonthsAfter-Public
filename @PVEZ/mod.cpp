@@ -1,0 +1,15 @@
+action="https://steamcommunity.com/sharedfiles/filedetails/?id=1878060278";
+hideName=0;
+hidePicture=0;
+name="PVEZ";
+picture="PVEZ/GUI/Images/PVEZ_Logo512.edds";
+logo="PVEZ/GUI/Images/PVEZ_LogoSmall.edds";
+logoOver="PVEZ/GUI/Images/PVEZ_Logo512.edds";
+logoSmall="PVEZ/GUI/Images/PVEZ_LogoSmall.edds";
+tooltip="";
+tooltipOwned="";
+overview="$STR_pvez_overview";
+credits="Ermiq";
+author="Ermiq";
+authorID="0";
+version="113";
