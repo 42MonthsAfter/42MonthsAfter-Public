@@ -60,9 +60,9 @@
             "GivenName": "QuickStop",
             "Role": "Food Trader",
             "Position": [
-                6255.009765625,
-                5.800000190734863,
-                9593.8798828125
+                3684.72998046875,
+                6.110000133514404,
+                6068.9599609375
             ],
             "Orientation": [
                 60.0,
@@ -77,9 +77,9 @@
             "GivenName": "QuickStop",
             "Role": "Weapon Trader",
             "Position": [
-                6254.8701171875,
-                5.800000190734863,
-                9590.5703125
+                3692.080078125,
+                6.019999980926514,
+                6079.7900390625
             ],
             "Orientation": [
                 65.0,
@@ -94,9 +94,9 @@
             "GivenName": "QuickStop",
             "Role": "Tool Trader",
             "Position": [
-                6247.7001953125,
-                5.800000190734863,
-                9591.490234375
+                3688.780029296875,
+                5.980000019073486,
+                6073.81005859375
             ],
             "Orientation": [
                 -50.0,
@@ -111,9 +111,9 @@
             "GivenName": "QuickStop",
             "Role": "Clothes Trader",
             "Position": [
-                6248.22021484375,
-                5.800000190734863,
-                9594.51953125
+                3699.719970703125,
+                6.050000190734863,
+                6067.14990234375
             ],
             "Orientation": [
                 -50.0,
@@ -128,9 +128,77 @@
             "GivenName": "QuickStop",
             "Role": "Auto Trader",
             "Position": [
-                6241.0,
-                5.800000190734863,
-                9594.51953125
+                3697.8701171875,
+                5.96999979019165,
+                6061.56982421875
+            ],
+            "Orientation": [
+                -50.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 5,
+            "Name": "bldr_sign_rail_platformend",
+            "GivenName": "Faction1 Trader",
+            "Role": "Faction1 Gear",
+            "Position": [
+                4558.6201171875,
+                5.1024699211120609,
+                1840.8599853515626
+            ],
+            "Orientation": [
+                -50.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 6,
+            "Name": "bldr_sign_rail_platformend",
+            "GivenName": "Faction1 Trader",
+            "Role": "Public1",
+            "Position": [
+                4527.85986328125,
+                5.340069770812988,
+                1824.550048828125
+            ],
+            "Orientation": [
+                -50.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 7,
+            "Name": "bldr_sign_rail_platformend",
+            "GivenName": "Faction2 Trader",
+            "Role": "Faction2 Gear",
+            "Position": [
+                5051.60986328125,
+                2.585819959640503,
+                8388.3095703125
+            ],
+            "Orientation": [
+                -50.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": 8,
+            "Name": "bldr_sign_rail_platformend",
+            "GivenName": "Faction2 Trader",
+            "Role": "Public2",
+            "Position": [
+                5050.740234375,
+                2.857599973678589,
+                8415.4599609375
             ],
             "Orientation": [
                 -50.0,

@@ -17,7 +17,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 0,
+            "EnableStockAllCategoryForID": 1,
             "Categories": [
                 "Melee & Blades",
                 "Sidearms",
@@ -42,7 +42,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 0,
+            "EnableStockAllCategoryForID": 2,
             "Categories": [
                 "Tools",
                 "Base Building+",
@@ -57,7 +57,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 0,
+            "EnableStockAllCategoryForID": 3,
             "Categories": [
                 "Glasses",
                 "Armbands",
@@ -83,10 +83,94 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 0,
+            "EnableStockAllCategoryForID": 4,
             "Categories": [
                 "Vehicles",
                 "Vehicle Parts"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "EnableStockAllCategoryForID": 5,
+            "Categories": [
+                "Faction1 Clothing",
+                "Faction1 Belts & Pouches",
+                "Faction1 Bags",
+                "Faction1 Footware",
+                "Faction1 Ghillie",
+                "Faction1 Vests",
+                "Faction1 Masks",
+                "Faction1 Helmets",
+                "Faction1 Hats",
+                "Faction1 Gloves",
+                "Faction1 Patch",
+                "Faction1 Footware",
+                "Faction1 Weapons",
+                "Faction1 Magazines",
+                "Faction1 Ammo",
+                "Faction1 Melee & Blades",
+                "Faction1 Weapon Accessories",
+                "Faction1 Grenades",
+                "Faction1 Fire & Lights",
+                "Faction1 Hunting & Cooking",
+                "Faction1 Tools",
+                "Faction1 Food",
+                "Faction1 Medical",
+                "Faction1 Public",
+                "Faction1 Good Good",
+                "Faction1 Vehicle Parts",
+                "Faction1 Public"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "EnableStockAllCategoryForID": 6,
+            "Categories": [
+                "Faction1 Public"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "EnableStockAllCategoryForID": 7,
+            "Categories": [
+                "Faction2 Clothing",
+                "Faction2 Belts & Pouches",
+                "Faction2 Bags",
+                "Faction2 Footware",
+                "Faction2 Ghillie",
+                "Faction2 Vests",
+                "Faction2 Masks",
+                "Faction2 Helmets",
+                "Faction2 Hats",
+                "Faction2 Gloves",
+                "Faction2 Patch",
+                "Faction2 Footware",
+                "Faction2 Weapons",
+                "Faction2 Magazines",
+                "Faction2 Ammo",
+                "Faction2 Melee & Blades",
+                "Faction2 Weapon Accessories",
+                "Faction2 Grenades",
+                "Faction2 Fire & Lights",
+                "Faction2 Hunting & Cooking",
+                "Faction2 Tools",
+                "Faction2 Food",
+                "Faction2 Medical",
+                "Faction2 Public",
+                "Faction2 Good Good",
+                "Faction2 Vehicle Parts",
+                "Faction2 Public"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "EnableStockAllCategoryForID": 8,
+            "Categories": [
+                "Faction2 Public"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
