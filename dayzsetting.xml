@@ -11,7 +11,7 @@
         </launchbar>
     </workbench>
     <jobsystem globalqueue="4096" threadqueue="1024">
-        <pc maxcores="2" reservedcores="1" />
+        <pc maxcores="4" reservedcores="1" />
         <ps4 threadcount="4" />
         <xb1 threadcount="4" />
     </jobsystem>
