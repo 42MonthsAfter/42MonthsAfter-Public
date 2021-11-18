@@ -1,0 +1,11 @@
+name = "SNAFU_Weapons";
+picture = "SNAFU_Guns_01\Images\Snafu_Logo.paa";			
+logoSmall = "SNAFU_Guns_01\Images\Snafu_Logo.paa";		
+logo = "SNAFU_Guns_01\Images\Snafu_Logo.paa";			
+logoOver = "SNAFU_Guns_01\Images\Snafu_Logo.paa";		
+tooltip = "tooltip";
+overview = "This is a Community Mod, designed by GCGN for the SNAFU Server under the DayZ Public License - No Derivatives (DPL-ND).";
+action = "https://discord.gg/nSZHKWYAw6";
+author = "SNAFU_Mod_team";
+authorID = "76561197974118919";
+version = "1.07";
