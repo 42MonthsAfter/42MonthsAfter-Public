@@ -87,6 +87,7 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="10" dmax="5" x="4378.33" z="1640.83" r="50"/> <!-- LocationName -->
     </territory>
     <territory color="1136576269">
+        <zone name="InfectedCity" smin="0" smax="0" dmin="10" dmax="20" x="9877.51" z="771.589" r="60"/> <!-- LocationName -->
         <zone name="InfectedCity" smin="0" smax="0" dmin="10" dmax="20" x="3488.84" z="9262.3" r="210"/> <!-- LocationName -->
         <zone name="InfectedCity" smin="0" smax="0" dmin="10" dmax="25" x="4502.5" z="9192.9" r="280"/> <!-- LocationName -->
         <zone name="InfectedCity" smin="0" smax="0" dmin="10" dmax="20" x="3469.34" z="7538.25" r="200"/> <!-- LocationName -->
@@ -106,6 +107,12 @@
         <zone name="InfectedCity" smin="0" smax="0" dmin="10" dmax="20" x="5378.5" z="8387.08" r="120"/> <!-- LocationName -->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="15" dmax="20" x="4649.17" z="1795" r="300"/> <!-- LocationName -->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="15" dmax="20" x="3928" z="2666" r="150"/> <!-- LocationName -->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="15" dmax="20" x="9460.2" z="2624.65" r="80"/> <!-- LocationName -->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="15" dmax="20" x="8260.87" z="7271.65" r="60"/> <!-- LocationName -->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="15" dmax="20" x="8040.68" z="6058.8" r="60"/> <!-- LocationName -->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="15" dmax="20" x="6530.22" z="5948.25" r="60"/> <!-- LocationName -->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="15" dmax="20" x="7163.77" z="8273.38" r="60"/> <!-- LocationName -->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="15" dmax="20" x="880.805" z="1320.19" r="120"/> <!-- LocationName -->
     </territory>
     <territory color="1124502272">
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="20" x="5314.5" z="9785" r="60"/> <!-- LocationName -->
@@ -119,11 +126,11 @@
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="20" x="8845" z="4820" r="50"/> <!-- LocationName -->
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="20" x="8950" z="4810" r="50"/> <!-- LocationName -->
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="20" x="9010" z="4900" r="50"/> <!-- LocationName -->
-        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="1" dmax="20" x="898.096" z="2856.19" r="80"/> <!-- LocationName -->
-        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="1" dmax="20" x="955.714" z="2674.29" r="80"/> <!-- LocationName -->
-        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="1" dmax="20" x="973.848" z="2395.27" r="50"/> <!-- LocationName -->
-        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="1" dmax="20" x="771.429" z="2607.14" r="80"/> <!-- LocationName -->
-        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="1" dmax="20" x="966.806" z="2345.44" r="50"/> <!-- LocationName -->
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="20" x="898.096" z="2856.19" r="80"/> <!-- LocationName -->
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="20" x="955.714" z="2674.29" r="80"/> <!-- LocationName -->
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="20" x="973.848" z="2395.27" r="50"/> <!-- LocationName -->
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="20" x="771.429" z="2607.14" r="80"/> <!-- LocationName -->
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="20" x="966.806" z="2345.44" r="50"/> <!-- LocationName -->
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="20" x="1002.35" z="2387.95" r="50"/> <!-- LocationName -->
         <zone name="InfectedArmyHard" smin="4" smax="8" dmin="10" dmax="20" x="6984.82" z="3546.59" r="50"/> <!-- LocationName -->
         <zone name="InfectedArmyHard" smin="4" smax="8" dmin="10" dmax="20" x="7008.59" z="3504.24" r="50"/> <!-- LocationName -->
@@ -134,6 +141,7 @@
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="20" x="282" z="7320" r="80"/> <!-- LocationName -->
         <zone name="InfectedArmyHard" smin="3" smax="4" dmin="10" dmax="20" x="6058.75" z="5243.75" r="50"/> <!-- LocationName -->
         <zone name="InfectedArmyHard" smin="5" smax="8" dmin="15" dmax="25" x="9995" z="4488.33" r="120"/> <!-- LocationName -->
+        <zone name="InfectedArmyHard" smin="5" smax="8" dmin="15" dmax="25" x="7345.22" z="3476.7" r="80"/> <!-- LocationName -->
     </territory>
     <territory color="2575065676">
         <zone name="InfectedVillage" smin="0" smax="0" dmin="10" dmax="20" x="1965.99" z="8208.13" r="100"/> <!-- LocationName -->
@@ -165,8 +173,8 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="10" dmax="5" x="9451.31" z="8862.9" r="80"/> <!-- LocationName -->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="10" dmax="20" x="1802.7" z="3400.23" r="100"/> <!-- LocationName -->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="10" dmax="20" x="1768.6" z="3630.21" r="80"/> <!-- LocationName -->
-        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="20" x="1705" z="3431.67" r="80"/> <!-- LocationName -->
-        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="20" x="6464.79" z="6952.7" r="80"/> <!-- LocationName -->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="10" dmax="20" x="1705" z="3431.67" r="80"/> <!-- LocationName -->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="10" dmax="20" x="6464.79" z="6952.7" r="80"/> <!-- LocationName -->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="10" dmax="6" x="8245.42" z="7349.58" r="50"/> <!-- LocationName -->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="10" dmax="6" x="8220.28" z="7163.06" r="50"/> <!-- LocationName -->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="10" dmax="20" x="4401.25" z="7268.55" r="180"/> <!-- LocationName -->
@@ -241,6 +249,12 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="10" dmax="5" x="4780" z="1792.5" r="50"/> <!-- LocationName -->
     </territory>
     <territory color="1910952871">
+        
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="10" dmax="6" x="7521.53" z="3462.81" r="80"/> <!-- LocationName -->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="10" dmax="6" x="907.837" z="2774.35" r="80"/> <!-- LocationName -->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="10" dmax="6" x="4651.81" z="5683.96" r="80"/> <!-- LocationName -->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="10" dmax="6" x="4132.76" z="8681.55" r="80"/> <!-- LocationName -->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="10" dmax="6" x="829.419" z="8916.69" r="80"/> <!-- LocationName -->
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="20" x="1376.67" z="9189.6" r="60"/> <!-- LocationName -->
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="20" x="2603.63" z="9738.6" r="60"/> <!-- LocationName -->
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="20" x="2502.5" z="9727.5" r="80"/> <!-- LocationName -->
