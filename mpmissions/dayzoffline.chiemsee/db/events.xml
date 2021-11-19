@@ -21,9 +21,9 @@
         </children>
     </event>
     <event name="AnimalBear">
-        <nominal>40</nominal>
-		<min>25</min>
-		<max>50</max>
+        <nominal>20</nominal>
+		<min>5</min>
+		<max>40</max>
         <lifetime>3600</lifetime>
         <restock>300</restock>
         <saferadius>100</saferadius>
