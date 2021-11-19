@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "Type": 0,
+        "Name": "Faction 02",
+        "X": 5052.0,
+        "Z": 8388.0,
+        "Radius": 1000,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Faction 01",
+        "X": 4558.0,
+        "Z": 1841.0,
+        "Radius": 1000,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    }
+]
