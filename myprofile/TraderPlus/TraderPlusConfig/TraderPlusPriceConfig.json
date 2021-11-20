@@ -3690,7 +3690,7 @@
             ]
         },
         {
-            "CategoryName": "Faction1 Food",
+            "CategoryName": "RLF Food",
             "Products": [
                 "CaninaBerry,1,500,-1,1,1",
                 "SambucusBerry,1,500,-1,1,1",
@@ -3823,7 +3823,7 @@
             ]
         },
         {
-            "CategoryName": "Faction1 Medical",
+            "CategoryName": "RLF Medical",
             "Products": [
                 "AMS_BandAid,1,500,-1,1,1",
                 "BandageDressing,1,500,-1,1,1",
@@ -3903,7 +3903,7 @@
             ]
         },
         {
-            "CategoryName": "Faction1 Good Good",
+            "CategoryName": "RLF Good Good",
             "Products": [
                 "cigarette_mung,1,500,-1,1,1",
                 "BP_Cigaret1,1,500,-1,1,1",
@@ -3971,7 +3971,7 @@
             ]
         },
         {
-            "CategoryName": "Faction1 Tools",
+            "CategoryName": "RLF Tools",
             "Products": [
                 "Paper,1,500,1,1,1",
                 "Pen_Blue,1,500,1,1,1",
@@ -4273,7 +4273,7 @@
             ]
         },
         {
-            "CategoryName": "Faction1 Fire & Lights",
+            "CategoryName": "RLF Fire & Lights",
             "Products": [
                 "Chemlight_Blue,1,500,-1,1,1",
                 "Chemlight_Green,1,500,-1,1,1",
@@ -4295,7 +4295,7 @@
             ]
         },
         {
-            "CategoryName": "Faction1 Hunting & Cooking",
+            "CategoryName": "RLF Hunting & Cooking",
             "Products": [
                 "AMS_Whistle,1,500,1,1,1",
                 "AMS_WaterStraw,1,500,1,1,1",
@@ -4374,7 +4374,7 @@
             ]
         },
         {
-            "CategoryName": "Faction1 Vehicle Parts",
+            "CategoryName": "RLF Vehicle Parts",
             "Products": [
                 "CarRadiator,1,500,1,1,1",
                 "CarBattery,1,500,1,1,1",
@@ -4394,7 +4394,7 @@
             ]
         },
         {
-            "CategoryName": "Faction1 Melee & Blades",
+            "CategoryName": "RLF Melee & Blades",
             "Products": [
                 "BrassKnuckles_Dull,1,500,1,1,1",
                 "BrassKnuckles_Shiny,1,500,1,1,1",
@@ -4459,7 +4459,7 @@
             ]
         },
         {
-            "CategoryName": "Faction1 Weapons",
+            "CategoryName": "RLF Weapons",
             "Products": [
                 "Taser,1,500,1,1,1",
                 "Msp_Water_Gun,1,500,1,1,1",
@@ -4833,7 +4833,7 @@
             ]
         },
         {
-            "CategoryName": "Faction1 Grenades",
+            "CategoryName": "RLF Grenades",
             "Products": [
                 "RGD5Grenade,1,500,1,1,1",
                 "M67Grenade,1,500,1,1,1",
@@ -4861,7 +4861,7 @@
             ]
         },
         {
-            "CategoryName": "Faction1 Ammo",
+            "CategoryName": "RLF Ammo",
             "Products": [
                 "Ammo_380,1,500,-1,1,1",
                 "Ammo_9x19,1,500,-1,1,1",
@@ -4954,7 +4954,7 @@
             ]
         },
         {
-            "CategoryName": "Faction1 Magazines",
+            "CategoryName": "RLF Magazines",
             "Products": [
                 "Mag_Taser,1,500,-1,1,1",
                 "Msp_Water_Gun_Mag,1,500,-1,1,1",
@@ -5251,7 +5251,7 @@
             ]
         },
         {
-            "CategoryName": "Faction1 Weapon Accessories",
+            "CategoryName": "RLF Weapon Accessories",
             "Products": [
                 "MP5_PlasticHndgrd,1,500,1,1,1",
                 "MP5_RailHndgrd,1,500,1,1,1",
@@ -5365,159 +5365,185 @@
             ]
         },
         {
-            "CategoryName": "Faction1 Patch",
+            "CategoryName": "RLF Patch",
             "Products": [
-                "MVS_CountryFlag_Zimbabwe,1-1,1,1,1"
+                "MVS_Patch_33,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction1 Gloves",
+            "CategoryName": "RLF Gloves",
             "Products": [
-                "Fingerless_Gloves_Wool_Black,1-1,1,1,1",
-                "WorkingGloves_Black,1-1,1,1,1",
-                "TacticalGloves_Black,1-1,1,1,1",
-                "NBCGlovesGray,1-1,1,1,1"
+                "Fingerless_Gloves_Wool_Black,1,-1,1,1,1",
+                "WorkingGloves_Black,1,-1,1,1,1",
+                "TacticalGloves_Black,1,-1,1,1,1",
+                "NBCGlovesGray,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction1 Hats",
+            "CategoryName": "RLF Hats",
             "Products": [
-                "MVS_Cap_Black,1-1,1,1,1",
-                "MVS_Cap_Multicam_Black,1-1,1,1,1"
+                "MVS_Cap_Black,1,-1,1,1,1",
+                "MVS_Cap_Multicam_Black,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction1 Helmets",
+            "CategoryName": "RLF Helmets",
             "Products": [
-                "BallisticHelmet_Black,1-1,1,1,1",
-                "MVS_Helmet_01_Black,1-1,1,1,1",
-                "MVS_Helmet_01_Multicam_Black,1-1,1,1,1",
-                "MVS_Helmet_02_Black,1-1,1,1,1",
-                "MVS_Helmet_02_Multicam_Black,1-1,1,1,1",
-                "MVS_6B47_Helmet_Black,1-1,1,1,1",
-                "MVS_OpsCore_Black,1-1,1,1,1",
-                "MVS_OpsCore_Multicam_Black,1-1,1,1,1",
-                "MVS_ArmoredHelmet_Black,1-1,1,1,1",
-                "MVS_ArmoredHelmet_Multicam_Black,1-1,1,1,1",
-                "MVS_WarriorHelmet_Black,1-1,1,1,1",
-                "MVS_WarriorHelmet_Multicam_Black,1-1,1,1,1",
-                "MVS_Altyn_Black,1-1,1,1,1",
-                "MVS_Altyn_Visor_Black,1-1,1,1,1",
-                "MVS_Altyn_Visor_Lifted_Black,1-1,1,1,1"
+                "BallisticHelmet_Black,1,-1,1,1,1",
+                "MVS_Helmet_01_Black,1,-1,1,1,1",
+                "MVS_Helmet_01_Multicam_Black,1,-1,1,1,1",
+                "MVS_Helmet_02_Black,1,-1,1,1,1",
+                "MVS_Helmet_02_Multicam_Black,1,-1,1,1,1",
+                "MVS_6B47_Helmet_Black,1,-1,1,1,1",
+                "MVS_OpsCore_Black,1,-1,1,1,1",
+                "MVS_OpsCore_Multicam_Black,1,-1,1,1,1",
+                "MVS_ArmoredHelmet_Black,1,-1,1,1,1",
+                "MVS_ArmoredHelmet_Multicam_Black,1,-1,1,1,1",
+                "MVS_WarriorHelmet_Black,1,-1,1,1,1",
+                "MVS_WarriorHelmet_Multicam_Black,1,-1,1,1,1",
+                "MVS_Altyn_Black,1,-1,1,1,1",
+                "MVS_Altyn_Visor_Black,1,-1,1,1,1",
+                "MVS_Altyn_Visor_Lifted_Black,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction1 Masks",
+            "CategoryName": "RLF Masks",
             "Products": [
-                "MVS_Shroud_Black,1-1,1,1,1",
-                "SkullMask,1-1,1,1,1",
-                "MVS_Balaclava_Black,1-1,1,1,1",
-                "MVS_Facemask_Black,1-1,1,1,1",
-                "MVS_S10Respirator_Black,1-1,1,1,1",
-                "MVS_PMK2Respirator_Black,1-1,1,1,1"
+                "MVS_Shroud_Black,1,-1,1,1,1",
+                "SkullMask,1,-1,1,1,1",
+                "MVS_Balaclava_Black,1,-1,1,1,1",
+                "MVS_Facemask_Black,1,-1,1,1,1",
+                "MVS_S10Respirator_Black,1,-1,1,1,1",
+                "MVS_PMK2Respirator_Black,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction1 Vests",
+            "CategoryName": "RLF Vests",
             "Products": [
-                "MVS_Combat_Vest_Black,1-1,1,1,1",
-                "MVS_Combat_Vest_Multicam_Black,1-1,1,1,1",
-                "MVS_ChestRig_Black,1-1,1,1,1",
-                "MVS_ChestRig_Multicam_Black,1-1,1,1,1",
-                "MVS_Combat_Vest_Heavy_Black,1-1,1,1,1",
-                "MVS_Combat_Vest_Heavy_Multicam_Black,1-1,1,1,1"
+                "MVS_Combat_Vest_Black,1,-1,1,1,1",
+                "MVS_Combat_Vest_Multicam_Black,1,-1,1,1,1",
+                "MVS_ChestRig_Black,1,-1,1,1,1",
+                "MVS_ChestRig_Multicam_Black,1,-1,1,1,1",
+                "MVS_Combat_Vest_Heavy_Black,1,-1,1,1,1",
+                "MVS_Combat_Vest_Heavy_Multicam_Black,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction1 Clothing",
+            "CategoryName": "RLF Clothing",
             "Products": [
-                "MVS_Shirt_BDU_Multicam_Black,1-1,1,1,1",
-                "MVS_CombatShirt_Black,1-1,1,1,1",
-                "MVS_CombatShirt_Multicam_Black,1-1,1,1,1",
-                "MVS_GorkaJacket_Multicam_Black,1-1,1,1,1",
-                "MVS_GorkaPants_Multicam_Black,1-1,1,1,1",
-                "MVS_CombatPants_Black,1-1,1,1,1",
-                "MVS_CombatPants_Multicam_Black,1-1,1,1,1"
+                "MVS_Shirt_BDU_Multicam_Black,1,-1,1,1,1",
+                "MVS_CombatShirt_Black,1,-1,1,1,1",
+                "MVS_CombatShirt_Multicam_Black,1,-1,1,1,1",
+                "MVS_GorkaJacket_Multicam_Black,1,-1,1,1,1",
+                "MVS_GorkaPants_Multicam_Black,1,-1,1,1,1",
+                "MVS_CombatPants_Black,1,-1,1,1,1",
+                "MVS_CombatPants_Multicam_Black,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction1 Footware",
+            "CategoryName": "RLF Footware",
             "Products": [
-                "MilitaryBoots_Redpunk,1-1,1,1,1",
-                "MilitaryBoots_Black,1-1,1,1,1"
+                "MilitaryBoots_Redpunk,1,-1,1,1,1",
+                "MilitaryBoots_Black,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction1 Ghillie",
+            "CategoryName": "RLF Ghillie",
             "Products": [
-                "GhillieAtt_Mossy,1-1,1,1,1",
-                "GhillieAtt_Tan,1-1,1,1,1",
-                "GhillieAtt_Woodland,1-1,1,1,1",
-                "MassWinterGhillieWrap,1-1,1,1,1",
-                "GhillieHood_Mossy,1-1,1,1,1",
-                "GhillieHood_Tan,1-1,1,1,1",
-                "GhillieHood_Woodland,1-1,1,1,1",
-                "MassGhillieHood_Woodland,1-1,1,1,1",
-                "MassGhillieHood_Snowy,1-1,1,1,1",
-                "MassGhillieHoodMossy,1-1,1,1,1",
-                "GhillieBushrag_Mossy,1-1,1,1,1",
-                "GhillieBushrag_Tan,1-1,1,1,1",
-                "GhillieBushrag_Woodland,1-1,1,1,1",
-                "GhillieTop_Mossy,1-1,1,1,1",
-                "GhillieTop_Tan,1-1,1,1,1",
-                "GhillieTop_Woodland,1-1,1,1,1",
-                "GhillieSuit_Mossy,1-1,1,1,1",
-                "GhillieSuit_Tan,1-1,1,1,1",
-                "GhillieSuit_Woodland,1-1,1,1,1"
+                "GhillieAtt_Mossy,1,-1,1,1,1",
+                "GhillieAtt_Tan,1,-1,1,1,1",
+                "GhillieAtt_Woodland,1,-1,1,1,1",
+                "MassWinterGhillieWrap,1,-1,1,1,1",
+                "GhillieHood_Mossy,1,-1,1,1,1",
+                "GhillieHood_Tan,1,-1,1,1,1",
+                "GhillieHood_Woodland,1,-1,1,1,1",
+                "MassGhillieHood_Woodland,1,-1,1,1,1",
+                "MassGhillieHood_Snowy,1,-1,1,1,1",
+                "MassGhillieHoodMossy,1,-1,1,1,1",
+                "GhillieBushrag_Mossy,1,-1,1,1,1",
+                "GhillieBushrag_Tan,1,-1,1,1,1",
+                "GhillieBushrag_Woodland,1,-1,1,1,1",
+                "GhillieTop_Mossy,1,-1,1,1,1",
+                "GhillieTop_Tan,1,-1,1,1,1",
+                "GhillieTop_Woodland,1,-1,1,1,1",
+                "GhillieSuit_Mossy,1,-1,1,1,1",
+                "GhillieSuit_Tan,1,-1,1,1,1",
+                "GhillieSuit_Woodland,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction1 Vehicle Parts",
+            "CategoryName": "RLF Belts & Pouches",
             "Products": [
-                "MVS_Belt_Black,1-1,1,1,1",
-                "MVS_Belt_Multicam_Black,1-1,1,1,1",
-                "MVS_Holster_Black,1-1,1,1,1",
-                "MVS_Holster_Multicam_Black,1-1,1,1,1",
-                "MVS_Canteen_Black,1-1,1,1,1",
-                "MVS_Canteen_Multicam_Black,1-1,1,1,1",
-                "MVS_Sheath_Multicam_Black,1-1,1,1,1",
-                "MVS_Molle_Panel_Black,1-1,1,1,1",
-                "MVS_Molle_Panel_Multicam_Black,1-1,1,1,1",
-                "MVS_Utility_Pouch_Multicam_Black,1-1,1,1,1",
-                "MVS_Utility_Pouch_Black,1-1,1,1,1",
-                "MVS_Medical_Pouch_Black,1-1,1,1,1",
-                "MVS_Medical_Pouch_Multicam_Black,1-1,1,1,1",
-                "MVS_Admin_Pouch_Black,1-1,1,1,1",
-                "MVS_Admin_Pouch_Multicam_Black,1-1,1,1,1",
-                "MVS_Magazine_Pouch_Black,1-1,1,1,1",
-                "MVS_Magazine_Pouch_Multicam_Black,1-1,1,1,1",
-                "MVS_Taco_Pouch_Black,1-1,1,1,1",
-                "MVS_Taco_Pouch_Multicam_Black,1-1,1,1,1",
-                "MVS_Heavy_Pouch_Black,1-1,1,1,1",
-                "MVS_Heavy_Pouch_Multicam_Black,1-1,1,1,1"
+                "MVS_Belt_Black,1,-1,1,1,1",
+                "MVS_Belt_Multicam_Black,1,-1,1,1,1",
+                "MVS_Holster_Black,1,-1,1,1,1",
+                "MVS_Holster_Multicam_Black,1,-1,1,1,1",
+                "MVS_Canteen_Black,1,-1,1,1,1",
+                "MVS_Canteen_Multicam_Black,1,-1,1,1,1",
+                "MVS_Sheath_Multicam_Black,1,-1,1,1,1",
+                "MVS_Molle_Panel_Black,1,-1,1,1,1",
+                "MVS_Molle_Panel_Multicam_Black,1,-1,1,1,1",
+                "MVS_Utility_Pouch_Multicam_Black,1,-1,1,1,1",
+                "MVS_Utility_Pouch_Black,1,-1,1,1,1",
+                "MVS_Medical_Pouch_Black,1,-1,1,1,1",
+                "MVS_Medical_Pouch_Multicam_Black,1,-1,1,1,1",
+                "MVS_Admin_Pouch_Black,1,-1,1,1,1",
+                "MVS_Admin_Pouch_Multicam_Black,1,-1,1,1,1",
+                "MVS_Magazine_Pouch_Black,1,-1,1,1,1",
+                "MVS_Magazine_Pouch_Multicam_Black,1,-1,1,1,1",
+                "MVS_Taco_Pouch_Black,1,-1,1,1,1",
+                "MVS_Taco_Pouch_Multicam_Black,1,-1,1,1,1",
+                "MVS_Heavy_Pouch_Black,1,-1,1,1,1",
+                "MVS_Heavy_Pouch_Multicam_Black,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction1 Bags",
+            "CategoryName": "RLF Vehicle Parts",
             "Products": [
-                "MVS_Radio_Pack_Multicam_Black,1-1,1,1,1",
-                "MVS_Radio_Pack_Black,1-1,1,1,1",
-                "MVS_Compact_1_Black,1-1,1,1,1",
-                "MVS_Compact_1_Multicam_Black,1-1,1,1,1",
-                "MVS_Compact_2_Black,1-1,1,1,1",
-                "MVS_Compact_2_Multicam_Black,1-1,1,1,1",
-                "MVS_SlingPack_Black,1-1,1,1,1",
-                "MVS_SlingPack_Multicam_Black,1-1,1,1,1",
-                "MVS_Pack_Black,1-1,1,1,1",
-                "MVS_Pack_Multicam_Black,1-1,1,1,1",
-                "MVS_Assault_Pack_Black,1-1,1,1,1",
-                "MVS_Assault_Pack_Multicam_Black,1-1,1,1,1",
-                "MVS_Rucksack_Black,1-1,1,1,1",
-                "MVS_Rucksack_Multicam_Black,1-1,1,1,1"
+                "MVS_Belt_Black,1,-1,1,1,1",
+                "MVS_Belt_Multicam_Black,1,-1,1,1,1",
+                "MVS_Holster_Black,1,-1,1,1,1",
+                "MVS_Holster_Multicam_Black,1,-1,1,1,1",
+                "MVS_Canteen_Black,1,-1,1,1,1",
+                "MVS_Canteen_Multicam_Black,1,-1,1,1,1",
+                "MVS_Sheath_Multicam_Black,1,-1,1,1,1",
+                "MVS_Molle_Panel_Black,1,-1,1,1,1",
+                "MVS_Molle_Panel_Multicam_Black,1,-1,1,1,1",
+                "MVS_Utility_Pouch_Multicam_Black,1,-1,1,1,1",
+                "MVS_Utility_Pouch_Black,1,-1,1,1,1",
+                "MVS_Medical_Pouch_Black,1,-1,1,1,1",
+                "MVS_Medical_Pouch_Multicam_Black,1,-1,1,1,1",
+                "MVS_Admin_Pouch_Black,1,-1,1,1,1",
+                "MVS_Admin_Pouch_Multicam_Black,1,-1,1,1,1",
+                "MVS_Magazine_Pouch_Black,1,-1,1,1,1",
+                "MVS_Magazine_Pouch_Multicam_Black,1,-1,1,1,1",
+                "MVS_Taco_Pouch_Black,1,-1,1,1,1",
+                "MVS_Taco_Pouch_Multicam_Black,1,-1,1,1,1",
+                "MVS_Heavy_Pouch_Black,1,-1,1,1,1",
+                "MVS_Heavy_Pouch_Multicam_Black,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction1 Public",
+            "CategoryName": "RLF Bags",
+            "Products": [
+                "MVS_Radio_Pack_Multicam_Black,1,-1,1,1,1",
+                "MVS_Radio_Pack_Black,1,-1,1,1,1",
+                "MVS_Compact_1_Black,1,-1,1,1,1",
+                "MVS_Compact_1_Multicam_Black,1,-1,1,1,1",
+                "MVS_Compact_2_Black,1,-1,1,1,1",
+                "MVS_Compact_2_Multicam_Black,1,-1,1,1,1",
+                "MVS_SlingPack_Black,1,-1,1,1,1",
+                "MVS_SlingPack_Multicam_Black,1,-1,1,1,1",
+                "MVS_Pack_Black,1,-1,1,1,1",
+                "MVS_Pack_Multicam_Black,1,-1,1,1,1",
+                "MVS_Assault_Pack_Black,1,-1,1,1,1",
+                "MVS_Assault_Pack_Multicam_Black,1,-1,1,1,1",
+                "MVS_Rucksack_Black,1,-1,1,1,1",
+                "MVS_Rucksack_Multicam_Black,1,-1,1,1,1"
+            ]
+        },
+        {
+            "CategoryName": "RLF Public",
             "Products": [
                 "AMS_BandAid,1,100,0.99,250,0.8",
                 "BandageDressing,1,100,0.99,50,0.8",
@@ -6453,7 +6479,7 @@
             ]
         },
         {
-            "CategoryName": "Faction2 Food",
+            "CategoryName": "Remnant Food",
             "Products": [
                 "CaninaBerry,1,500,-1,1,1",
                 "SambucusBerry,1,500,-1,1,1",
@@ -6586,7 +6612,7 @@
             ]
         },
         {
-            "CategoryName": "Faction2 Medical",
+            "CategoryName": "Remnant Medical",
             "Products": [
                 "AMS_BandAid,1,500,-1,1,1",
                 "BandageDressing,1,500,-1,1,1",
@@ -6666,7 +6692,7 @@
             ]
         },
         {
-            "CategoryName": "Faction2 Good Good",
+            "CategoryName": "Remnant Good Good",
             "Products": [
                 "cigarette_mung,1,500,-1,1,1",
                 "BP_Cigaret1,1,500,-1,1,1",
@@ -6734,7 +6760,7 @@
             ]
         },
         {
-            "CategoryName": "Faction2 Tools",
+            "CategoryName": "Remnant Tools",
             "Products": [
                 "Paper,1,500,1,1,1",
                 "Pen_Blue,1,500,1,1,1",
@@ -7036,7 +7062,7 @@
             ]
         },
         {
-            "CategoryName": "Faction2 Fire & Lights",
+            "CategoryName": "Remnant Fire & Lights",
             "Products": [
                 "Chemlight_Blue,1,500,-1,1,1",
                 "Chemlight_Green,1,500,-1,1,1",
@@ -7058,7 +7084,7 @@
             ]
         },
         {
-            "CategoryName": "Faction2 Hunting & Cooking",
+            "CategoryName": "Remnant Hunting & Cooking",
             "Products": [
                 "AMS_Whistle,1,500,1,1,1",
                 "AMS_WaterStraw,1,500,1,1,1",
@@ -7137,7 +7163,7 @@
             ]
         },
         {
-            "CategoryName": "Faction2 Vehicle Parts",
+            "CategoryName": "Remnant Vehicle Parts",
             "Products": [
                 "CarRadiator,1,500,1,1,1",
                 "CarBattery,1,500,1,1,1",
@@ -7157,7 +7183,7 @@
             ]
         },
         {
-            "CategoryName": "Faction2 Melee & Blades",
+            "CategoryName": "Remnant Melee & Blades",
             "Products": [
                 "BrassKnuckles_Dull,1,500,1,1,1",
                 "BrassKnuckles_Shiny,1,500,1,1,1",
@@ -7222,7 +7248,7 @@
             ]
         },
         {
-            "CategoryName": "Faction2 Weapons",
+            "CategoryName": "Remnant Weapons",
             "Products": [
                 "Taser,1,500,1,1,1",
                 "Msp_Water_Gun,1,500,1,1,1",
@@ -7596,7 +7622,7 @@
             ]
         },
         {
-            "CategoryName": "Faction2 Grenades",
+            "CategoryName": "Remnant Grenades",
             "Products": [
                 "RGD5Grenade,1,500,1,1,1",
                 "M67Grenade,1,500,1,1,1",
@@ -7624,7 +7650,7 @@
             ]
         },
         {
-            "CategoryName": "Faction2 Ammo",
+            "CategoryName": "Remnant Ammo",
             "Products": [
                 "Ammo_380,1,500,-1,1,1",
                 "Ammo_9x19,1,500,-1,1,1",
@@ -7717,7 +7743,7 @@
             ]
         },
         {
-            "CategoryName": "Faction2 Magazines",
+            "CategoryName": "Remnant Magazines",
             "Products": [
                 "Mag_Taser,1,500,-1,1,1",
                 "Msp_Water_Gun_Mag,1,500,-1,1,1",
@@ -8014,7 +8040,7 @@
             ]
         },
         {
-            "CategoryName": "Faction2 Weapon Accessories",
+            "CategoryName": "Remnant Weapon Accessories",
             "Products": [
                 "MP5_PlasticHndgrd,1,500,1,1,1",
                 "MP5_RailHndgrd,1,500,1,1,1",
@@ -8128,13 +8154,13 @@
             ]
         },
         {
-            "CategoryName": "Faction2 Patch",
+            "CategoryName": "Remnant Patch",
             "Products": [
-                "MVS_CountryFlag_Zimbabwe,1,-1,1,1,1"
+                "MVS_MVS_Patch_35,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction2 Gloves",
+            "CategoryName": "Remnant Gloves",
             "Products": [
                 "Fingerless_Gloves_Wool_Black,1,-1,1,1,1",
                 "WorkingGloves_Black,1,-1,1,1,1",
@@ -8143,75 +8169,75 @@
             ]
         },
         {
-            "CategoryName": "Faction2 Hats",
+            "CategoryName": "Remnant Hats",
             "Products": [
-                "MVS_Cap_Black,1,-1,1,1,1",
-                "MVS_Cap_Multicam_Black,1,-1,1,1,1"
+                "MVS_Cap_OD,1,-1,1,1,1",
+                "MVS_Cap_ERDL,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction2 Helmets",
+            "CategoryName": "Remnant Helmets",
             "Products": [
-                "BallisticHelmet_Black,1,-1,1,1,1",
-                "MVS_Helmet_01_Black,1,-1,1,1,1",
-                "MVS_Helmet_01_Multicam_Black,1,-1,1,1,1",
-                "MVS_Helmet_02_Black,1,-1,1,1,1",
-                "MVS_Helmet_02_Multicam_Black,1,-1,1,1,1",
-                "MVS_6B47_Helmet_Black,1,-1,1,1,1",
-                "MVS_OpsCore_Black,1,-1,1,1,1",
-                "MVS_OpsCore_Multicam_Black,1,-1,1,1,1",
-                "MVS_ArmoredHelmet_Black,1,-1,1,1,1",
-                "MVS_ArmoredHelmet_Multicam_Black,1,-1,1,1,1",
-                "MVS_WarriorHelmet_Black,1,-1,1,1,1",
-                "MVS_WarriorHelmet_Multicam_Black,1,-1,1,1,1",
-                "MVS_Altyn_Black,1,-1,1,1,1",
-                "MVS_Altyn_Visor_Black,1,-1,1,1,1",
-                "MVS_Altyn_Visor_Lifted_Black,1,-1,1,1,1"
+                "BallisticHelmet_OD,1,-1,1,1,1",
+                "MVS_Helmet_01_OD,1,-1,1,1,1",
+                "MVS_Helmet_01_ERDL,1,-1,1,1,1",
+                "MVS_Helmet_02_OD,1,-1,1,1,1",
+                "MVS_Helmet_02_ERDL,1,-1,1,1,1",
+                "MVS_6B47_Helmet_OD,1,-1,1,1,1",
+                "MVS_OpsCore_OD,1,-1,1,1,1",
+                "MVS_OpsCore_ERDL,1,-1,1,1,1",
+                "MVS_ArmoredHelmet_OD,1,-1,1,1,1",
+                "MVS_ArmoredHelmet_ERDL,1,-1,1,1,1",
+                "MVS_WarriorHelmet_OD,1,-1,1,1,1",
+                "MVS_WarriorHelmet_ERDL,1,-1,1,1,1",
+                "MVS_Altyn_OD,1,-1,1,1,1",
+                "MVS_Altyn_Visor_OD,1,-1,1,1,1",
+                "MVS_Altyn_Visor_Lifted_OD,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction2 Masks",
+            "CategoryName": "Remnant Masks",
             "Products": [
-                "MVS_Shroud_Black,1,-1,1,1,1",
+                "MVS_Shroud_OD,1,-1,1,1,1",
                 "SkullMask,1,-1,1,1,1",
-                "MVS_Balaclava_Black,1,-1,1,1,1",
-                "MVS_Facemask_Black,1,-1,1,1,1",
-                "MVS_S10Respirator_Black,1,-1,1,1,1",
-                "MVS_PMK2Respirator_Black,1,-1,1,1,1"
+                "MVS_Balaclava_OD,1,-1,1,1,1",
+                "MVS_Facemask_OD,1,-1,1,1,1",
+                "MVS_S10Respirator_OD,1,-1,1,1,1",
+                "MVS_PMK2Respirator_OD,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction2 Vests",
+            "CategoryName": "Remnant Vests",
             "Products": [
-                "MVS_Combat_Vest_Black,1,-1,1,1,1",
-                "MVS_Combat_Vest_Multicam_Black,1,-1,1,1,1",
-                "MVS_ChestRig_Black,1,-1,1,1,1",
-                "MVS_ChestRig_Multicam_Black,1,-1,1,1,1",
-                "MVS_Combat_Vest_Heavy_Black,1,-1,1,1,1",
-                "MVS_Combat_Vest_Heavy_Multicam_Black,1,-1,1,1,1"
+                "MVS_Combat_Vest_OD,1,-1,1,1,1",
+                "MVS_Combat_Vest_ERDL,1,-1,1,1,1",
+                "MVS_ChestRig_OD,1,-1,1,1,1",
+                "MVS_ChestRig_ERDL,1,-1,1,1,1",
+                "MVS_Combat_Vest_Heavy_OD,1,-1,1,1,1",
+                "MVS_Combat_Vest_Heavy_ERDL,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction2 Clothing",
+            "CategoryName": "Remnant Clothing",
             "Products": [
-                "MVS_Shirt_BDU_Multicam_Black,1,-1,1,1,1",
-                "MVS_CombatShirt_Black,1,-1,1,1,1",
-                "MVS_CombatShirt_Multicam_Black,1,-1,1,1,1",
-                "MVS_GorkaJacket_Multicam_Black,1,-1,1,1,1",
-                "MVS_GorkaPants_Multicam_Black,1,-1,1,1,1",
-                "MVS_CombatPants_Black,1,-1,1,1,1",
-                "MVS_CombatPants_Multicam_Black,1,-1,1,1,1"
+                "MVS_Shirt_BDU_ERDL,1,-1,1,1,1",
+                "MVS_CombatShirt_OD,1,-1,1,1,1",
+                "MVS_CombatShirt_ERDL,1,-1,1,1,1",
+                "MVS_GorkaJacket_ERDL,1,-1,1,1,1",
+                "MVS_GorkaPants_ERDL,1,-1,1,1,1",
+                "MVS_CombatPants_OD,1,-1,1,1,1",
+                "MVS_CombatPants_ERDL,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction2 Footware",
+            "CategoryName": "Remnant Footware",
             "Products": [
                 "MilitaryBoots_Redpunk,1,-1,1,1,1",
-                "MilitaryBoots_Black,1,-1,1,1,1"
+                "MilitaryBoots_OD,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction2 Ghillie",
+            "CategoryName": "Remnant Ghillie",
             "Products": [
                 "GhillieAtt_Mossy,1,-1,1,1,1",
                 "GhillieAtt_Tan,1,-1,1,1,1",
@@ -8235,52 +8261,52 @@
             ]
         },
         {
-            "CategoryName": "Faction2 Belts & Pouches",
+            "CategoryName": "Remnant Belts & Pouches",
             "Products": [
-                "MVS_Belt_Black,1,-1,1,1,1",
-                "MVS_Belt_Multicam_Black,1,-1,1,1,1",
-                "MVS_Holster_Black,1,-1,1,1,1",
-                "MVS_Holster_Multicam_Black,1,-1,1,1,1",
-                "MVS_Canteen_Black,1,-1,1,1,1",
-                "MVS_Canteen_Multicam_Black,1,-1,1,1,1",
-                "MVS_Sheath_Multicam_Black,1,-1,1,1,1",
-                "MVS_Molle_Panel_Black,1,-1,1,1,1",
-                "MVS_Molle_Panel_Multicam_Black,1,-1,1,1,1",
-                "MVS_Utility_Pouch_Multicam_Black,1,-1,1,1,1",
-                "MVS_Utility_Pouch_Black,1,-1,1,1,1",
-                "MVS_Medical_Pouch_Black,1,-1,1,1,1",
-                "MVS_Medical_Pouch_Multicam_Black,1,-1,1,1,1",
-                "MVS_Admin_Pouch_Black,1,-1,1,1,1",
-                "MVS_Admin_Pouch_Multicam_Black,1,-1,1,1,1",
-                "MVS_Magazine_Pouch_Black,1,-1,1,1,1",
-                "MVS_Magazine_Pouch_Multicam_Black,1,-1,1,1,1",
-                "MVS_Taco_Pouch_Black,1,-1,1,1,1",
-                "MVS_Taco_Pouch_Multicam_Black,1,-1,1,1,1",
-                "MVS_Heavy_Pouch_Black,1,-1,1,1,1",
-                "MVS_Heavy_Pouch_Multicam_Black,1,-1,1,1,1"
+                "MVS_Belt_OD,1,-1,1,1,1",
+                "MVS_Belt_ERDL,1,-1,1,1,1",
+                "MVS_Holster_OD,1,-1,1,1,1",
+                "MVS_Holster_ERDL,1,-1,1,1,1",
+                "MVS_Canteen_OD,1,-1,1,1,1",
+                "MVS_Canteen_ERDL,1,-1,1,1,1",
+                "MVS_Sheath_ERDL,1,-1,1,1,1",
+                "MVS_Molle_Panel_OD,1,-1,1,1,1",
+                "MVS_Molle_Panel_ERDL,1,-1,1,1,1",
+                "MVS_Utility_Pouch_ERDL,1,-1,1,1,1",
+                "MVS_Utility_Pouch_OD,1,-1,1,1,1",
+                "MVS_Medical_Pouch_OD,1,-1,1,1,1",
+                "MVS_Medical_Pouch_ERDL,1,-1,1,1,1",
+                "MVS_Admin_Pouch_OD,1,-1,1,1,1",
+                "MVS_Admin_Pouch_ERDL,1,-1,1,1,1",
+                "MVS_Magazine_Pouch_OD,1,-1,1,1,1",
+                "MVS_Magazine_Pouch_ERDL,1,-1,1,1,1",
+                "MVS_Taco_Pouch_OD,1,-1,1,1,1",
+                "MVS_Taco_Pouch_ERDL,1,-1,1,1,1",
+                "MVS_Heavy_Pouch_OD,1,-1,1,1,1",
+                "MVS_Heavy_Pouch_ERDL,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction2 Bags",
+            "CategoryName": "Remnant Bags",
             "Products": [
-                "MVS_Radio_Pack_Multicam_Black,1,-1,1,1,1",
-                "MVS_Radio_Pack_Black,1,-1,1,1,1",
-                "MVS_Compact_1_Black,1,-1,1,1,1",
-                "MVS_Compact_1_Multicam_Black,1,-1,1,1,1",
-                "MVS_Compact_2_Black,1,-1,1,1,1",
-                "MVS_Compact_2_Multicam_Black,1,-1,1,1,1",
-                "MVS_SlingPack_Black,1,-1,1,1,1",
-                "MVS_SlingPack_Multicam_Black,1,-1,1,1,1",
-                "MVS_Pack_Black,1,-1,1,1,1",
-                "MVS_Pack_Multicam_Black,1,-1,1,1,1",
-                "MVS_Assault_Pack_Black,1,-1,1,1,1",
-                "MVS_Assault_Pack_Multicam_Black,1,-1,1,1,1",
-                "MVS_Rucksack_Black,1,-1,1,1,1",
-                "MVS_Rucksack_Multicam_Black,1,-1,1,1,1"
+                "MVS_Radio_Pack_ERDL,1,-1,1,1,1",
+                "MVS_Radio_Pack_OD,1,-1,1,1,1",
+                "MVS_Compact_1_OD,1,-1,1,1,1",
+                "MVS_Compact_1_ERDL,1,-1,1,1,1",
+                "MVS_Compact_2_OD,1,-1,1,1,1",
+                "MVS_Compact_2_ERDL,1,-1,1,1,1",
+                "MVS_SlingPack_OD,1,-1,1,1,1",
+                "MVS_SlingPack_ERDL,1,-1,1,1,1",
+                "MVS_Pack_OD,1,-1,1,1,1",
+                "MVS_Pack_ERDL,1,-1,1,1,1",
+                "MVS_Assault_Pack_OD,1,-1,1,1,1",
+                "MVS_Assault_Pack_ERDL,1,-1,1,1,1",
+                "MVS_Rucksack_OD,1,-1,1,1,1",
+                "MVS_Rucksack_ERDL,1,-1,1,1,1"
             ]
         },
         {
-            "CategoryName": "Faction2 Public",
+            "CategoryName": "Remnant Public",
             "Products": [
                 "AMS_BandAid,1,100,0.99,250,0.8",
                 "BandageDressing,1,100,0.99,50,0.8",

@@ -56,8 +56,8 @@
     "Traders": [
         {
             "Id": 0,
-            "Name": "bldr_sign_rail_platformend",
-            "GivenName": "QuickStop",
+            "Name": "SurvivorM_Boris",
+            "GivenName": "Peter",
             "Role": "Food Trader",
             "Position": [
                 3684.72998046875,
@@ -65,15 +65,21 @@
                 6068.9599609375
             ],
             "Orientation": [
-                60.0,
+                100.0,
                 0.0,
                 0.0
             ],
-            "Clothes": []
+            "Clothes": [
+                "BaseballCap_Beige",
+                "WoolCoat_BlackCheck",
+                "Jeans_Blue",
+                "HikingBootsLow_Black",
+                "ThickFramesGlasses"
+            ]
         },
         {
             "Id": 1,
-            "Name": "bldr_sign_rail_platformend",
+            "Name": "SurvivorM_Peter",
             "GivenName": "QuickStop",
             "Role": "Weapon Trader",
             "Position": [
@@ -82,15 +88,23 @@
                 6079.7900390625
             ],
             "Orientation": [
-                65.0,
+                110.0,
                 0.0,
                 0.0
             ],
-            "Clothes": []
+            "Clothes": [
+                "BoonieHat_DPM",
+                "GorkaEJacket_Autumn",
+                "GorkaPants_Autumn",
+                "CombatBoots_Beige",
+                "TWP_M16A4",
+                "SportGlasses_Orange",
+                "PlateCarrierVest"
+            ]
         },
         {
             "Id": 2,
-            "Name": "bldr_sign_rail_platformend",
+            "Name": "SurvivorM_Peter",
             "GivenName": "QuickStop",
             "Role": "Tool Trader",
             "Position": [
@@ -99,15 +113,22 @@
                 6073.81005859375
             ],
             "Orientation": [
-                -50.0,
+                100.0,
                 0.0,
                 0.0
             ],
-            "Clothes": []
+            "Clothes": [
+                "ConstructionHelmet_Blue",
+                "Shirt_RedCheck",
+                "ReflexVest",
+                "CargoPants_Beige",
+                "WorkingBoots_Beige",
+                "Shovel"
+            ]
         },
         {
             "Id": 3,
-            "Name": "bldr_sign_rail_platformend",
+            "Name": "SurvivorM_Peter",
             "GivenName": "QuickStop",
             "Role": "Clothes Trader",
             "Position": [
@@ -120,11 +141,17 @@
                 0.0,
                 0.0
             ],
-            "Clothes": []
+            "Clothes": [
+                "BeanieHat_Grey",
+                "TrackSuitJacket_LightBlue",
+                "TrackSuitPants_LightBlue",
+                "Sneakers_Gray",
+                "Lennon_glasses_white_mung"
+            ]
         },
         {
             "Id": 4,
-            "Name": "bldr_sign_rail_platformend",
+            "Name": "SurvivorM_Peter",
             "GivenName": "QuickStop",
             "Role": "Auto Trader",
             "Position": [
@@ -133,17 +160,23 @@
                 6061.56982421875
             ],
             "Orientation": [
-                -50.0,
+                -80.0,
                 0.0,
                 0.0
             ],
-            "Clothes": []
+            "Clothes": [
+                "bikervest_mung",
+                "AviatorGlasses",
+                "TShirt_Grey",
+                "LeatherPants_Black",
+                "MilitaryBoots_Black"
+            ]
         },
         {
             "Id": 5,
-            "Name": "bldr_sign_rail_platformend",
-            "GivenName": "Faction1 Trader",
-            "Role": "Faction1 Gear",
+            "Name": "SurvivorM_Peter",
+            "GivenName": "RLF Storage",
+            "Role": "RLF Gear",
             "Position": [
                 4558.6201171875,
                 5.1024699211120609,
@@ -154,13 +187,31 @@
                 0.0,
                 0.0
             ],
-            "Clothes": []
+            "Clothes": [
+                "MVS_Pack_Black",
+                "MVS_Combat_Vest_Black",
+                "MVS_Facemask_Black",
+                "MVS_CombatPants_Black",
+                "MVS_CombatShirt_Black",
+                "CombatBoots_Green",
+                "TacticalGloves_Green",
+                "AviatorGlasses",
+                "MVS_Cap_Black",
+                "MVS_Patch_33",
+                "MVS_Patch_33",
+                "MVS_Patch_33",
+                "MVS_Patch_33",
+                "MVS_Patch_33",
+                "MVS_Patch_33",
+                "MVS_Patch_33",
+                "M4A1"
+            ]
         },
         {
             "Id": 6,
-            "Name": "bldr_sign_rail_platformend",
-            "GivenName": "Faction1 Trader",
-            "Role": "Public1",
+            "Name": "SurvivorM_Peter",
+            "GivenName": "RLF Trader",
+            "Role": "RLF Public",
             "Position": [
                 4527.85986328125,
                 5.340069770812988,
@@ -171,13 +222,31 @@
                 0.0,
                 0.0
             ],
-            "Clothes": []
+            "Clothes": [
+                "MVS_Pack_Black",
+                "MVS_Combat_Vest_Black",
+                "MVS_Facemask_Black",
+                "MVS_CombatPants_Black",
+                "MVS_CombatShirt_Black",
+                "CombatBoots_Green",
+                "TacticalGloves_Green",
+                "AviatorGlasses",
+                "MVS_Cap_Black",
+                "MVS_Patch_33",
+                "MVS_Patch_33",
+                "MVS_Patch_33",
+                "MVS_Patch_33",
+                "MVS_Patch_33",
+                "MVS_Patch_33",
+                "MVS_Patch_33",
+                "M4A1"
+            ]
         },
         {
             "Id": 7,
-            "Name": "bldr_sign_rail_platformend",
-            "GivenName": "Faction2 Trader",
-            "Role": "Faction2 Gear",
+            "Name": "SurvivorM_Peter",
+            "GivenName": "Remnant Storage",
+            "Role": "Remnant Gear",
             "Position": [
                 5051.60986328125,
                 2.585819959640503,
@@ -188,13 +257,32 @@
                 0.0,
                 0.0
             ],
-            "Clothes": []
+            "Clothes": [
+                "MVS_Pack_OD",
+                "MVS_Combat_Vest_OD",
+                "MVS_Facemask_OD",
+                "MVS_CombatPants_OD",
+                "MVS_CombatShirt_OD",
+                "CombatBoots_Green",
+                "TacticalGloves_Green",
+                "AviatorGlasses",
+                "MVS_Comtacs_OD",
+                "MVS_Cap_OD",
+                "MVS_Patch_35",
+                "MVS_Patch_35",
+                "MVS_Patch_35",
+                "MVS_Patch_35",
+                "MVS_Patch_35",
+                "MVS_Patch_35",
+                "MVS_Patch_35",
+                "M4A1"
+            ]
         },
         {
             "Id": 8,
-            "Name": "bldr_sign_rail_platformend",
-            "GivenName": "Faction2 Trader",
-            "Role": "Public2",
+            "Name": "SurvivorM_Peter",
+            "GivenName": "Remnant Trader",
+            "Role": "Remnant Public Trader",
             "Position": [
                 5050.740234375,
                 2.857599973678589,
@@ -205,7 +293,26 @@
                 0.0,
                 0.0
             ],
-            "Clothes": []
+            "Clothes": [
+                "MVS_Pack_OD",
+                "MVS_Combat_Vest_OD",
+                "MVS_Facemask_OD",
+                "MVS_CombatPants_OD",
+                "MVS_CombatShirt_OD",
+                "CombatBoots_Green",
+                "TacticalGloves_Green",
+                "AviatorGlasses",
+                "MVS_Comtacs_OD",
+                "MVS_Cap_OD",
+                "MVS_Patch_35",
+                "MVS_Patch_35",
+                "MVS_Patch_35",
+                "MVS_Patch_35",
+                "MVS_Patch_35",
+                "MVS_Patch_35",
+                "MVS_Patch_35",
+                "M4A1"
+            ]
         }
     ],
     "TraderObjects": []
