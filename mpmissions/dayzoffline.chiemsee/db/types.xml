@@ -3371,7 +3371,7 @@
 
   <!-- SNAFU Weapons -->
     <type name="SNAFU_Nightforce">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3386,7 +3386,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_AKNightforce">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3401,7 +3401,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_HNightforce">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3416,7 +3416,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_MNightforce">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3431,7 +3431,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_Leupold_Mark8">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3446,7 +3446,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_AKLeupold_Mark8">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3461,7 +3461,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_HLeupold_Mark8">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3476,7 +3476,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_MLeupold_Mark8">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3491,7 +3491,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_Kahles">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3506,7 +3506,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_AKKahles">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3521,7 +3521,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_HKahles">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3536,7 +3536,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_MKahles">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3551,7 +3551,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_Aimpoint_ACO">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3566,7 +3566,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_AKAimpoint_ACO">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3581,7 +3581,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_HAimpoint_ACO">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3596,7 +3596,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_MAimpoint_ACO">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3611,7 +3611,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_Aimpoint_M5">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3626,7 +3626,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_AKAimpoint_M5">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3641,7 +3641,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_HAimpoint_M5">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3656,7 +3656,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_MAimpoint_M5">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3671,7 +3671,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_Elcan">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3686,7 +3686,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_AKElcan">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3701,7 +3701,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_HElcan">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3716,7 +3716,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_MElcan">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3731,7 +3731,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_EOTech_EXPS3">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3746,7 +3746,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_AKEOTech_EXPS3">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3761,7 +3761,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_HEOTech_EXPS3">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3776,7 +3776,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_MEOTech_EXPS3">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3791,7 +3791,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_Trijicon">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3806,7 +3806,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_AKTrijicon">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3821,7 +3821,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_Trijicon_Docter">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3836,7 +3836,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_AKTrijicon_Docter">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3851,7 +3851,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_HTrijicon">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3866,7 +3866,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_HTrijicon_Docter">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3881,7 +3881,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_MTrijicon">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3896,7 +3896,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_MTrijicon_Docter">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3911,7 +3911,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_Walther">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3926,7 +3926,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_AKWalther">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3941,7 +3941,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_HWalther">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3956,7 +3956,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_MWalther">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3971,7 +3971,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_Docter">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -3986,7 +3986,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_AK_Mount_Base">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4001,7 +4001,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_Hunting_Mount_Base">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4016,7 +4016,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_30mm_Mount_Base">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4031,7 +4031,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_HuntingOptic">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4046,7 +4046,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_AKHuntingOptic">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4061,7 +4061,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_HHuntingOptic">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4076,7 +4076,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_Tango6T_Black">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4091,7 +4091,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_Tango6T_Tan">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4106,7 +4106,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_Tango6T_Wood">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4121,7 +4121,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_Tango6T_Snow">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4136,7 +4136,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_AKTango6T_Black">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4151,7 +4151,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_AKTango6T_Tan">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4166,7 +4166,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_AKTango6T_Wood">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4181,7 +4181,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_AKTango6T_Snow">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4196,7 +4196,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_MTango6T_Black">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4211,7 +4211,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_MTango6T_Tan">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4226,7 +4226,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_MTango6T_Wood">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4241,7 +4241,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_MTango6T_Snow">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4256,7 +4256,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_Kobra">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4271,7 +4271,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_IRONMODOptic">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4286,7 +4286,7 @@
         <value name="Tier4"/>
       </type>
     <type name="SNAFU_M14Optic">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -4301,7 +4301,7 @@
         <value name="Tier4"/>
       </type>
     <type name="GCGN_M84_Optic">
-      <nominal>1</nominal>
+      <nominal>3</nominal>
       <lifetime>3600</lifetime>
       <restock>1800</restock>
       <min>0</min>
@@ -56132,9 +56132,9 @@
       </type>
     <type name="ZmbF_BlueCollarFat_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56143,9 +56143,9 @@
     </type>
     <type name="ZmbF_BlueCollarFat_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56154,9 +56154,9 @@
     </type>
     <type name="ZmbF_BlueCollarFat_Red">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56165,9 +56165,9 @@
     </type>
     <type name="ZmbF_BlueCollarFat_White">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56176,9 +56176,9 @@
     </type>
     <type name="ZmbF_CitizenANormal_Beige">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56187,9 +56187,9 @@
     </type>
     <type name="ZmbF_CitizenANormal_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56198,9 +56198,9 @@
     </type>
     <type name="ZmbF_CitizenANormal_Brown">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56209,9 +56209,9 @@
     </type>
     <type name="ZmbF_CitizenBSkinny">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56220,9 +56220,9 @@
     </type>
     <type name="ZmbF_Clerk_Normal_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56231,9 +56231,9 @@
     </type>
     <type name="ZmbF_Clerk_Normal_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56242,9 +56242,9 @@
     </type>
     <type name="ZmbF_Clerk_Normal_Red">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56253,9 +56253,9 @@
     </type>
     <type name="ZmbF_Clerk_Normal_White">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56264,9 +56264,9 @@
     </type>
     <type name="ZmbF_DoctorSkinny">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56275,9 +56275,9 @@
     </type>
     <type name="ZmbF_HikerSkinny_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56286,9 +56286,9 @@
     </type>
     <type name="ZmbF_HikerSkinny_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56297,9 +56297,9 @@
     </type>
     <type name="ZmbF_HikerSkinny_Grey">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56308,9 +56308,9 @@
     </type>
     <type name="ZmbF_HikerSkinny_Red">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56319,9 +56319,9 @@
     </type>
     <type name="ZmbF_JoggerSkinny_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56330,9 +56330,9 @@
     </type>
     <type name="ZmbF_JoggerSkinny_Brown">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56341,9 +56341,9 @@
     </type>
     <type name="ZmbF_JoggerSkinny_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56352,9 +56352,9 @@
     </type>
     <type name="ZmbF_JoggerSkinny_Red">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56363,9 +56363,9 @@
     </type>
     <type name="ZmbF_JournalistNormal_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56374,9 +56374,9 @@
     </type>
     <type name="ZmbF_JournalistNormal_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56385,9 +56385,9 @@
     </type>
     <type name="ZmbF_JournalistNormal_Red">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56396,9 +56396,9 @@
     </type>
     <type name="ZmbF_JournalistNormal_White">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56407,9 +56407,9 @@
     </type>
     <type name="ZmbF_MechanicNormal_Beige">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56418,9 +56418,9 @@
     </type>
     <type name="ZmbF_MechanicNormal_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56429,9 +56429,9 @@
     </type>
     <type name="ZmbF_MechanicNormal_Grey">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56440,9 +56440,9 @@
     </type>
     <type name="ZmbF_MechanicNormal_Orange">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56451,9 +56451,9 @@
     </type>
     <type name="ZmbF_MilkMaidOld_Beige">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56462,9 +56462,9 @@
     </type>
     <type name="ZmbF_MilkMaidOld_Black">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56473,9 +56473,9 @@
     </type>
     <type name="ZmbF_MilkMaidOld_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56484,9 +56484,9 @@
     </type>
     <type name="ZmbF_MilkMaidOld_Grey">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56495,9 +56495,9 @@
     </type>
     <type name="ZmbF_NurseFat">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56506,9 +56506,9 @@
     </type>
     <type name="ZmbF_ParamedicNormal_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56517,9 +56517,9 @@
     </type>
     <type name="ZmbF_ParamedicNormal_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56528,9 +56528,9 @@
     </type>
     <type name="ZmbF_ParamedicNormal_Red">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56539,9 +56539,9 @@
     </type>
     <type name="ZmbF_PatientOld">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56550,9 +56550,9 @@
     </type>
     <type name="ZmbF_PoliceWomanNormal">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56561,9 +56561,9 @@
     </type>
     <type name="ZmbF_ShortSkirt_beige">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56572,9 +56572,9 @@
     </type>
     <type name="ZmbF_ShortSkirt_black">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56583,9 +56583,9 @@
     </type>
     <type name="ZmbF_ShortSkirt_brown">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56594,9 +56594,9 @@
     </type>
     <type name="ZmbF_ShortSkirt_checks">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56605,9 +56605,9 @@
     </type>
     <type name="ZmbF_ShortSkirt_green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56616,9 +56616,9 @@
     </type>
     <type name="ZmbF_ShortSkirt_grey">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56627,9 +56627,9 @@
     </type>
     <type name="ZmbF_ShortSkirt_red">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56638,9 +56638,9 @@
     </type>
     <type name="ZmbF_ShortSkirt_stripes">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56649,9 +56649,9 @@
     </type>
     <type name="ZmbF_ShortSkirt_white">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56660,9 +56660,9 @@
     </type>
     <type name="ZmbF_ShortSkirt_yellow">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56671,9 +56671,9 @@
     </type>
     <type name="ZmbF_SkaterYoung_Brown">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56682,9 +56682,9 @@
     </type>
     <type name="ZmbF_SkaterYoung_Striped">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56693,9 +56693,9 @@
     </type>
     <type name="ZmbF_SkaterYoung_Violet">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56704,9 +56704,9 @@
     </type>
     <type name="ZmbF_SurvivorNormal_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56715,9 +56715,9 @@
     </type>
     <type name="ZmbF_SurvivorNormal_Orange">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56726,9 +56726,9 @@
     </type>
     <type name="ZmbF_SurvivorNormal_Red">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56737,9 +56737,9 @@
     </type>
     <type name="ZmbF_SurvivorNormal_White">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56748,9 +56748,9 @@
     </type>
     <type name="ZmbF_VillagerOld_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56759,9 +56759,9 @@
     </type>
     <type name="ZmbF_VillagerOld_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56770,9 +56770,9 @@
     </type>
     <type name="ZmbF_VillagerOld_Red">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56781,9 +56781,9 @@
     </type>
     <type name="ZmbF_VillagerOld_White">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56792,9 +56792,9 @@
     </type>
     <type name="ZmbM_CitizenASkinny_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56803,9 +56803,9 @@
     </type>
     <type name="ZmbM_CitizenASkinny_Brown">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56814,9 +56814,9 @@
     </type>
     <type name="ZmbM_CitizenASkinny_Grey">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56825,9 +56825,9 @@
     </type>
     <type name="ZmbM_CitizenASkinny_Red">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56836,9 +56836,9 @@
     </type>
     <type name="ZmbM_CitizenBFat_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56847,9 +56847,9 @@
     </type>
     <type name="ZmbM_CitizenBFat_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56858,9 +56858,9 @@
     </type>
     <type name="ZmbM_CitizenBFat_Red">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56869,9 +56869,9 @@
     </type>
     <type name="ZmbM_ClerkFat_Brown">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56880,9 +56880,9 @@
     </type>
     <type name="ZmbM_ClerkFat_Grey">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56891,9 +56891,9 @@
     </type>
     <type name="ZmbM_ClerkFat_Khaki">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56902,9 +56902,9 @@
     </type>
     <type name="ZmbM_ClerkFat_White">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56913,9 +56913,9 @@
     </type>
     <type name="ZmbM_CommercialPilotOld_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56924,9 +56924,9 @@
     </type>
     <type name="ZmbM_CommercialPilotOld_Brown">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56935,9 +56935,9 @@
     </type>
     <type name="ZmbM_CommercialPilotOld_Grey">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56946,9 +56946,9 @@
     </type>
     <type name="ZmbM_CommercialPilotOld_Olive">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56957,9 +56957,9 @@
     </type>
     <type name="ZmbM_ConstrWorkerNormal_Beige">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56968,9 +56968,9 @@
     </type>
     <type name="ZmbM_ConstrWorkerNormal_Black">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56979,9 +56979,9 @@
     </type>
     <type name="ZmbM_ConstrWorkerNormal_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56990,9 +56990,9 @@
     </type>
     <type name="ZmbM_ConstrWorkerNormal_Grey">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57001,9 +57001,9 @@
     </type>
     <type name="ZmbM_DoctorFat">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57012,9 +57012,9 @@
     </type>
     <type name="ZmbM_FarmerFat_Beige">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57023,9 +57023,9 @@
     </type>
     <type name="ZmbM_FarmerFat_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57034,9 +57034,9 @@
     </type>
     <type name="ZmbM_FarmerFat_Brown">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57045,9 +57045,9 @@
     </type>
     <type name="ZmbM_FarmerFat_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57056,9 +57056,9 @@
     </type>
     <type name="ZmbM_FirefighterNormal">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57067,9 +57067,9 @@
     </type>
     <type name="ZmbM_FishermanOld_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57078,9 +57078,9 @@
     </type>
     <type name="ZmbM_FishermanOld_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57089,9 +57089,9 @@
     </type>
     <type name="ZmbM_FishermanOld_Grey">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57100,9 +57100,9 @@
     </type>
     <type name="ZmbM_FishermanOld_Red">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57111,9 +57111,9 @@
     </type>
     <type name="ZmbM_HandymanNormal_Beige">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57122,9 +57122,9 @@
     </type>
     <type name="ZmbM_HandymanNormal_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57133,9 +57133,9 @@
     </type>
     <type name="ZmbM_HandymanNormal_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57144,9 +57144,9 @@
     </type>
     <type name="ZmbM_HandymanNormal_Grey">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57155,9 +57155,9 @@
     </type>
     <type name="ZmbM_HandymanNormal_White">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57166,9 +57166,9 @@
     </type>
     <type name="ZmbM_HeavyIndustryWorker">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57177,9 +57177,9 @@
     </type>
     <type name="ZmbM_HermitSkinny_Beige">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57188,9 +57188,9 @@
     </type>
     <type name="ZmbM_HermitSkinny_Black">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57199,9 +57199,9 @@
     </type>
     <type name="ZmbM_HermitSkinny_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57210,9 +57210,9 @@
     </type>
     <type name="ZmbM_HermitSkinny_Red">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57221,9 +57221,9 @@
     </type>
     <type name="ZmbM_HikerSkinny_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57232,9 +57232,9 @@
     </type>
     <type name="ZmbM_HikerSkinny_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57243,9 +57243,9 @@
     </type>
     <type name="ZmbM_HikerSkinny_Yellow">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57254,9 +57254,9 @@
     </type>
     <type name="ZmbM_HunterOld_Autumn">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57265,9 +57265,9 @@
     </type>
     <type name="ZmbM_HunterOld_Spring">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57276,9 +57276,9 @@
     </type>
     <type name="ZmbM_HunterOld_Summer">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57287,9 +57287,9 @@
     </type>
     <type name="ZmbM_HunterOld_Winter">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57298,9 +57298,9 @@
     </type>
     <type name="ZmbM_Jacket_beige">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57309,9 +57309,9 @@
     </type>
     <type name="ZmbM_Jacket_black">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57320,9 +57320,9 @@
     </type>
     <type name="ZmbM_Jacket_blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57331,9 +57331,9 @@
     </type>
     <type name="ZmbM_Jacket_bluechecks">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57342,9 +57342,9 @@
     </type>
     <type name="ZmbM_Jacket_brown">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57353,9 +57353,9 @@
     </type>
     <type name="ZmbM_Jacket_greenchecks">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57364,9 +57364,9 @@
     </type>
     <type name="ZmbM_Jacket_grey">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57375,9 +57375,9 @@
     </type>
     <type name="ZmbM_Jacket_khaki">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57386,9 +57386,9 @@
     </type>
     <type name="ZmbM_Jacket_magenta">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57397,9 +57397,9 @@
     </type>
     <type name="ZmbM_Jacket_stripes">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57408,9 +57408,9 @@
     </type>
     <type name="ZmbM_JoggerSkinny_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57419,9 +57419,9 @@
     </type>
     <type name="ZmbM_JoggerSkinny_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57430,9 +57430,9 @@
     </type>
     <type name="ZmbM_JoggerSkinny_Red">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57441,9 +57441,9 @@
     </type>
     <type name="ZmbM_JournalistSkinny">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57452,9 +57452,9 @@
     </type>
     <type name="ZmbM_MechanicSkinny_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57463,9 +57463,9 @@
     </type>
     <type name="ZmbM_MechanicSkinny_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57474,9 +57474,9 @@
     </type>
     <type name="ZmbM_MechanicSkinny_Grey">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57485,9 +57485,9 @@
     </type>
     <type name="ZmbM_MechanicSkinny_Red">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57496,9 +57496,9 @@
     </type>
     <type name="ZmbM_MotobikerFat_Beige">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57507,9 +57507,9 @@
     </type>
     <type name="ZmbM_MotobikerFat_Black">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57518,9 +57518,9 @@
     </type>
     <type name="ZmbM_MotobikerFat_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57529,9 +57529,9 @@
     </type>
     <type name="ZmbM_NBC_Grey">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57540,9 +57540,9 @@
     </type>
     <type name="ZmbM_NBC_Yellow">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57551,9 +57551,9 @@
     </type>
     <type name="ZmbM_OffshoreWorker_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57562,9 +57562,9 @@
     </type>
     <type name="ZmbM_OffshoreWorker_Orange">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57573,9 +57573,9 @@
     </type>
     <type name="ZmbM_OffshoreWorker_Red">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57584,9 +57584,9 @@
     </type>
     <type name="ZmbM_OffshoreWorker_Yellow">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57595,9 +57595,9 @@
     </type>
     <type name="ZmbM_ParamedicNormal_Black">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57606,9 +57606,9 @@
     </type>
     <type name="ZmbM_ParamedicNormal_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57617,9 +57617,9 @@
     </type>
     <type name="ZmbM_ParamedicNormal_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57628,9 +57628,9 @@
     </type>
     <type name="ZmbM_ParamedicNormal_Red">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57639,9 +57639,9 @@
     </type>
     <type name="ZmbM_PatientSkinny">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57650,9 +57650,9 @@
     </type>
     <type name="ZmbM_PatrolNormal_Autumn">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57661,9 +57661,9 @@
     </type>
     <type name="ZmbM_PatrolNormal_Flat">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57672,9 +57672,9 @@
     </type>
     <type name="ZmbM_PatrolNormal_PautRev">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57683,9 +57683,9 @@
     </type>
     <type name="ZmbM_PatrolNormal_Summer">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57694,9 +57694,9 @@
     </type>
     <type name="ZmbM_PolicemanFat">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57705,9 +57705,9 @@
     </type>
     <type name="ZmbM_PolicemanSpecForce">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57716,9 +57716,9 @@
     </type>
     <type name="ZmbM_PolicemanSpecForce_Heavy">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57727,9 +57727,9 @@
     </type>
     <type name="ZmbM_PrisonerSkinny">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57738,9 +57738,9 @@
     </type>
     <type name="ZmbM_SkaterYoung_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57749,9 +57749,9 @@
     </type>
     <type name="ZmbM_SkaterYoung_Brown">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57760,9 +57760,9 @@
     </type>
     <type name="ZmbM_SkaterYoung_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57771,9 +57771,9 @@
     </type>
     <type name="ZmbM_SkaterYoung_Grey">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57782,9 +57782,9 @@
     </type>
     <type name="ZmbM_SoldierNormal">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57793,9 +57793,9 @@
     </type>
     <type name="ZmbM_VillagerOld_Blue">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57804,9 +57804,9 @@
     </type>
     <type name="ZmbM_VillagerOld_Green">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57815,9 +57815,9 @@
     </type>
     <type name="ZmbM_VillagerOld_White">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57826,9 +57826,9 @@
     </type>
     <type name="ZmbM_priestPopSkinny">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57837,9 +57837,9 @@
     </type>
     <type name="ZmbM_usSoldier_Heavy_Woodland">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57848,9 +57848,9 @@
     </type>
     <type name="ZmbM_usSoldier_Officer_Desert">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57859,9 +57859,9 @@
     </type>
     <type name="ZmbM_usSoldier_normal_Desert">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -57870,9 +57870,9 @@
     </type>
     <type name="ZmbM_usSoldier_normal_Woodland">
         <nominal>0</nominal>
-        <restock>0</restock>
+        <restock>900</restock>
         <lifetime>1800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
