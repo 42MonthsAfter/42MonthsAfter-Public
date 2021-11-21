@@ -114,10 +114,12 @@ class CustomMission: MissionServer
 		modMembers.Insert( "ReplaceWithUniqueID" ); // Moderators Name		
 				
 		// Silver VIP MEMBERS = RLF Faction : Can be Steam64 ID or Bohemia UID
-		vipMembersSilver.Insert( "76561199013191843" ); // Skiff
+		vipMembersSilver.Insert( "ReplaceWithUniqueID" ); // Moderators Name
 
 		// Gold VIP MEMBERS = Remnants Faction : Can be Steam64 ID or Bohemia UID
 		vipMembersGold.Insert( "76561198034611550" ); // Sarge
+		vipMembersSilver.Insert( "76561199013191843" ); // Skiff
+		vipMembersSilver.Insert( "76561199142271709" ); // Josh
 	}
 
 // Admin Loadout
@@ -242,6 +244,7 @@ class CustomMission: MissionServer
 		player.GetInventory().CreateInInventory("MVS_Patch_33");
 		player.GetInventory().CreateInInventory("MVS_Patch_33");
 		player.GetInventory().CreateInInventory("MVS_Patch_33");
+		player.GetInventory().CreateInInventory("MVS_Patch_33");
 		ItemBase rags = player.GetInventory().CreateInInventory("BandageDressing");
 		rags.SetQuantity(4);
 		ItemBase light = player.GetInventory().CreateInInventory("Headtorch_Black");
@@ -263,7 +266,7 @@ class CustomMission: MissionServer
 		ref TStringArray pantsArray = {"MVS_CombatPants_OD"};	
 		ref TStringArray vestArray  = {""};	
 		ref TStringArray glassesArray = {""};
-		ref TStringArray shoesArray = {"MilitaryBoots_OD"};	
+		ref TStringArray shoesArray = {"MilitaryBoots_Brown"};	
 		ref TStringArray maskArray = {""};	
 		ref TStringArray glovesArray = {"WorkingGloves_Black"};		
 		ref TStringArray foodArray = {"TacticalBaconCan"};
@@ -284,6 +287,7 @@ class CustomMission: MissionServer
 		player.GetInventory().CreateInInventory(drinkArray.GetRandomElement());
 		player.GetInventory().CreateInInventory(backpackArray.GetRandomElement());
 		player.GetInventory().CreateInInventory(knifeArray.GetRandomElement());
+		player.GetInventory().CreateInInventory("MVS_Patch_35");
 		player.GetInventory().CreateInInventory("MVS_Patch_35");
 		player.GetInventory().CreateInInventory("MVS_Patch_35");
 		player.GetInventory().CreateInInventory("MVS_Patch_35");
