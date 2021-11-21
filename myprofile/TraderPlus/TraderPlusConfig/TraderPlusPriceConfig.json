@@ -3042,6 +3042,13 @@
             ]
         },
         {
+            "CategoryName": "RLF Vehicles",
+            "Products": [
+                "rag_hummer_Armored,1,-1,-1,50000,1",
+                "rag_hummer_anarchy_Armored,1,-1,-1,50000,1"
+            ]
+        },
+        {
             "CategoryName": "RLF Vehicle Parts",
             "Products": [
                 "CarRadiator,1,500,1,1,1",
@@ -4046,32 +4053,6 @@
         },
         {
             "CategoryName": "RLF Belts & Pouches",
-            "Products": [
-                "MVS_Belt_Black,1,-1,1,1,1",
-                "MVS_Belt_Multicam_Black,1,-1,1,1,1",
-                "MVS_Holster_Black,1,-1,1,1,1",
-                "MVS_Holster_Multicam_Black,1,-1,1,1,1",
-                "MVS_Canteen_Black,1,-1,1,1,1",
-                "MVS_Canteen_Multicam_Black,1,-1,1,1,1",
-                "MVS_Sheath_Multicam_Black,1,-1,1,1,1",
-                "MVS_Molle_Panel_Black,1,-1,1,1,1",
-                "MVS_Molle_Panel_Multicam_Black,1,-1,1,1,1",
-                "MVS_Utility_Pouch_Multicam_Black,1,-1,1,1,1",
-                "MVS_Utility_Pouch_Black,1,-1,1,1,1",
-                "MVS_Medical_Pouch_Black,1,-1,1,1,1",
-                "MVS_Medical_Pouch_Multicam_Black,1,-1,1,1,1",
-                "MVS_Admin_Pouch_Black,1,-1,1,1,1",
-                "MVS_Admin_Pouch_Multicam_Black,1,-1,1,1,1",
-                "MVS_Magazine_Pouch_Black,1,-1,1,1,1",
-                "MVS_Magazine_Pouch_Multicam_Black,1,-1,1,1,1",
-                "MVS_Taco_Pouch_Black,1,-1,1,1,1",
-                "MVS_Taco_Pouch_Multicam_Black,1,-1,1,1,1",
-                "MVS_Heavy_Pouch_Black,1,-1,1,1,1",
-                "MVS_Heavy_Pouch_Multicam_Black,1,-1,1,1,1"
-            ]
-        },
-        {
-            "CategoryName": "RLF Vehicle Parts",
             "Products": [
                 "MVS_Belt_Black,1,-1,1,1,1",
                 "MVS_Belt_Multicam_Black,1,-1,1,1,1",
@@ -5492,6 +5473,13 @@
                 "CivilianTentBluePacked,1,500,1,1,1",
                 "LargeTent,1,500,1,1,1",
                 "CarTent,1,500,1,1,1"
+            ]
+        },
+        {
+            "CategoryName": "Remnant Vehicles",
+            "Products": [
+                "rag_hummer_green_Armored,1,-1,-1,50000,1",
+                "rag_hummer_woodland_Armored,1,-1,-1,50000,1"
             ]
         },
         {
