@@ -50,8 +50,7 @@
                 "Fire & Lights",
                 "Cooking & Hunting",
                 "Hardware Supplies",
-                "Seeds & Lime",
-                "Auto"
+                "Seeds & Lime"                
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
@@ -86,7 +85,8 @@
             "EnableStockAllCategoryForID": 4,
             "Categories": [
                 "Vehicles",
-                "Vehicle Parts"
+                "Vehicle Parts",
+                "Auto"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
