@@ -114,12 +114,13 @@ class CustomMission: MissionServer
 		modMembers.Insert( "ReplaceWithUniqueID" ); // Moderators Name		
 				
 		// Silver VIP MEMBERS = RLF Faction : Can be Steam64 ID or Bohemia UID
-		vipMembersSilver.Insert( "ReplaceWithUniqueID" ); // Moderators Name
+		vipMembersSilver.Insert( "76561199003612558" ); // ScaryPoppins
+		vipMembersSilver.Insert( "76561198197079153" ); // NastyNerg
 
 		// Gold VIP MEMBERS = Remnants Faction : Can be Steam64 ID or Bohemia UID
 		vipMembersGold.Insert( "76561198034611550" ); // Sarge
-		vipMembersSilver.Insert( "76561199013191843" ); // Skiff
-		vipMembersSilver.Insert( "76561199142271709" ); // Josh
+		vipMembersGold.Insert( "76561199013191843" ); // Skiff
+		vipMembersGold.Insert( "76561199142271709" ); // Josh
 	}
 
 // Admin Loadout
@@ -314,12 +315,12 @@ class CustomMission: MissionServer
 		ref TStringArray glassesArray = {""};
 		ref TStringArray shoesArray = {"CombatBoots_Grey","CombatBoots_Beige","CombatBoots_Brown","CombatBoots_Black","CombatBoots_Green"};	
 		ref TStringArray maskArray = {""};	
-		ref TStringArray glovesArray = {"WorkingGloves_Brown"};		
+		ref TStringArray glovesArray = {""};		
 		ref TStringArray foodArray = {"BakedBeansCan"};
 		ref TStringArray drinkArray = {"SodaCan_Cola"};
 		ref TStringArray backpackArray = {"DryBag_Yellow","DryBag_Orange","DryBag_Red","DryBag_Blue","DryBag_Black","DryBag_Green"};
 		ref TStringArray knifeArray  = {"HuntingKnife"};
-		ref TStringArray meleeArray = {"FirefighterAxe"};
+		ref TStringArray meleeArray = {""};
 
 		player.GetInventory().CreateInInventory(hatArray.GetRandomElement());
 		player.GetInventory().CreateInInventory(topArray.GetRandomElement());
@@ -333,12 +334,11 @@ class CustomMission: MissionServer
 		player.GetInventory().CreateInInventory(drinkArray.GetRandomElement());
 		player.GetInventory().CreateInInventory(backpackArray.GetRandomElement());
 		player.GetInventory().CreateInInventory(knifeArray.GetRandomElement());
+		player.GetInventory().CreateInInventory("Armband_White");
 		ItemBase rags = player.GetInventory().CreateInInventory("Rag");
 		rags.SetQuantity(4);
-		ItemBase light = player.GetInventory().CreateInInventory("Headtorch_Grey");
-		light.GetInventory().CreateAttachment("Battery9V");
-		EntityAI gun = player.GetInventory().CreateInInventory("AKS74U");  				// Weapon
-		addMags(player, "Mag_AK74_30Rnd", 2); 								// Magazines								
+		ItemBase light = player.GetInventory().CreateInInventory("Flashlight");
+		light.GetInventory().CreateAttachment("Battery9V");			
 		ItemBase melee = player.GetInventory().CreateInInventory(meleeArray.GetRandomElement());	// Melee
 		
 		player.SetQuickBarEntityShortcut(gun, 0, true);
