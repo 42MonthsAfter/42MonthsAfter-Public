@@ -338,7 +338,9 @@ class CustomMission: MissionServer
 		ItemBase rags = player.GetInventory().CreateInInventory("Rag");
 		rags.SetQuantity(4);
 		ItemBase light = player.GetInventory().CreateInInventory("Flashlight");
-		light.GetInventory().CreateAttachment("Battery9V");			
+		light.GetInventory().CreateAttachment("Battery9V");		
+		EntityAI gun = player.GetInventory().CreateInInventory("MKII");				// Weapon
+		addMags(player, "Mag_MKII_10Rnd", 2);								// Magazines
 		ItemBase melee = player.GetInventory().CreateInInventory(meleeArray.GetRandomElement());	// Melee
 		
 		player.SetQuickBarEntityShortcut(gun, 0, true);
