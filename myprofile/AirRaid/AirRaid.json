@@ -1,0 +1,164 @@
+{
+    "BomberAltitude": 550,
+    "BomberSpeed": 10,
+    "NumOfBombs": 20,
+    "Notifications": 0,
+    "EnableShips": 0,
+    "EnableSubmarine": 0,
+    "EnableAndula": 0,
+    "EnableMig21": 1,
+    "EnableUFO": 1,
+    "EnableMi24": 0,
+    "Interval": 60.0,
+    "SubmarineInterval": 60.0,
+    "BoatInterval": 60.0,
+    "AndulaInterval": 60.0,
+    "Mig21Interval": 45.0,
+    "UFOInterval": 90.0,
+    "Mi24Interval": 40.0,
+    "AirRaidLocations": [
+        {
+            "name": "Berezino Lumbermill",
+            "sirenpos": "12816.9 24 9978.1",
+            "target": "12777.51 0 9673",
+            "type": "normal"
+        },
+        {
+            "name": "Berezino Industrial",
+            "sirenpos": "12816.9 24 9978.1",
+            "target": "12878.624 0 9916.1533",
+            "type": "normal"
+        },
+        {
+            "name": "Chernogorsk railstation",
+            "sirenpos": "6250 24 2710",
+            "target": "6543 0 2636",
+            "type": "normal"
+        },
+        {
+            "name": "Chernogorsk factory1",
+            "sirenpos": "6250 24 2710",
+            "target": "7066 0 2828",
+            "type": "normal"
+        },
+        {
+            "name": "Chernogorsk factory2",
+            "sirenpos": "6250 24 2710",
+            "target": "7049 0 2653",
+            "type": "normal"
+        },
+        {
+            "name": "Chernogorsk factory3",
+            "sirenpos": "6250 24 2710",
+            "target": "7551 0 3204",
+            "type": "normal"
+        },
+        {
+            "name": "Elektrozavodsk dock",
+            "sirenpos": "10258 24 2169",
+            "target": "10275 0 1859",
+            "type": "normal"
+        },
+        {
+            "name": "Elektrozavodsk powerplant",
+            "sirenpos": "10258 24 2169",
+            "target": "10427 0 2581",
+            "type": "normal"
+        },
+        {
+            "name": "Elektrozavodsk square",
+            "sirenpos": "10258 24 2169",
+            "target": "10484 0 2350",
+            "type": "normal"
+        },
+        {
+            "name": "Zelenogorsk railstation",
+            "sirenpos": "2571 24 5078",
+            "target": "2458 0 5187",
+            "type": "normal"
+        },
+        {
+            "name": "Zelenogorsk railyard",
+            "sirenpos": "2571 24 5078",
+            "target": "2233 0 5204",
+            "type": "normal"
+        },
+        {
+            "name": "Vybor",
+            "sirenpos": "3726 24 8921",
+            "target": "3818 0 8862",
+            "type": "normal"
+        },
+        {
+            "name": "NWAF SW",
+            "sirenpos": "4607 24 9438",
+            "target": "4538 0 9616",
+            "type": "normal"
+        },
+        {
+            "name": "NWAF mid",
+            "sirenpos": "4636 24 10443",
+            "target": "4808 0 10410",
+            "type": "normal"
+        },
+        {
+            "name": "NWAF N",
+            "sirenpos": "4125 24 10563",
+            "target": "4194 0 11050",
+            "type": "normal"
+        },
+        {
+            "name": "NWAF N tower",
+            "sirenpos": "4144 24 11759",
+            "target": "4000 0 11828",
+            "type": "normal"
+        },
+        {
+            "name": "Severograd",
+            "sirenpos": "7617 24 12634",
+            "target": "7731 0 12695",
+            "type": "normal"
+        },
+        {
+            "name": "Novodmitrovsk",
+            "sirenpos": "11487 24 14480",
+            "target": "11763 0 14259",
+            "type": "normal"
+        },
+        {
+            "name": "Svetlojarsk",
+            "sirenpos": "13845 24 13216",
+            "target": "14089 0 13315",
+            "type": "normal"
+        }
+    ],
+    "SubTrajectory": [
+        {
+            "name": "1",
+            "pos": [
+                "0 -1 800",
+                "3092 -1 985",
+                "3676 -1 1677",
+                "6491 -1 1599",
+                "10310 -1 1319",
+                "15500 -1 2500"
+            ]
+        },
+        {
+            "name": "2",
+            "pos": [
+                "3092 -1 985"
+            ]
+        }
+    ],
+    "BoatTrajectory": [
+        {
+            "name": "1",
+            "pos": [
+                "15323 -1 13495",
+                "13981 -1 8879",
+                "15272 -1 153"
+            ]
+        }
+    ]
+}
