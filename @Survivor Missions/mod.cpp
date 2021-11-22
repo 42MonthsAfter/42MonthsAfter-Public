@@ -1,0 +1,11 @@
+name = "Survivor Missions"; 						// name 
+picture = "SurvivorMissions/Legasov.edds";		// picture in expanded description
+logoSmall = "SurvivorMissions/Legasov_logo.edds";			// icon next to mod name when description is not expanded
+logo = "SurvivorMissions/Legasov_logo.edds";				// logo below game menu
+logoOver = "SurvivorMissions/Legasov_logo.edds";	    // on mouse hover over logo
+tooltip = "This is the Survivor Missions Mod.";							// tool tip on mouse hover
+overview = "High";  						// overview
+action = "https://discord.gg/reP3dq8";					// link
+author = "Funkdoc";								// author
+authorID = "0";
+version = "0.85";								// version
