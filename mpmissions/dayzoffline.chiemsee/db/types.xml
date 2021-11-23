@@ -343,7 +343,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Belt_OD">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -354,7 +354,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Belt_Tan">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -772,7 +772,7 @@
     <category name="tools" />
   </type>
   <type name="MVS_Canteen_OD">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -784,7 +784,7 @@
     <usage name="Hunting" />
   </type>
   <type name="MVS_Canteen_Tan">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -796,7 +796,7 @@
     <usage name="Hunting" />
   </type>
   <type name="MVS_Canteen_Black">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -808,7 +808,7 @@
     <usage name="Hunting" />
   </type>
   <type name="MVS_Canteen_Snow">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -820,7 +820,7 @@
     <usage name="Hunting" />
   </type>
   <type name="MVS_S10Respirator_Snow">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1029,7 +1029,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Radio_Pack_ERDL">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1040,7 +1040,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Canteen_ERDL">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1052,7 +1052,7 @@
     <usage name="Hunting" />
   </type>
   <type name="MVS_BoonieHat">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1085,7 +1085,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_FlatCap">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1140,7 +1140,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_BoonieHat_Snow">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1151,7 +1151,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Shirt_BDU_Snow">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1162,7 +1162,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Pants_BDU_Snow">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1173,7 +1173,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_FlatCap_Snow">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1261,7 +1261,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_WarriorHelmet_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1272,7 +1272,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_WarriorHelmet_ERDL">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1283,7 +1283,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_WarriorHelmet_Snow">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1294,7 +1294,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Rucksack_OD">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1305,7 +1305,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Rucksack_ERDL">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1316,7 +1316,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Rucksack_Tan">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1371,7 +1371,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Compact_1_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1382,7 +1382,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Compact_1_ERDL">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1393,7 +1393,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Compact_1_Snow">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1525,7 +1525,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Shroud_Tan">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1536,7 +1536,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Shroud_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1547,7 +1547,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Balaclava_Wraith">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1558,7 +1558,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Balaclava_Wraith_Comtacs">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1569,7 +1569,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Balaclava_OD">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1580,7 +1580,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Balaclava_Tan">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1591,7 +1591,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Balaclava_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1811,7 +1811,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_FlatCap_Multicam_Tropic">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1822,7 +1822,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_FlatCap_Multicam_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1833,7 +1833,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Shirt_BDU_Multicam">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1844,7 +1844,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Shirt_BDU_Multicam_Tropic">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1866,7 +1866,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_BoonieHat_Multicam">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1877,7 +1877,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_BoonieHat_Multicam_Tropic">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1888,7 +1888,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_BoonieHat_Multicam_Black">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1965,7 +1965,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Canteen_Multicam">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1977,7 +1977,7 @@
     <usage name="Hunting" />
   </type>
   <type name="MVS_Canteen_Multicam_Tropic">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -1989,7 +1989,7 @@
     <usage name="Hunting" />
   </type>
   <type name="MVS_Canteen_Multicam_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2133,7 +2133,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Holster_Multicam">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2144,7 +2144,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Holster_Multicam_Tropic">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2155,7 +2155,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Holster_Multicam_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2177,7 +2177,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Belt_Multicam_Tropic">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2210,7 +2210,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Pack_Multicam_Tropic">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2232,7 +2232,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Medical_Pouch_Multicam">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2243,7 +2243,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Medical_Pouch_Multicam_Tropic">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2254,7 +2254,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Medical_Pouch_Multicam_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2265,7 +2265,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Utility_Pouch_Multicam">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2276,7 +2276,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Utility_Pouch_Multicam_Tropic">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2287,7 +2287,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Utility_Pouch_Multicam_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2298,7 +2298,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Admin_Pouch_Multicam">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2309,7 +2309,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Admin_Pouch_Multicam_Tropic">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2320,7 +2320,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Admin_Pouch_Multicam_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2331,7 +2331,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Magazine_Pouch_Multicam">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2342,7 +2342,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Magazine_Pouch_Multicam_Tropic">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2353,7 +2353,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Magazine_Pouch_Multicam_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2364,7 +2364,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Heavy_Pouch_Multicam">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2375,7 +2375,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Heavy_Pouch_Multicam_Tropic">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2386,7 +2386,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Heavy_Pouch_Multicam_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2430,7 +2430,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Combat_Vest_Multicam">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2441,7 +2441,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Combat_Vest_Multicam_Tropic">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2452,7 +2452,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Combat_Vest_Multicam_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2463,7 +2463,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_OpsCore_Multicam">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2474,7 +2474,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_OpsCore_Multicam_Tropic">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2485,7 +2485,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_OpsCore_Multicam_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2518,7 +2518,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_CombatPants_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2529,7 +2529,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_CombatPants_Snow">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2540,7 +2540,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_CombatPants_ERDL">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2551,7 +2551,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_CombatPants_Multicam">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2562,7 +2562,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_CombatPants_Multicam_Tropic">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2573,7 +2573,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_CombatPants_Multicam_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2584,7 +2584,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_CombatShirt_OD">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2595,7 +2595,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_CombatShirt_Tan">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2606,7 +2606,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_CombatShirt_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2650,7 +2650,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_CombatShirt_Multicam_Tropic">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2661,7 +2661,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_CombatShirt_Multicam_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2672,7 +2672,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Cap_OD">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2683,7 +2683,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Cap_Tan">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2694,7 +2694,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Cap_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2705,7 +2705,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Cap_Snow">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2716,7 +2716,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Cap_ERDL">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2727,7 +2727,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Cap_Multicam">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2738,7 +2738,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Cap_Multicam_Tropic">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2749,7 +2749,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Cap_Multicam_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2760,7 +2760,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Comtacs_OD">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2771,7 +2771,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Comtacs_Tan">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2782,7 +2782,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Comtacs_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2793,7 +2793,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Helmet_01_ERDL">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2804,7 +2804,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Helmet_01_Multicam">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2815,7 +2815,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Helmet_01_Multicam_Tropic">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2826,7 +2826,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Helmet_01_Multicam_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2837,7 +2837,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Facemask_OD">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2848,7 +2848,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Facemask_Tan">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2859,7 +2859,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Facemask_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2870,7 +2870,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_Facemask_Snow">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2881,7 +2881,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_M50Respirator_OD">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2892,7 +2892,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_M50Respirator_Tan">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2903,7 +2903,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_M50Respirator_Black">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -2914,7 +2914,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_M50Respirator_Snow">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
@@ -3277,7 +3277,7 @@
     <category name="clothes" />
   </type>
   <type name="MVS_SlingPack_OD">
-    <nominal>1</nominal>
+    <nominal>0</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
