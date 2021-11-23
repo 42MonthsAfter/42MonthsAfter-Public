@@ -78,10 +78,10 @@
             ]
         },
         {
-            "Id": 1,
+            "Id": 2,
             "Name": "SurvivorM_Peter",
             "GivenName": "QuickStop",
-            "Role": "Weapon Trader",
+            "Role": "Tool Trader",
             "Position": [
                 3692.080078125,
                 6.019999980926514,
@@ -93,20 +93,19 @@
                 0.0
             ],
             "Clothes": [
-                "BoonieHat_DPM",
-                "GorkaEJacket_Autumn",
-                "GorkaPants_Autumn",
-                "CombatBoots_Beige",
-                "TWP_M16A4",
-                "SportGlasses_Orange",
-                "PlateCarrierVest"
+                "ConstructionHelmet_Blue",
+                "Shirt_RedCheck",
+                "ReflexVest",
+                "CargoPants_Beige",
+                "WorkingBoots_Beige",
+                "Shovel"
             ]
         },
         {
-            "Id": 2,
+            "Id": 1,
             "Name": "SurvivorM_Peter",
             "GivenName": "QuickStop",
-            "Role": "Tool Trader",
+            "Role": "Weapon Trader",
             "Position": [
                 3688.780029296875,
                 5.980000019073486,
@@ -118,12 +117,13 @@
                 0.0
             ],
             "Clothes": [
-                "ConstructionHelmet_Blue",
-                "Shirt_RedCheck",
-                "ReflexVest",
-                "CargoPants_Beige",
-                "WorkingBoots_Beige",
-                "Shovel"
+                "BoonieHat_DPM",
+                "GorkaEJacket_Autumn",
+                "GorkaPants_Autumn",
+                "CombatBoots_Beige",
+                "TWP_M16A4",
+                "SportGlasses_Orange",
+                "PlateCarrierVest"
             ]
         },
         {
