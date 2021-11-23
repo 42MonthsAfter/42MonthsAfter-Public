@@ -4082,43 +4082,43 @@
         {
             "CategoryName": "RLF Helmets",
             "Products": [
-                "BallisticHelmet_Black,1,-1,1,1,1",
-                "MVS_Helmet_01_Black,1,-1,1,1,1",
-                "MVS_Helmet_01_Multicam_Black,1,-1,1,1,1",
-                "MVS_Helmet_02_Black,1,-1,1,1,1",
-                "MVS_Helmet_02_Multicam_Black,1,-1,1,1,1",
-                "MVS_6B47_Helmet_Black,1,-1,1,1,1",
-                "MVS_OpsCore_Black,1,-1,1,1,1",
-                "MVS_OpsCore_Multicam_Black,1,-1,1,1,1",
-                "MVS_ArmoredHelmet_Black,1,-1,1,1,1",
-                "MVS_ArmoredHelmet_Multicam_Black,1,-1,1,1,1",
-                "MVS_WarriorHelmet_Black,1,-1,1,1,1",
-                "MVS_WarriorHelmet_Multicam_Black,1,-1,1,1,1",
-                "MVS_Altyn_Black,1,-1,1,1,1",
-                "MVS_Altyn_Visor_Black,1,-1,1,1,1",
-                "MVS_Altyn_Visor_Lifted_Black,1,-1,1,1,1"
+                "BallisticHelmet_Black,1,-1,1,2200,2200",
+                "MVS_Helmet_01_Black,1,-1,1,1000,1000",
+                "MVS_Helmet_01_Multicam_Black,1,-1,1,1000,10001",
+                "MVS_Helmet_02_Black,1,-1,1,1400,1400",
+                "MVS_Helmet_02_Multicam_Black,1,-1,1,1400,1400",
+                "MVS_6B47_Helmet_Black,1,-1,1,2000,2000",
+                "MVS_OpsCore_Black,1,-1,1,2600,2600",
+                "MVS_OpsCore_Multicam_Black,1,-1,1,2600,2600",
+                "MVS_ArmoredHelmet_Black,1,-1,1,2400,2400",
+                "MVS_ArmoredHelmet_Multicam_Black,1,-1,1,2400,2400",
+                "MVS_WarriorHelmet_Black,1,-1,1,3000,3000",
+                "MVS_WarriorHelmet_Multicam_Black,1,-1,1,3000,3000",
+                "MVS_Altyn_Black,1,-1,1,2800,2800",
+                "MVS_Altyn_Visor_Black,1,-1,1,2800,2800",
+                "MVS_Altyn_Visor_Lifted_Black,1,-1,1,2800,2800"
             ]
         },
         {
             "CategoryName": "RLF Masks",
             "Products": [
-                "MVS_Shroud_Black,1,-1,1,1,1",
+                "MVS_Shroud_Black,1,-1,1,100,100",
                 "SkullMask,1,-1,1,1,1",
-                "MVS_Balaclava_Black,1,-1,1,1,1",
-                "MVS_Facemask_Black,1,-1,1,1,1",
-                "MVS_S10Respirator_Black,1,-1,1,1,1",
-                "MVS_PMK2Respirator_Black,1,-1,1,1,1"
+                "MVS_Balaclava_Black,1,-1,1,80,80",
+                "MVS_Facemask_Black,1,-1,1,100,100",
+                "MVS_S10Respirator_Black,1,-1,1,180,180",
+                "MVS_PMK2Respirator_Black,1,-1,1,220,220"
             ]
         },
         {
             "CategoryName": "RLF Vests",
             "Products": [
-                "MVS_Combat_Vest_Black,1,-1,1,1,1",
-                "MVS_Combat_Vest_Multicam_Black,1,-1,1,1,1",
-                "MVS_ChestRig_Black,1,-1,1,1,1",
-                "MVS_ChestRig_Multicam_Black,1,-1,1,1,1",
-                "MVS_Combat_Vest_Heavy_Black,1,-1,1,1,1",
-                "MVS_Combat_Vest_Heavy_Multicam_Black,1,-1,1,1,1"
+                "MVS_Combat_Vest_Black,1,-1,1,1800,1800",
+                "MVS_Combat_Vest_Multicam_Black,1,-1,1,1800,1800",
+                "MVS_ChestRig_Black,1,-1,1,1000,1000",
+                "MVS_ChestRig_Multicam_Black,1,-1,1,1000,1000",
+                "MVS_Combat_Vest_Heavy_Black,1,-1,1,2200,2200",
+                "MVS_Combat_Vest_Heavy_Multicam_Black,1,-1,1,2200,2200"
             ]
         },
         {
@@ -4136,8 +4136,8 @@
         {
             "CategoryName": "RLF Footware",
             "Products": [
-                "MilitaryBoots_Redpunk,1,-1,1,1,1",
-                "MilitaryBoots_Black,1,-1,1,1,1"
+                "MilitaryBoots_Redpunk,1,-1,1,100,100",
+                "MilitaryBoots_Black,1,-1,1,100,100"
             ]
         },
         {
@@ -4163,46 +4163,46 @@
         {
             "CategoryName": "RLF Belts & Pouches",
             "Products": [
-                "MVS_Belt_Black,1,-1,1,1,1",
-                "MVS_Belt_Multicam_Black,1,-1,1,1,1",
-                "MVS_Holster_Black,1,-1,1,1,1",
-                "MVS_Holster_Multicam_Black,1,-1,1,1,1",
-                "MVS_Canteen_Black,1,-1,1,1,1",
-                "MVS_Canteen_Multicam_Black,1,-1,1,1,1",
-                "MVS_Sheath_Multicam_Black,1,-1,1,1,1",
-                "MVS_Molle_Panel_Black,1,-1,1,1,1",
-                "MVS_Molle_Panel_Multicam_Black,1,-1,1,1,1",
-                "MVS_Utility_Pouch_Multicam_Black,1,-1,1,1,1",
-                "MVS_Utility_Pouch_Black,1,-1,1,1,1",
-                "MVS_Medical_Pouch_Black,1,-1,1,1,1",
-                "MVS_Medical_Pouch_Multicam_Black,1,-1,1,1,1",
-                "MVS_Admin_Pouch_Black,1,-1,1,1,1",
-                "MVS_Admin_Pouch_Multicam_Black,1,-1,1,1,1",
-                "MVS_Magazine_Pouch_Black,1,-1,1,1,1",
-                "MVS_Magazine_Pouch_Multicam_Black,1,-1,1,1,1",
-                "MVS_Taco_Pouch_Black,1,-1,1,1,1",
-                "MVS_Taco_Pouch_Multicam_Black,1,-1,1,1,1",
-                "MVS_Heavy_Pouch_Black,1,-1,1,1,1",
-                "MVS_Heavy_Pouch_Multicam_Black,1,-1,1,1,1"
+                "MVS_Belt_Black,1,-1,1,100,100",
+                "MVS_Belt_Multicam_Black,1,-1,1,100,100",
+                "MVS_Holster_Black,1,-1,1,80,80",
+                "MVS_Holster_Multicam_Black,1,-1,1,80,80",
+                "MVS_Canteen_Black,1,-1,1,60,60",
+                "MVS_Canteen_Multicam_Black,1,-1,1,60,60",
+                "MVS_Sheath_Multicam_Black,1,-1,1,50,50",
+                "MVS_Molle_Panel_Black,1,-1,1,120,120",
+                "MVS_Molle_Panel_Multicam_Black,1,-1,1,120,120",
+                "MVS_Utility_Pouch_Multicam_Black,1,-1,1,120,120",
+                "MVS_Utility_Pouch_Black,1,-1,1,120,120",
+                "MVS_Medical_Pouch_Black,1,-1,1,120,120",
+                "MVS_Medical_Pouch_Multicam_Black,1,-1,1,120,120",
+                "MVS_Admin_Pouch_Black,1,-1,1,140,140",
+                "MVS_Admin_Pouch_Multicam_Black,1,-1,1,140,140",
+                "MVS_Magazine_Pouch_Black,1,-1,1,,60,60",
+                "MVS_Magazine_Pouch_Multicam_Black,1,-1,1,,60,60",
+                "MVS_Taco_Pouch_Black,1,-1,1,50,50",
+                "MVS_Taco_Pouch_Multicam_Black,1,-1,1,50,50",
+                "MVS_Heavy_Pouch_Black,1,-1,1,80,80",
+                "MVS_Heavy_Pouch_Multicam_Black,1,-1,1,80,80"
             ]
         },
         {
             "CategoryName": "RLF Bags",
             "Products": [
-                "MVS_Radio_Pack_Multicam_Black,1,-1,1,1,1",
-                "MVS_Radio_Pack_Black,1,-1,1,1,1",
+                "MVS_Radio_Pack_Multicam_Black,1,-1,1,2000,2000",
+                "MVS_Radio_Pack_Black,1,-1,1,2000,2000",
                 "MVS_Compact_1_Black,1,-1,1,1,1",
                 "MVS_Compact_1_Multicam_Black,1,-1,1,1,1",
-                "MVS_Compact_2_Black,1,-1,1,1,1",
-                "MVS_Compact_2_Multicam_Black,1,-1,1,1,1",
-                "MVS_SlingPack_Black,1,-1,1,1,1",
-                "MVS_SlingPack_Multicam_Black,1,-1,1,1,1",
-                "MVS_Pack_Black,1,-1,1,1,1",
-                "MVS_Pack_Multicam_Black,1,-1,1,1,1",
-                "MVS_Assault_Pack_Black,1,-1,1,1,1",
-                "MVS_Assault_Pack_Multicam_Black,1,-1,1,1,1",
-                "MVS_Rucksack_Black,1,-1,1,1,1",
-                "MVS_Rucksack_Multicam_Black,1,-1,1,1,1"
+                "MVS_Compact_2_Black,1,-1,1,3000,3000",
+                "MVS_Compact_2_Multicam_Black,1,-1,1,3000,3000",
+                "MVS_SlingPack_Black,1,-1,1,3500,3500",
+                "MVS_SlingPack_Multicam_Black,1,-1,1,3500,3500",
+                "MVS_Pack_Black,1,-1,1,4000,4000",
+                "MVS_Pack_Multicam_Black,1,-1,1,4000,4000",
+                "MVS_Assault_Pack_Black,1,-1,1,5000,5000",
+                "MVS_Assault_Pack_Multicam_Black,1,-1,1,5000,5000",
+                "MVS_Rucksack_Black,1,-1,1,6000,6000",
+                "MVS_Rucksack_Multicam_Black,1,-1,1,6000,6000"
             ]
         },
         {
@@ -6589,23 +6589,23 @@
         {
             "CategoryName": "Remnant Masks",
             "Products": [
-                "MVS_Shroud_OD,1,-1,1,1,1",
+                "MVS_Shroud_OD,1,-1,1,100,100",
                 "SkullMask,1,-1,1,1,1",
-                "MVS_Balaclava_OD,1,-1,1,1,1",
-                "MVS_Facemask_OD,1,-1,1,1,1",
-                "MVS_S10Respirator_OD,1,-1,1,1,1",
-                "MVS_PMK2Respirator_OD,1,-1,1,1,1"
+                "MVS_Balaclava_OD,1,-1,1,80,80",
+                "MVS_Facemask_OD,1,-1,1,100,100",
+                "MVS_S10Respirator_OD,1,-1,1,180,180",
+                "MVS_PMK2Respirator_OD,1,-1,1,220,220"
             ]
         },
         {
             "CategoryName": "Remnant Vests",
             "Products": [
-                "MVS_Combat_Vest_OD,1,-1,1,1,1",
-                "MVS_Combat_Vest_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_ChestRig_OD,1,-1,1,1,1",
-                "MVS_ChestRig_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Combat_Vest_Heavy_OD,1,-1,1,1,1",
-                "MVS_Combat_Vest_Heavy_Multicam_Tropic,1,-1,1,1,1"
+                "MVS_Combat_Vest_OD,1,-1,1,1800,1800",
+                "MVS_Combat_Vest_Multicam_Tropic,1,-1,1,1800,1800",
+                "MVS_ChestRig_OD,1,-1,1,1000,1000",
+                "MVS_ChestRig_Multicam_Tropic,1,-1,1,1000,1000",
+                "MVS_Combat_Vest_Heavy_OD,1,-1,1,2200,2200",
+                "MVS_Combat_Vest_Heavy_Multicam_Tropic,1,-1,1,2200,2200"
             ]
         },
         {
@@ -6623,8 +6623,8 @@
         {
             "CategoryName": "Remnant Footware",
             "Products": [
-                "MilitaryBoots_Redpunk,1,-1,1,1,1",
-                "MilitaryBoots_OD,1,-1,1,1,1"
+                "MilitaryBoots_Redpunk,1,-1,1,100,100",
+                "MilitaryBoots_OD,1,-1,1,100,100"
             ]
         },
         {
@@ -6650,46 +6650,46 @@
         {
             "CategoryName": "Remnant Belts & Pouches",
             "Products": [
-                "MVS_Belt_OD,1,-1,1,1,1",
-                "MVS_Belt_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Holster_OD,1,-1,1,1,1",
-                "MVS_Holster_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Canteen_OD,1,-1,1,1,1",
-                "MVS_Canteen_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Sheath_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Molle_Panel_OD,1,-1,1,1,1",
-                "MVS_Molle_Panel_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Utility_Pouch_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Utility_Pouch_OD,1,-1,1,1,1",
-                "MVS_Medical_Pouch_OD,1,-1,1,1,1",
-                "MVS_Medical_Pouch_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Admin_Pouch_OD,1,-1,1,1,1",
-                "MVS_Admin_Pouch_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Magazine_Pouch_OD,1,-1,1,1,1",
-                "MVS_Magazine_Pouch_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Taco_Pouch_OD,1,-1,1,1,1",
-                "MVS_Taco_Pouch_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Heavy_Pouch_OD,1,-1,1,1,1",
-                "MVS_Heavy_Pouch_Multicam_Tropic,1,-1,1,1,1"
+                "MVS_Belt_OD,1,-1,1,100,100",
+                "MVS_Belt_Multicam_Tropic,1,-1,1,100,100",
+                "MVS_Holster_OD,1,-1,1,80,80",
+                "MVS_Holster_Multicam_Tropic,1,-1,1,80,80",
+                "MVS_Canteen_OD,1,-1,1,60,60",
+                "MVS_Canteen_Multicam_Tropic,1,-1,1,60,60",
+                "MVS_Sheath_Multicam_Tropic,1,-1,1,50,50",
+                "MVS_Molle_Panel_OD,1,-1,1,120,120",
+                "MVS_Molle_Panel_Multicam_Tropic,1,-1,1,120,120",
+                "MVS_Utility_Pouch_Multicam_Tropic,1,-1,1,120,120",
+                "MVS_Utility_Pouch_OD,1,-1,1,120,120",
+                "MVS_Medical_Pouch_OD,1,-1,1,120,120",
+                "MVS_Medical_Pouch_Multicam_Tropic,1,-1,1,120,120",
+                "MVS_Admin_Pouch_OD,1,-1,1,140,140",
+                "MVS_Admin_Pouch_Multicam_Tropic,1,-1,1,140,140",
+                "MVS_Magazine_Pouch_OD,1,-1,1,,60,60",
+                "MVS_Magazine_Pouch_Multicam_Tropic,1,-1,1,,60,60",
+                "MVS_Taco_Pouch_OD,1,-1,1,50,50",
+                "MVS_Taco_Pouch_Multicam_Tropic,1,-1,1,50,50",
+                "MVS_Heavy_Pouch_OD,1,-1,1,80,80",
+                "MVS_Heavy_Pouch_Multicam_Tropic,1,-1,1,80,80"
             ]
         },
         {
             "CategoryName": "Remnant Bags",
             "Products": [
-                "MVS_Radio_Pack_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Radio_Pack_OD,1,-1,1,1,1",
+                "MVS_Radio_Pack_Multicam_Tropic,1,-1,1,2000,2000",
+                "MVS_Radio_Pack_OD,1,-1,1,2000,2000",
                 "MVS_Compact_1_OD,1,-1,1,1,1",
                 "MVS_Compact_1_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Compact_2_OD,1,-1,1,1,1",
-                "MVS_Compact_2_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_SlingPack_OD,1,-1,1,1,1",
-                "MVS_SlingPack_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Pack_OD,1,-1,1,1,1",
-                "MVS_Pack_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Assault_Pack_OD,1,-1,1,1,1",
-                "MVS_Assault_Pack_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Rucksack_OD,1,-1,1,1,1",
-                "MVS_Rucksack_Multicam_Tropic,1,-1,1,1,1"
+                "MVS_Compact_2_OD,1,-1,1,3000,3000",
+                "MVS_Compact_2_Multicam_Tropic,1,-1,1,3000,3000",
+                "MVS_SlingPack_OD,1,-1,1,3500,3500",
+                "MVS_SlingPack_Multicam_Tropic,1,-1,1,3500,3500",
+                "MVS_Pack_OD,1,-1,1,4000,4000",
+                "MVS_Pack_Multicam_Tropic,1,-1,1,4000,4000",
+                "MVS_Assault_Pack_OD,1,-1,1,5000,5000",
+                "MVS_Assault_Pack_Multicam_Tropic,1,-1,1,5000,5000",
+                "MVS_Rucksack_OD,1,-1,1,6000,6000",
+                "MVS_Rucksack_Multicam_Tropic,1,-1,1,6000,6000"
             ]
         },
         {
