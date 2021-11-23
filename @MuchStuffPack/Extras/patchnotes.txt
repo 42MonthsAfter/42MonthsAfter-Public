@@ -1,8 +1,2 @@
-- Fixed Baseball caps not using up sewing kit when being repaired
-- Fixed Baseball cap beige colour not being applied
-- Added Wringing action to slouchies
-- Fixed planters holding animation
-- Fixed some warnings in script
-- Fixed Fridges not taking cable reel. Plug in cable reel first in generator, then connect to the fridge.
-- Changed so storage items won't be loaded in far bubble anymore
-- Added new planter pot (Msp_EmptyPlanterPot, Msp_PlanterPot)
+- Fix for error with 1.15
+- Fixed the new planter pots collision
