@@ -3,14 +3,9 @@
         {
             "EnableStockAllCategoryForID": 0,
             "Categories": [
-                "Vegetables",
                 "Packaged Food",
-                "Meat",
-                "Animal Parts",
                 "Drinks",
                 "Medical Supplies",
-                "Medications",
-                "Good-Good",
                 "Money Exchange"
             ],
             "LicencesRequired": [],
@@ -48,9 +43,8 @@
                 "Base Building+",
                 "Electronics",
                 "Fire & Lights",
-                "Cooking & Hunting",
-                "Hardware Supplies",
-                "Seeds & Lime"
+                "Cooking & Camping",
+                "Hardware Supplies"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
@@ -163,6 +157,19 @@
             "EnableStockAllCategoryForID": 8,
             "Categories": [
                 "Remnant Public"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        }
+        {
+            "EnableStockAllCategoryForID": 9,
+            "Categories": [
+                "Vegetables",
+                "Seeds & Lime",
+                "Hunting and Fishing",
+                "Meat",
+                "Animal Parts",
+                "Good-Good"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
