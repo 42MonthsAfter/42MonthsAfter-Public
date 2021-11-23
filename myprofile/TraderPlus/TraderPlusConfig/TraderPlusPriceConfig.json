@@ -4,32 +4,6 @@
     "EnableDefaultTraderStock": 0,
     "TraderCategories": [
         {
-            "CategoryName": "Vegetables",
-            "Products": [
-                "CaninaBerry,1,-1,-1,-1,2",
-                "SambucusBerry,1,-1,-1,-1,2",
-                "Plum,1,-1,-1,-1,2",
-                "Kiwi,1,-1,-1,-1,2",
-                "Apple,1,-1,-1,-1,2",
-                "Pear,1,-1,-1,-1,2",
-                "Orange,1,-1,-1,-1,2",
-                "Banana,1,-1,-1,-1,2",
-                "Tomato,1,-1,-1,-1,2",
-                "Potato,1,-1,-1,-1,2",
-                "GreenBellPepper,1,-1,-1,-1,2",
-                "Zucchini,1,-1,-1,-1,2",
-                "Pumpkin,1,-1,-1,-1,2",
-                "AgaricusMushroom,1,-1,-1,-1,3",
-                "AmanitaMushroom,1,-1,-1,-1,3",
-                "LactariusMushroom,1,-1,-1,-1,3",
-                "MacrolepiotaMushroom,1,-1,-1,-1,3",
-                "AuriculariaMushroom,1,-1,-1,-1,3",
-                "BoletusMushroom,1,-1,-1,-1,3",
-                "PleurotusMushroom,1,-1,-1,-1,3",
-                "PsilocybeMushroom,1,-1,-1,-1,100"
-            ]
-        },
-        {
             "CategoryName": "Packaged Food",
             "Products": [
                 "PowderedMilk,1,100,-1,4,0.5",
@@ -54,34 +28,6 @@
                 "pickles_closed,1,100,-1,100,0.5",
                 "ketchup_mung,1,100,-1,100,0.5",
                 "vinegar_mung,1,100,-1,100,0.5"
-            ]
-        },
-        {
-            "CategoryName": "Meat",
-            "Products": [
-                "ChickenBreastMeat,1,-1,-1,-1,5",
-                "WolfSteakMeat,1,-1,-1,-1,10",
-                "GoatSteakMeat,1,-1,-1,-1,5",
-                "SheepSteakMeat,1,-1,-1,-1,5",
-                "PigSteakMeat,1,-1,-1,-1,5",
-                "BoarSteakMeat,1,-1,-1,-1,10",
-                "DeerSteakMeat,1,-1,-1,-1,10",
-                "BearSteakMeat,1,-1,-1,-1,20",
-                "CowSteakMeat,1,-1,-1,-1,5",
-                "Rak,1,-1,-1,-1,5",
-                "Sardines,1,-1,-1,-1,5",
-                "Carp,1,-1,-1,-1,5",
-                "Mackerel,1,-1,-1,-1,5"
-            ]
-        },
-        {
-            "CategoryName": "Animal Parts",
-            "Products": [
-                "Bone,1,-1,-1,-1,5",
-                "Lard,1,-1,-1,-1,5",
-                "Guts,1,-1,-1,-1,5",
-                "SmallGuts,1,-1,-1,-1,5",
-                "brain_Mung,1,-1,-1,-1,10000"
             ]
         },
         {
@@ -140,6 +86,125 @@
                 "AMS_Ai2,1,100,-1,140,0.5",
                 "FirstAidKit,1,100,-1,200,0.5",
                 "AMS_FirstAidKit,1,100,-1,200,0.5"
+            ]
+        },
+        {
+            "CategoryName": "Money Exchange",
+            "Products": [
+                "TraderPlus_Money_Dollar1,-1,-1,1,1,1",
+                "TraderPlus_Money_Dollar2,-1,-1,1,2,2",
+                "TraderPlus_Money_Dollar5,-1,-1,1,5,5",
+                "TraderPlus_Money_Dollar10,-1,-1,1,10,10",
+                "TraderPlus_Money_Dollar20,-1,-1,1,20,20",
+                "TraderPlus_Money_Dollar50,-1,-1,1,50,50",
+                "TraderPlus_Money_Dollar100,-1,-1,1,100,100",
+                "TraderPlus_Money_Euro500,-1,-1,1,500,500"
+            ]
+        },
+        {
+            "CategoryName": "Vegetables",
+            "Products": [
+                "CaninaBerry,1,-1,-1,2,2",
+                "SambucusBerry,1,-1,-1,2,2",
+                "Plum,1,-1,-1,2,2",
+                "Kiwi,1,-1,-1,2,2",
+                "Apple,1,-1,-1,2,2",
+                "Pear,1,-1,-1,2,2",
+                "Orange,1,-1,-1,2,2",
+                "Banana,1,-1,-1,2,2",
+                "Tomato,1,-1,-1,2,2",
+                "Potato,1,-1,-1,2,2",
+                "GreenBellPepper,1,-1,-1,2,2",
+                "Zucchini,1,-1,-1,2,2",
+                "Pumpkin,1,-1,-1,2,2",
+                "AgaricusMushroom,1,-1,-1,3,3",
+                "AmanitaMushroom,1,-1,-1,3,3",
+                "LactariusMushroom,1,-1,-1,3,3",
+                "MacrolepiotaMushroom,1,-1,-1,3,3",
+                "AuriculariaMushroom,1,-1,-1,3,3",
+                "BoletusMushroom,1,-1,-1,3,3",
+                "PleurotusMushroom,1,-1,-1,3,3",
+                "PsilocybeMushroom,1,-1,-1,100,100"
+            ]
+        },
+        {
+            "CategoryName": "Seeds & Lime",
+            "Products": [
+                "TomatoSeedsPack,1,-1,-1,20,0.8",
+                "PepperSeedsPack,1,-1,-1,20,0.8",
+                "ZucchiniSeedsPack,1,-1,-1,20,0.8",
+                "PumpkinSeedsPack,1,-1,-1,20,0.8",
+                "AntiPestsSpray,1,-1,-1,8,0.8",
+                "GardenLime,1,-1,-1,40,0.8"
+            ]
+        },
+        {
+            "CategoryName": "Hunting and Fishing",
+            "Products": [
+                "FishNetTrap,1,100,-1,60,0.8",
+                "RabbitSnareTrap,1,100,-1,60,0.8",
+                "BearTrap,1,100,-1,120,0.8",
+                "zeroy_lure_01,1,100,-1,1200,0.8",
+                "zeroy_lure_02,1,100,-1,1200,0.8",
+                "zeroy_lure_03,1,100,-1,1200,0.8",
+                "zeroy_lure_04,1,100,-1,1200,0.8",
+                "zeroy_lure_05,1,100,-1,1200,0.8",
+                "zeroy_lure_06,1,100,-1,1200,0.8",
+                "FishingRod,1,100,-1,120,0.8",
+                "FishingRod_camo,1,100,-1,160,0.8",
+                "Msp_TackleBox,1,100,-1,60,0.8",
+                "Msp_TackleBox_Black,1,100,-1,60,0.8",
+                "zeroy_tacklebox,1,100,-1,60,0.8",
+                "zeroy_tacklebox_green,1,100,-1,60,0.8",
+                "zeroy_tacklebox_camo,1,100,-1,60,0.8",
+                "Netting,1,100,-1,20,0.8",
+                "TannedLeather,1,100,-1,40,0.8"
+            ]
+        },
+        {
+            "CategoryName": "Meat",
+            "Products": [
+                "ChickenBreastMeat,1,-1,-1,-1,5",
+                "RabbitLegMeat1,-1,-1,-1,10",
+                "PigSteakMeat,1,-1,-1,-1,15",
+                "SheepSteakMeat,1,-1,-1,-1,15",
+                "GoatSteakMeat,1,-1,-1,-1,15",
+                "CowSteakMeat,1,-1,-1,-1,20",
+                "BoarSteakMeat,1,-1,-1,-1,30",
+                "DeerSteakMeat,1,-1,-1,-1,40",
+                "WolfSteakMeat,1,-1,-1,-1,40",
+                "BearSteakMeat,1,-1,-1,-1,50",
+                "Rak,1,-1,-1,-1,10",
+                "Sardines,1,-1,-1,-1,10",
+                "Carp,1,-1,-1,-1,10",
+                "Mackerel,1,-1,-1,-1,10"
+            ]
+        },
+        {
+            "CategoryName": "Animal Parts",
+            "Products": [
+                "Bone,1,-1,-1,-1,5",
+                "Lard,1,-1,-1,-1,5",
+                "Guts,1,-1,-1,-1,5",
+                "SmallGuts,1,-1,-1,-1,5",
+                "brain_Mung,1,-1,-1,-1,10000",
+                "DeadChicken_Brown,1,-1,-1,-1,10",
+                "DeadChicken_Spotted,1,-1,-1,-1,10",
+                "DeadChicken_White,1,-1,-1,-1,10",
+                "DeadRooster,1,-1,-1,-1,10",
+                "DeadRabbit,1,-1,-1,-1,40",
+                "RabbitPelt,1,-1,-1,-1,20",
+                "PigPelt,1,-1,-1,-1,40",
+                "SheepPelt,1,-1,-1,-1,50",
+                "GoatPelt,1,-1,-1,-1,60",
+                "CowPelt,1,-1,-1,-1,80",
+                "WildboarPelt,1,-1,-1,-1,100",
+                "DeerPelt,1,-1,-1,-1,150",
+                "WolfPelt,1,-1,-1,-1,200",
+                "BearPelt,1,-1,-1,-1,300",
+                "wolffurcowl_mung,1,-1,-1,-1,250",
+                "bearfurcowl_mung,1,-1,-1,-1,350",
+                "bearhead_mung,1,-1,-1,-1,400"
             ]
         },
         {
@@ -204,19 +269,6 @@
                 "CP_CannabisBrickS1,1,-1,-1,-1,1920",
                 "CP_CannabisBrickNomad,1,-1,-1,-1,2240",
                 "CP_CannabisBrickBlackFrost,1,-1,-1,-1,2560"
-            ]
-        },
-        {
-            "CategoryName": "Money Exchange",
-            "Products": [
-                "TraderPlus_Money_Dollar1,-1,-1,1,1,1",
-                "TraderPlus_Money_Dollar2,-1,-1,1,2,2",
-                "TraderPlus_Money_Dollar5,-1,-1,1,5,5",
-                "TraderPlus_Money_Dollar10,-1,-1,1,10,10",
-                "TraderPlus_Money_Dollar20,-1,-1,1,20,20",
-                "TraderPlus_Money_Dollar50,-1,-1,1,50,50",
-                "TraderPlus_Money_Dollar100,-1,-1,1,100,100",
-                "TraderPlus_Money_Euro500,-1,-1,1,500,500"
             ]
         },
         {
@@ -463,7 +515,7 @@
             ]
         },
         {
-            "CategoryName": "Cooking & Hunting",
+            "CategoryName": "Cooking & Camping",
             "Products": [
                 "AMS_Whistle,1,100,-1,16,0.5",
                 "AMS_WaterStraw,1,100,-1,80,0.5",
@@ -473,8 +525,6 @@
                 "dutchoven_mung,1,100,0,60,0.5",
                 "thermos_mung,1,-1,0,20,0.5",
                 "Tripod,1,100,-1,40,0.5",
-                "FishNetTrap,1,100,-1,60,0.5",
-                "BearTrap,1,100,-1,120,0.5",
                 "PortableGasLamp,1,100,-1,30,0.5",
                 "PortableGasStove,1,100,-1,40,0.5",
                 "SmallGasCanister,1,100,-1,40,0.5",
@@ -484,19 +534,6 @@
                 "Compass,1,100,-1,10,0.5",
                 "Binoculars,1,100,-1,40,0.5",
                 "Rangefinder,1,100,-1,1000,0.5",
-                "zeroy_lure_01,1,100,-1,1200,0.5",
-                "zeroy_lure_02,1,100,-1,1200,0.5",
-                "zeroy_lure_03,1,100,-1,1200,0.5",
-                "zeroy_lure_04,1,100,-1,1200,0.5",
-                "zeroy_lure_05,1,100,-1,1200,0.5",
-                "zeroy_lure_06,1,100,-1,1200,0.5",
-                "FishingRod,1,100,-1,120,0.5",
-                "FishingRod_camo,1,100,-1,160,0.5",
-                "Msp_TackleBox,1,100,-1,60,0.5",
-                "Msp_TackleBox_Black,1,100,-1,60,0.5",
-                "zeroy_tacklebox,1,100,-1,60,0.5",
-                "zeroy_tacklebox_green,1,100,-1,60,0.5",
-                "zeroy_tacklebox_camo,1,100,-1,60,0.5",
                 "Msp_CoolerBox,1,100,-1,60,0.5",
                 "Msp_CoolerBox_Black,1,100,-1,60,0.5",
                 "ballgrill_mung,1,100,-1,80,0.5",
@@ -538,8 +575,6 @@
                 "BBP_Mortar_Mix,1,100,-1,20,0.5",
                 "BBP_Cement,1,100,-1,30,0.5",
                 "BarbedWire,1,100,-1,50,0.5",
-                "Netting,1,100,-1,20,0.5",
-                "TannedLeather,1,100,-1,40,0.5",
                 "BurlapSack,1,100,-1,4,0.5",
                 "Camonet,1,100,-1,60,0.5",
                 "CamonetWinter,1,100,-1,60,0.5",
@@ -1917,9 +1952,7 @@
                 "Poncho_Red,1,100,-1,22,0.5",
                 "Poncho_Black,1,100,-1,22,0.5",
                 "Poncho_BlackAndWhite,1,100,-1,22,0.5",
-                "Poncho_BlackAndWhite2,1,100,-1,22,0.5",
-                "wolffurcowl_mung,1,100,-1,80,0.5",
-                "bearfurcowl_mung,1,100,-1,100,0.5"
+                "Poncho_BlackAndWhite2,1,100,-1,22,0.5"
             ]
         },
         {
