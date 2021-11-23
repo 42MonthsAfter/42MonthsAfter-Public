@@ -313,6 +313,30 @@
                 "MVS_Patch_35",
                 "M4A1"
             ]
+        },
+        {
+            "Id": 9,
+            "Name": "SurvivorM_Peter",
+            "GivenName": "Hunter Trader",
+            "Role": "Hunter Trader",
+            "Position": [
+                4104.46,
+                54.69,
+                9637.14
+            ],
+            "Orientation": [
+                -50.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "LeatherJacket_Brown",
+                "LeatherPants_Natural",
+                "MilitaryBoots_Brown",
+                "LeatherStorageVest_Black",
+                "LeatherShoes_Black",
+                "TWP_Remington700"
+            ]
         }
     ],
     "TraderObjects": []
