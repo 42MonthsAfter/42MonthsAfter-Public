@@ -812,7 +812,7 @@
         <usage name="Farm"/>
         <usage name="Village"/>
     </type>
-    <type name="zenitco_pt3_buttstock">
+    <type name="zenitco_pt3_buttstock_mung">
         <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -1368,7 +1368,7 @@
         <usage name="Farm"/>
         <usage name="Village"/>
     </type>
-	<type name="Zippo_new">
+	<type name="Zippo_mung">
         <nominal>30</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
