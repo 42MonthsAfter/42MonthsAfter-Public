@@ -121,6 +121,7 @@ class CustomMission: MissionServer
 		vipMembersGold.Insert( "76561198034611550" ); // Sarge
 		vipMembersGold.Insert( "76561199013191843" ); // Skiff
 		vipMembersGold.Insert( "76561199142271709" ); // Josh
+		vipMembersGold.Insert( "76561199105471341" ); // Viper
 	}
 
 // Admin Loadout
