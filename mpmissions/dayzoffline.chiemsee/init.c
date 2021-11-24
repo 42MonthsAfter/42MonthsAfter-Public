@@ -155,6 +155,7 @@ class CustomMission: MissionServer
 		player.GetInventory().CreateInInventory(backpackArray.GetRandomElement());
 		player.GetInventory().CreateInInventory(knifeArray.GetRandomElement());
 		player.GetInventory().CreateInInventory("Lockpick");
+		player.GetInventory().CreateInInventory("TraderPlus_Wallet");
 		ItemBase rags = player.GetInventory().CreateInInventory("Rag");
 		rags.SetQuantity(4);
 		ItemBase light = player.GetInventory().CreateInInventory("Flashlight");
@@ -224,7 +225,7 @@ class CustomMission: MissionServer
 		ref TStringArray vestArray  = {""};	
 		ref TStringArray glassesArray = {""};
 		ref TStringArray shoesArray = {"MilitaryBoots_Black"};	
-		ref TStringArray maskArray = {""};	
+		ref TStringArray maskArray = {"GasMask"};	
 		ref TStringArray glovesArray = {"WorkingGloves_Black"};		
 		ref TStringArray foodArray = {"TacticalBaconCan"};
 		ref TStringArray drinkArray = {"MVS_Canteen_OD"};
@@ -248,6 +249,9 @@ class CustomMission: MissionServer
 		player.GetInventory().CreateInInventory("MVS_Patch_33");
 		player.GetInventory().CreateInInventory("MVS_Patch_33");
 		player.GetInventory().CreateInInventory("MVS_Patch_33");
+		player.GetInventory().CreateInInventory("SAK_Mung");
+		player.GetInventory().CreateInInventory("Zippo_new");
+		player.GetInventory().CreateInInventory("TraderPlus_Wallet");
 		ItemBase rags = player.GetInventory().CreateInInventory("BandageDressing");
 		rags.SetQuantity(4);
 		ItemBase light = player.GetInventory().CreateInInventory("Headtorch_Black");
@@ -270,7 +274,7 @@ class CustomMission: MissionServer
 		ref TStringArray vestArray  = {""};	
 		ref TStringArray glassesArray = {""};
 		ref TStringArray shoesArray = {"MilitaryBoots_Brown"};	
-		ref TStringArray maskArray = {""};	
+		ref TStringArray maskArray = {"GasMask"};	
 		ref TStringArray glovesArray = {"WorkingGloves_Black"};		
 		ref TStringArray foodArray = {"TacticalBaconCan"};
 		ref TStringArray drinkArray = {"MVS_Canteen_OD"};
@@ -294,6 +298,9 @@ class CustomMission: MissionServer
 		player.GetInventory().CreateInInventory("MVS_Patch_35");
 		player.GetInventory().CreateInInventory("MVS_Patch_35");
 		player.GetInventory().CreateInInventory("MVS_Patch_35");
+		player.GetInventory().CreateInInventory("SAK_Mung");
+		player.GetInventory().CreateInInventory("Zippo_new");
+		player.GetInventory().CreateInInventory("TraderPlus_Wallet");
 		ItemBase rags = player.GetInventory().CreateInInventory("BandageDressing");
 		rags.SetQuantity(4);
 		ItemBase light = player.GetInventory().CreateInInventory("Flashlight");
@@ -310,17 +317,17 @@ class CustomMission: MissionServer
 // Non-VIP Loadout (Default Loadout)
 	EntityAI randomLoadOut(PlayerBase player) 
 	{
-		ref TStringArray hatArray = {"BaseballCap_CMMG_Pink","BaseballCap_Pink","BaseballCap_Red"};
-		ref TStringArray topArray = {"Sweater_Red","Sweater_Blue","Sweater_Gray","Sweater_Green"};
-		ref TStringArray pantsArray = {"Jeans_Blue","Jeans_BlueDark","Jeans_Grey","Jeans_Brown","Jeans_Black","Jeans_Green"};	
+		ref TStringArray hatArray = {"BaseballCap_CMMG_Pink","BaseballCap_Pink","BaseballCap_Red","BeanieHat_Beige","BeanieHat_Blue","BeanieHat_Green","BeanieHat_Red","BoonieHat_Black","BoonieHat_DPM","BoonieHat_Dubok","BoonieHat_Flecktran","FlatCap_BlackCheck","FlatCap_Brown","FlatCap_Grey","FlatCap_Red"};
+		ref TStringArray topArray = {"Sweater_Red","Sweater_Blue","Sweater_Gray","Sweater_Green","Raincoat_Blue","Raincoat_Green","Raincoat_Orange","Raincoat_Yellow"};
+		ref TStringArray pantsArray = {"Jeans_Blue","Jeans_BlueDark","Jeans_Grey","Jeans_Brown","Jeans_Black","Jeans_Green","CargoPants_Beige","CargoPants_Blue","Breeches_Beetcheck","Breeches_Red","Breeches_Browncheck"};	
 		ref TStringArray vestArray  = {""};	
 		ref TStringArray glassesArray = {""};
 		ref TStringArray shoesArray = {"CombatBoots_Grey","CombatBoots_Beige","CombatBoots_Brown","CombatBoots_Black","CombatBoots_Green"};	
-		ref TStringArray maskArray = {""};	
-		ref TStringArray glovesArray = {""};		
-		ref TStringArray foodArray = {"BakedBeansCan"};
-		ref TStringArray drinkArray = {"SodaCan_Cola"};
-		ref TStringArray backpackArray = {"DryBag_Yellow","DryBag_Orange","DryBag_Red","DryBag_Blue","DryBag_Black","DryBag_Green"};
+		ref TStringArray maskArray = {"GasMask"};	
+		ref TStringArray glovesArray = {"LeatherGloves_Beige","LeatherGloves_Black","NBCGlovesYellow","NBCGlovesGray","OMNOGloves_Gray","SurgicalGloves_Green","SurgicalGloves_Blue"};		
+		ref TStringArray foodArray = {"BakedBeansCan","PeachesCan","PorkCan","SardinesCan","SpaghettiCan"};
+		ref TStringArray drinkArray = {"SodaCan_Cola","SodaCan_Fronta","SodaCan_Pipsi"};
+		ref TStringArray backpackArray = {"MountainBag_Red","MountainBag_Orange","MountainBag_Green","MountainBag_Blue","DryBag_Yellow","DryBag_Orange","DryBag_Red","DryBag_Blue","DryBag_Black","DryBag_Green"};
 		ref TStringArray knifeArray  = {"HuntingKnife"};
 		ref TStringArray meleeArray = {""};
 
@@ -337,6 +344,10 @@ class CustomMission: MissionServer
 		player.GetInventory().CreateInInventory(backpackArray.GetRandomElement());
 		player.GetInventory().CreateInInventory(knifeArray.GetRandomElement());
 		player.GetInventory().CreateInInventory("Armband_White");
+		player.GetInventory().CreateInInventory("GasMask_Filter");
+		player.GetInventory().CreateInInventory("Matchbox");
+		player.GetInventory().CreateInInventory("SAK_Mung");
+		player.GetInventory().CreateInInventory("TraderPlus_Wallet");
 		ItemBase rags = player.GetInventory().CreateInInventory("Rag");
 		rags.SetQuantity(4);
 		ItemBase light = player.GetInventory().CreateInInventory("Flashlight");
