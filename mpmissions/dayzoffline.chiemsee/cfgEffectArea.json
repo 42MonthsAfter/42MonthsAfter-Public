@@ -5,7 +5,7 @@
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
 				"Pos": [ 3109, 0, 8378 ],
-				"Radius": 160,
+				"Radius": 100,
 				"PosHeight": 22,
 				"NegHeight": 10,
 				"InnerRingCount": 10,
@@ -28,7 +28,7 @@
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
 				"Pos": [ 2873, 0, 8403 ],
-				"Radius": 160,
+				"Radius": 100,
 				"PosHeight": 26,
 				"NegHeight": 10,
 				"InnerRingCount": 10,
@@ -51,7 +51,7 @@
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
 				"Pos": [ 3044, 0, 1692 ],
-				"Radius": 100,
+				"Radius": 60,
 				"PosHeight": 22,
 				"NegHeight": 2,
 				"InnerRingCount": 1,
@@ -97,7 +97,7 @@
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
 				"Pos": [ 3428, 0, 1436 ],
-				"Radius": 100,
+				"Radius": 60,
 				"PosHeight": 11,
 				"NegHeight": 10,
 				"InnerRingCount": 5,
