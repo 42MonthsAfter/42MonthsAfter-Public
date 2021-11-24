@@ -4,7 +4,7 @@
   <type name="MVS_Patch_35">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -15,7 +15,7 @@
   <type name="MVS_Patch_33">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -26,7 +26,7 @@
   <type name="MVS_Combat_Vest_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -37,7 +37,7 @@
   <type name="MVS_Combat_Vest_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -48,7 +48,7 @@
   <type name="MVS_Combat_Vest_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -59,7 +59,7 @@
   <type name="MVS_Combat_Vest_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -70,7 +70,7 @@
   <type name="MVS_Magazine_Pouch_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -81,7 +81,7 @@
   <type name="MVS_Magazine_Pouch_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -92,7 +92,7 @@
   <type name="MVS_Magazine_Pouch_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -103,7 +103,7 @@
   <type name="MVS_Magazine_Pouch_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -114,7 +114,7 @@
   <type name="MVS_Admin_Pouch_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -125,7 +125,7 @@
   <type name="MVS_Admin_Pouch_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -136,7 +136,7 @@
   <type name="MVS_Admin_Pouch_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -147,7 +147,7 @@
   <type name="MVS_Admin_Pouch_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -158,7 +158,7 @@
   <type name="MVS_Utility_Pouch_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -169,7 +169,7 @@
   <type name="MVS_Utility_Pouch_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -180,7 +180,7 @@
   <type name="MVS_Utility_Pouch_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -191,7 +191,7 @@
   <type name="MVS_Utility_Pouch_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -202,7 +202,7 @@
   <type name="MVS_Medical_Pouch_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -213,7 +213,7 @@
   <type name="MVS_Medical_Pouch_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -224,7 +224,7 @@
   <type name="MVS_Medical_Pouch_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -235,7 +235,7 @@
   <type name="MVS_Medical_Pouch_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -246,7 +246,7 @@
   <type name="MVS_Helmet_01_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -257,7 +257,7 @@
   <type name="MVS_Helmet_01_Tan_Worn">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -268,7 +268,7 @@
   <type name="MVS_Helmet_01_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -279,7 +279,7 @@
   <type name="MVS_Helmet_01_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -290,7 +290,7 @@
   <type name="MVS_Helmet_01_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -301,7 +301,7 @@
   <type name="MVS_Pack_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -312,7 +312,7 @@
   <type name="MVS_Pack_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -323,7 +323,7 @@
   <type name="MVS_Pack_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -334,7 +334,7 @@
   <type name="MVS_Pack_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -367,7 +367,7 @@
   <type name="MVS_Belt_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -378,7 +378,7 @@
   <type name="MVS_Belt_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -389,7 +389,7 @@
   <type name="MVS_Holster_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -400,7 +400,7 @@
   <type name="MVS_Holster_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -411,7 +411,7 @@
   <type name="MVS_Holster_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -422,7 +422,7 @@
   <type name="MVS_Holster_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -433,7 +433,7 @@
   <type name="MVS_Sheath_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -444,7 +444,7 @@
   <type name="MVS_Sheath_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -455,7 +455,7 @@
   <type name="MVS_Sheath_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -466,7 +466,7 @@
   <type name="MVS_Sheath_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -477,7 +477,7 @@
   <type name="MVS_S10Respirator_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -488,7 +488,7 @@
   <type name="MVS_S10Respirator_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -499,7 +499,7 @@
   <type name="MVS_S10Respirator_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -510,7 +510,7 @@
   <type name="MVS_S10Respirator_FS">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -521,7 +521,7 @@
   <type name="MVS_Combat_Vest_Heavy_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -532,7 +532,7 @@
   <type name="MVS_Combat_Vest_Heavy_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -543,7 +543,7 @@
   <type name="MVS_Combat_Vest_Heavy_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -554,7 +554,7 @@
   <type name="MVS_Combat_Vest_Heavy_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -565,7 +565,7 @@
   <type name="MVS_Heavy_Pouch_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -576,7 +576,7 @@
   <type name="MVS_Heavy_Pouch_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -587,7 +587,7 @@
   <type name="MVS_Heavy_Pouch_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -598,7 +598,7 @@
   <type name="MVS_Heavy_Pouch_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -609,7 +609,7 @@
   <type name="MVS_Taco_Pouch_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -620,7 +620,7 @@
   <type name="MVS_Taco_Pouch_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -631,7 +631,7 @@
   <type name="MVS_Taco_Pouch_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -642,7 +642,7 @@
   <type name="MVS_Taco_Pouch_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -653,7 +653,7 @@
   <type name="MVS_Assault_Pack_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -664,7 +664,7 @@
   <type name="MVS_Assault_Pack_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -675,7 +675,7 @@
   <type name="MVS_Assault_Pack_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -686,7 +686,7 @@
   <type name="MVS_Assault_Pack_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -697,7 +697,7 @@
   <type name="MVS_Radio_Pack_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -708,7 +708,7 @@
   <type name="MVS_Radio_Pack_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -719,7 +719,7 @@
   <type name="MVS_Radio_Pack_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -730,7 +730,7 @@
   <type name="MVS_Radio_Pack_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -741,7 +741,7 @@
   <type name="MVS_Pakol_brown">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -752,7 +752,7 @@
   <type name="MVS_Pakol_Comtac">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -763,7 +763,7 @@
   <type name="MVS_Radio">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -833,7 +833,7 @@
   <type name="MVS_OpsCore_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -844,7 +844,7 @@
   <type name="MVS_OpsCore_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -855,7 +855,7 @@
   <type name="MVS_OpsCore_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -866,7 +866,7 @@
   <type name="MVS_OpsCore_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -877,7 +877,7 @@
   <type name="MVS_OpsCore_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -888,7 +888,7 @@
   <type name="MVS_Combat_Vest_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -899,7 +899,7 @@
   <type name="MVS_Combat_Vest_Heavy_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -910,7 +910,7 @@
   <type name="MVS_Heavy_Pouch_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -921,7 +921,7 @@
   <type name="MVS_Magazine_Pouch_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -932,7 +932,7 @@
   <type name="MVS_Admin_Pouch_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -943,7 +943,7 @@
   <type name="MVS_Utility_Pouch_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -954,7 +954,7 @@
   <type name="MVS_Medical_Pouch_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -965,7 +965,7 @@
   <type name="MVS_Pack_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -976,7 +976,7 @@
   <type name="MVS_Belt_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -987,7 +987,7 @@
   <type name="MVS_Holster_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -998,7 +998,7 @@
   <type name="MVS_Sheath_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1009,7 +1009,7 @@
   <type name="MVS_Taco_Pouch_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1020,7 +1020,7 @@
   <type name="MVS_Assault_Pack_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1065,7 +1065,7 @@
   <type name="MVS_Shirt_BDU">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1076,7 +1076,7 @@
   <type name="MVS_Pants_BDU">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1098,7 +1098,7 @@
   <type name="MVS_GorkaJacket">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1109,7 +1109,7 @@
   <type name="MVS_GorkaPants">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1120,7 +1120,7 @@
   <type name="MVS_GorkaJacket_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1131,7 +1131,7 @@
   <type name="MVS_GorkaPants_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1186,7 +1186,7 @@
   <type name="MVS_ArmoredHelmet_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1197,7 +1197,7 @@
   <type name="MVS_ArmoredHelmet_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1208,7 +1208,7 @@
   <type name="MVS_ArmoredHelmet_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1219,7 +1219,7 @@
   <type name="MVS_ArmoredHelmet_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1230,7 +1230,7 @@
   <type name="MVS_ArmoredHelmet_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1241,7 +1241,7 @@
   <type name="MVS_WarriorHelmet_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1252,7 +1252,7 @@
   <type name="MVS_WarriorHelmet_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1329,7 +1329,7 @@
   <type name="MVS_Rucksack_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1340,7 +1340,7 @@
   <type name="MVS_Rucksack_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1351,7 +1351,7 @@
   <type name="MVS_Compact_1_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1362,7 +1362,7 @@
   <type name="MVS_Compact_1_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1406,7 +1406,7 @@
   <type name="MVS_Compact_2_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1417,7 +1417,7 @@
   <type name="MVS_Compact_2_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1428,7 +1428,7 @@
   <type name="MVS_Compact_2_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1439,7 +1439,7 @@
   <type name="MVS_Compact_2_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1450,7 +1450,7 @@
   <type name="MVS_Compact_2_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1461,7 +1461,7 @@
   <type name="MVS_ChestRig_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1472,7 +1472,7 @@
   <type name="MVS_ChestRig_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1483,7 +1483,7 @@
   <type name="MVS_ChestRig_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1494,7 +1494,7 @@
   <type name="MVS_ChestRig_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1505,7 +1505,7 @@
   <type name="MVS_ChestRig_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1516,7 +1516,7 @@
   <type name="MVS_Shroud_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1604,7 +1604,7 @@
   <type name="MVS_ChestRig_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1615,7 +1615,7 @@
   <type name="MVS_ChestRig_Multicam_Tropic">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1626,7 +1626,7 @@
   <type name="MVS_ChestRig_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1637,7 +1637,7 @@
   <type name="MVS_Compact_1_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1648,7 +1648,7 @@
   <type name="MVS_Compact_1_Multicam_Tropic">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1659,7 +1659,7 @@
   <type name="MVS_Compact_1_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1670,7 +1670,7 @@
   <type name="MVS_Compact_2_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1681,7 +1681,7 @@
   <type name="MVS_Compact_2_Multicam_Tropic">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1692,7 +1692,7 @@
   <type name="MVS_Compact_2_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1703,7 +1703,7 @@
   <type name="MVS_Rucksack_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1714,7 +1714,7 @@
   <type name="MVS_Rucksack_Multicam_Tropic">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1725,7 +1725,7 @@
   <type name="MVS_Rucksack_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1736,7 +1736,7 @@
   <type name="MVS_WarriorHelmet_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1747,7 +1747,7 @@
   <type name="MVS_WarriorHelmet_Multicam_Tropic">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1758,7 +1758,7 @@
   <type name="MVS_WarriorHelmet_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1769,7 +1769,7 @@
   <type name="MVS_ArmoredHelmet_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1780,7 +1780,7 @@
   <type name="MVS_ArmoredHelmet_Multicam_Tropic">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1791,7 +1791,7 @@
   <type name="MVS_ArmoredHelmet_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1802,7 +1802,7 @@
   <type name="MVS_FlatCap_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1857,7 +1857,7 @@
   <type name="MVS_Shirt_BDU_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1901,7 +1901,7 @@
   <type name="MVS_GorkaPants_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1912,7 +1912,7 @@
   <type name="MVS_GorkaPants_Multicam_Tropic">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1923,7 +1923,7 @@
   <type name="MVS_GorkaPants_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1934,7 +1934,7 @@
   <type name="MVS_GorkaJacket_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1945,7 +1945,7 @@
   <type name="MVS_GorkaJacket_Multicam_Tropic">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -1956,7 +1956,7 @@
   <type name="MVS_GorkaJacket_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2003,7 +2003,7 @@
   <type name="MVS_Radio_Pack_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2014,7 +2014,7 @@
   <type name="MVS_Radio_Pack_Multicam_Tropic">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2025,7 +2025,7 @@
   <type name="MVS_Radio_Pack_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2036,7 +2036,7 @@
   <type name="MVS_Assault_Pack_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2047,7 +2047,7 @@
   <type name="MVS_Assault_Pack_Multicam_Tropic">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2058,7 +2058,7 @@
   <type name="MVS_Assault_Pack_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2069,7 +2069,7 @@
   <type name="MVS_Taco_Pouch_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2080,7 +2080,7 @@
   <type name="MVS_Taco_Pouch_Multicam_Tropic">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2091,7 +2091,7 @@
   <type name="MVS_Taco_Pouch_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2102,7 +2102,7 @@
   <type name="MVS_Sheath_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2113,7 +2113,7 @@
   <type name="MVS_Sheath_Multicam_Tropic">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2124,7 +2124,7 @@
   <type name="MVS_Sheath_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2168,7 +2168,7 @@
   <type name="MVS_Belt_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2190,7 +2190,7 @@
   <type name="MVS_Belt_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2201,7 +2201,7 @@
   <type name="MVS_Pack_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2223,7 +2223,7 @@
   <type name="MVS_Pack_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2399,7 +2399,7 @@
   <type name="MVS_Combat_Vest_Heavy_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2410,7 +2410,7 @@
   <type name="MVS_Combat_Vest_Heavy_Multicam_Tropic">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2421,7 +2421,7 @@
   <type name="MVS_Combat_Vest_Heavy_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2498,7 +2498,7 @@
   <type name="MVS_CombatPants_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2509,7 +2509,7 @@
   <type name="MVS_CombatPants_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2619,7 +2619,7 @@
   <type name="MVS_CombatShirt_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2630,7 +2630,7 @@
   <type name="MVS_CombatShirt_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -2641,7 +2641,7 @@
   <type name="MVS_CombatShirt_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3015,7 +3015,7 @@
   <type name="MVS_Altyn_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3026,7 +3026,7 @@
   <type name="MVS_Altyn_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3037,7 +3037,7 @@
   <type name="MVS_Altyn_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3048,7 +3048,7 @@
   <type name="MVS_Altyn_Visor_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3059,7 +3059,7 @@
   <type name="MVS_Altyn_Visor_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3070,7 +3070,7 @@
   <type name="MVS_Altyn_Visor_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3081,7 +3081,7 @@
   <type name="MVS_Altyn_Visor_Lifted_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3092,7 +3092,7 @@
   <type name="MVS_Altyn_Visor_Lifted_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3103,7 +3103,7 @@
   <type name="MVS_Altyn_Visor_Lifted_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3114,7 +3114,7 @@
   <type name="MVS_PMK2Respirator_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3125,7 +3125,7 @@
   <type name="MVS_PMK2Respirator_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3136,7 +3136,7 @@
   <type name="MVS_PMK2Respirator_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3147,7 +3147,7 @@
   <type name="MVS_PMK2Respirator_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3158,7 +3158,7 @@
   <type name="MVS_6B47_Helmet_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3169,7 +3169,7 @@
   <type name="MVS_6B47_Helmet_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3180,7 +3180,7 @@
   <type name="MVS_6B47_Helmet_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3191,7 +3191,7 @@
   <type name="MVS_Helmet_02_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3202,7 +3202,7 @@
   <type name="MVS_Helmet_02_OD">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3213,7 +3213,7 @@
   <type name="MVS_Helmet_02_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3224,7 +3224,7 @@
   <type name="MVS_Helmet_02_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3235,7 +3235,7 @@
   <type name="MVS_Helmet_02_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3246,7 +3246,7 @@
   <type name="MVS_Helmet_02_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3257,7 +3257,7 @@
   <type name="MVS_Helmet_02_Multicam_Tropic">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3268,7 +3268,7 @@
   <type name="MVS_Helmet_02_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3290,7 +3290,7 @@
   <type name="MVS_SlingPack_Tan">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3301,7 +3301,7 @@
   <type name="MVS_SlingPack_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3312,7 +3312,7 @@
   <type name="MVS_SlingPack_Multicam">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3323,7 +3323,7 @@
   <type name="MVS_SlingPack_Multicam_Black">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3334,7 +3334,7 @@
   <type name="MVS_SlingPack_Multicam_Tropic">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3345,7 +3345,7 @@
   <type name="MVS_SlingPack_ERDL">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3356,7 +3356,7 @@
   <type name="MVS_SlingPack_Snow">
     <nominal>0</nominal>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>0</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
