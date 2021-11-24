@@ -1,0 +1,320 @@
+{
+    "LastCapturePoint": -1,
+    "ConfigVersion": "1",
+    "Interval": 1800,
+    "StartDelay": 600,
+    "CaptureTime": 900,
+    "EmptyEventTimeOut": 1200,
+    "CleanUpTime": 600,
+	"PreStartDelay": 600,
+    "Hills": [ 
+        {
+            "Name": "North West Airfield",
+            "X": 4664.910156,
+            "Y": 344.792877,
+            "Z": 9591.740234,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "North East Airfield",
+            "X": 12289.6,
+            "Y": 145.95,
+            "Z": 12553.36,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "VMC",
+            "X": 4517.41,
+            "Y": 316.51,
+            "Z": 8278.70,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Prison Island",
+            "X": 2780.75,
+            "Y": 25.63,
+            "Z": 1268.70,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Staroye Tents",
+            "X": 10432.89,
+            "Y": 283.07,
+            "Z": 5961.29,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Zelenogorsk Military",
+            "X": 2480.849854,
+            "Y": 193.264557,
+            "Z": 5111.975098,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Pavlovo Military",
+            "X": 2124.848877,
+            "Y": 91.788811,
+            "Z": 3369.222900,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Balota Airstrip",
+            "X": 4941.769043,
+            "Y": 9.512493,
+            "Z": 2534.592529,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Gorka Military",
+            "X": 10464.839844,
+            "Y": 177.004318,
+            "Z": 9175.589844,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Novy Lug Military",
+            "X": 9582.542969,
+            "Y": 243.210297,
+            "Z": 11835.180664,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Ostry Military",
+            "X": 10932.9,
+            "Y": 219.951,
+            "Z": 13391.9,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Turovo Militarry",
+            "X": 13616.764648,
+            "Y": 5.060441,
+            "Z": 13719.567383,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Severograd Military",
+            "X": 7132.035645,
+            "Y": 130.260376,
+            "Z": 12733.005859,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Zaprudnoye Military",
+            "X": 4955.755371,
+            "Y": 170.696014,
+            "Z": 12978.726563,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Grozovy Military",
+            "X": 3666.918213,
+            "Y": 361.417267,
+            "Z": 14921.191406,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Tri Kresta Military",
+            "X": 322.676300,
+            "Y": 294.962463,
+            "Z": 9361.708984,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Sosnovy Military",
+            "X": 2659.511230,
+            "Y": 362.972382,
+            "Z": 6760.672363,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Tikhiyzaliv Military",
+            "X": 785.757446,
+            "Y": 6.029531,
+            "Z": 1854.537476,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Bash",
+            "X": 4037.88,
+            "Y": 375.95,
+            "Z": 11708.69,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Stary Sobor",
+            "X": 6310.93,
+            "Y": 305.08,
+            "Z": 7796.99,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Troitskoe",
+            "X": 7942.32,
+            "Y": 338.64,
+            "Z": 14643.09,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Mogilevka",
+            "X": 7760.112793,
+            "Y": 219.634140,
+            "Z": 5145.890137,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        }
+    ],
+    "RewardPools": [
+        {
+            "Name": "1",
+            "RewardContainer": "hardigg_Mung",
+            "Rewards": [
+                {
+                    "Item": "M4A1",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "",
+                    "ItemAttachments": []
+                }
+            ]
+        },
+		{
+            "Name": "2",
+            "RewardContainer": "hardigg_Mung",
+            "Rewards": [
+                {
+                    "Item": "AKM",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "",
+                    "ItemAttachments": []
+                }
+            ]
+        }
+    ],
+    "ZombiesClassNames": [
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_Summer",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Woodland",
+        "ZmbM_usSoldier_normal_Desert"
+    ],
+    "FullMapCheckTimer": 5,
+    "EventTickTime": 1,
+    "Logging": 1
+}

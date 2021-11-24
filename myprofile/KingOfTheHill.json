@@ -1,0 +1,497 @@
+{
+    "LastCapturePoint": -1,
+    "ConfigVersion": "1",
+    "Interval": 1800,
+    "StartDelay": 600,
+    "CaptureTime": 900,
+    "EmptyEventTimeOut": 1200,
+    "CleanUpTime": 600,
+	"PreStartDelay": 600,
+    "Hills": [ 
+        {
+            "Name": "Bad Endorf",
+            "X": 2258.22,
+            "Y": 2.74451,
+            "Z": 8757.87,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Stien",
+            "X": 4636.95,
+            "Y": 74.6339,
+            "Z": 7618.15,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Berg Telsenham",
+            "X": 2536.9,
+            "Y": 42.49,
+            "Z": 9924.27,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Crater",
+            "X": 7259.23,
+            "Y": 11.26,
+            "Z": 9628.44,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Burgendorf",
+            "X": 1782.21,
+            "Y": 2.07,
+            "Z": 3566.86,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Alsching",
+            "X": 8258.99,
+            "Y": 9.7125,
+            "Z": 7218.86,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Oberleiten",
+            "X": 6529.24,
+            "Y": 8.65431,
+            "Z": 5950.17,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Antwort",
+            "X": 2026.81,
+            "Y": 56.5225,
+            "Z": 5204.5,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "AltSchwanstein",
+            "X": 3955.79,
+            "Y": 50.8065,
+            "Z": 1270.95,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Sagewerk",
+            "X": 4277.72,
+            "Y": 12.5225,
+            "Z": 6704.24,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+		{
+            "Name": "Fraueninsel",
+            "X": 8954.52,
+            "Y": 6.92623,
+            "Z": 5009.63,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        }
+    ],
+    "RewardPools": [
+        {
+            "Name": "1",
+            "RewardContainer": "hardigg_Mung",
+            "Rewards": [
+                {
+                    "Item": "AmmoBox_556x45_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_556x45_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_556x45_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_556x45_20Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "AmmoBox_556x45_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_556x45_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_556x45_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_556x45_20Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_Ruger556_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Ruger556_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Ruger556_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Ruger556_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_Ruger556_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Ruger556_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Ruger556_MagPul",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Ruger556_MagPul",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Ruger556_MagPul",
+                    "ItemAttachments": []
+                }
+            ]
+        },{
+            "Name": "2",
+            "RewardContainer": "hardigg_Mung",
+            "Rewards": [
+                {
+                    "Item": "Ammo_308Win",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "Ammo_308Win",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "Ammo_308Win",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "Ammo_308Win",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Ammo_308Win",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "Ammo_308Win",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "Ammo_308Win",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "Ammo_308Win",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Ammo_308Win",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_RemingtonMSR_mag_5Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_RemingtonMSR_mag_5Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_RemingtonMSR_mag_5Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_RemingtonMSR_mag_5Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_RemingtonMSR",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_RemingtonMSR",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Remington700",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Remington700",
+                    "ItemAttachments": []
+                }
+            ]
+        },{
+            "Name": "3",
+            "RewardContainer": "hardigg_Mung",
+            "Rewards": [
+                {
+                    "Item": "AmmoBox_9x39AP_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_9x39AP_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_9x39AP_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_9x39AP_20Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "AmmoBox_9x39AP_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_9x39AP_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_9x39AP_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_9x39AP_20Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_ASVal_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_ASVal_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_ASVal_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_ASVal_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_ASVal_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_ASVal_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_ASVal",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_ASVal",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_ASVal",
+                    "ItemAttachments": []
+                }
+            ]
+        },{
+            "Name": "4",
+            "RewardContainer": "hardigg_Mung",
+            "Rewards": [
+                {
+                    "Item": "AmmoBox_762x39_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_762x39_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_762x39_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_762x39_20Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "AmmoBox_762x39_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_762x39_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_762x39_20Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "AmmoBox_762x39_20Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_AK47_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_AK47_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_AK47_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_AK47_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_AK47_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_AK47_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_AK47",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_AK47",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_AK47",
+                    "ItemAttachments": []
+                }
+            ]
+        },{
+            "Name": "5",
+            "RewardContainer": "hardigg_Mung",
+            "Rewards": [
+                {
+                    "Item": "TWP_Ammo_300WinMag",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Ammo_300WinMag",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Ammo_300WinMag",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Ammo_300WinMag",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_Ammo_300WinMag",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Ammo_300WinMag",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Ammo_300WinMag",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Ammo_300WinMag",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_Ammo_300WinMag",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Ammo_300WinMag",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Ammo_300WinMag",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Ammo_300WinMag",
+                    "ItemAttachments": []
+                },
+				{
+                    "Item": "TWP_Ammo_300WinMag",
+                    "ItemAttachments": []
+                }
+            ]
+        }
+    ],
+    "ZombiesClassNames": [
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_Summer",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Woodland",
+        "ZmbM_usSoldier_normal_Desert"
+    ],
+    "FullMapCheckTimer": 5,
+    "EventTickTime": 1,
+    "Logging": 1
+}
