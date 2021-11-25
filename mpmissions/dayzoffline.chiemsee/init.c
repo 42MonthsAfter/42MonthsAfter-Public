@@ -129,17 +129,17 @@ class CustomMission: MissionServer
 // Admin Loadout
 	EntityAI adminLoadOut(PlayerBase player)
 	{
-		ref TStringArray hatArray = {" "};
-		ref TStringArray topArray = {"Zeroy_fishing_HuntingJacket_camo"};
+		ref TStringArray hatArray = {"MVS_Cap_Tan"};
+		ref TStringArray topArray = {"Zeroy_fishing_Raincoat_Camo"};
 		ref TStringArray pantsArray = {"Jeans_Blue"};	
-		ref TStringArray vestArray  = {" "};	
-		ref TStringArray glassesArray = {""};
+		ref TStringArray vestArray  = {""};	
+		ref TStringArray glassesArray = {"ThickFramesGlasses"};
 		ref TStringArray shoesArray = {"CombatBoots_Beige"};	
-		ref TStringArray maskArray = {" "};	
+		ref TStringArray maskArray = {""};	
 		ref TStringArray glovesArray = {"TacticalGloves_Black"};		
 		ref TStringArray foodArray = {"TacticalBaconCan"};
-		ref TStringArray drinkArray = {"Canteen"};
-		ref TStringArray backpackArray = {""};
+		ref TStringArray drinkArray = {"MVS_Canteen_Tan"};
+		ref TStringArray backpackArray = {"MVS_SlingPack_Tan"};
 		ref TStringArray knifeArray  = {"HuntingKnife"};
 		ref TStringArray meleeArray = {"Machete"};
 
@@ -155,17 +155,17 @@ class CustomMission: MissionServer
 		player.GetInventory().CreateInInventory(drinkArray.GetRandomElement());
 		player.GetInventory().CreateInInventory(backpackArray.GetRandomElement());
 		player.GetInventory().CreateInInventory(knifeArray.GetRandomElement());
-		player.GetInventory().CreateInInventory("Lockpick");
-		player.GetInventory().CreateInInventory("TraderPlus_Wallet");
-		ItemBase rags = player.GetInventory().CreateInInventory("Rag");
+		player.GetInventory().CreateInInventory("TWP_WinchesterRifle");
+		player.GetInventory().CreateInInventory("TWP_OldRifle_Optic");
+		ItemBase rags = player.GetInventory().CreateInInventory("BandageDressing");
 		rags.SetQuantity(4);
-		ItemBase light = player.GetInventory().CreateInInventory("Flashlight");
+		ItemBase light = player.GetInventory().CreateInInventory("maglite_mung");
 		light.GetInventory().CreateAttachment("Battery9V");
-		EntityAI gun = player.GetInventory().CreateInInventory("AKM");							// Weapon
-		gun.GetInventory().CreateAttachment("AK_RailHndgrd");								// Weapon Attachment 
+		EntityAI gun = player.GetInventory().CreateInInventory("TWP_MP5Silenced");							// Weapon
+		gun.GetInventory().CreateAttachment("TWP_TrijiconACOG");								// Weapon Attachment 
 		ItemBase gunlight = gun.GetInventory().CreateAttachment("UniversalLight");					// Weapon Attachment (Universal Light)
 		gunlight.GetInventory().CreateAttachment("Battery9V");								//     Add battery to Universal Light
-		addMags(player, "Mag_AKM_30Rnd", 4);										// Magazines
+		addMags(player, "TWP_MP5Silenced_mag_30Rnd", 3);										// Magazines
 		ItemBase melee = player.GetInventory().CreateInInventory(meleeArray.GetRandomElement());			// Melee
 				
 		player.SetQuickBarEntityShortcut(gun, 0, true);
