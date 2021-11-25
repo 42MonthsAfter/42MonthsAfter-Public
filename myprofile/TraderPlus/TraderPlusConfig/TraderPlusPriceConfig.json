@@ -2821,10 +2821,10 @@
                 "BarrelHoles_Green,1,500,1,1,1",
                 "BarrelHoles_Red,1,500,1,1,1",
                 "BarrelHoles_Yellow,1,500,1,1,1",
-                "Barrel_Blue,1,500,1,1,1",
-                "Barrel_Green,1,500,1,1,1",
-                "Barrel_Red,1,500,1,1,1",
-                "Barrel_Yellow,1,500,1,1,1",
+                "Barrel_Blue,1,500,0,1,1",
+                "Barrel_Green,1,500,0,1,1",
+                "Barrel_Red,1,500,0,1,1",
+                "Barrel_Yellow,1,500,0,1,1",
                 "SeaChest,1,500,1,1,1",
                 "Msp_MedievalChest,1,500,1,1,1",
                 "Msp_TreasureChest,1,500,1,1,1",
@@ -2995,14 +2995,14 @@
                 "Msp_Safe,1,500,1,1,1",
                 "gunwall_metal_kit_mung,1,500,1,1,1",
                 "gunwall_kit_mung,1,500,1,1,1",
-                "Msp_WaterBarrel_Plastic,1,500,1,1,1",
-                "Msp_WaterBarrel_Plastic_Yellow,1,500,1,1,1",
-                "Msp_WaterBarrel_Plastic_Green,1,500,1,1,1",
-                "Msp_WaterBarrel_Plastic_Red,1,500,1,1,1",
-                "Msp_WaterBarrel_Plastic_Black,1,500,1,1,1",
-                "Msp_WaterBarrel_Plastic_White,1,500,1,1,1",
-                "Msp_WaterBarrel,1,500,1,1,1",
-                "Msp_WaterBarrel_Darkwood,1,500,1,1,1",
+                "Msp_WaterBarrel_Plastic,1,500,0,1,1",
+                "Msp_WaterBarrel_Plastic_Yellow,1,500,0,1,1",
+                "Msp_WaterBarrel_Plastic_Green,1,500,0,1,1",
+                "Msp_WaterBarrel_Plastic_Red,1,500,0,1,1",
+                "Msp_WaterBarrel_Plastic_Black,1,500,0,1,1",
+                "Msp_WaterBarrel_Plastic_White,1,500,0,1,1",
+                "Msp_WaterBarrel,1,500,0,1,1",
+                "Msp_WaterBarrel_Darkwood,1,500,0,1,1",
                 "Msp_WaterBarrel_Stand,1,500,1,1,1",
                 "Msp_WaterBarrel_Stand_Darkwood,1,500,1,1,1",
                 "Msp_WaterBarrel_Valve_Faucet,1,500,1,1,1",
@@ -4076,7 +4076,9 @@
             "CategoryName": "RLF Hats",
             "Products": [
                 "MVS_Cap_Black,1,-1,1,1,1",
-                "MVS_Cap_Multicam_Black,1,-1,1,1,1"
+                "MVS_Cap_Multicam_Black,1,-1,1,1,1",
+                "MVS_BoonieHat_Multicam_Black,1,-1,1,50,50",
+                "MVS_Comtacs_Black,1,-1,1,100,100"
             ]
         },
         {
@@ -4084,7 +4086,7 @@
             "Products": [
                 "BallisticHelmet_Black,1,-1,1,2200,2200",
                 "MVS_Helmet_01_Black,1,-1,1,1000,1000",
-                "MVS_Helmet_01_Multicam_Black,1,-1,1,1000,10001",
+                "MVS_Helmet_01_Multicam_Black,1,-1,1,1000,1000",
                 "MVS_Helmet_02_Black,1,-1,1,1400,1400",
                 "MVS_Helmet_02_Multicam_Black,1,-1,1,1400,1400",
                 "MVS_6B47_Helmet_Black,1,-1,1,2000,2000",
@@ -4095,8 +4097,8 @@
                 "MVS_WarriorHelmet_Black,1,-1,1,3000,3000",
                 "MVS_WarriorHelmet_Multicam_Black,1,-1,1,3000,3000",
                 "MVS_Altyn_Black,1,-1,1,2800,2800",
-                "MVS_Altyn_Visor_Black,1,-1,1,2800,2800",
-                "MVS_Altyn_Visor_Lifted_Black,1,-1,1,2800,2800"
+                "MVS_Altyn_Visor_Black,1,-1,1,200,200",
+                "MVS_Altyn_Visor_Lifted_Black,1,-1,1,200,200"
             ]
         },
         {
@@ -4107,7 +4109,8 @@
                 "MVS_Balaclava_Black,1,-1,1,80,80",
                 "MVS_Facemask_Black,1,-1,1,100,100",
                 "MVS_S10Respirator_Black,1,-1,1,180,180",
-                "MVS_PMK2Respirator_Black,1,-1,1,220,220"
+                "MVS_PMK2Respirator_Black,1,-1,1,220,220",
+                "MVS_M50Respirator_Black,1,-1,1,250,250"
             ]
         },
         {
@@ -4136,8 +4139,10 @@
         {
             "CategoryName": "RLF Footware",
             "Products": [
+                "JungleBoots_Black,1,-1,1,1,1",
                 "MilitaryBoots_Redpunk,1,-1,1,100,100",
-                "MilitaryBoots_Black,1,-1,1,100,100"
+                "MilitaryBoots_Black,1,-1,1,100,100",
+                "CombatBoots_Black,1,-1,1,100,100"
             ]
         },
         {
@@ -4167,13 +4172,14 @@
                 "MVS_Belt_Multicam_Black,1,-1,1,100,100",
                 "MVS_Holster_Black,1,-1,1,80,80",
                 "MVS_Holster_Multicam_Black,1,-1,1,80,80",
-                "MVS_Canteen_Black,1,-1,1,60,60",
-                "MVS_Canteen_Multicam_Black,1,-1,1,60,60",
+                "MVS_Canteen_Black,1,-1,0,60,60",
+                "MVS_Canteen_Multicam_Black,1,-1,0,60,60",
+                "MVS_Sheath_Black,1,-1,1,50,50",
                 "MVS_Sheath_Multicam_Black,1,-1,1,50,50",
                 "MVS_Molle_Panel_Black,1,-1,1,120,120",
                 "MVS_Molle_Panel_Multicam_Black,1,-1,1,120,120",
-                "MVS_Utility_Pouch_Multicam_Black,1,-1,1,120,120",
                 "MVS_Utility_Pouch_Black,1,-1,1,120,120",
+                "MVS_Utility_Pouch_Multicam_Black,1,-1,1,120,120",
                 "MVS_Medical_Pouch_Black,1,-1,1,120,120",
                 "MVS_Medical_Pouch_Multicam_Black,1,-1,1,120,120",
                 "MVS_Admin_Pouch_Black,1,-1,1,140,140",
@@ -5117,7 +5123,7 @@
                 "BoletusMushroom,1,500,-1,1,1",
                 "PleurotusMushroom,1,500,-1,1,1",
                 "PsilocybeMushroom,1,500,-1,1,1",
-                "PowderedMilk,1,500,-1,1,1",
+                "PowderedMilk,1,500,.-1,1,1",
                 "Chips,1,500,-1,1,1",
                 "SaltySticks,1,500,-1,1,1",
                 "Crackers,1,500,-1,1,1",
@@ -5157,20 +5163,20 @@
                 "Guts,1,500,-1,1,1",
                 "SmallGuts,1,500,-1,1,1",
                 "brain_Mung,1,500,-1,1,1",
-                "WaterBottle,1,500,-1,1,1",
-                "SodaCan_Cola,1,500,-1,1,1",
-                "SodaCan_Pipsi,1,500,-1,1,1",
-                "SodaCan_DEW,1,500,-1,1,1",
-                "SodaCan_Spite,1,500,-1,1,1",
-                "SodaCan_Fronta,1,500,-1,1,1",
-                "SodaCan_Kvass,1,500,-1,1,1",
-                "Vodka,1,500,-1,1,1",
+                "WaterBottle,1,500,0,1,1",
+                "SodaCan_Cola,1,500,0,1,1",
+                "SodaCan_Pipsi,1,500,0,1,1",
+                "SodaCan_DEW,1,500,0,1,1",
+                "SodaCan_Spite,1,500,0,1,1",
+                "SodaCan_Fronta,1,500,0,1,1",
+                "SodaCan_Kvass,1,500,0,1,1",
+                "Vodka,1,500,0,1,1",
                 "TomatoSeedsPack,1,500,-1,1,1",
                 "PepperSeedsPack,1,500,-1,1,1",
                 "ZucchiniSeedsPack,1,500,-1,1,1",
                 "PumpkinSeedsPack,1,500,-1,1,1",
-                "AntiPestsSpray,1,500,-1,1,1",
-                "GardenLime,1,500,-1,1,1"
+                "AntiPestsSpray,1,500,0,1,1",
+                "GardenLime,1,500,0,1,1"
             ]
         },
         {
@@ -5309,10 +5315,10 @@
                 "BarrelHoles_Green,1,500,1,1,1",
                 "BarrelHoles_Red,1,500,1,1,1",
                 "BarrelHoles_Yellow,1,500,1,1,1",
-                "Barrel_Blue,1,500,1,1,1",
-                "Barrel_Green,1,500,1,1,1",
-                "Barrel_Red,1,500,1,1,1",
-                "Barrel_Yellow,1,500,1,1,1",
+                "Barrel_Blue,1,500,0,1,1",
+                "Barrel_Green,1,500,0,1,1",
+                "Barrel_Red,1,500,0,1,1",
+                "Barrel_Yellow,1,500,0,1,1",
                 "SeaChest,1,500,1,1,1",
                 "Msp_MedievalChest,1,500,1,1,1",
                 "Msp_TreasureChest,1,500,1,1,1",
@@ -5482,14 +5488,14 @@
                 "Msp_Safe,1,500,1,1,1",
                 "gunwall_metal_kit_mung,1,500,1,1,1",
                 "gunwall_kit_mung,1,500,1,1,1",
-                "Msp_WaterBarrel_Plastic,1,500,1,1,1",
-                "Msp_WaterBarrel_Plastic_Yellow,1,500,1,1,1",
-                "Msp_WaterBarrel_Plastic_Green,1,500,1,1,1",
-                "Msp_WaterBarrel_Plastic_Red,1,500,1,1,1",
-                "Msp_WaterBarrel_Plastic_Black,1,500,1,1,1",
-                "Msp_WaterBarrel_Plastic_White,1,500,1,1,1",
-                "Msp_WaterBarrel,1,500,1,1,1",
-                "Msp_WaterBarrel_Darkwood,1,500,1,1,1",
+                "Msp_WaterBarrel_Plastic,1,500,0,1,1",
+                "Msp_WaterBarrel_Plastic_Yellow,1,500,0,1,1",
+                "Msp_WaterBarrel_Plastic_Green,1,500,0,1,1",
+                "Msp_WaterBarrel_Plastic_Red,1,500,0,1,1",
+                "Msp_WaterBarrel_Plastic_Black,1,500,0,1,1",
+                "Msp_WaterBarrel_Plastic_White,1,500,0,1,1",
+                "Msp_WaterBarrel,1,500,0,1,1",
+                "Msp_WaterBarrel_Darkwood,1,500,0,1,1",
                 "Msp_WaterBarrel_Stand,1,500,1,1,1",
                 "Msp_WaterBarrel_Stand_Darkwood,1,500,1,1,1",
                 "Msp_WaterBarrel_Valve_Faucet,1,500,1,1,1",
@@ -6555,35 +6561,37 @@
             "CategoryName": "Remnant Gloves",
             "Products": [
                 "WorkingGloves_Black,1,-1,1,1,1",
-                "TacticalGloves_Black,1,-1,1,1,1",
-                "NBCGlovesGray,1,-1,1,1,1"
+                "TacticalGloves_Green,1,-1,1,1,1",
+                "NBCGlovesYellow,1,-1,1,1,1"
             ]
         },
         {
             "CategoryName": "Remnant Hats",
             "Products": [
                 "MVS_Cap_OD,1,-1,1,1,1",
-                "MVS_Cap_Multicam_Tropic,1,-1,1,1,1"
+                "MVS_Cap_Multicam_Tropic,1,-1,1,1,1",
+                "MVS_BoonieHat_Multicam_Tropic,1,-1,1,50,50",
+                "MVS_Comtacs_OD,1,-1,1,100,100"
             ]
         },
         {
             "CategoryName": "Remnant Helmets",
             "Products": [
-                "BallisticHelmet_OD,1,-1,1,1,1",
-                "MVS_Helmet_01_OD,1,-1,1,1,1",
-                "MVS_Helmet_01_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Helmet_02_OD,1,-1,1,1,1",
-                "MVS_Helmet_02_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_6B47_Helmet_OD,1,-1,1,1,1",
-                "MVS_OpsCore_OD,1,-1,1,1,1",
-                "MVS_OpsCore_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_ArmoredHelmet_OD,1,-1,1,1,1",
-                "MVS_ArmoredHelmet_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_WarriorHelmet_OD,1,-1,1,1,1",
-                "MVS_WarriorHelmet_Multicam_Tropic,1,-1,1,1,1",
-                "MVS_Altyn_OD,1,-1,1,1,1",
-                "MVS_Altyn_Visor_OD,1,-1,1,1,1",
-                "MVS_Altyn_Visor_Lifted_OD,1,-1,1,1,1"
+                "BallisticHelmet_Green,1,-1,1,2200,2200",
+                "MVS_Helmet_01_OD,1,-1,1,1000,1000",
+                "MVS_Helmet_01_Multicam_Tropic,1,-1,1,1000,1000",
+                "MVS_Helmet_02_OD,1,-1,1,1400,1400",
+                "MVS_Helmet_02_Multicam_Tropic,1,-1,1,1400,1400",
+                "MVS_6B47_Helmet_OD,1,-1,1,2000,2000",
+                "MVS_OpsCore_OD,1,-1,1,2600,2600",
+                "MVS_OpsCore_Multicam_Tropic,1,-1,1,2600,2600",
+                "MVS_ArmoredHelmet_OD,1,-1,1,2400,2400",
+                "MVS_ArmoredHelmet_Multicam_Tropic,1,-1,1,2400,2400",
+                "MVS_WarriorHelmet_OD,1,-1,1,3000,3000",
+                "MVS_WarriorHelmet_Multicam_Tropic,1,-1,1,3000,3000",
+                "MVS_Altyn_OD,1,-1,1,2800,2800",
+                "MVS_Altyn_Visor_OD,1,-1,1,200,200",
+                "MVS_Altyn_Visor_Lifted_OD,1,-1,1,200,200"
             ]
         },
         {
@@ -6594,7 +6602,8 @@
                 "MVS_Balaclava_OD,1,-1,1,80,80",
                 "MVS_Facemask_OD,1,-1,1,100,100",
                 "MVS_S10Respirator_OD,1,-1,1,180,180",
-                "MVS_PMK2Respirator_OD,1,-1,1,220,220"
+                "MVS_PMK2Respirator_OD,1,-1,1,220,220",
+                "MVS_M50Respirator_OD,1,-1,1,250,250"
             ]
         },
         {
@@ -6623,28 +6632,30 @@
         {
             "CategoryName": "Remnant Footware",
             "Products": [
-                "MilitaryBoots_Redpunk,1,-1,1,100,100",
-                "MilitaryBoots_OD,1,-1,1,100,100"
+                "JungleBoots_Olive,1,-1,1,1,1",
+                "JungleBoots_Green,1,-1,1,100,100",
+                "MilitaryBoots_Black,1,-1,1,100,100",
+                "CombatBoots_Green,1,-1,1,100,100"
             ]
         },
         {
             "CategoryName": "Remnant Ghillie",
             "Products": [
-                "GhillieAtt_Mossy,1,500,1,1,1",
-                "GhillieAtt_Tan,1,500,1,1,1",
-                "GhillieAtt_Woodland,1,500,1,1,1",
-                "GhillieHood_Mossy,1,500,1,1,1",
-                "GhillieHood_Tan,1,500,1,1,1",
-                "GhillieHood_Woodland,1,500,1,1,1",
-                "GhillieBushrag_Mossy,1,500,1,1,1",
-                "GhillieBushrag_Tan,1,500,1,1,1",
-                "GhillieBushrag_Woodland,1,500,1,1,1",
-                "GhillieTop_Mossy,1,500,1,1,1",
-                "GhillieTop_Tan,1,500,1,1,1",
-                "GhillieTop_Woodland,1,500,1,1,1",
-                "GhillieSuit_Mossy,1,500,1,1,1",
-                "GhillieSuit_Tan,1,500,1,1,1",
-                "GhillieSuit_Woodland,1,500,1,1,1"
+                "GhillieAtt_Mossy,1,-1,1,1,1",
+                "GhillieAtt_Tan,1,-1,1,1,1",
+                "GhillieAtt_Woodland,1,-1,1,1,1",
+                "GhillieHood_Mossy,1,-1,1,1,1",
+                "GhillieHood_Tan,1,-1,1,1,1",
+                "GhillieHood_Woodland,1,-1,1,1,1",
+                "GhillieBushrag_Mossy,1,-1,1,1,1",
+                "GhillieBushrag_Tan,1,-1,1,1,1",
+                "GhillieBushrag_Woodland,1,-1,1,1,1",
+                "GhillieTop_Mossy,1,-1,1,1,1",
+                "GhillieTop_Tan,1,-1,1,1,1",
+                "GhillieTop_Woodland,1,-1,1,1,1",
+                "GhillieSuit_Mossy,1,-1,1,1,1",
+                "GhillieSuit_Tan,1,-1,1,1,1",
+                "GhillieSuit_Woodland,1,-1,1,1,1"
             ]
         },
         {
@@ -6654,13 +6665,14 @@
                 "MVS_Belt_Multicam_Tropic,1,-1,1,100,100",
                 "MVS_Holster_OD,1,-1,1,80,80",
                 "MVS_Holster_Multicam_Tropic,1,-1,1,80,80",
-                "MVS_Canteen_OD,1,-1,1,60,60",
-                "MVS_Canteen_Multicam_Tropic,1,-1,1,60,60",
+                "MVS_Canteen_OD,1,-1,0,60,60",
+                "MVS_Canteen_Multicam_Tropic,1,-1,0,60,60",
+                "MVS_Sheath_OD,1,-1,1,50,50",
                 "MVS_Sheath_Multicam_Tropic,1,-1,1,50,50",
                 "MVS_Molle_Panel_OD,1,-1,1,120,120",
                 "MVS_Molle_Panel_Multicam_Tropic,1,-1,1,120,120",
-                "MVS_Utility_Pouch_Multicam_Tropic,1,-1,1,120,120",
                 "MVS_Utility_Pouch_OD,1,-1,1,120,120",
+                "MVS_Utility_Pouch_Multicam_Tropic,1,-1,1,120,120",
                 "MVS_Medical_Pouch_OD,1,-1,1,120,120",
                 "MVS_Medical_Pouch_Multicam_Tropic,1,-1,1,120,120",
                 "MVS_Admin_Pouch_OD,1,-1,1,140,140",
@@ -6676,8 +6688,8 @@
         {
             "CategoryName": "Remnant Bags",
             "Products": [
-                "MVS_Radio_Pack_Multicam_Tropic,1,-1,1,2000,2000",
                 "MVS_Radio_Pack_OD,1,-1,1,2000,2000",
+                "MVS_Radio_Pack_Multicam_Tropic,1,-1,1,2000,2000",
                 "MVS_Compact_1_OD,1,-1,1,1,1",
                 "MVS_Compact_1_Multicam_Tropic,1,-1,1,1,1",
                 "MVS_Compact_2_OD,1,-1,1,3000,3000",
