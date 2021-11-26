@@ -12,7 +12,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 1,
+            "EnableStockAllCategoryForID": 0,
             "Categories": [
                 "Melee & Blades",
                 "Sidearms",
@@ -37,7 +37,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 2,
+            "EnableStockAllCategoryForID": 0,
             "Categories": [
                 "Tools",
                 "Base Building+",
@@ -50,7 +50,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 3,
+            "EnableStockAllCategoryForID": 0,
             "Categories": [
                 "Glasses",
                 "Armbands",
@@ -76,7 +76,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 4,
+            "EnableStockAllCategoryForID": 0,
             "Categories": [
                 "Vehicles",
                 "Vehicle Parts",
@@ -86,7 +86,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 5,
+            "EnableStockAllCategoryForID": 0,
             "Categories": [
                 "Umbrella Clothing",
                 "Umbrella Belts & Pouches",
@@ -101,6 +101,8 @@
                 "Umbrella Footware",
                 "Umbrella Magazines",
                 "Umbrella Ammo",
+                "Umbrella Weapons",
+                "Umbrella SNAFU",
                 "Umbrella Melee & Blades",
                 "Umbrella Weapon Accessories",
                 "Umbrella Fire & Lights",
@@ -116,7 +118,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 6,
+            "EnableStockAllCategoryForID": 0,
             "Categories": [
                 "Umbrella Public"
             ],
@@ -124,7 +126,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 7,
+            "EnableStockAllCategoryForID": 0,
             "Categories": [
                 "Remnant Clothing",
                 "Remnant Belts & Pouches",
@@ -139,6 +141,8 @@
                 "Remnant Patch",
                 "Remnant Magazines",
                 "Remnant Ammo",
+                "Remnant Weapons",
+                "Remnant SNAFU",
                 "Remnant Melee & Blades",
                 "Remnant Weapon Accessories",
                 "Remnant Fire & Lights",
@@ -154,7 +158,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 8,
+            "EnableStockAllCategoryForID": 0,
             "Categories": [
                 "Remnant Public"
             ],
@@ -162,7 +166,7 @@
             "CurrenciesAccepted": []
         },
         {
-            "EnableStockAllCategoryForID": 9,
+            "EnableStockAllCategoryForID": 0,
             "Categories": [
                 "Vegetables",
                 "Seeds & Lime",
