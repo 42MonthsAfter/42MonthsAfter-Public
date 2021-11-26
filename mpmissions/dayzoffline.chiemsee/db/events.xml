@@ -4,7 +4,7 @@
         <nominal>40</nominal>
 		<min>25</min>
 		<max>50</max>
-        <lifetime>3600</lifetime>
+        <lifetime>1800</lifetime>
         <restock>15</restock>
         <saferadius>40</saferadius>
         <distanceradius>0</distanceradius>
@@ -24,7 +24,7 @@
         <nominal>20</nominal>
 		<min>5</min>
 		<max>40</max>
-        <lifetime>3600</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>100</saferadius>
         <distanceradius>0</distanceradius>
@@ -41,7 +41,7 @@
         <nominal>40</nominal>
 		<min>25</min>
 		<max>50</max>
-        <lifetime>3600</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>100</saferadius>
         <distanceradius>0</distanceradius>
@@ -58,7 +58,7 @@
         <nominal>40</nominal>
 		<min>25</min>
 		<max>50</max>
-        <lifetime>3600</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>0</saferadius>
         <distanceradius>0</distanceradius>
@@ -75,7 +75,7 @@
         <nominal>40</nominal>
 		<min>25</min>
 		<max>50</max>
-        <lifetime>3600</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>200</saferadius>
         <distanceradius>0</distanceradius>
@@ -97,7 +97,7 @@
         <nominal>40</nominal>
 		<min>25</min>
 		<max>50</max>
-        <lifetime>3600</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>200</saferadius>
         <distanceradius>0</distanceradius>
@@ -115,7 +115,7 @@
         <nominal>40</nominal>
 		<min>25</min>
 		<max>50</max>
-        <lifetime>3600</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>200</saferadius>
         <distanceradius>0</distanceradius>
@@ -135,7 +135,7 @@
         <nominal>40</nominal>
 		<min>25</min>
 		<max>50</max>
-        <lifetime>3600</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>200</saferadius>
         <distanceradius>0</distanceradius>
@@ -152,7 +152,7 @@
         <nominal>40</nominal>
 		<min>25</min>
 		<max>50</max>
-        <lifetime>3600</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>200</saferadius>
         <distanceradius>0</distanceradius>
@@ -170,7 +170,7 @@
         <nominal>40</nominal>
 		<min>25</min>
 		<max>50</max>
-        <lifetime>3600</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>200</saferadius>
         <distanceradius>0</distanceradius>
@@ -188,7 +188,7 @@
         <nominal>40</nominal>
 		<min>25</min>
 		<max>50</max>
-        <lifetime>3600</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>200</saferadius>
         <distanceradius>0</distanceradius>
@@ -205,7 +205,7 @@
         <nominal>40</nominal>
 		<min>35</min>
 		<max>50</max>
-		<lifetime>180</lifetime>
+        <lifetime>1800</lifetime>
 		<restock>0</restock>
 		<saferadius>0</saferadius>
 		<distanceradius>0</distanceradius>
@@ -223,7 +223,7 @@
         <nominal>100</nominal>
         <min>50</min>
         <max>420</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -246,7 +246,7 @@
         <nominal>100</nominal>
         <min>50</min>
         <max>420</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -271,7 +271,7 @@
         <nominal>100</nominal>
         <min>50</min>
         <max>420</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -327,7 +327,7 @@
         <nominal>100</nominal>
         <min>50</min>
         <max>420</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -355,7 +355,7 @@
         <nominal>100</nominal>
         <min>50</min>
         <max>420</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -372,7 +372,7 @@
         <nominal>100</nominal>
         <min>50</min>
         <max>420</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -414,7 +414,7 @@
         <nominal>100</nominal>
         <min>50</min>
         <max>420</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -442,7 +442,7 @@
         <nominal>100</nominal>
         <min>50</min>
         <max>420</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -459,7 +459,7 @@
         <nominal>100</nominal>
         <min>50</min>
         <max>420</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -476,7 +476,7 @@
         <nominal>100</nominal>
         <min>50</min>
         <max>420</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -495,7 +495,7 @@
         <nominal>100</nominal>
         <min>50</min>
         <max>420</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -513,7 +513,7 @@
         <nominal>100</nominal>
         <min>50</min>
         <max>420</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -530,7 +530,7 @@
         <nominal>100</nominal>
         <min>50</min>
         <max>420</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -547,7 +547,7 @@
         <nominal>100</nominal>
         <min>50</min>
         <max>420</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -582,7 +582,7 @@
         <nominal>100</nominal>
         <min>50</min>
         <max>420</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -622,7 +622,7 @@
         <nominal>100</nominal>
         <min>50</min>
         <max>420</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>50</saferadius>
         <distanceradius>0</distanceradius>
@@ -675,10 +675,10 @@
         <children/>
     </event>
     <event name="StaticBonfire">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <min>0</min>
         <max>0</max>
-        <lifetime>7200</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>100</saferadius>
         <distanceradius>5</distanceradius>
@@ -693,10 +693,10 @@
         </children>
     </event>
     <event name="StaticChristmasTree">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <min>0</min>
         <max>0</max>
-        <lifetime>86400</lifetime>
+        <lifetime>1800</lifetime>
         <restock>300</restock>
         <saferadius>100</saferadius>
         <distanceradius>5</distanceradius>
@@ -713,7 +713,7 @@
         <nominal>2</nominal>
         <min>1</min>
         <max>4</max>
-        <lifetime>1200</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
         <distanceradius>120</distanceradius>
@@ -728,7 +728,7 @@
         </children>
     </event>
     <event name="StaticFridgeTest">
-        <nominal>42</nominal>
+        <nominal>0</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>0</lifetime>
