@@ -15,6 +15,22 @@
             ],
             "M_ISACTIVE": 1,
             "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Hunter's Cabin",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                4103.62,
+                54.6944,
+                9636.1
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
         }
             ],
             "m_CanUse3DMarkers": 1,
