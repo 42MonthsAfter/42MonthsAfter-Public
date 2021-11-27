@@ -1,6 +1,246 @@
 {
     "M_STATIC_MARKER_ARRAY": [
         {
+            "M_MARKER_NAME": "Obing",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                6357,
+                4,
+                9240
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Hocstatt",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                2572,
+                24,
+                5905
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Antwort",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                2018,
+                56,
+                5202
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Rimsting",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                3261,
+                9,
+                5326
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Mauerkirchen",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                3022,
+                26,
+                4258
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Pren",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                4751,
+                8,
+                1813
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Fraunsel",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                8932,
+                7,
+                4899
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Krautnsel",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                8232,
+                27,
+                4369
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Hern Chiemsee",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                7072,
+                10,
+                3512
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Oberletten",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                7163,
+                20,
+                5396
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Mittermuhle",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                7163,
+                20,
+                5396
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Gstadt Industry",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                8259,
+                4,
+                6353
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Gullenhausen",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                9366,
+                6,
+                8845
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Egstatt",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                5262,
+                2,
+                8441
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Band Endorf",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                2295,
+                2,
+                8717
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
             "M_MARKER_NAME": "QuickStop",
             "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
             "M_COLOR": [
@@ -30,7 +270,7 @@
                 9636.1
             ],
             "M_ISACTIVE": 1,
-            "M_IS_3D_ACTIVE": 1
+            "M_IS_3D_ACTIVE": 0
         }
             ],
             "m_CanUse3DMarkers": 1,
