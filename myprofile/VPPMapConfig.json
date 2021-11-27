@@ -1,6 +1,70 @@
 {
     "M_STATIC_MARKER_ARRAY": [
         {
+            "M_MARKER_NAME": "Alsching",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                8270,
+                9,
+                7208
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Lotberting",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                6630,
+                35,
+                6943
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Kieswerk",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                2931,
+                20,
+                4918
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Brugensdorf",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                1794,
+                2,
+                3589
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
             "M_MARKER_NAME": "Atomkraftwork",
             "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
             "M_COLOR": [
