@@ -248,9 +248,9 @@ class CustomMission: MissionServer
 		player.GetInventory().CreateInInventory(backpackArray.GetRandomElement());
 		player.GetInventory().CreateInInventory(knifeArray.GetRandomElement());
 		player.GetInventory().CreateInInventory("MVS_Patch_33");
-		player.GetInventory().CreateInInventory("MVS_Patch_33");
-		player.GetInventory().CreateInInventory("MVS_Patch_33");
-		player.GetInventory().CreateInInventory("MVS_Patch_33");
+		player.GetInventory().CreateInInventory("MVS_Patch_29");
+		player.GetInventory().CreateInInventory("MVS_Patch_29");
+		player.GetInventory().CreateInInventory("MVS_Patch_29");
 		player.GetInventory().CreateInInventory("SAK_Mung");
 		player.GetInventory().CreateInInventory("Zippo_new");
 		player.GetInventory().CreateInInventory("TraderPlus_Wallet");
