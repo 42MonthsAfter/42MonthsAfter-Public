@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
     <territory color="1794965508">
-        <zone name="InfectedPolice" smin="0" smax="0" dmin="4" dmax="12" x="5054.54" z="8382.46" r="50"/> <!-- LocationName -->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="4" dmax="12" x="5054.54" z="8382.46" r="10"/> <!-- LocationName -->
         <zone name="InfectedPolice" smin="0" smax="0" dmin="4" dmax="12" x="2232.16" z="8659.8" r="60"/> <!-- LocationName -->
         <zone name="InfectedPolice" smin="0" smax="0" dmin="4" dmax="12" x="6370.21" z="6020.41" r="50"/> <!-- LocationName -->
         <zone name="InfectedPolice" smin="0" smax="0" dmin="4" dmax="12" x="6485.42" z="9368.8" r="60"/> <!-- LocationName -->
@@ -102,9 +102,9 @@
         <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="12" x="8297.8" z="6341.08" r="80"/> <!-- LocationName -->
         <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="5" x="8107.4" z="6045" r="50"/> <!-- LocationName -->
         <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="12" x="5112.7" z="8412" r="80"/> <!-- LocationName -->
-        <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="12" x="5311.8" z="8508.92" r="120"/> <!-- LocationName -->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="12" x="5311.8" z="8508.92" r="60"/> <!-- LocationName -->
         <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="12" x="5217.1" z="8349.17" r="80"/> <!-- LocationName -->
-        <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="12" x="5378.5" z="8387.08" r="120"/> <!-- LocationName -->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="12" x="5378.5" z="8387.08" r="60"/> <!-- LocationName -->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="15" dmax="12" x="4649.17" z="1795" r="300"/> <!-- LocationName -->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="15" dmax="12" x="3928" z="2666" r="150"/> <!-- LocationName -->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="15" dmax="12" x="9460.2" z="2624.65" r="80"/> <!-- LocationName -->
