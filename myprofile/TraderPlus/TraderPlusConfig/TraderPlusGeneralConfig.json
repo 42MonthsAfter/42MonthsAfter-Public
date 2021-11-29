@@ -55,7 +55,7 @@
     ],
     "Traders": [
         {
-            "Id": 3,
+            "Id": 0,
             "Name": "SurvivorM_Boris",
             "GivenName": "Peter",
             "Role": "Food Trader",
@@ -109,9 +109,9 @@
             "GivenName": "QuickStop",
             "Role": "Weapon Trader",
             "Position": [
-                4935.4,
-                13.0219,
-                6449.66
+                4938.54,
+                14.0231,
+                6449.8
             ],
             "Orientation": [
                 100.0,
@@ -130,7 +130,7 @@
             ]
         },
         {
-            "Id": 0,
+            "Id": 3,
             "Name": "SurvivorM_Peter",
             "GivenName": "QuickStop",
             "Role": "Clothes Trader",
