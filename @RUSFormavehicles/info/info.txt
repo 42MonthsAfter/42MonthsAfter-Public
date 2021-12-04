@@ -122,13 +122,18 @@ Mercedes_G4_W31_doors_trunk - Багажник Mercedes G4 W31
 Mercedes_G4_W31_doors_hood - Капот Mercedes G4 W31 
 
 UAZ_27722_mchs - УАЗ-27722 МЧС
+UAZ_27722_ambulancia - Скорая помощь Испания
 UAZ_27722_mchs_wheel - Колесо УАЗ-27722 МЧС
 UAZ_27722_mchs_doors_driver - Дверь левая УАЗ-27722 МЧС
+UAZ_27722_doors_driver_ambulancia
 UAZ_27722_mchs_doors_codriver - Дверь правая УАЗ-27722 МЧС
+UAZ_27722_doors_codriver_ambulancia
 UAZ_27722_mchs_doors_cargo1 - Дверь боковая УАЗ-27722 МЧС
-UAZ_27722_mchs_doors_trunk1 - Дверь задняя левая УАЗ-27722 МЧС
+UAZ_27722_doors_cargo1_ambulancia
 UAZ_27722_mchs_doors_trunk - Дверь задняя правая УАЗ-27722 МЧС
+UAZ_27722_doors_trunk_ambulancia
 UAZ_27722_mchs_doors_hood - Капот УАЗ-27722 МЧС
+UAZ_27722_doors_hood_ambulancia
 
 IJ_2125_Kombi - ИЖ 2125 Комби синий
 IJ_2125_Kombi_wheel - Колесо ИЖ 2125 Комби 
@@ -246,6 +251,7 @@ Willys_MB_wheel - Колесо Виллис МБ
 Willys_MB_doors_hood - Лобовое съемное стекло
 
 ZIL_131 - грузовой автомобиль ЗИЛ-131
+ZIL_131_tent - грузовой автомобиль ЗИЛ-131
 ZIL_131_Wheel - Колесо ЗИЛ - 131
 ZIL_131_doors_driver - Дверь передняя левая ЗИЛ - 131
 ZIL_131_doors_codriver - Дверь передняя правая Дверь ЗИЛ - 131
@@ -264,10 +270,18 @@ UAZ_3962_doors_cargo1_green - Дверь правая задняя УАЗ-3962 �
 UAZ_3962_doors_trunk_green - Багажник УАЗ-3962 зеленый
 
 GAZ_66 - ГАЗ-66 с кунгом
+GAZ_66_camo - ГАЗ-66 с кунгом
+GAZ_66_zima_camo - ГАЗ-66 с кунгом
 GAZ_66_kuzov - ГАЗ-66 бортовой
+GAZ_66_kuzov_camo - ГАЗ-66 бортовой
+GAZ_66_kuzov_zima_camo - ГАЗ-66 бортовой
 GAZ_66_Wheel - Колесо ГАЗ-66
 GAZ_66_doors_driver - Передняя левая дверь ГАЗ-66
+GAZ_66_doors_driver_camo
+GAZ_66_doors_driver_zima_camo
 GAZ_66_doors_codriver - Передняя правая дверь GAZ_66
+GAZ_66_doors_codriver_camo
+GAZ_66_doors_codriver_zima_camo
 GAZ_66_doors_trunk - дверь кунга ГАЗ-66
 
 PAZ_672 - Автобус ПАЗ-672 зеленый
@@ -306,3 +320,9 @@ LUAZ_969_orang - ЛУаЗ-969 оранжевый
 LUAZ_969_doors_driver_orang
 LUAZ_969_doors_codriver_orang
 LUAZ_969_doors_trunk_orang
+
+URAL_375_1964 - Армейский УРАЛ-375 1964 года выпуска с тентом
+URAL_375_1964_Wheel - колесо УРАЛ-375
+URAL_375_1964_doors_driver - дверь УРАЛ-375
+URAL_375_1964_doors_codriver - дверь УРАЛ-375
+URAL_375_1964_doors_hood - капот УРАЛ-375
