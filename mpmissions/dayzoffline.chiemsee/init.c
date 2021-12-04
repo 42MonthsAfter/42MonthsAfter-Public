@@ -114,20 +114,10 @@ class CustomMission: MissionServer
 		modMembers.Insert( "ReplaceWithUniqueID" ); // Moderators Name		
 				
 		// Silver VIP MEMBERS = RLF Faction : Can be Steam64 ID or Bohemia UID
-<<<<<<< Updated upstream
-		vipMembersSilver.Insert( "76561199003612558" ); // ScaryPoppins
-		vipMembersSilver.Insert( "76561198197079153" ); // NastyNerg
-		vipMembersSilver.Insert( "76561199125268896" ); // Uncanny
-		vipMembersSilver.Insert( "76561199026005122" ); // NoMoreLlamas
-		vipMembersSilver.Insert( "76561198284712285" ); // MontanaJoe
-		vipMembersSilver.Insert( "76561199050025557" ); // Cash
-=======
-		vipMembersSilver.Insert( "ReplaceWithUniqueID" ); // Name
->>>>>>> Stashed changes
+		modMembersSilver.Insert( "ReplaceWithUniqueID" ); // Moderators Name	
 
 		// Gold VIP MEMBERS = Remnants Faction : Can be Steam64 ID or Bohemia UID
 		vipMembersGold.Insert( "76561198034611550" ); // Sarge
-		vipMembersGold.Insert( "76561199013191843" ); // Skiff
 		vipMembersGold.Insert( "76561199142271709" ); // Josh
 		vipMembersGold.Insert( "76561199105471341" ); // Viper
 		vipMembersGold.Insert( "76561198274691972" ); // Trenton
