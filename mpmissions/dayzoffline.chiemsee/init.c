@@ -114,7 +114,7 @@ class CustomMission: MissionServer
 		modMembers.Insert( "ReplaceWithUniqueID" ); // Moderators Name		
 				
 		// Silver VIP MEMBERS = RLF Faction : Can be Steam64 ID or Bohemia UID
-		modMembersSilver.Insert( "ReplaceWithUniqueID" ); // Moderators Name	
+		vipMembersSilver.Insert( "ReplaceWithUniqueID" ); // Moderators Name	
 
 		// Gold VIP MEMBERS = Remnants Faction : Can be Steam64 ID or Bohemia UID
 		vipMembersGold.Insert( "76561198034611550" ); // Sarge

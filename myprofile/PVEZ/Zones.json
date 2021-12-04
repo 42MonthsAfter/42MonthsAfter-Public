@@ -1,34 +1,6 @@
 [
     {
         "Type": 0,
-        "Name": "occupied by The Remnants",
-        "X": 5052.0,
-        "Z": 8388.0,
-        "Radius": 1300,
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 1,
-        "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
-            "StartHour": 0,
-            "EndHour": 24
-        }
-    },
-    {
-        "Type": 0,
-        "Name": "occupied by The Umbrella Corp",
-        "X": 4558.0,
-        "Z": 1841.0,
-        "Radius": 1000,
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 1,
-        "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
-            "StartHour": 0,
-            "EndHour": 24
-        }
-    },
-    {
-        "Type": 0,
         "Name": "Dam Mine",
         "X": 676.0,
         "Z": 3082.0,
