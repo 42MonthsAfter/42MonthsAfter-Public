@@ -52719,7 +52719,7 @@
     <value name="Tier3" />
   </type>
   <type name="hardigg_Mung">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -52727,7 +52727,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="containers" />
     <usage name="Military" />
     <value name="Tier1" />
     <value name="Tier2" />
@@ -52735,7 +52735,7 @@
     <value name="Tier4" />
   </type>
   <type name="hardigg2_Mung">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -52743,7 +52743,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="containers" />
     <usage name="Military" />
     <value name="Tier1" />
     <value name="Tier2" />
