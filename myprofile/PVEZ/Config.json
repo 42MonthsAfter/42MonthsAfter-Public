@@ -69,15 +69,15 @@
         }
     },
     "TERRITORYFLAG_ZONES": {
-        "Radius": 1300.0,
-        "Name": "Umbrella Corp Territory",
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 1,
-        "OnlyWhenFlagIsRaised": 1,
+        "Radius": 0.0,
+        "Name": "",
+        "ShowBorderOnMap": 0,
+        "ShowNameOnMap": 0,
+        "OnlyWhenFlagIsRaised": 0,
         "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
+            "Days": "",
             "StartHour": 0,
-            "EndHour": 24
+            "EndHour": 0
         }
     },
     "HELICRASH_ZONES": {
