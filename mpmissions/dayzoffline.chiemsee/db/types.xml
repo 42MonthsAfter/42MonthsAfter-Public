@@ -51693,6 +51693,23 @@
     <value name="Tier2" />
     <value name="Tier3" />
   </type>
+    <type name="poncho_mung">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <usage name="Hunting" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
   <type name="poncho_camo_mung">
     <nominal>0</nominal>
     <lifetime>1800</lifetime>
@@ -52488,7 +52505,7 @@
     <value name="Tier2" />
     <value name="Tier3" />
   </type>
-  <type name="zenitco_pt3_buttstock">
+  <type name="zenitco_pt3_buttstock_mung">
     <nominal>20</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
@@ -52538,6 +52555,21 @@
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
+  </type>
+    <type name="carrierrig_mung">
+    <nominal>10</nominal>
+    <lifetime>21600</lifetime>
+    <restock>0</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Hunting" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
   </type>
   <type name="Hikingbagmung_pink">
     <nominal>20</nominal>
@@ -52750,6 +52782,54 @@
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
+    <type name="hardigg2_Mung_camo">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+    <type name="hardigg2_Mung_snow">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+    <type name="hardigg3_Mung">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
   <type name="stielhandgranate_mung">
     <nominal>20</nominal>
     <lifetime>1800</lifetime>
@@ -52867,6 +52947,24 @@
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
+    <type name="oxygentankrig_mung">
+    <nominal>5</nominal>
+    <lifetime>21600</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools"/>
+    <usage name="Industrial"/>
+    <usage name="Farm"/>
+    <usage name="Village"/>
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
   <type name="shovel_Mung">
     <nominal>20</nominal>
     <lifetime>1800</lifetime>
@@ -52876,6 +52974,23 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <usage name="Farm" />
+    <usage name="Village" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+  </type>
+    <type name="WoodAxe_mung">
+    <nominal>20</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
     <category name="tools" />
     <usage name="Industrial" />
     <usage name="Farm" />
@@ -53133,6 +53248,45 @@
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
+  	<type name="csmcmillan_mung">
+    <nominal>4</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+    </type>
+	<type name="Mag_cs5_10Rnd_mung">
+    <nominal>4</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>1</quantmin>
+    <quantmax>4</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+    </type>
+	<type name="mcmillan_buttstock">
+    <nominal>4</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>1</quantmin>
+    <quantmax>4</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <usage name="Military"/>
+    <value name="Tier4" />
+    </type>
   <type name="pickles_closed">
     <nominal>20</nominal>
     <lifetime>1800</lifetime>
