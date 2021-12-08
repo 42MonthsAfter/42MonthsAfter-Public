@@ -117,7 +117,6 @@ class CustomMission: MissionServer
 		vipMembersSilver.Insert( "ReplaceWithUniqueID" ); // Moderators Name	
 
 		// Gold VIP MEMBERS = Remnants Faction : Can be Steam64 ID or Bohemia UID
-		vipMembersGold.Insert( "76561198034611550" ); // Sarge
 		vipMembersGold.Insert( "76561199142271709" ); // Josh
 		vipMembersGold.Insert( "76561199105471341" ); // Viper
 		vipMembersGold.Insert( "76561198274691972" ); // Trenton
