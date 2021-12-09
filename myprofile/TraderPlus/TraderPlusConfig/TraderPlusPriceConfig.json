@@ -153,9 +153,10 @@
         {
             "CategoryName": "Hunting and Fishing",
             "Products": [
-                "FishNetTrap,1,-1,-1,60,0.5",
-                "RabbitSnareTrap,1,-1,-1,60,0.5",
-                "BearTrap,1,-1,-1,120,0.5",
+                "SmallFishTrap,1,-1,-1,50,0.5",
+                "FishNetTrap,1,-1,-1,100,0.5",
+                "RabbitSnareTrap,1,-1,-1,100,0.5",
+                "BearTrap,1,-1,-1,150,0.5",
                 "zeroy_lure_01,1,-1,-1,1200,0.5",
                 "zeroy_lure_02,1,-1,-1,1200,0.5",
                 "zeroy_lure_03,1,-1,-1,1200,0.5",
@@ -205,22 +206,24 @@
                 "DeadChicken_White,1,-1,-1,12,0.8",
                 "DeadRooster,1,-1,-1,12,0.8",
                 "DeadRabbit,1,-1,-1,50,0.8",
-                "TannedLeather,1,-1,-1,50,0.8",
-                "RabbitPelt,1,-1,-1,25,0.8",
-                "PigPelt,1,-1,-1,50,0.8",
-                "SheepPelt,1,-1,-1,62,0.8",
-                "GoatPelt,1,-1,-1,75,0.8",
-                "CowPelt,1,-1,-1,100,0.8",
-                "FoxPelt,1,-1,-1,110,0.8",
-                "WildboarPelt,1,-1,-1,125,0.8",
-                "MouflonPelt,1,-1,-1,150,0.8",
-                "DeerPelt,1,-1,-1,188,0.8",
-                "WolfPelt,1,-1,-1,250,0.8",
-                "BearPelt,1,-1,-1,375,0.8",
-                "polar_bear_pelt,1,-1,-1,500,0.8",
-                "wolffurcowl_mung,1,-1,-1,312,0.8",
-                "bearfurcowl_mung,1,-1,-1,438,0.8",
-                "bearhead_mung,1,-1,-1,500,0.8"
+                "TannedLeather,1,1000,-1,50,0.8",
+                "RabbitPelt,1,1000,-1,25,0.8",
+                "PigPelt,1,1000,-1,50,0.8",
+                "SheepPelt,1,1000,-1,62,0.8",
+                "GoatPelt,1,1000,-1,75,0.8",
+                "CowPelt,1,1000,-1,100,0.8",
+                "FoxPelt,1,1000,-1,110,0.8",
+                "WildboarPelt,1,1000,-1,125,0.8",
+                "MouflonPelt,1,1000,-1,150,0.8",
+                "DeerPelt,1,1000,-1,300,0.8",
+                "WolfPelt,1,1000,-1,500,0.8",
+                "BearPelt,1,1000,-1,1200,0.8",
+                "polar_bear_pelt,1,1000,-1,2000,0.8",
+                "wolffurcowl_mung,1,100,-1,750,0.8",
+                "bearfurcowl_mung,1,100,-1,1500,0.8",
+                "bearhead_mung,1,-1,-1,1000,0.8",
+                "rag_bearcarpet_white,1,100,-1,2500,0.8"
+
             ]
         },
         {
@@ -852,6 +855,10 @@
                 "Winchester70_Green,1,100,1,1100,0.5",
                 "TWP_Arisaka,1,100,1,1100,0.5",
                 "TWP_Kar98,1,100,1,1100,0.5",
+                "SawedoffMosin9130,1,100,1,500,0.5",
+                "SawedoffMosin9130_Black,1,100,1,500,0.5",
+                "SawedoffMosin9130_Camo,1,100,1,500,0.5",
+                "SawedoffMosin9130_Green,1,100,1,500,0.5",
                 "Mosin9130,1,100,1,1100,0.5",
                 "Mosin9130_Black,1,100,1,1200,0.5",
                 "Mosin9130_Green,1,100,1,1200,0.5",
@@ -1325,7 +1332,7 @@
                 "TWP_T13_Beano,1,100,1,150,0.5",
                 "TWP_M26,1,100,1,150,0.5",
                 "TWP_M69,1,100,1,150,0.5",
-                "TWP_JackintheBox,1,100,1,1400,0.5"
+                "LandMineTrap,1,100,1,200,0.5"
             ]
         },
         {
@@ -1851,8 +1858,10 @@
             "Products": [
                 "AK74_Hndgrd,1,100,-1,150,0.5",
                 "AK74_Hndgrd_Black,1,100,-1,150,0.5",
+                "AK74_Hndgrd_Camo,1,100,-1,150,0.5",
                 "AK_WoodHndgrd,1,100,-1,150,0.5",
                 "AK_WoodHndgrd_Black,1,100,-1,150,0.5",
+                "AK_WoodHndgrd_Camo,1,100,-1,150,0.5",
                 "AK_RailHndgrd,1,100,-1,150,0.5",
                 "AK_RailHndgrd_Black,1,100,-1,150,0.5",
                 "AK_RailHndgrd_Green,1,100,-1,150,0.5",
@@ -1868,6 +1877,8 @@
                 "M4_MPHndgrd_Green,1,100,-1,150,0.5",
                 "MP5_PlasticHndgrd,1,100,-1,150,0.5",
                 "MP5_RailHndgrd,1,100,-1,150,0.5",
+                "M249_Hndgrd,1,100,-1,150,0.5",
+                "M249_RisHndgrd,1,100,-1,150,0.5",
                 "SNAFU_MCMR07,1,100,-1,400,0.5",
                 "SNAFU_MCMR08,1,100,-1,400,0.5",
                 "SNAFU_MCMR09,1,100,-1,400,0.5",
@@ -2471,8 +2482,7 @@
                 "BallisticHelmet_UN,1,100,-1,2200,0.5",
                 "BallisticHelmet_Black,1,100,-1,2200,0.5",
                 "BallisticHelmet_Green,1,100,-1,2200,0.5",
-                "Mich2001Helmet,1,100,-1,2400,0.5",
-                "PumpkinHelmet,1,100,-1,400,0.5"
+                "Mich2001Helmet,1,100,-1,2400,0.5"
             ]
         },
         {
@@ -2495,8 +2505,9 @@
                 "BalaclavaMask_White,1,100,-1,20,0.5",
                 "BalaclavaMask_Blackskull,1,100,-1,20,0.5",
                 "WeldingMask,1,100,-1,40,0.5",
+                "dollmask_mung,1,100,-1,100,0.5",
                 "clownmask_mung,1,100,-1,100,0.5",
-                "clownmaskjokers_mung,1,100,-1,200,0.5",
+                "clownmaskjokers_mung,1,100,0,200,0.5",
                 "GasMask,1,100,-1,120,0.5",
                 "AirborneMask,1,100,-1,120,0.5",
                 "GP5GasMask,1,100,-1,120,0.5",
@@ -2934,6 +2945,7 @@
         {
             "CategoryName": "Bags",
             "Products": [
+                "TraderPlus_Wallet,1,100,-1,10,0.5",
                 "WaterproofBag_Yellow,1,100,-1,30,0.5",
                 "WaterproofBag_Orange,1,100,-1,30,0.5",
                 "WaterproofBag_Green,1,100,-1,30,0.5",
@@ -2947,6 +2959,8 @@
                 "LeatherSack_Black,1,100,-1,40,0.5",
                 "LeatherSack_Beige,1,100,-1,40,0.5",
                 "LeatherSack_Brown,1,100,-1,40,0.5",
+                "CourierBag,1,100,-1,10,0.5",
+                "FurCourierBag,1,100,-1,10,0.5",
                 "ChildBag_Red,1,100,-1,10,0.5",
                 "ChildBag_Blue,1,100,-1,10,0.5",
                 "ChildBag_Green,1,100,-1,10,0.5",
@@ -4081,6 +4095,10 @@
                 "Winchester70_Green,1,500,1,1,1",
                 "TWP_Arisaka,1,500,1,1,1",
                 "TWP_Kar98,1,500,1,1,1",
+                "SawedoffMosin9130,1,500,1,1,1",
+                "SawedoffMosin9130_Black,1,500,1,1,1",
+                "SawedoffMosin9130_Camo,1,500,1,1,1",
+                "SawedoffMosin9130_Green,1,500,1,1,1",
                 "Mosin9130,1,500,1,1,1",
                 "Mosin9130_Black,1,500,1,1,1",
                 "Mosin9130_Green,1,500,1,1,1",
@@ -5676,6 +5694,10 @@
                 "Winchester70_Green,1,100,1,1100,0.8",
                 "TWP_Arisaka,1,100,1,1100,0.8",
                 "TWP_Kar98,1,100,1,1100,0.8",
+                "SawedoffMosin9130,1,100,1,500,0.8",
+                "SawedoffMosin9130_Black,1,100,1,500,0.8",
+                "SawedoffMosin9130_Camo,1,100,1,500,0.8",
+                "SawedoffMosin9130_Green,1,100,1,500,0.8",
                 "Mosin9130,1,100,1,1100,0.8",
                 "Mosin9130_Black,1,100,1,1200,0.8",
                 "Mosin9130_Green,1,100,1,1200,0.8",
@@ -7729,6 +7751,10 @@
                 "Winchester70_Green,1,500,1,1,1",
                 "TWP_Arisaka,1,500,1,1,1",
                 "TWP_Kar98,1,500,1,1,1",
+                "SawedoffMosin9130,1,500,1,1,1",
+                "SawedoffMosin9130_Black,1,500,1,1,1",
+                "SawedoffMosin9130_Camo,1,500,1,1,1",
+                "SawedoffMosin9130_Green,1,500,1,1,1",
                 "Mosin9130,1,500,1,1,1",
                 "Mosin9130_Black,1,500,1,1,1",
                 "Mosin9130_Green,1,500,1,1,1",
@@ -9324,6 +9350,10 @@
                 "Winchester70_Green,1,100,1,1100,0.8",
                 "TWP_Arisaka,1,100,1,1100,0.8",
                 "TWP_Kar98,1,100,1,1100,0.8",
+                "SawedoffMosin9130,1,100,1,500,0.8",
+                "SawedoffMosin9130_Black,1,100,1,500,0.8",
+                "SawedoffMosin9130_Camo,1,100,1,500,0.8",
+                "SawedoffMosin9130_Green,1,100,1,500,0.8",
                 "Mosin9130,1,100,1,1100,0.8",
                 "Mosin9130_Black,1,100,1,1200,0.8",
                 "Mosin9130_Green,1,100,1,1200,0.8",
@@ -10556,7 +10586,15 @@
                 "Msp_Egg_Red,1,-1,1,3500,3500",
                 "Msp_Egg_Green,1,-1,1,3500,3500",
                 "Msp_Egg_Purple,1,-1,1,3500,3500",
-                "EasterEgg,1,-1,1,5000,5000"
+                "EasterEgg,1,-1,1,5000,5000",
+                "TWP_JackintheBox,1,-1,1,1200,0.5",
+                "TWP_Covid19Head_Red,1,-1,1,5000,5000",
+                "TWP_Covid19Head_Green,1,-1,1,5000,5000",
+                "TWP_Covid19Head_Orange,1,-1,1,5000,5000",
+                "TWP_Covid19Head_yellow,1,-1,1,5000,5000",
+                "PumpkinHelmet,1,-1,-1,500,500",
+                "TWP_PumpkinHead,1,-1,1,5000,5000"
+
             ]
         }
     ]
