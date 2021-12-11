@@ -710,9 +710,9 @@
         </children>
     </event>
 	<event name="StaticContaminatedArea">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <min>1</min>
-        <max>4</max>
+        <max>1</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>

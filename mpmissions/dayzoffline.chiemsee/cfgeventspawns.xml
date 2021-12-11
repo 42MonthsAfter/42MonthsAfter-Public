@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <eventposdef>
 	<event name="StaticContaminatedArea">
-		<zone smin="0" smax="0" dmin="1" dmax="4" r="75" />
+		<zone smin="0" smax="0" dmin="1" dmax="1" r="75" />
 		<pos x="4665.61" y="20.7039" z="5238.53" a="0"/>
 		<pos x="6412.78" y="4.30868" z="5939.56" a="0"/>
 		<pos x="8192.64" y="2.56256" z="6490.53" a="0"/>
