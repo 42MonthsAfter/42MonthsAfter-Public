@@ -28273,7 +28273,7 @@
 
   <!-- Teddy's Weapon Pack -->
   <type name="TWP_AR15_USA">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28286,7 +28286,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AR15_Aztec">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28299,7 +28299,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AR15_Urban">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28312,7 +28312,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AR15_Snow">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28325,7 +28325,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AR15_Skull">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28338,7 +28338,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AR15USA_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28351,7 +28351,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AR15Aztec_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28364,7 +28364,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AR15Urban_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28377,7 +28377,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AR15Snow_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28390,7 +28390,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AR15Skull_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28403,7 +28403,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Bushmaster_M17SMod">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28416,7 +28416,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Bushmaster_M17S_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28429,7 +28429,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_LAR">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28442,7 +28442,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_LAR_mag_20Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28455,7 +28455,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ARX160Black">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28468,7 +28468,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ARX160_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28481,7 +28481,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_DMR25">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28494,7 +28494,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_DMR25_mag_20Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28507,7 +28507,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M200Mod">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28520,7 +28520,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M200Mod_mag_10Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28533,7 +28533,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ColtPython">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28546,7 +28546,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MagnumCompetitor">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28559,7 +28559,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Taurus">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28572,7 +28572,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ammo_500SW_Mag">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28585,7 +28585,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ArexZero">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28598,7 +28598,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ArexZero_mag_18Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28611,7 +28611,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SigSauerP229">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28624,7 +28624,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SigSauerP229_mag_13Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28637,7 +28637,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FNS9">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28650,7 +28650,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FNS9_mag_18Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28663,7 +28663,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock19M">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28676,7 +28676,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock19M_mag_15Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28689,7 +28689,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Beretta92FS">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28702,7 +28702,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Beretta92FSDesert">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28715,7 +28715,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BerettaGoldenFlower">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28728,7 +28728,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Beretta92FS_mag_15Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28741,7 +28741,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BerettaDEBurton">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28754,7 +28754,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BerettaDEBlack">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28767,7 +28767,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BerettaDE_mag_15Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28780,7 +28780,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BerettaPX4">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28793,7 +28793,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BerettaPX4_mag_17Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28806,7 +28806,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BerettaSwordCutlass">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28819,7 +28819,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BerettaSwordCutlass_mag_20Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28832,7 +28832,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Colt1911Gold">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28845,7 +28845,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Colt1911Gold_mag_7Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28858,7 +28858,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Colt1911Holy">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28871,7 +28871,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Colt1911Holy_mag_7Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28884,7 +28884,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Colt1911Stainless">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28897,7 +28897,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Colt1911Stainless_mag_7Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28910,7 +28910,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_1911_WilsonCombat">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28923,7 +28923,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_1911_WilsonCombat_mag_7Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28936,7 +28936,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_CZ75M">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28949,7 +28949,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_CZ75M_mag_20Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28962,7 +28962,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_DesertEagle">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28975,7 +28975,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_DesertEagleSky">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -28988,7 +28988,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_DesertEagle_mag_7Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29001,7 +29001,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_DesertEagleFalcon">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29014,7 +29014,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_DesertEagleFalcon_mag_7Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29027,7 +29027,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FN57Pink">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29040,7 +29040,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FN57Pink_mag_15Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <restock>0</restock>
     <min>1</min>
     <quantmin>4</quantmin>
@@ -29052,7 +29052,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FN57Toxic">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29065,7 +29065,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FN57Toxic_mag_15Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29078,7 +29078,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock18Egyptian">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29091,7 +29091,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock18Egyptian_mag_17Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29104,7 +29104,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock18Honor">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29117,7 +29117,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock18Honor_mag_17Rnd">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29130,7 +29130,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock18Jungle">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29143,7 +29143,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock18Jungle_mag_17Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29156,7 +29156,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock18Rebel">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29169,7 +29169,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock18Rebel_mag_17Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29182,7 +29182,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock18Weasel">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29195,7 +29195,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock18Weasel_mag_17Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29208,7 +29208,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock18Wolf">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29221,7 +29221,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock18Wolf_mag_17Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29234,7 +29234,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock42">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29247,7 +29247,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock42_mag_12Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29260,7 +29260,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock42_mag_50Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29273,7 +29273,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_GlockZapper">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29286,7 +29286,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_GlockZapper_mag_15Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29299,7 +29299,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HK47">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29312,7 +29312,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HK47_mag_15Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29325,7 +29325,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HK47Tan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29338,7 +29338,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HK47Tan_mag_15Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29351,7 +29351,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_LugerP08">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29364,7 +29364,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_LugerP08_mag_8Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29377,7 +29377,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MK23Socom">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29390,7 +29390,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MK23Socom_mag_12Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29403,7 +29403,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MP40">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29416,7 +29416,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MP40_mag_15Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29429,7 +29429,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MP443">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29442,7 +29442,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MP443_mag_18Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29455,7 +29455,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_P8">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29468,7 +29468,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_P8_mag_15Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29481,7 +29481,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_P2000BlueGirl">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29494,7 +29494,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_P2000BlueGirl_mag_16Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29507,7 +29507,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_P2000Protector">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29520,7 +29520,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_P2000Protector_mag_16Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29533,7 +29533,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_P2000Renegade">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29546,7 +29546,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_P2000Renegade_mag_16Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29559,7 +29559,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_P2000Toxic">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29572,7 +29572,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_P2000Toxic_mag_16Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29585,7 +29585,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SigSauerP250">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29598,7 +29598,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SigSauerP250_mag_10Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29611,7 +29611,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SigSauerP250Colored">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29624,7 +29624,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SigSauerP250Colored_mag_10Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29637,7 +29637,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SigSauerP250Patrician">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29650,7 +29650,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SigSauerP250Patrician_mag_10Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29663,7 +29663,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SigSauerP250PeaCock">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29676,7 +29676,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SigSauerP250PeaCock_mag_10Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29689,7 +29689,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SigSauerP250Wingshot">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29702,7 +29702,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SigSauerP250Wingshot_mag_10Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29715,7 +29715,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SP1Vektor">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29728,7 +29728,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SP1Vektor_mag_15Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29741,7 +29741,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SR1Gyrza">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29754,7 +29754,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SR1Gyrza_mag_18Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29767,7 +29767,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Tokarev">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29780,7 +29780,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Tokarev_mag_8Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29793,7 +29793,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_USPChromatic">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29806,7 +29806,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_USPChromatic_mag_15Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29819,7 +29819,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_USPPsychodelic">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29832,7 +29832,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_USPPsychodelic_mag_15Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29845,7 +29845,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_WaltherP99">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29858,7 +29858,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_WaltherP99_mag_15Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29871,7 +29871,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_WaltherQ5">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29884,7 +29884,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_WaltherQ5_mag_15Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29897,7 +29897,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock17">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29910,7 +29910,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Glock17_mag_19Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29923,7 +29923,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_DesertEagle_Sacred">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29936,7 +29936,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_DesertEagle_Sacred_mag_7Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29949,7 +29949,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_WaltherPPK">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29962,7 +29962,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_WaltherPPK_mag_8Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29975,7 +29975,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_UMP">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -29988,7 +29988,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_UMP_mag_35Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30001,7 +30001,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_UMPPrimalSaber">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30014,7 +30014,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_UMPPrimalSaber_mag_35Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30027,7 +30027,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M24R">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30040,7 +30040,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M24R_mag_40Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30053,7 +30053,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SST30Halloween">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30066,7 +30066,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SST30Orange">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30079,7 +30079,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SST30Halloween_mag_35Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30092,7 +30092,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SST30">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30105,7 +30105,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SST30_mag_35Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30118,7 +30118,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SRGlock">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30131,7 +30131,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SRGlock_mag_33Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30144,7 +30144,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SRFrame">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30156,7 +30156,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Tec9">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30169,7 +30169,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Tec9_mag_50Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30182,7 +30182,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Uzi">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30195,7 +30195,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Uzi_mag_20Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30221,7 +30221,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_P90Shallow_Grave_mag_50Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30234,7 +30234,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_P90Colored">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30247,7 +30247,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_P90Colored_mag_50Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30260,7 +30260,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_P90Arctic">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30273,7 +30273,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_P90Arctic_mag_50Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30286,7 +30286,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MP7Eagle">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30299,7 +30299,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MP7Eagle_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30312,7 +30312,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SR2">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30325,7 +30325,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SR2_mag_20Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30338,7 +30338,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SR3">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30351,7 +30351,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SR3_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30364,7 +30364,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MP7">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30377,7 +30377,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MP7_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30390,7 +30390,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MP7_RoundMag_60Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30403,7 +30403,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MP7_magCoupled_60Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30416,7 +30416,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Auto9">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30429,7 +30429,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Auto9_mag_25Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30442,7 +30442,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AEK919">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30455,7 +30455,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AEK919_mag_20Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30468,7 +30468,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MPX">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30481,7 +30481,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MPX_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30494,7 +30494,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MP5Silenced">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30507,7 +30507,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MP5Silenced_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30520,7 +30520,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_PP19Vityaz">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30533,7 +30533,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_PP19Vityaz_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30546,7 +30546,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SST30Silenced">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30559,7 +30559,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SST30Silenced_mag_35Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30572,7 +30572,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_CX4Storm">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30585,7 +30585,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_CX4Storm_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30598,7 +30598,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_KacPDW">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30611,7 +30611,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_KacPDW_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30624,7 +30624,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_P90">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30637,7 +30637,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_P90_mag_50Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30650,7 +30650,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FMG9">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30663,7 +30663,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FMG9_mag_32Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30676,7 +30676,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Mac10">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30689,7 +30689,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Mac10_mag_32Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30702,7 +30702,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Spectre">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30715,7 +30715,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Spectre_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30728,7 +30728,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_NailedBat">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30740,7 +30740,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SawBat">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30752,7 +30752,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Mjolnir">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30765,7 +30765,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Rose">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30778,7 +30778,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Kukri">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30791,7 +30791,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Kukri_Gradient">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30804,7 +30804,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Kukri_Sakura">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30817,7 +30817,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Kukri_Engraved">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30830,7 +30830,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SmithWesson_Knife_Green">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30843,7 +30843,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SmithWesson_Knife_Black">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30856,7 +30856,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Holymackerel">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30869,7 +30869,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_NinjaSword">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30882,7 +30882,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SledgeHammer">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30894,7 +30894,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Beowulf">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30907,7 +30907,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Beowulf_mag_10Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30920,7 +30920,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Airbow">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30933,7 +30933,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AmericanRifle">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30947,7 +30947,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AmericanRifle_mag_5Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30961,7 +30961,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AWMBlack">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30975,7 +30975,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AWM_mag_5Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -30989,7 +30989,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AWMCustom">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31003,7 +31003,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AWMDesert">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31017,7 +31017,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AWMGreen">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31031,7 +31031,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AWMGreenTan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31045,7 +31045,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FRF2">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31059,7 +31059,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FRF2_mag_5Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31073,7 +31073,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SV98NovaPriam">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31086,7 +31086,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SV98NovaPriam_mag_5Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31099,7 +31099,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Kar98">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31113,7 +31113,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M1Garand">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31127,7 +31127,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_L96A1">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31141,7 +31141,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_L96A1_mag_5Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31155,7 +31155,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M40A5">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31169,7 +31169,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M40A5_mag_5Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31183,7 +31183,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M24BrownTan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31196,7 +31196,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M24GreenTan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31209,7 +31209,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M24GreenTan2">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31222,7 +31222,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M24Snow">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31235,7 +31235,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M24Wood">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31248,7 +31248,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M24_mag_4Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31261,7 +31261,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Remington700">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31274,7 +31274,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_RemingtonMSR">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31287,7 +31287,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_RemingtonMSR_mag_5Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31300,7 +31300,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Sako75">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31314,7 +31314,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SG550S">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31328,7 +31328,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SSG69">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31342,7 +31342,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SSG69_mag_5Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31356,7 +31356,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SVDDragunov">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31370,7 +31370,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SVDDragunovTan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31384,7 +31384,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SVDDragunovBrownTan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31398,7 +31398,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SVDDragunovGreyTan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31412,7 +31412,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Dragunov_mag_10Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31426,7 +31426,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Winchester1873">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31439,7 +31439,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_WinchesterRifle">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31452,7 +31452,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ASW338">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31465,7 +31465,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ASW338_mag_5Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31478,7 +31478,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BarrettM82">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31491,7 +31491,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BarrettM82_mag_10Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31504,7 +31504,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BarrettM82Desert">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31517,7 +31517,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BarrettM82Snow">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31530,7 +31530,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M200">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31543,7 +31543,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M200_mag_7Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31556,7 +31556,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M200Old">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31569,7 +31569,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M200Old_mag_7Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31582,7 +31582,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_McMillanCS5">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31595,7 +31595,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_McMillanCS5_10Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31608,7 +31608,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_VSSK">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31621,7 +31621,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_VSSK_mag_5Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31634,7 +31634,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FRF2BlackDragon">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31647,7 +31647,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FRF2BlackDragon_mag_10Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31660,7 +31660,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Marlin">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31674,7 +31674,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Anzio">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31688,7 +31688,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Anzio_mag_3Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31702,7 +31702,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Arisaka">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31715,7 +31715,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_G43">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31728,7 +31728,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_G43_mag_10Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31741,7 +31741,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M1Carbine">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31754,7 +31754,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M1Carbine_mag_15Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31767,7 +31767,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M110">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31780,7 +31780,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M110_mag_20Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31793,7 +31793,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M1Carbine">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31806,7 +31806,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M1Carbine_mag_15Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31819,7 +31819,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MosinNagant">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31832,7 +31832,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_PSG1">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31845,7 +31845,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_PSG1_mag_5Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31858,7 +31858,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_R700Mod">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31872,7 +31872,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_R700_mag_10Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31886,7 +31886,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M14">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31900,7 +31900,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M14_mag_20Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31914,7 +31914,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SVT38">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31928,7 +31928,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SVT38_mag_10Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31942,7 +31942,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Armsan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31955,7 +31955,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AA12">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31968,7 +31968,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AA12_mag_32Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31981,7 +31981,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AA12Dragon">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -31994,7 +31994,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AA12Dragon_mag_32Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32007,7 +32007,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AA12HellDragon">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32020,7 +32020,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AA12HellDragon_mag_32Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32033,7 +32033,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ClassicShotgun">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32046,7 +32046,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BenelliM3">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32059,7 +32059,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_DoubleBarrelShotgun">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32072,7 +32072,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ImprovisedShotgun">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32085,7 +32085,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_KSG">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32098,7 +32098,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Mossberg500">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32111,7 +32111,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BenelliM4">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32124,7 +32124,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Mossberg590a1">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32137,7 +32137,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Remington870Tactical">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32150,7 +32150,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SawedShotgun">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32163,7 +32163,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SPAS">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32176,7 +32176,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_IthacaM37">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32189,7 +32189,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M1912">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32202,7 +32202,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MP153">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32215,7 +32215,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Komrad12">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32228,7 +32228,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Komrad12_mag_10Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32241,7 +32241,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AA12Black">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32254,7 +32254,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AA12Black_mag_32Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>72</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32267,7 +32267,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Toz34">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32280,7 +32280,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Spas15">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32293,7 +32293,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Spas15_mag_8Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32306,7 +32306,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BenelliLE">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32319,7 +32319,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MP153Black">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32332,7 +32332,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AR15_Cannabis">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32345,7 +32345,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AR15Cannabis_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32358,7 +32358,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ACE23">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32371,7 +32371,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ACE23_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32384,7 +32384,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ash12">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32397,7 +32397,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ash12_mag_10Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32410,7 +32410,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Tar21">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32423,7 +32423,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Tar21_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32436,7 +32436,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Stoner63">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32449,7 +32449,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Stoner63_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32462,7 +32462,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ACR">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32475,7 +32475,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ACR_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32488,7 +32488,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ACWR">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32501,7 +32501,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ACWR_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32514,7 +32514,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AG43">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32527,7 +32527,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AG43_mag_20Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32540,7 +32540,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK9">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32553,7 +32553,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK9_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32566,7 +32566,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK12">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32579,7 +32579,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK12Green">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32592,7 +32592,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK12Tan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32605,7 +32605,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK12Green_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32618,7 +32618,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK12_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32631,7 +32631,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK12Tan_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32644,7 +32644,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK47Blue">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32657,7 +32657,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK47Blue_mag_35Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32670,7 +32670,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK47Boar">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32683,7 +32683,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK47Boar_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32696,7 +32696,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK47Dragon">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32709,7 +32709,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK47Dragon_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32722,7 +32722,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK47Spider">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32735,7 +32735,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK47Spider_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32748,7 +32748,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK47Wolf">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32761,7 +32761,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK47Wolf_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32774,7 +32774,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK47WhiteWolf">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32787,7 +32787,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK47WhiteWolf_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32800,7 +32800,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AMD">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32813,7 +32813,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AMD_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32826,7 +32826,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AMDSpaceship">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32839,7 +32839,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AMDSpaceship_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32852,7 +32852,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AN94">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32865,7 +32865,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AN94_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32878,7 +32878,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AR15">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32892,7 +32892,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AR15_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32906,7 +32906,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AR70">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32919,7 +32919,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AR70_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32932,7 +32932,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ARX160">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32945,7 +32945,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ARX160_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32958,7 +32958,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ASR">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32971,7 +32971,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ASR_mag_40Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32984,7 +32984,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ASVal">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -32997,7 +32997,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ASVal_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33010,7 +33010,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SteyrAug">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33023,7 +33023,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SteyrAug_mag_45Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33036,7 +33036,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_CZ805">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33049,7 +33049,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_CZ805_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33062,7 +33062,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_CZScorpion">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33075,7 +33075,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_CZScorpion_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33088,7 +33088,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Famas">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33102,7 +33102,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Famas_mag_35Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33116,7 +33116,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FamasSpecialOps">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33129,7 +33129,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FamasSpecialOps_mag_40Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33142,7 +33142,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FamasTan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33155,7 +33155,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FamasTan_mag_35Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33168,7 +33168,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FG42">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33182,7 +33182,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FG42_mag_25Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33196,7 +33196,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FNF2000">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33209,7 +33209,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FNF2000_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33222,7 +33222,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FNFNC">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33236,7 +33236,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FNFNC_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33250,7 +33250,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FNM29">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33263,7 +33263,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FNM29_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33276,7 +33276,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_G3A3">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33289,7 +33289,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_G3A3_mag_20Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33302,7 +33302,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_G36">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33315,7 +33315,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_G36_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33328,7 +33328,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_G36c">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33341,7 +33341,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_G36c_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33354,7 +33354,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HK33">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33367,7 +33367,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HK33_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33380,7 +33380,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HK416">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33394,7 +33394,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HK416RedDigital">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33407,7 +33407,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HK416Blue">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33421,7 +33421,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HK416Desert">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33435,7 +33435,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HK416Forest">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33449,7 +33449,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HK416Jungle">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33463,7 +33463,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HK416Urban">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33491,7 +33491,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HK416_mag_40Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33505,7 +33505,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HK417">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33518,7 +33518,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HK417_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33531,7 +33531,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HKCarabine">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33544,7 +33544,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HKCarabine_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33557,7 +33557,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HoneyBadger">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33570,7 +33570,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HoneyBadger_mag_40Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33583,7 +33583,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HoneyBadgerGold">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33596,7 +33596,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HoneyBadgerGold_mag_40Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33609,7 +33609,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_IA2">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33622,7 +33622,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_IA2_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33635,7 +33635,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_K2C">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33648,7 +33648,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_K2C_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33661,7 +33661,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK5C">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33674,7 +33674,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK5C_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33687,7 +33687,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK5CGreen">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33700,7 +33700,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK5CGreen_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33713,7 +33713,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK5CGrey">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33726,7 +33726,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK5CGrey_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33739,7 +33739,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_LR300">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33752,7 +33752,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_LR300Camo">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33765,7 +33765,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_LR300_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33778,7 +33778,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M4V5">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33791,7 +33791,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M4V5_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33804,7 +33804,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M16">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33817,7 +33817,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M16A2">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33830,7 +33830,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M16_mag_20Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33843,7 +33843,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M16A3">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33856,7 +33856,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M16A3_mag_20Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33869,7 +33869,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M16A4">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33882,7 +33882,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M16A4_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33895,7 +33895,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MK14">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33908,7 +33908,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MK14_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33921,7 +33921,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MK18">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33934,7 +33934,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MK18_mag_100Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33947,7 +33947,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MSBSGrotC">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33960,7 +33960,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MSBSGrotC_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33973,7 +33973,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MSBSGrotBGold">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33986,7 +33986,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MSBSGrotBGold_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -33999,7 +33999,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_OTSGrosa">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34012,7 +34012,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_OTSGrosa_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34025,7 +34025,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ParaSA58">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34038,7 +34038,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ParaSA58_mag_20Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34051,7 +34051,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_PindadSS2">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34064,7 +34064,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_PindadSS2_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34077,7 +34077,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_PLR16">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34090,7 +34090,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_PLR16_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34103,7 +34103,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_PPSH">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34116,7 +34116,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_PPSH_mag_50Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34129,7 +34129,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_QBZ03">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34142,7 +34142,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_QBZ03_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34155,7 +34155,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_RemingtonR5">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34168,7 +34168,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_RemingtonR5_mag_40Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34181,7 +34181,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_RK62">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34194,7 +34194,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_RK62_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34207,7 +34207,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_RPK16">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34220,7 +34220,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_RPK16_mag_100Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34233,7 +34233,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_RPK16Green">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34246,7 +34246,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_RPK16Green_mag_100Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34259,7 +34259,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_RPK16Tan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34272,7 +34272,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_RPK16tan_mag_100Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34285,7 +34285,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ScarL">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34298,7 +34298,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ScarL_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34311,7 +34311,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ScarH">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34324,7 +34324,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ScarH_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34337,7 +34337,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ScarDragon">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34350,7 +34350,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ScarDragon_mag_50Rnd">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34363,7 +34363,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ScarLK">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34376,7 +34376,7 @@
     <value name="Tier4" />
   </type>
   <type name="ScarLKBlueCamo">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34389,7 +34389,7 @@
     <value name="Tier4" />
   </type>
   <type name="ScarLKGreen">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34402,7 +34402,7 @@
     <value name="Tier4" />
   </type>
   <type name="ScarLKGreenCamo">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34415,7 +34415,7 @@
     <value name="Tier4" />
   </type>
   <type name="ScarLKTan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34428,7 +34428,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SG550">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34441,7 +34441,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SG550_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34454,7 +34454,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SG553">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34467,7 +34467,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SG553_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34480,7 +34480,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SR47">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34493,7 +34493,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SR47_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34506,7 +34506,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_StenGun">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34519,7 +34519,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_StenGun_mag_32Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34532,7 +34532,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_STG58">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34545,7 +34545,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_STG58_mag_20Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34558,7 +34558,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Thompson">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34571,7 +34571,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Thompson_mag_50Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34584,7 +34584,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Type64">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34597,7 +34597,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Type64_mag_20Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34610,7 +34610,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Type89">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34623,7 +34623,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Type89_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34636,7 +34636,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_XM8">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34649,7 +34649,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_XM8_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34662,7 +34662,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_G56">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34675,7 +34675,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_G56_mag_32Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34688,7 +34688,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ThompsonMK2">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34701,7 +34701,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ThompsonMK2_mag_50Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34714,7 +34714,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MiniGun">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34727,7 +34727,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MiniGun_mag_300Rnd">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34740,7 +34740,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M60">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34753,7 +34753,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M60_mag_200Rnd">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34766,7 +34766,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M249">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34779,7 +34779,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M249_mag_200Rnd">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34792,7 +34792,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FG42Old">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34805,7 +34805,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_FG42Old_mag_25Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34818,7 +34818,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_G36x">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34831,7 +34831,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_G36x_mag_40Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34844,7 +34844,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M4A1">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34857,7 +34857,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M4A1_mag_35Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34870,7 +34870,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_L85A2">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34883,7 +34883,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_L85A2_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34896,7 +34896,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SG556">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34909,7 +34909,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SG556_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34922,7 +34922,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK103">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34935,7 +34935,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK103_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34948,7 +34948,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK105">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34961,7 +34961,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK105_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34974,7 +34974,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_GalilSAR">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -34987,7 +34987,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_GalilSAR_mag_35Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35000,7 +35000,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HoneyBadgerBlueWhite">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35013,7 +35013,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HoneyBadgerBW_mag_40Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35026,7 +35026,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M4A1Black">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35039,7 +35039,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M16A1Black">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35052,7 +35052,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M16A1Wood">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35065,7 +35065,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M16A1_mag_20Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35078,7 +35078,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M134">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35091,7 +35091,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M134_mag_500Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35104,7 +35104,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M134_mag_750Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35117,7 +35117,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MAB38">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35130,7 +35130,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MAB38_mag_40Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35143,7 +35143,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_PP19Bison">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35156,7 +35156,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_PP19Bison_mag_64Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35169,7 +35169,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ruger556_MagPul">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35182,7 +35182,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ruger556">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35195,7 +35195,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ruger556_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35208,7 +35208,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_STG44">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35221,7 +35221,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_STG44_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35234,7 +35234,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SteyrAug_Olive">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35247,7 +35247,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SteyrAug_Tan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35260,7 +35260,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SteyrAug_Black">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35273,7 +35273,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SteyrAug_mag_45Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35286,7 +35286,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Sterling">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35299,7 +35299,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Sterling_mag_34Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35312,7 +35312,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_PKM">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35325,7 +35325,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_PKM_mag_100Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35338,7 +35338,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK47Tactical">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35351,7 +35351,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK47Tactical_mag_45Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35364,7 +35364,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK47">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35377,7 +35377,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AK47_mag_30Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35390,7 +35390,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_CalifasNomad">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35403,7 +35403,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_CalifasNomad_mag_40Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35416,7 +35416,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MG42">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35429,7 +35429,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MG42_mag_150Rnd">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35442,7 +35442,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BoarBayonet">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35455,7 +35455,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SpiderBayonet">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35468,7 +35468,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_WolfBayonet">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35481,7 +35481,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_WhiteWolfBayonet">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35494,7 +35494,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M16_Bayonet">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35608,10 +35608,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AmmoBox_20x76_10rnd">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35621,10 +35621,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AmmoBox_50BMG_10rnd">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35635,10 +35635,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AmmoBox_3006_20Rnd">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35648,10 +35648,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AmmoBox_44mag_30Rnd">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35661,10 +35661,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AmmoBox_50AE_20Rnd">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35674,10 +35674,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AmmoBox_762x25_30Rnd">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35687,10 +35687,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AmmoBox_40SW_30Rnd">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35700,10 +35700,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AmmoBox_46x30_30Rnd">
-    <nominal>10</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35713,10 +35713,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AmmoBox_57x28_30Rnd">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35726,10 +35726,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ammobox_408Cheytac_10Rnd">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35739,10 +35739,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ammobox_6x35_20Rnd">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35754,10 +35754,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ammo_50AE">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35768,10 +35768,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ammo_44Mag">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35782,10 +35782,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ammo_57x28">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35796,10 +35796,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ammo_46x30">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35810,10 +35810,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ammo_3006">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35824,10 +35824,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ammo_40SW">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35838,10 +35838,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ammo_Arrow">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35851,10 +35851,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ammo_20x102mm">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35864,10 +35864,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ammo_300WinMag">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35879,10 +35879,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ammo_30Carbine">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35894,10 +35894,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AmmoBox_30Carbine_30Rnd">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35907,10 +35907,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AmmoBox_300WinMag_20Rnd">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35920,10 +35920,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AmmoBox_20x102mm_10Rnd">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35933,10 +35933,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ammo_792x57">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35947,10 +35947,10 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AmmoBox_792x57_20Rnd">
-    <nominal>14</nominal>
+    <nominal>24</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
-    <min>8</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -35960,7 +35960,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_GlockLight">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35973,7 +35973,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_PistolLight">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35986,7 +35986,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MK23Light">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -35999,7 +35999,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Weaponlight">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36012,7 +36012,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_G3A3_Suppressor">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36025,7 +36025,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_LR300_Suppressor">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36038,7 +36038,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Carabine_Suppressor">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36051,7 +36051,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_USPPsychodelic_Supressor">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36064,7 +36064,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_USPChromatic_Supressor">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36077,7 +36077,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M200Old_Suppressor">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36090,7 +36090,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BarrettM82_Suppressor">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36103,7 +36103,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Ash12_Suppressor">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36116,7 +36116,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M4Suppressor">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36129,7 +36129,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_AKSuppressor">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36142,7 +36142,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_M16A4_handle">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36155,7 +36155,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Optic_Vlife">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36170,7 +36170,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Optic_NCSTAR">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36185,7 +36185,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Optic_Steyr">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36200,7 +36200,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Optic_Camouflage">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36215,7 +36215,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Optic_Snowy">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36230,7 +36230,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Optic_FG42">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36245,7 +36245,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_TrijiconACOG">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36258,7 +36258,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Optic_reddot">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36271,7 +36271,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Optic_Acog">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36284,7 +36284,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_LongRangeOptic_Tan">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36297,7 +36297,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_LongRangeOptic_Green">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36310,7 +36310,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_LongRangeOptic_Black">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36323,7 +36323,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Optic_BlackDragon">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36336,7 +36336,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_OldRifle_Optic">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36349,7 +36349,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Optic_Redcross">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36362,7 +36362,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Sling">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36375,7 +36375,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MarlinHolster">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36388,7 +36388,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_BloodyMachete">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36400,7 +36400,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_JasonMachete">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36412,7 +36412,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Scythe">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36424,7 +36424,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Coffin">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36437,7 +36437,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_GhostBackpack_Angry">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36449,7 +36449,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_GhostBackpack_Vampire">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36461,7 +36461,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_GhostBackpack_Scared">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36473,7 +36473,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_PNade">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36486,7 +36486,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ScaryPNade">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36499,7 +36499,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_PumpkinHead">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36511,7 +36511,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_JasonMask">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36523,7 +36523,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_WitchHat">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36536,7 +36536,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MiniReaper">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36549,7 +36549,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Covid19Head_Red">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36561,7 +36561,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Covid19Head_Green">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36573,7 +36573,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Covid19Head_Orange">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36585,7 +36585,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Covid19Head_yellow">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36597,7 +36597,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_ToiletRoll">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1700</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36610,7 +36610,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Desinfectant">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36621,7 +36621,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_SurgicalMask">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36634,7 +36634,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_CharminBox">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36647,7 +36647,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Scottex_SuperSoft">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36660,7 +36660,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Scottex_Soft">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36673,7 +36673,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_JackintheBox">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36685,7 +36685,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Stielhandgranate">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36698,7 +36698,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_HolyGrenade">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36711,7 +36711,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_MK2_Grenade">
-    <nominal>4</nominal>
+    <nominal>6</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36724,7 +36724,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Beaver">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36736,7 +36736,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_BodyMale">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36748,7 +36748,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_BodyFemale">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36760,7 +36760,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Cobra">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36772,7 +36772,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_DeadFace">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36784,7 +36784,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_DemonSkull">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36796,7 +36796,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Dice">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36808,7 +36808,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Dino">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36820,7 +36820,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Heart">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36832,7 +36832,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Mushroom">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36844,7 +36844,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Neversoft">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36856,7 +36856,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Orion">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36868,7 +36868,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Peacekeeper">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36880,7 +36880,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_PX">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36892,7 +36892,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Flag">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36904,7 +36904,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Ronnie">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36916,7 +36916,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Sandwich">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36928,7 +36928,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Scorpion">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36940,7 +36940,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_CactusJack">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36952,7 +36952,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_ShockSentry">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36964,7 +36964,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Smuggypuss">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36976,7 +36976,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Snowman">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -36988,7 +36988,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_TeaBag">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -37000,7 +37000,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_TeddyBear">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -37012,7 +37012,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Tiki">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -37024,7 +37024,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Trashcan">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -37036,7 +37036,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Turbo">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -37048,7 +37048,7 @@
     <value name="Tier4" />
   </type>
   <type name="TWP_Cosmetic_Zombiehead">
-    <nominal>1</nominal>
+    <nominal>2</nominal>
     <lifetime>3888000</lifetime>
     <restock>0</restock>
     <min>1</min>
