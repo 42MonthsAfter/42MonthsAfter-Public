@@ -1,0 +1,105 @@
+Information made by SARGE
+
+<!-- ----CFGRandonpreset---- -->
+
+		<cargo chance="1.00" name="toolsMonster">
+				<item name="Rag" chance="0.06" />
+				<item name="SalineBag" chance="0.06" />
+				<item name="BandageDressing" chance="0.06" />
+				<item name="Bandaid_bandage" chance="0.06" />              <!-- --------------Requires FIDOv PACK 4 Delete or change this line to suit yourself if you dont have this mod ---------------- -->   
+				<item name="elastic_bandage" chance="0.06" />              <!-- --------------Requires FIDOv PACK 4 Delete or change this line to suit yourself if you dont have this mod ---------------- -->
+				<item name="BloodBagEmpty" chance="0.06" />
+				<item name="BloodTestKit" chance="0.06" />
+				<item name="StartKitIV" chance="0.06" />
+				<item name="PurificationTablets" chance="0.06" />
+				<item name="CharcoalTablets" chance="0.06" />
+				<item name="PainkillerTablets" chance="0.06" />
+				<item name="VitaminBottle" chance="0.06" />
+				<item name="TetracyclineAntibiotics" chance="0.06" />
+				<item name="Thermometer" chance="0.06" />
+				<item name="ToxicCure" chance="0.06" />                    <!-- --------------Requires ToxicZone Delete or change this line to suit yourself if you dont have this mod ---------------- -->
+				<item name="CannabisSeedsPack" chance="0.06" />            <!-- ------------Requires CannabisPlus Delete or change this line to suit yourself if you dont have this mod --------------- -->
+		</cargo>
+		
+<!-- ----CFGSpwnable types---- -->
+
+
+	<type name="MonstersOfChiemsee_base">
+		<cargo preset="toolsMonster" />                                   <!-- ------------Change or delete this line if your not using my CFGRandom preset on all 9 monsters--------------- -->
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+		<type name="MonstersOfChiemsee_boomer">
+		<cargo preset="toolsMonster" />
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+		<type name="MonstersOfChiemsee_burer">
+		<cargo preset="toolsMonster" />
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+		<type name="MonstersOfChiemsee_controller">
+		<cargo preset="toolsMonster" />
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+		<type name="MonstersOfChiemsee_krovosos">
+		<cargo preset="toolsMonster" />
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+		<type name="MonstersOfChiemsee_poltergeist">
+		<cargo preset="toolsMonster" />
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+		<type name="MonstersOfChiemsee_psevdogigant">
+		<cargo preset="toolsMonster" />
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="MonstersOfChiemsee_snork">
+		<cargo preset="toolsMonster" />
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="MonstersOfChiemsee_tushkano">
+		<cargo preset="toolsMonster" />
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	
+<!-- --------Zombie Territorys--------- -->
+
+	<zone name="InfectedMonster" smin="4" smax="8" dmin="6" dmax="10" x="9890" z="8518" r="180"/>               <!-- ------------Change Coords and radius to suit yourself these are Borek Military --------------- -->
+	<zone name="InfectedMonster" smin="4" smax="8" dmin="6" dmax="10" x="9003" z="6625" r="180"/>               <!-- -----------Change Coords and radius to suit yourself these are Lembork Military -------------- -->
+	
+<!-- --------Events------- -->
+
+    </event>
+	<event name="InfectedMonster">
+        <nominal>80</nominal>
+        <min>25</min>
+        <max>250</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="MonstersOfChiemsee_base"/>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="MonstersOfChiemsee_boomer"/>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="MonstersOfChiemsee_burer"/>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="MonstersOfChiemsee_controller"/>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="MonstersOfChiemsee_krovosos"/>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="MonstersOfChiemsee_poltergeist"/>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="MonstersOfChiemsee_psevdogigant"/>
+	        <child lootmax="5" lootmin="0" max="0" min="10" type="MonstersOfChiemsee_snork"/>
+	        <child lootmax="5" lootmin="0" max="0" min="10" type="MonstersOfChiemsee_tushkano"/>
+        </children>
+		
