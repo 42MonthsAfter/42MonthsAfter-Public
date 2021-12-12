@@ -38,7 +38,7 @@
 	</type>
 	
     <type name="Players_Caracteristics">
-        <Maximum_Number_Of_Bleeding_Sources_From_Zombies_Combat			Value = "4"	/>
+        <Maximum_Number_Of_Bleeding_Sources_From_Zombies_Combat			Value = "6"	/>
         <Shoes_Degradation_When_Hit_By_Crawling_Zombie					Value = "5.0" />			<!-- [Decimal 0.0 to infinite] -->
 		<Fist_Fighting   Bleeding_Chance_If_Fist_Fighting_Without_Gloves 			= "0.025"	/>	<!-- [0.0 to 1.0] -->
 		<Fist_Fighting	 Player_Dammage_If_Fist_Fighting_Without_Gloves				= "0.5"		/>  <!-- [Decimal 0.0 to 100.0] (Max player health is 100.0 hp) -->
@@ -57,7 +57,7 @@
     </type>		
 	
 	<type name="Damages_To_Vehicles_Radiator_When_Cruching_Zombies">
- 		<Damages_To_Vehicles		Activated	 			= "1"		/>	<!-- [0 or 1] -->
+ 		<Damages_To_Vehicles		Activated	 			= "0"		/>	<!-- [0 or 1] -->
 		<Damages_To_Vehicles		Vehicle_Type_Resistance	= "DefaultCars:100,ExpansionVodnik:200,ExpansionBus:200"/>	<!-- (no spaces, look carefully at the line structure if you want to add vehicles) -->
 		<Damages_To_Vehicles		Damages_Per_Impact	 	= "1.0"		/>	<!-- decimal [0.0 to infinite] -->
 		<Damages_To_Vehicles		Timer_Between_Impacts	= "5"		/>	<!-- Integer [1 to infinite] (seconds) (never inferior to 1) -->
@@ -66,7 +66,7 @@
     </type>	
 	
 	<type name="Zombies_Attacking_Stopped_Vehicles">
- 		<Attack_Stopped_Vehicles	Activated	 			= "1"		/>	<!-- Integer [0 or 1] -->
+ 		<Attack_Stopped_Vehicles	Activated	 			= "0"		/>	<!-- Integer [0 or 1] -->
 		<Attack_Stopped_Vehicles	Vehicle_Type_Resistance	= "DefaultCars:100,ExpansionVodnik:200,ExpansionBus:200"/>	<!-- (no spaces, look carefully at the line structure if you want to add vehicles) -->
 		<Attack_Stopped_Vehicles	Damage_On_Structure		= "2.0"	/>	<!-- decimal [0.0 to infinite] -->
 		<Attack_Stopped_Vehicles	Damage_On_Attachments	= "5.0"	/>	<!-- decimal [0.0 to infinite] -->
@@ -87,6 +87,6 @@
 	
 	<type name="NewFeatures">		<!-- New feautures, you should move them in the right section (not mandatory but cleaner structure is easier for you to tweak) -->      
  	</type>
-</types>
+</types>
+
 <!--  ___________ YOU CAN FIND DETAILED INSTRUCTIONS in PvZmoD_CustomisableZombies_HELP.txt file ___________  -->
-
