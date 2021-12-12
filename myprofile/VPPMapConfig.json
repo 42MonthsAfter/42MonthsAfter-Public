@@ -415,6 +415,70 @@
             ],
             "M_ISACTIVE": 1,
             "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Free Port",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                9865.87,
+                17.3069,
+                792.88
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Farmville",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                7399.37,
+                31.0025,
+                1910.32
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Crossroads",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                8466.91,
+                12.3265,
+                1013.51
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Trenton Town",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                9473.25,
+                29.038,
+                2646.45
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
         }
             ],
             "m_CanUse3DMarkers": 1,
