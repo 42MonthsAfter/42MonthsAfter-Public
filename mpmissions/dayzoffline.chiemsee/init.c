@@ -266,9 +266,9 @@ class CustomMission: MissionServer
 // VIP Loadout: Gold = Remnants Factions
 	EntityAI vipLoadOutGold(PlayerBase player) 
 	{
-		ref TStringArray hatArray = {"MVS_Cap_OD"};
-		ref TStringArray topArray = {"MVS_CombatShirt_OD"};
-		ref TStringArray pantsArray = {"MVS_CombatPants_OD"};	
+		ref TStringArray hatArray = {"MVS_Cap_Multicam"};
+		ref TStringArray topArray = {"MVS_CombatShirt_Multicam"};
+		ref TStringArray pantsArray = {"MVS_CombatPants_Multicam"};	
 		ref TStringArray vestArray  = {""};	
 		ref TStringArray glassesArray = {""};
 		ref TStringArray shoesArray = {"MilitaryBoots_Brown"};	
