@@ -59,7 +59,7 @@
 	<type name="Damages_To_Vehicles_Radiator_When_Cruching_Zombies">
  		<Damages_To_Vehicles		Activated	 			= "0"		/>	<!-- [0 or 1] -->
 		<Damages_To_Vehicles		Vehicle_Type_Resistance	= "DefaultCars:100,ExpansionVodnik:200,ExpansionBus:200"/>	<!-- (no spaces, look carefully at the line structure if you want to add vehicles) -->
-		<Damages_To_Vehicles		Damages_Per_Impact	 	= "1.0"		/>	<!-- decimal [0.0 to infinite] -->
+		<Damages_To_Vehicles		Damages_Per_Impact	 	= "0.0"		/>	<!-- decimal [0.0 to infinite] -->
 		<Damages_To_Vehicles		Timer_Between_Impacts	= "5"		/>	<!-- Integer [1 to infinite] (seconds) (never inferior to 1) -->
 		<Damages_To_Vehicles		Speed_Minimum	 		= "5"		/>	<!-- Integer [1 to infinite] (km/h) (never inferior to 1) -->
 		<Damages_To_Vehicles		Speed_Multiplier	 	= "0.01"	/>	<!-- decimal [0.0 to infinite] -->
