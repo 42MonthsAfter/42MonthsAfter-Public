@@ -3,9 +3,197 @@
 <!--  ___________ YOU CAN FIND DETAILED INSTRUCTIONS in PvZmoD_CustomisableZombies_HELP.txt file ___________  -->
 	
 <types>
-	<!--________________ NEW CLASS FROM OTHER ZOMBIE MODS (have to be before the vanilla classes) ______________-->
+	<!--________________ Chiemsee Monsters ______________-->
 	
-	<!-- Add new zombie class here ! -->
+	<type name="MonstersOfChiemsee_boomer">	 					<!-- ! More Dangerous at NIGHT ! -->
+        <Health_Points				Day="1000" 	Night="1000"/> 	<!--  Very Very Strong Lvl BOSS  -->
+        <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
+        <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
+        <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
+        <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Immune -->
+        <Resistance_to_Explosions	Day="100" 	Night="100"/> 	<!-- Explosions Immune -->	
+        <Resistance_to_HeadShots	Day="0.5" 	Night="0.5"/>
+		<Resist_to_Melee_HeadShots	Day="0.5" 	Night="0.5"/>
+		<Special_HeadShot_Weapons	Day="0"		Night="0"/>
+        <Move_Speed_Min				Day="0.0" 	Night="0.0"/>
+		<Move_Speed_Max				Day="3.0" 	Night="3.0"/>
+        <Chance_To_Spawn_Crawling	Day="-1.0" 	Night="-1.0"/>	<!-- Never Crawl -->
+		<Can_Dodge					Day="0" 	Night="0"/>
+ 		<Hit_Players_On_Obstacles 	Day="1"		Night="1"/>
+ 		<Immune_To_MultiHit 		Day="1"		Night="1"/>
+ 		<Attack_Speed 				Day="1.0"	Night="1.0"/>
+		<Ratio_Damage_Health		LightAttack_NotBlocked="2.0" LightAttack_Blocked="1.5" HeavyAttack_NotBlocked="2.0" HeavyAttack_Blocked="1.5" NightRatio="1.5"/> <!-- More Health Damage -->
+		<Ratio_Damage_Shock			LightAttack_NotBlocked="1.5" LightAttack_Blocked="0.0" HeavyAttack_NotBlocked="1.5" HeavyAttack_Blocked="0.5" NightRatio="1.5"/> <!-- More Shock Damage -->
+		<Bleeding_Chance			LightAttack_NotBlocked="0.2" LightAttack_Blocked="0.1" HeavyAttack_NotBlocked="0.2" HeavyAttack_Blocked="0.1" NightRatio="1.5"/> <!-- More Bleeding chance -->
+		<Damage_Blood				LightAttack_NotBlocked="100" LightAttack_Blocked="50" HeavyAttack_NotBlocked="100" HeavyAttack_Blocked="50" NightRatio="1.5"/> <!-- Drain Blood -->
+		<Damage_Stamina				LightAttack_NotBlocked="50" LightAttack_Blocked="25" HeavyAttack_NotBlocked="50" HeavyAttack_Blocked="25" NightRatio="2.0"/> <!-- Drain Stamina -->
+		<Vision_Distance_Ratio		Day="1.0" Night="0.8" WithBloodyHands="0.5" WithSpecialMask="0.25" MinimumRatioDistance="0.1"/>
+ 		<Can_Be_Backstabbed 		Day="0"		Night="0"/>	<!-- Can't be backstab -->
+ 		<Resist_Contaminated_Effect	Day="1"		Night="1"/>	<!-- Resist to contaminated areas -->
+ 		<Numb_Of_Hit_To_Break_Doors	Day="1"		Night="1"/>
+    </type>	
+	<type name="MonstersOfChiemsee_burer">	 					<!-- ! More Dangerous at NIGHT ! -->
+        <Health_Points				Day="1000" 	Night="1000"/> 	<!--  Very Very Strong Lvl BOSS  -->
+        <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
+        <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
+        <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
+        <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Immune -->
+        <Resistance_to_Explosions	Day="100" 	Night="100"/> 	<!-- Explosions Immune -->	
+        <Resistance_to_HeadShots	Day="0.5" 	Night="0.5"/>
+		<Resist_to_Melee_HeadShots	Day="0.5" 	Night="0.5"/>
+		<Special_HeadShot_Weapons	Day="0"		Night="0"/>
+        <Move_Speed_Min				Day="0.0" 	Night="0.0"/>
+		<Move_Speed_Max				Day="3.0" 	Night="3.0"/>
+        <Chance_To_Spawn_Crawling	Day="-1.0" 	Night="-1.0"/>	<!-- Never Crawl -->
+		<Can_Dodge					Day="0" 	Night="0"/>
+ 		<Hit_Players_On_Obstacles 	Day="1"		Night="1"/>
+ 		<Immune_To_MultiHit 		Day="1"		Night="1"/>
+ 		<Attack_Speed 				Day="1.0"	Night="1.0"/>
+		<Ratio_Damage_Health		LightAttack_NotBlocked="2.0" LightAttack_Blocked="1.5" HeavyAttack_NotBlocked="2.0" HeavyAttack_Blocked="1.5" NightRatio="1.5"/> <!-- More Health Damage -->
+		<Ratio_Damage_Shock			LightAttack_NotBlocked="1.5" LightAttack_Blocked="0.0" HeavyAttack_NotBlocked="1.5" HeavyAttack_Blocked="0.5" NightRatio="1.5"/> <!-- More Shock Damage -->
+		<Bleeding_Chance			LightAttack_NotBlocked="0.2" LightAttack_Blocked="0.1" HeavyAttack_NotBlocked="0.2" HeavyAttack_Blocked="0.1" NightRatio="1.5"/> <!-- More Bleeding chance -->
+		<Damage_Blood				LightAttack_NotBlocked="100" LightAttack_Blocked="50" HeavyAttack_NotBlocked="100" HeavyAttack_Blocked="50" NightRatio="1.5"/> <!-- Drain Blood -->
+		<Damage_Stamina				LightAttack_NotBlocked="50" LightAttack_Blocked="25" HeavyAttack_NotBlocked="50" HeavyAttack_Blocked="25" NightRatio="2.0"/> <!-- Drain Stamina -->
+		<Vision_Distance_Ratio		Day="1.0" Night="0.8" WithBloodyHands="0.5" WithSpecialMask="0.25" MinimumRatioDistance="0.1"/>
+ 		<Can_Be_Backstabbed 		Day="0"		Night="0"/>	<!-- Can't be backstab -->
+ 		<Resist_Contaminated_Effect	Day="1"		Night="1"/>	<!-- Resist to contaminated areas -->
+ 		<Numb_Of_Hit_To_Break_Doors	Day="1"		Night="1"/>
+    </type>	
+	<type name="MonstersOfChiemsee_controller">	 					<!-- ! More Dangerous at NIGHT ! -->
+        <Health_Points				Day="1000" 	Night="1000"/> 	<!--  Very Very Strong Lvl BOSS  -->
+        <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
+        <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
+        <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
+        <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Immune -->
+        <Resistance_to_Explosions	Day="100" 	Night="100"/> 	<!-- Explosions Immune -->	
+        <Resistance_to_HeadShots	Day="0.5" 	Night="0.5"/>
+		<Resist_to_Melee_HeadShots	Day="0.5" 	Night="0.5"/>
+		<Special_HeadShot_Weapons	Day="0"		Night="0"/>
+        <Move_Speed_Min				Day="0.0" 	Night="0.0"/>
+		<Move_Speed_Max				Day="3.0" 	Night="3.0"/>
+        <Chance_To_Spawn_Crawling	Day="-1.0" 	Night="-1.0"/>	<!-- Never Crawl -->
+		<Can_Dodge					Day="0" 	Night="0"/>
+ 		<Hit_Players_On_Obstacles 	Day="1"		Night="1"/>
+ 		<Immune_To_MultiHit 		Day="1"		Night="1"/>
+ 		<Attack_Speed 				Day="1.0"	Night="1.0"/>
+		<Ratio_Damage_Health		LightAttack_NotBlocked="2.0" LightAttack_Blocked="1.5" HeavyAttack_NotBlocked="2.0" HeavyAttack_Blocked="1.5" NightRatio="1.5"/> <!-- More Health Damage -->
+		<Ratio_Damage_Shock			LightAttack_NotBlocked="1.5" LightAttack_Blocked="0.0" HeavyAttack_NotBlocked="1.5" HeavyAttack_Blocked="0.5" NightRatio="1.5"/> <!-- More Shock Damage -->
+		<Bleeding_Chance			LightAttack_NotBlocked="0.2" LightAttack_Blocked="0.1" HeavyAttack_NotBlocked="0.2" HeavyAttack_Blocked="0.1" NightRatio="1.5"/> <!-- More Bleeding chance -->
+		<Damage_Blood				LightAttack_NotBlocked="100" LightAttack_Blocked="50" HeavyAttack_NotBlocked="100" HeavyAttack_Blocked="50" NightRatio="1.5"/> <!-- Drain Blood -->
+		<Damage_Stamina				LightAttack_NotBlocked="50" LightAttack_Blocked="25" HeavyAttack_NotBlocked="50" HeavyAttack_Blocked="25" NightRatio="2.0"/> <!-- Drain Stamina -->
+		<Vision_Distance_Ratio		Day="1.0" Night="0.8" WithBloodyHands="0.5" WithSpecialMask="0.25" MinimumRatioDistance="0.1"/>
+ 		<Can_Be_Backstabbed 		Day="0"		Night="0"/>	<!-- Can't be backstab -->
+ 		<Resist_Contaminated_Effect	Day="1"		Night="1"/>	<!-- Resist to contaminated areas -->
+ 		<Numb_Of_Hit_To_Break_Doors	Day="1"		Night="1"/>
+    </type>	
+	<type name="MonstersOfChiemsee_krovosos">	 					<!-- ! More Dangerous at NIGHT ! -->
+        <Health_Points				Day="1000" 	Night="1000"/> 	<!--  Very Very Strong Lvl BOSS  -->
+        <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
+        <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
+        <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
+        <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Immune -->
+        <Resistance_to_Explosions	Day="100" 	Night="100"/> 	<!-- Explosions Immune -->	
+        <Resistance_to_HeadShots	Day="0.5" 	Night="0.5"/>
+		<Resist_to_Melee_HeadShots	Day="0.5" 	Night="0.5"/>
+		<Special_HeadShot_Weapons	Day="0"		Night="0"/>
+        <Move_Speed_Min				Day="0.0" 	Night="0.0"/>
+		<Move_Speed_Max				Day="3.0" 	Night="3.0"/>
+        <Chance_To_Spawn_Crawling	Day="-1.0" 	Night="-1.0"/>	<!-- Never Crawl -->
+		<Can_Dodge					Day="0" 	Night="0"/>
+ 		<Hit_Players_On_Obstacles 	Day="1"		Night="1"/>
+ 		<Immune_To_MultiHit 		Day="1"		Night="1"/>
+ 		<Attack_Speed 				Day="1.0"	Night="1.0"/>
+		<Ratio_Damage_Health		LightAttack_NotBlocked="2.0" LightAttack_Blocked="1.5" HeavyAttack_NotBlocked="2.0" HeavyAttack_Blocked="1.5" NightRatio="1.5"/> <!-- More Health Damage -->
+		<Ratio_Damage_Shock			LightAttack_NotBlocked="1.5" LightAttack_Blocked="0.0" HeavyAttack_NotBlocked="1.5" HeavyAttack_Blocked="0.5" NightRatio="1.5"/> <!-- More Shock Damage -->
+		<Bleeding_Chance			LightAttack_NotBlocked="0.2" LightAttack_Blocked="0.1" HeavyAttack_NotBlocked="0.2" HeavyAttack_Blocked="0.1" NightRatio="1.5"/> <!-- More Bleeding chance -->
+		<Damage_Blood				LightAttack_NotBlocked="100" LightAttack_Blocked="50" HeavyAttack_NotBlocked="100" HeavyAttack_Blocked="50" NightRatio="1.5"/> <!-- Drain Blood -->
+		<Damage_Stamina				LightAttack_NotBlocked="50" LightAttack_Blocked="25" HeavyAttack_NotBlocked="50" HeavyAttack_Blocked="25" NightRatio="2.0"/> <!-- Drain Stamina -->
+		<Vision_Distance_Ratio		Day="1.0" Night="0.8" WithBloodyHands="0.5" WithSpecialMask="0.25" MinimumRatioDistance="0.1"/>
+ 		<Can_Be_Backstabbed 		Day="0"		Night="0"/>	<!-- Can't be backstab -->
+ 		<Resist_Contaminated_Effect	Day="1"		Night="1"/>	<!-- Resist to contaminated areas -->
+ 		<Numb_Of_Hit_To_Break_Doors	Day="1"		Night="1"/>
+    </type>	
+	<type name="MonstersOfChiemsee_poltergeist">	 					<!-- ! More Dangerous at NIGHT ! -->
+        <Health_Points				Day="1000" 	Night="1000"/> 	<!--  Very Very Strong Lvl BOSS  -->
+        <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
+        <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
+        <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
+        <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Immune -->
+        <Resistance_to_Explosions	Day="100" 	Night="100"/> 	<!-- Explosions Immune -->	
+        <Resistance_to_HeadShots	Day="0.5" 	Night="0.5"/>
+		<Resist_to_Melee_HeadShots	Day="0.5" 	Night="0.5"/>
+		<Special_HeadShot_Weapons	Day="0"		Night="0"/>
+        <Move_Speed_Min				Day="0.0" 	Night="0.0"/>
+		<Move_Speed_Max				Day="3.0" 	Night="3.0"/>
+        <Chance_To_Spawn_Crawling	Day="-1.0" 	Night="-1.0"/>	<!-- Never Crawl -->
+		<Can_Dodge					Day="0" 	Night="0"/>
+ 		<Hit_Players_On_Obstacles 	Day="1"		Night="1"/>
+ 		<Immune_To_MultiHit 		Day="1"		Night="1"/>
+ 		<Attack_Speed 				Day="1.0"	Night="1.0"/>
+		<Ratio_Damage_Health		LightAttack_NotBlocked="2.0" LightAttack_Blocked="1.5" HeavyAttack_NotBlocked="2.0" HeavyAttack_Blocked="1.5" NightRatio="1.5"/> <!-- More Health Damage -->
+		<Ratio_Damage_Shock			LightAttack_NotBlocked="1.5" LightAttack_Blocked="0.0" HeavyAttack_NotBlocked="1.5" HeavyAttack_Blocked="0.5" NightRatio="1.5"/> <!-- More Shock Damage -->
+		<Bleeding_Chance			LightAttack_NotBlocked="0.2" LightAttack_Blocked="0.1" HeavyAttack_NotBlocked="0.2" HeavyAttack_Blocked="0.1" NightRatio="1.5"/> <!-- More Bleeding chance -->
+		<Damage_Blood				LightAttack_NotBlocked="100" LightAttack_Blocked="50" HeavyAttack_NotBlocked="100" HeavyAttack_Blocked="50" NightRatio="1.5"/> <!-- Drain Blood -->
+		<Damage_Stamina				LightAttack_NotBlocked="50" LightAttack_Blocked="25" HeavyAttack_NotBlocked="50" HeavyAttack_Blocked="25" NightRatio="2.0"/> <!-- Drain Stamina -->
+		<Vision_Distance_Ratio		Day="1.0" Night="0.8" WithBloodyHands="0.5" WithSpecialMask="0.25" MinimumRatioDistance="0.1"/>
+ 		<Can_Be_Backstabbed 		Day="0"		Night="0"/>	<!-- Can't be backstab -->
+ 		<Resist_Contaminated_Effect	Day="1"		Night="1"/>	<!-- Resist to contaminated areas -->
+ 		<Numb_Of_Hit_To_Break_Doors	Day="1"		Night="1"/>
+    </type>	
+	<type name="MonstersOfChiemsee_psevdogigant">	 					<!-- ! More Dangerous at NIGHT ! -->
+        <Health_Points				Day="1000" 	Night="1000"/> 	<!--  Very Very Strong Lvl BOSS  -->
+        <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
+        <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
+        <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
+        <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Immune -->
+        <Resistance_to_Explosions	Day="100" 	Night="100"/> 	<!-- Explosions Immune -->	
+        <Resistance_to_HeadShots	Day="0.5" 	Night="0.5"/>
+		<Resist_to_Melee_HeadShots	Day="0.5" 	Night="0.5"/>
+		<Special_HeadShot_Weapons	Day="0"		Night="0"/>
+        <Move_Speed_Min				Day="0.0" 	Night="0.0"/>
+		<Move_Speed_Max				Day="3.0" 	Night="3.0"/>
+        <Chance_To_Spawn_Crawling	Day="-1.0" 	Night="-1.0"/>	<!-- Never Crawl -->
+		<Can_Dodge					Day="0" 	Night="0"/>
+ 		<Hit_Players_On_Obstacles 	Day="1"		Night="1"/>
+ 		<Immune_To_MultiHit 		Day="1"		Night="1"/>
+ 		<Attack_Speed 				Day="1.0"	Night="1.0"/>
+		<Ratio_Damage_Health		LightAttack_NotBlocked="2.0" LightAttack_Blocked="1.5" HeavyAttack_NotBlocked="2.0" HeavyAttack_Blocked="1.5" NightRatio="1.5"/> <!-- More Health Damage -->
+		<Ratio_Damage_Shock			LightAttack_NotBlocked="1.5" LightAttack_Blocked="0.0" HeavyAttack_NotBlocked="1.5" HeavyAttack_Blocked="0.5" NightRatio="1.5"/> <!-- More Shock Damage -->
+		<Bleeding_Chance			LightAttack_NotBlocked="0.2" LightAttack_Blocked="0.1" HeavyAttack_NotBlocked="0.2" HeavyAttack_Blocked="0.1" NightRatio="1.5"/> <!-- More Bleeding chance -->
+		<Damage_Blood				LightAttack_NotBlocked="100" LightAttack_Blocked="50" HeavyAttack_NotBlocked="100" HeavyAttack_Blocked="50" NightRatio="1.5"/> <!-- Drain Blood -->
+		<Damage_Stamina				LightAttack_NotBlocked="50" LightAttack_Blocked="25" HeavyAttack_NotBlocked="50" HeavyAttack_Blocked="25" NightRatio="2.0"/> <!-- Drain Stamina -->
+		<Vision_Distance_Ratio		Day="1.0" Night="0.8" WithBloodyHands="0.5" WithSpecialMask="0.25" MinimumRatioDistance="0.1"/>
+ 		<Can_Be_Backstabbed 		Day="0"		Night="0"/>	<!-- Can't be backstab -->
+ 		<Resist_Contaminated_Effect	Day="1"		Night="1"/>	<!-- Resist to contaminated areas -->
+ 		<Numb_Of_Hit_To_Break_Doors	Day="1"		Night="1"/>
+    </type>	
+	<type name="MonstersOfChiemsee_snork">	 					<!-- ! More Dangerous at NIGHT ! -->
+        <Health_Points				Day="1000" 	Night="1000"/> 	<!--  Very Very Strong Lvl BOSS  -->
+        <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
+        <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
+        <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
+        <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Immune -->
+        <Resistance_to_Explosions	Day="100" 	Night="100"/> 	<!-- Explosions Immune -->	
+        <Resistance_to_HeadShots	Day="0.5" 	Night="0.5"/>
+		<Resist_to_Melee_HeadShots	Day="0.5" 	Night="0.5"/>
+		<Special_HeadShot_Weapons	Day="0"		Night="0"/>
+        <Move_Speed_Min				Day="0.0" 	Night="0.0"/>
+		<Move_Speed_Max				Day="3.0" 	Night="3.0"/>
+        <Chance_To_Spawn_Crawling	Day="-1.0" 	Night="-1.0"/>	<!-- Never Crawl -->
+		<Can_Dodge					Day="0" 	Night="0"/>
+ 		<Hit_Players_On_Obstacles 	Day="1"		Night="1"/>
+ 		<Immune_To_MultiHit 		Day="1"		Night="1"/>
+ 		<Attack_Speed 				Day="1.0"	Night="1.0"/>
+		<Ratio_Damage_Health		LightAttack_NotBlocked="2.0" LightAttack_Blocked="1.5" HeavyAttack_NotBlocked="2.0" HeavyAttack_Blocked="1.5" NightRatio="1.5"/> <!-- More Health Damage -->
+		<Ratio_Damage_Shock			LightAttack_NotBlocked="1.5" LightAttack_Blocked="0.0" HeavyAttack_NotBlocked="1.5" HeavyAttack_Blocked="0.5" NightRatio="1.5"/> <!-- More Shock Damage -->
+		<Bleeding_Chance			LightAttack_NotBlocked="0.2" LightAttack_Blocked="0.1" HeavyAttack_NotBlocked="0.2" HeavyAttack_Blocked="0.1" NightRatio="1.5"/> <!-- More Bleeding chance -->
+		<Damage_Blood				LightAttack_NotBlocked="100" LightAttack_Blocked="50" HeavyAttack_NotBlocked="100" HeavyAttack_Blocked="50" NightRatio="1.5"/> <!-- Drain Blood -->
+		<Damage_Stamina				LightAttack_NotBlocked="50" LightAttack_Blocked="25" HeavyAttack_NotBlocked="50" HeavyAttack_Blocked="25" NightRatio="2.0"/> <!-- Drain Stamina -->
+		<Vision_Distance_Ratio		Day="1.0" Night="0.8" WithBloodyHands="0.5" WithSpecialMask="0.25" MinimumRatioDistance="0.1"/>
+ 		<Can_Be_Backstabbed 		Day="0"		Night="0"/>	<!-- Can't be backstab -->
+ 		<Resist_Contaminated_Effect	Day="1"		Night="1"/>	<!-- Resist to contaminated areas -->
+ 		<Numb_Of_Hit_To_Break_Doors	Day="1"		Night="1"/>
+    </type>
 	
 	<!--______________________________ DAYZ VANILLA ZOMBIE CLASSES ____________________________________________-->
 	

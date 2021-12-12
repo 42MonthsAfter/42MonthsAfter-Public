@@ -4,9 +4,9 @@
 
 <types>	
 	<type name="PvZmoD_Information_Panel">
-        <Custom_Server_Link	 							Value = ""/>	<!-- https://...  --> 
-        <PvZmoD_Information_Panel_Enable_In_Main_Menu	Value = "1"/>	<!-- [Integer 0 or 1] "0" only work AFTER the player have joined the server --> 
-        <PvZmoD_Information_Panel_Enable_In_Game_Menu	Value = "1"/>	<!-- [Integer 0 or 1]  --> 
+        <Custom_Server_Link	 							Value = "0"/>	<!-- https://42MonthsAfter.com...  --> 
+        <PvZmoD_Information_Panel_Enable_In_Main_Menu	Value = "0"/>	<!-- [Integer 0 or 1] "0" only work AFTER the player have joined the server --> 
+        <PvZmoD_Information_Panel_Enable_In_Game_Menu	Value = "0"/>	<!-- [Integer 0 or 1]  --> 
 	</type>
 	
 	<type name="NewFeatures">		<!-- New feautures, you should move them in the right section (not mandatory but cleaner structure is easier for you to tweak) -->    
