@@ -6,7 +6,7 @@
 	<!--________________ Chiemsee Monsters ______________-->
 	
 	<type name="MonstersOfChiemsee_boomer">	 					<!-- ! More Dangerous at NIGHT ! -->
-        <Health_Points				Day="1000" 	Night="1000"/> 	<!--  Very Very Strong Lvl BOSS  -->
+        <Health_Points				Day="500" 	Night="500"/> 	<!--  Very Very Strong Lvl BOSS  -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -33,7 +33,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="1"		Night="1"/>
     </type>	
 	<type name="MonstersOfChiemsee_burer">	 					<!-- ! More Dangerous at NIGHT ! -->
-        <Health_Points				Day="1000" 	Night="1000"/> 	<!--  Very Very Strong Lvl BOSS  -->
+        <Health_Points				Day="500" 	Night="500"/> 	<!--  Very Very Strong Lvl BOSS  -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -60,7 +60,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="1"		Night="1"/>
     </type>	
 	<type name="MonstersOfChiemsee_controller">	 					<!-- ! More Dangerous at NIGHT ! -->
-        <Health_Points				Day="1000" 	Night="1000"/> 	<!--  Very Very Strong Lvl BOSS  -->
+        <Health_Points				Day="500" 	Night="500"/> 	<!--  Very Very Strong Lvl BOSS  -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -87,7 +87,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="1"		Night="1"/>
     </type>	
 	<type name="MonstersOfChiemsee_krovosos">	 					<!-- ! More Dangerous at NIGHT ! -->
-        <Health_Points				Day="1000" 	Night="1000"/> 	<!--  Very Very Strong Lvl BOSS  -->
+        <Health_Points				Day="500" 	Night="500"/> 	<!--  Very Very Strong Lvl BOSS  -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -114,7 +114,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="1"		Night="1"/>
     </type>	
 	<type name="MonstersOfChiemsee_poltergeist">	 					<!-- ! More Dangerous at NIGHT ! -->
-        <Health_Points				Day="1000" 	Night="1000"/> 	<!--  Very Very Strong Lvl BOSS  -->
+        <Health_Points				Day="500" 	Night="500"/> 	<!--  Very Very Strong Lvl BOSS  -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -141,7 +141,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="1"		Night="1"/>
     </type>	
 	<type name="MonstersOfChiemsee_psevdogigant">	 					<!-- ! More Dangerous at NIGHT ! -->
-        <Health_Points				Day="1000" 	Night="1000"/> 	<!--  Very Very Strong Lvl BOSS  -->
+        <Health_Points				Day="500" 	Night="500"/> 	<!--  Very Very Strong Lvl BOSS  -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -168,7 +168,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="1"		Night="1"/>
     </type>	
 	<type name="MonstersOfChiemsee_snork">	 					<!-- ! More Dangerous at NIGHT ! -->
-        <Health_Points				Day="1000" 	Night="1000"/> 	<!--  Very Very Strong Lvl BOSS  -->
+        <Health_Points				Day="500" 	Night="500"/> 	<!--  Very Very Strong Lvl BOSS  -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>

@@ -14,14 +14,14 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="5" min="3" type="MonstersOfChiemsee_psevdogigant"/>
-            <child lootmax="5" lootmin="0" max="5" min="3" type="MonstersOfChiemsee_poltergeist"/>
-            <child lootmax="5" lootmin="0" max="5" min="3" type="MonstersOfChiemsee_krovosos"/>
-            <child lootmax="5" lootmin="0" max="5" min="3" type="MonstersOfChiemsee_controller"/>
-            <child lootmax="5" lootmin="0" max="5" min="3" type="MonstersOfChiemsee_snork"/>
-			<child lootmax="0" lootmin="0" max="5" min="3" type="MonstersOfChiemsee_base"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="MonstersOfChiemsee_boomer"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="MonstersOfChiemsee_burer"/>
+            <child lootmax="5" lootmin="0" max="3" min="1" type="MonstersOfChiemsee_psevdogigant"/>
+            <child lootmax="5" lootmin="0" max="3" min="1" type="MonstersOfChiemsee_poltergeist"/>
+            <child lootmax="5" lootmin="0" max="3" min="1" type="MonstersOfChiemsee_krovosos"/>
+            <child lootmax="5" lootmin="0" max="3" min="1" type="MonstersOfChiemsee_controller"/>
+            <child lootmax="5" lootmin="0" max="3" min="1" type="MonstersOfChiemsee_snork"/>
+			<child lootmax="0" lootmin="0" max="3" min="1" type="MonstersOfChiemsee_base"/>
+            <child lootmax="0" lootmin="0" max="3" min="1" type="MonstersOfChiemsee_boomer"/>
+            <child lootmax="0" lootmin="0" max="3" min="1" type="MonstersOfChiemsee_burer"/>
         </children>
     </event>
     <event name="AnimalWildDog">
