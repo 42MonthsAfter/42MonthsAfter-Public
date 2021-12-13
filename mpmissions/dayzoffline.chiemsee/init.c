@@ -115,6 +115,7 @@ class CustomMission: MissionServer
 				
 		// Silver VIP MEMBERS = RLF Faction : Can be Steam64 ID or Bohemia UID
 		vipMembersSilver.Insert( "76561199216510026" ); // Monty	
+		vipMembersSilver.Insert( "76561198027252941" ); // Ghost	
 
 		// Gold VIP MEMBERS = Remnants Faction : Can be Steam64 ID or Bohemia UID
 		vipMembersGold.Insert( "76561199142271709" ); // Josh
