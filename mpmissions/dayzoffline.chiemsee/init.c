@@ -120,7 +120,6 @@ class CustomMission: MissionServer
 
 		// Gold VIP MEMBERS = Remnants Faction : Can be Steam64 ID or Bohemia UID
 		vipMembersGold.Insert( "76561199142271709" ); // Josh
-		vipMembersGold.Insert( "76561199105471341" ); // Viper
 		vipMembersGold.Insert( "76561198274691972" ); // Trenton
 		vipMembersGold.Insert( "76561198028022008" ); // D3vilsGaming
 	}
