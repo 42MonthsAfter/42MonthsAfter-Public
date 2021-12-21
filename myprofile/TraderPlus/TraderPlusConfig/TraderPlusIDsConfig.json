@@ -169,8 +169,7 @@
                 "Seeds & Lime",
                 "Hunting and Fishing",
                 "Meat",
-                "Animal Parts",
-                "Good-Good"
+                "Animal Parts"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
@@ -178,7 +177,8 @@
         {
             "EnableStockAllCategoryForID": 0,
             "Categories": [
-                "Black Market Trader"
+                "Black Market Trader",
+                "Good-Good"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
