@@ -48,7 +48,7 @@
         "Z": 4386.0,
         "Radius": 100,
         "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 1,
+        "ShowNameOnMap": 0,
         "Activity_Schedule": {
             "Days": "1 2 3 4 5 6 7",
             "StartHour": 0,
@@ -63,6 +63,76 @@
         "Radius": 300,
         "ShowBorderOnMap": 1,
         "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Military Camp",
+        "X": 5305.0,
+        "Z": 9813.0,
+        "Radius": 100,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Military Camp",
+        "X": 2416.0,
+        "Z": 7230.0,
+        "Radius": 100,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Black Market",
+        "X": 8030.0,
+        "Z": 6037.0,
+        "Radius": 100,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Stien",
+        "X": 4645.0,
+        "Z": 7624.0,
+        "Radius": 100,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Berg Teisenham",
+        "X": 2559.0,
+        "Z": 9878.0,
+        "Radius": 100,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
         "Activity_Schedule": {
             "Days": "1 2 3 4 5 6 7",
             "StartHour": 0,
