@@ -79,7 +79,7 @@
             "EnableStockAllCategoryForID": 0,
             "Categories": [
                 "Vehicles",
-                "Auto"
+                "Auto Parts"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
@@ -177,8 +177,9 @@
         {
             "EnableStockAllCategoryForID": 0,
             "Categories": [
-                "Black Market Trader",
-                "Good-Good"
+                "Rare Items",
+                "Good-Good",
+                "Seasonal Items"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
