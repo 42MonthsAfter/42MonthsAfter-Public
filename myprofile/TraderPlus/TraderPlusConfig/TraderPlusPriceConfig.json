@@ -685,7 +685,6 @@
                 "sushiknife_mung,1,100,1,50,0.5",
                 "bowieknife_mung,1,100,1,70,0.5",
                 "katana_Mung,1,100,1,1500,0.5",
-                "Scythe_Mung,1,100,1,60,0.5",
                 "Msp_BassAxe,1,100,1,26,0.5",
                 "Msp_BeanBasher,1,100,1,20,0.5",
                 "Msp_PipeAxe,1,100,1,34,0.5",
@@ -718,9 +717,7 @@
                 "TWP_Machete_USA,1,100,1,100,0.5",
                 "TWP_Machete_Brazil,1,100,1,100,0.5",
                 "TWP_BloodyMachete,1,100,1,100,0.5",
-                "TWP_JasonMachete,1,100,1,150,0.5",
                 "TWP_NinjaSword,1,100,1,1200,0.5",
-                "TWP_Scythe,1,100,1,60,0.5",
                 "TWP_Axe,1,100,1,60,0.5",
                 "TWP_FirefighterAxe,1,100,1,60,0.5",
                 "TWP_Rose,1,100,1,1000,0.5",
@@ -889,15 +886,7 @@
                 "SNAFU_Trenchgun,1,100,1,600,0.5",
                 "TWP_DoubleBarrelShotgun,1,100,1,700,0.5",
                 "Izh43Shotgun,1,100,1,700,0.5",
-<<<<<<< Updated upstream
-                "SawedoffIzh43Shotgun,1,100,1,500,0.5",
-=======
-<<<<<<< Updated upstream
-                "SawedoffIzh43Shotgun,1,100,1,500,0.5",
-=======
                 "SawedoffIzh43Shotgun,1,100,1,400,0.5",
->>>>>>> Stashed changes
->>>>>>> Stashed changes
                 "izh54_mung,1,100,1,700,0.5",
                 "TWP_Toz34,1,100,1,700,0.5",
                 "TWP_Benelli_Supernova,1,100,1,800,0.5",
@@ -2256,7 +2245,6 @@
                 "TWP_Cosmetic_Bacon,1,100,1,200,0.5",
                 "TWP_Cosmetic_Anchor,1,100,1,200,0.5",
                 "TWP_Cosmetic_50Caliber,1,100,1,200,0.5",
-                "TWP_MiniReaper,1,100,1,200,0.5",
                 "Golden_Winged_Pin,1,100,100,150,0.6",
                 "Button_Pin_Radioactive,1,100,100,150,0.6",
                 "Button_Pin_Daisy,1,100,100,150,0.6"
@@ -2433,9 +2421,6 @@
                 "shawl_palestini_mung,1,100,-1,8,0.5",
                 "shawl_black_mung,1,100,-1,8,0.5",
                 "shawl_floral_mung,1,100,-1,8,0.5",
-                "WitchHood_Black,1,100,-1,8,0.5",
-                "WitchHood_Brown,1,100,-1,8,0.5",
-                "WitchHood_Red,1,100,-1,8,0.5",
                 "RadarCap_Red,1,100,-1,10,0.5",
                 "RadarCap_Blue,1,100,-1,10,0.5",
                 "RadarCap_Brown,1,100,-1,10,0.5",
@@ -2447,9 +2432,6 @@
                 "NBCHoodGray,1,100,-1,42,0.5",
                 "NBCHoodYellow,1,100,-1,42,0.5",
                 "bandana_mung,1,100,-1,6,0.5",
-                "TWP_WitchHat,1,100,-1,10,0.5",
-                "Msp_WitchHat,1,100,-1,10,0.5",
-                "WitchHat,1,100,-1,10,0.5",
                 "jesterhat_mung,1,100,-1,24,0.5",
                 "strawhat_mung,1,100,-1,16,0.5"
             ]
@@ -2522,7 +2504,6 @@
                 "NioshFaceMask,1,100,-1,4,0.5",
                 "HockeyMask,1,100,-1,8,0.5",
                 "hannibal_mask_mung,1,100,-1,200,0.5",
-                "TWP_JasonMask,1,100,-1,200,0.5",
                 "Shemagh_Brown,1,100,-1,25,0.6",
                 "Shemagh_Green,1,100,-1,25,0.6",
                 "Shemagh_Red,1,100,-1,25,0.6",
@@ -3328,7 +3309,7 @@
             ]
         },
         {
-            "CategoryName": "Auto",
+            "CategoryName": "Auto Parts",
             "Products": [
                 "CarRadiator,1,100,-1,250,0.5",
                 "CarBattery,1,100,-1,150,0.5",
@@ -5698,15 +5679,7 @@
                 "SNAFU_Trenchgun,1,100,1,600,0.8",
                 "TWP_DoubleBarrelShotgun,1,100,1,700,0.8",
                 "Izh43Shotgun,1,100,1,700,0.8",
-<<<<<<< Updated upstream
-                "SawedoffIzh43Shotgun,1,100,1,500,0.8",
-=======
-<<<<<<< Updated upstream
-                "SawedoffIzh43Shotgun,1,100,1,500,0.8",
-=======
                 "SawedoffIzh43Shotgun,1,100,1,400,0.8",
->>>>>>> Stashed changes
->>>>>>> Stashed changes
                 "izh54_mung,1,100,1,700,0.8",
                 "TWP_Toz34,1,100,1,700,0.8",
                 "TWP_Benelli_Supernova,1,100,1,800,0.8",
@@ -9339,15 +9312,7 @@
                 "SNAFU_Trenchgun,1,100,1,600,0.8",
                 "TWP_DoubleBarrelShotgun,1,100,1,700,0.8",
                 "Izh43Shotgun,1,100,1,700,0.8",
-<<<<<<< Updated upstream
-                "SawedoffIzh43Shotgun,1,100,1,500,0.8",
-=======
-<<<<<<< Updated upstream
-                "SawedoffIzh43Shotgun,1,100,1,500,0.8",
-=======
                 "SawedoffIzh43Shotgun,1,100,1,400,0.8",
->>>>>>> Stashed changes
->>>>>>> Stashed changes
                 "izh54_mung,1,100,1,700,0.8",
                 "TWP_Toz34,1,100,1,700,0.8",
                 "TWP_Benelli_Supernova,1,100,1,800,0.8",
@@ -10631,44 +10596,52 @@
             ]
         },
         {
-            "CategoryName": "Black Market Trader",
+            "CategoryName": "Seasonal Items",
             "Products": [
-                "Msp_Rabbit,1,-1,1,2000,2000",
-                "Bear_White,1,-1,1,1500,1500",
-                "Bear_Pink,1,-1,1,1500,1500",
-                "Bear_Dark,1,-1,1,1500,1500",
-                "Bear_Beige,1,-1,1,1500,1500",
-                "Msp_Egg_Yellow,1,-1,1,3500,3500",
-                "Msp_Egg_Blue,1,-1,1,3500,3500",
-                "Msp_Egg_Pink,1,-1,1,3500,3500",
-                "Msp_Egg_Red,1,-1,1,3500,3500",
-                "Msp_Egg_Green,1,-1,1,3500,3500",
-                "Msp_Egg_Purple,1,-1,1,3500,3500",
-                "EasterEgg,1,-1,1,5000,5000",
-                "TWP_JackintheBox,1,-1,1,1200,0.5",
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-                "teddyhead_mung,1,100,0,2000,2000",
-                "TWP_Covid19Head_Red,1,100,0,5000,5000",
-                "TWP_Covid19Head_Green,1,100,0,5000,5000",
-                "TWP_Covid19Head_Orange,1,100,0,5000,5000",
-                "TWP_Covid19Head_yellow,1,100,0,5000,5000",
-                "PumpkinHelmet,1,100,0,500,500",
-                "TWP_PumpkinHead,1,100,0,5000,5000"
-<<<<<<< Updated upstream
-=======
-=======
-                "TWP_Covid19Head_Red,1,-1,1,5000,5000",
-                "TWP_Covid19Head_Green,1,-1,1,5000,5000",
-                "TWP_Covid19Head_Orange,1,-1,1,5000,5000",
-                "TWP_Covid19Head_yellow,1,-1,1,5000,5000",
-                "teddyhead_mung,1,-1,1,5000,5000",
-                "PumpkinHelmet,1,-1,-1,500,500",
-                "TWP_PumpkinHead,1,-1,1,5000,5000"
->>>>>>> Stashed changes
->>>>>>> Stashed changes
+                "TWP_JasonMachete,1,100,-1,600,500",
+                "TWP_JasonMask,1,100,-1,600,500",
+                "WitchHood_Black,1,100,-1,600,500",
+                "WitchHood_Brown,1,100,-1,600,500",
+                "WitchHood_Red,1,100,-1,600,500",
+                "WitchHat,1,100,-1,600,500",
+                "Msp_WitchHat,1,100,-1,600,500",
+                "TWP_WitchHat,1,100,-1,600,500",
+                "MSP_WitchCauldron,1,100,-1,600,500",
+                "Scythe_Mung,1,100,-1,600,500",
+                "TWP_Scythe,1,100,-1,600,500",
+                "TWP_MiniReaper,1,100,-1,1100,1000",
+                "TWP_Coffin,1,100,-1,1100,1000",
+                "TWP_PNade,1,100,-1,350,300",
+                "TWP_ScaryPNade,1,100,-1,350,300",
+                "PumpkinHelmet,1,100,-1,600,500",
+                "TWP_PumpkinHead,1,100,0,2100,2000",
+                "TWP_GhostBackpack_Angry,1,100,-1,100000,90000",
+                "TWP_GhostBackpack_Vampire,1,100,-1,100000,90000",
+                "TWP_GhostBackpack_Scared,1,100,-1,100000,90000"
+            ]
+        },
+        {
+            "CategoryName": "Rare Items",
+            "Products": [
+                "Msp_Rabbit,1,-1,1,2100,2000",
+                "Msp_Bunny,1,-1,1,1600,1500",
+                "Bear_White,1,-1,1,1600,1500",
+                "Bear_Pink,1,-1,1,1600,1500",
+                "Bear_Dark,1,-1,1,1600,1500",
+                "Bear_Beige,1,-1,1,1600,1500",
+                "Msp_Egg_Yellow,1,-1,1,3600,3500",
+                "Msp_Egg_Blue,1,-1,1,3600,3500",
+                "Msp_Egg_Pink,1,-1,1,3600,3500",
+                "Msp_Egg_Red,1,-1,1,3600,3500",
+                "Msp_Egg_Green,1,-1,1,3600,3500",
+                "Msp_Egg_Purple,1,-1,1,3600,3500",
+                "EasterEgg,1,-1,1,5100,5000",
+                "TWP_JackintheBox,1,-1,1,1300,1200",
+                "teddyhead_mung,1,100,0,2100,2000",
+                "TWP_Covid19Head_Red,1,100,0,2100,2000",
+                "TWP_Covid19Head_Green,1,100,0,2100,2000",
+                "TWP_Covid19Head_Orange,1,100,0,2100,2000",
+                "TWP_Covid19Head_yellow,1,100,0,2100,2000"
             ]
         }
     ]
