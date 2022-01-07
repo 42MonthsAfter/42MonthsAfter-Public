@@ -42153,8 +42153,15 @@
         <value name="Tier2" />
   </type>
 	<type name="brain_Mung">
-        <lifetime>21600</lifetime>
+        <nominal>5</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic" />
         <value name="Tier15" />
         <value name="Tier11" />
         <value name="Tier8" />
