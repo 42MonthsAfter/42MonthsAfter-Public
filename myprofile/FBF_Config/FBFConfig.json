@@ -1,0 +1,83 @@
+{
+    "m_CampfireLight": {
+        "Radius": 10.0,
+        "WithShadows": 0,
+        "Brightness": 3,
+        "VisibleDuringDaylight": 0
+    },
+    "m_FireplaceLight": {
+        "Radius": 10.0,
+        "WithShadows": 0,
+        "Brightness": 3,
+        "VisibleDuringDaylight": 0
+    },
+    "m_TorchLight": {
+        "Radius": 30.0,
+        "WithShadows": 0,
+        "Brightness": 5.0,
+        "VisibleDuringDaylight": 0
+    },
+    "m_SpotlightLight": {
+        "Radius": 16.0,
+        "WithShadows": 0,
+        "Brightness": 4.0,
+        "VisibleDuringDaylight": 0
+    },
+    "m_AreaLight_White": {
+        "Radius": 100.0,
+        "WithShadows": 0,
+        "Brightness": 10.0,
+        "VisibleDuringDaylight": 0
+    },
+    "m_AreaLight_Warm": {
+        "Radius": 100.0,
+        "WithShadows": 0,
+        "Brightness": 10.0,
+        "VisibleDuringDaylight": 0
+    },
+    "m_CustomLight1": {
+        "Radius": 20.0,
+        "WithShadows": 0,
+        "Brightness": 2.0,
+        "VisibleDuringDaylight": 0,
+        "DiffuseColorRed": 0.0,
+        "DiffuseColorGreen": 0.0,
+        "DiffuseColorBlue": 0.0
+    },
+    "m_CustomLight2": {
+        "Radius": 100.0,
+        "WithShadows": 0,
+        "Brightness": 10.0,
+        "VisibleDuringDaylight": 0,
+        "DiffuseColorRed": 0.0,
+        "DiffuseColorGreen": 0.0,
+        "DiffuseColorBlue": 0.0
+    },
+    "m_CustomLight3": {
+        "Radius": 100.0,
+        "WithShadows": 0,
+        "Brightness": 10.0,
+        "VisibleDuringDaylight": 0,
+        "DiffuseColorRed": 0.0,
+        "DiffuseColorGreen": 0.0,
+        "DiffuseColorBlue": 0.0
+    },
+    "m_CustomLight4": {
+        "Radius": 100.0,
+        "WithShadows": 0,
+        "Brightness": 10.0,
+        "VisibleDuringDaylight": 0,
+        "DiffuseColorRed": 0,
+        "DiffuseColorGreen": 0.0,
+        "DiffuseColorBlue": 0
+    },
+    "m_CustomLight5": {
+        "Radius": 100.0,
+        "WithShadows": 0,
+        "Brightness": 10.0,
+        "VisibleDuringDaylight": 0,
+        "DiffuseColorRed": 0.0,
+        "DiffuseColorGreen": 0.0,
+        "DiffuseColorBlue": 0.0
+    }
+}

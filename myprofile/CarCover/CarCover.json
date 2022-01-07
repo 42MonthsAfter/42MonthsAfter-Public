@@ -98,7 +98,10 @@
             "CoverName": "ZIL130_Cover",
             "Offset": 0.0,
             "CarClasses": [
-                "Gerph_Zil130"
+                "Gerph_Zil130",
+                "Gerph_Zil130_Green",
+                "Gerph_Zil130_legacy",
+                "Gerph_Zil130_Green_legacy"
             ]
         },
         {
@@ -941,6 +944,55 @@
                 "Bastard_w124_rust_skin2",
                 "Bastard_w124_black",
                 "Bastard_w124_police"
+            ]
+        },
+        {
+            "CoverName": "BS_CJ7_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "Bastard_cj7",
+                "Bastard_cj7_stock",
+                "Bastard_cj7_white",
+                "Bastard_cj7_green",
+                "Bastard_cj7_black",
+                "Bastard_cj7_red",
+                "Bastard_cj7_tan"
+            ]
+        },
+        {
+            "CoverName": "TFVaz_2126_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "CivilianVaz_2126",
+                "Civilian_Vaz_2126_Green",
+                "Civilian_Vaz_2126_Red",
+                "Civilian_Vaz_2126_Blue"
+            ]
+        },
+        {
+            "CoverName": "Rag_ATV_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "rag_atv_blue",
+                "rag_atv_red",
+                "rag_atv_green",
+                "rag_atv_pink",
+                "rag_atv_white",
+                "rag_atv_black",
+                "rag_atv_awd_blue",
+                "rag_atv_awd_green",
+                "rag_atv_awd_pink",
+                "rag_atv_awd_red",
+                "rag_atv_awd_white",
+                "rag_atv_awd_black"
+            ]
+        },
+        {
+            "CoverName": "Rag_Schoolbus_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "rag_schoolbus",
+                "rag_schoolbus_czech"
             ]
         }
     ]

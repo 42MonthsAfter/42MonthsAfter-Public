@@ -78,7 +78,7 @@
 	<type name="Other">
 		<Special_HeadShot_Weapons	List = "Crossbow,"		/>	<!-- (no spaces, use comma between each weapon) -->
 		<Items_Protect_HeadShots	List = "BallisticHelmet,ConstructionHelmet,DarkMotoHelmet,DirtBikeHelmet,FirefightersHelmet,GorkaHelmet,HockeyHelmet,GreatHelm,Mich2001Helmet,MotoHelmet,PumpkinHelmet,SkateHelmet,Ssh68Helmet,TankerHelmet,ZSh3PilotHelmet,WeldingMask"		/>		<!-- no spaces, use comma between each helmet or mask-->
-		<Friendly_Wolves			List = "Animal_CanisLupus_White,"	/>	<!-- (no spaces, use comma between each wolf)-->
+		<Friendly_Wolves			List = ""	/>	<!-- (no spaces, use comma between each wolf)-->
     </type>
 	
 	<type name="Debug_Only_For_Testing_Or_Debugging">

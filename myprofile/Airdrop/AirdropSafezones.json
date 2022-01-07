@@ -1,3 +1,11 @@
 {
-    "SafeZones": []
+    "SafeZones": [
+        {
+            "Title": "QuickStop",
+            "Message": "Airdrops cannot be dispatched to your current location ... Airdrop cancelled!",
+            "X": 8360,
+            "Z": 5984,
+            "Radius": 500
+        }
+    ]
 }

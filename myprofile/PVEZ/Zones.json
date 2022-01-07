@@ -1,138 +1,96 @@
 [
     {
         "Type": 0,
-        "Name": "Dam Mine",
-        "X": 676.0,
-        "Z": 3082.0,
-        "Radius": 200,
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 1,
-        "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
-            "StartHour": 0,
-            "EndHour": 24
-        }
-    },
-    {
-        "Type": 0,
-        "Name": "The Decent",
-        "X": 262.0,
-        "Z": 7469.0,
-        "Radius": 200,
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 1,
-        "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
-            "StartHour": 0,
-            "EndHour": 24
-        }
-    },
-    {
-        "Type": 0,
-        "Name": "Loot Island",
-        "X": 7040.0,
-        "Z": 3535.0,
-        "Radius": 1300,
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 1,
-        "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
-            "StartHour": 0,
-            "EndHour": 24
-        }
-    },
-    {
-        "Type": 0,
-        "Name": "Middle Isle",
-        "X": 8227.0,
-        "Z": 4386.0,
-        "Radius": 100,
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 0,
-        "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
-            "StartHour": 0,
-            "EndHour": 24
-        }
-    },
-    {
-        "Type": 0,
-        "Name": "Frueniland",
-        "X": 8911.0,
-        "Z": 4888.0,
-        "Radius": 300,
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 1,
-        "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
-            "StartHour": 0,
-            "EndHour": 24
-        }
-    },
-    {
-        "Type": 0,
-        "Name": "Military Camp",
-        "X": 5305.0,
-        "Z": 9813.0,
-        "Radius": 100,
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 0,
-        "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
-            "StartHour": 0,
-            "EndHour": 24
-        }
-    },
-    {
-        "Type": 0,
-        "Name": "Military Camp",
-        "X": 2416.0,
-        "Z": 7230.0,
-        "Radius": 100,
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 0,
-        "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
-            "StartHour": 0,
-            "EndHour": 24
-        }
-    },
-    {
-        "Type": 0,
-        "Name": "Black Market",
-        "X": 8030.0,
-        "Z": 6037.0,
-        "Radius": 100,
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 0,
-        "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
-            "StartHour": 0,
-            "EndHour": 24
-        }
-    },
-    {
-        "Type": 0,
-        "Name": "Stien",
-        "X": 4645.0,
-        "Z": 7624.0,
-        "Radius": 100,
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 0,
-        "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
-            "StartHour": 0,
-            "EndHour": 24
-        }
-    },
-    {
-        "Type": 0,
-        "Name": "Berg Teisenham",
-        "X": 2559.0,
+        "Name": "Area 42",
+        "X": 13395.0,
         "Z": 9878.0,
-        "Radius": 100,
+        "Radius": 600,
         "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 0,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Throne Isle",
+        "X": 385.0,
+        "Z": 580.0,
+        "Radius": 800,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "The Mine",
+        "X": 11127.0,
+        "Z": 2276.0,
+        "Radius": 400,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "The Bunker",
+        "X": 7142.0,
+        "Z": 11614.0,
+        "Radius": 200,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Rogue Wave",
+        "X": 2152.0,
+        "Z": 14622.0,
+        "Radius": 60,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Horizon",
+        "X": 4143.0,
+        "Z": 15470.0,
+        "Radius": 140,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Deep Water",
+        "X": 1674.0,
+        "Z": 12729.0,
+        "Radius": 160,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
         "Activity_Schedule": {
             "Days": "1 2 3 4 5 6 7",
             "StartHour": 0,

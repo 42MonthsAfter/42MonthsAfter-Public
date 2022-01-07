@@ -4,8 +4,8 @@
             "EnableStockAllCategoryForID": 0,
             "Categories": [
                 "Packaged Food",
+                "Vegetables",
                 "Drinks",
-                "Medical Supplies",
                 "Money Exchange"
             ],
             "LicencesRequired": [],
@@ -18,22 +18,23 @@
                 "Sidearms",
                 "Shotguns",
                 "Rifles",
-                "Submachine Guns",
-                "Assault Rifles",
                 "Sniper Rifles",
+                "Assault Rifles",
+                "Submachine Guns",
                 "Machine Guns",
-                "Grenades",
-                "Ammunition",
-                "Magazines",
-                "Handguards",
                 "Buttstocks",
-                "SNAFU Weapon Parts",
-                "Optics",
-                "Supressors",
+                "Bipods",
+                "Handguards",
+                "Weapon Attachments",
+                "Weapon lights",
                 "Compensators",
+                "Supressors",
                 "Bayonets",
-                "Flashlights",
-                "Cosmetic"
+                "Optics",
+                "Magazines",
+                "Ammunition",
+                "Grenades",
+                "Explosives"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
@@ -42,11 +43,12 @@
             "EnableStockAllCategoryForID": 0,
             "Categories": [
                 "Tools",
-                "Base Building+",
+                "Base Building",
+                "Base Decor",
                 "Electronics",
                 "Fire & Lights",
                 "Cooking & Camping",
-                "Hardware Supplies"
+                "Auto Parts"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
@@ -54,23 +56,25 @@
         {
             "EnableStockAllCategoryForID": 0,
             "Categories": [
+                "Shoes & Boots",
                 "Glasses",
-                "Armbands",
+                "Masks",
                 "Gloves",
                 "Hats & Caps",
                 "Helmets",
-                "Masks",
-                "Shirts",
-                "Hoodies & Sweater",
-                "Vests",
-                "Jackets & Coats",
                 "Skirts & Dresses",
                 "Pants",
-                "Shoes & Boots",
-                "Ghillie",
-                "Holster & Pouches",
-                "Belt",
-                "Bags"
+                "Belts",
+                "Shirts",
+                "Hoodies & Sweaters",
+                "Jackets & Coats",
+                "Vests",
+                "Ghillies",
+                "Bags",
+                "Holsters & Pouches",
+                "Armbands",
+                "Patches",
+                "Cosmetics"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
@@ -78,8 +82,7 @@
         {
             "EnableStockAllCategoryForID": 0,
             "Categories": [
-                "Vehicles",
-                "Auto Parts"
+                "Medical Supplies"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
@@ -165,10 +168,7 @@
         {
             "EnableStockAllCategoryForID": 0,
             "Categories": [
-                "Vegetables",
-                "Seeds & Lime",
-                "Hunting and Fishing",
-                "Meat",
+                "Farming & Hunting & Fishing Supplies",
                 "Animal Parts"
             ],
             "LicencesRequired": [],
@@ -178,8 +178,25 @@
             "EnableStockAllCategoryForID": 0,
             "Categories": [
                 "Rare Items",
-                "Good-Good",
-                "Seasonal Items"
+                "TWP Melee & Blades",
+                "TWP Sidearms",
+                "TWP Shotguns",
+                "TWP Rifles",
+                "TWP Sniper Rifles",
+                "TWP Assault Rifles",
+                "TWP Submachine Guns",
+                "TWP Machine Guns",
+                "TWP Buttstocks",
+                "TWP Weapon lights",
+                "TWP Supressors",
+                "TWP Bayonets",
+                "TWP Optics",
+                "TWP Weapon Cosmetics",
+                "TWP Magazines",
+                "TWP Ammunition",
+                "TWP Grenades",
+                "Breaching Charges",
+                "Good-Good"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []

@@ -1,0 +1,10 @@
+name = "Spurgles Chevy C10";
+picture = "Spur_Chevy\data\Spur_Chevy_Logo.edds";
+logo = "Spur_Chevy\data\Spur_Chevy_Logo.edds";
+logoSmall = "Spur_Chevy\data\Spur_Chevy_Logo.edds";
+logoOver = "Spur_Chevy\data\Spur_Chevy_Logo.edds";
+tooltip = "Spurgles Chevy C10";
+overview = "A Chevy C10 Silverado ";
+action = "https://discord.gg/KuJZDvP";
+author = "Spurgle";
+authorID = "76561198120653239";

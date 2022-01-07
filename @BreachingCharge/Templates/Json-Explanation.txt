@@ -1,0 +1,74 @@
+{
+    "CreateLogs": 1,						        //1 = Logs will be created
+    "Charges": [
+        {
+            "Classname": "HDSN_BreachingCharge",	//Classname of the charge
+            "DamageToObjects": 1,				    //Damage it does to destroyable objects, only integers work, don't use numbers like 6.9 or 4.20
+            "DamageToDestroyableObjectsRadius": 0.0,//If this is set to something other than 0 it will damage all destroyable objects in the set radius   
+            "VerticalDistanceModeObjects": 0,		//0 = No vertical distance checks, 1 = distance from charge, 2 = distance from charge target, 3 = checks both distances 
+            "MaxVerticalDistanceObjects": 0.0,		//Max vertical (y) distance for objects
+	    "MaxDamageToPlayers": 100.0,			//Max amount of damage that is done to players once the charge explodes 
+            "MinDamageToPlayers": 50.0,				//Min amount of damage that is done to players once the charge explodes 
+            "DamageToPlayersRadius": 5.0,			//Radius in which the explosion can damage players, damage will be the minimal amount at the edge 
+            "MaxDamageToPlayersRadius": 2.0,		//Radius in which the explosion will deal full damage to players, e.g. in a 2 meter radius players will receive 100 damage
+            "MaxVerticalDistancePlayers": 0.0,      	//Max vertical (y) distance for players, distance is always calculated from charge position  
+	    "OnlyDestroyLocks": 0,				    //1 = This charge can only destroy locks, objects can not be destroyed at all
+            "DeleteObjectsDirectly": 0,				//1 = Objects will be deleted completely once their health reaches zero
+            "DestroyLocksFirst": 0,				    //1 = If there is a lock attached it will be destroyed first, if there is no lock attached the object will be destroyed
+            "PlacementDistance": 2.0,				//Distance from which the charge can be placed in meters 
+            "ToolDamageOnDefuse": 10.0,				//Damage a tool will receive if it is used to defuse this charge, no damage is applied if bare hands are used 
+            "DestroyOtherCharges": 0,			//1 = other planted charges in the object damage radius will be destroyed 
+	    "TimeToPlant": 30.0,				    //Time it takes to plant this charge on an object 
+            "TimeToExplode": 180.0,				    //Time it takes for the charge to explode after it has been armed 
+            "TimeToDefuse": 20.0,				    //Time it takes for the charge to be defused 
+            "LightBrightness": 0.5,				    //Brightness of the light on the charge once it has been armed 
+            "LightRadius": 10.0,				    //Radius of the light on the charge once it has been armed 
+            "LightColorStart": [				    //Color of the light when the charge has been armed 
+                0.0,
+                1.0,
+                0.0
+            ],
+            "LightColorHalfway": [				    //Color of the light when the charge is halfway through the explosion cycle 
+                1.0,
+                1.0,
+                0.0
+            ],
+            "LightColorEnd": [					    //Color of the light when BeepingSoundEndTime has been reached 
+                1.0,
+                0.0,
+                0.0
+            ],
+            "BeepingSoundSet": "HDSN_SoundSet_Beeping",	        //Name of the soundset used for the beeping noise of the charge
+            "BeepingSoundEndTime": 2.0,				            //Once this time is left, the beeping noise will be at its fastest
+            "SwitchInterval": 2.0,				                //Start-interval in which the charge beeps in seconds
+            "ExplosionSoundSet": "Landmine_Explosion_SoundSet",	//Name of the soundset used for the explosion of the charge
+            "DefuseTools": [					                //List of tools that can be used to defuse a charge, "Unarmed" means the charge can be defused with your bare hands 
+                "Unarmed"
+            ]
+        }     
+    ],
+    "Tiers": [																	
+        {
+            "Name": "Tier1",			            //Name of the tier, doesn't have to be named "Tier"
+            "Health": 2,					        //Amount of health an object with this tier has
+            "AcceptedChargeTypes": [				//Types of charges that can be placed on an object with this tier
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        }
+    ],
+    "DestroyableObjects": {					        //List of objects that can be destroyed, if you want to add an object here that is not a dayz fence or  
+        "Fence_Frame": "Tier1",					    //from any of the supported mods (BBP, SimpleBase, Expansion, MoreDoors) then use the classname as the name 
+		"Fence": "Tier1",
+		"Fence_HalfMetal": "Tier2",
+		"Fence_Metal": "Tier3",
+
+		"Fence_Gate": "Tier1",
+		"Fence_Gate_HalfMetal": "Tier2",
+		"Fence_Gate_Metal": "Tier3",
+
+		"Watchtower": "Tier1",
+		"Watchtower_HalfMetal": "Tier2",
+		"Watchtower_Metal": "Tier3"        
+    }
+}

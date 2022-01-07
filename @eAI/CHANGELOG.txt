@@ -1,0 +1,25 @@
+ - v0.17 -
++ Better random loot compat
++ Optional inventory locking
+
+ - v0.16 -
+~ Compatibility for game V1.14
+
+ - v0.15 -
++ Sidearm addition to loadouts
+~ Fixed targeting issue related to Guards faction
+
+ - v0.14 -
++ Guards faction
++ Event handlers for dynamic patrol spawning, can be overwritten in mission files
++ Optional unlimited ammo mode for AI
+~ Fix DayZ-Dog mod compatibility
+~ AI no longer target non-hostile animals (no more chicken murder)
+
+
+ - v0.13 -
++ Add defines for eAI into separate PBO
+~ Fix AI bodies instantly despawning
+~ Possible fix for players respawning with AI equipment
+~ Fix eAIShirt texture as the text was slightly misaligned
+- Remove unused test input from inputs.xml file

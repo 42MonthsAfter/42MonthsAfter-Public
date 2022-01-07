@@ -1,803 +1,673 @@
 {
     "LastCapturePoint": -1,
     "ConfigVersion": "1",
-    "Interval": 3600,
-    "StartDelay": 600,
-    "CaptureTime": 900,
-    "EmptyEventTimeOut": 1200,
-    "CleanUpTime": 600,
-	"PreStartDelay": 600,
-    "Hills": [ 
+    "Interval": 3600.0,
+    "StartDelay": 3000.0,
+    "CaptureTime": 900.0,
+    "EmptyEventTimeOut": 200.0,
+    "CleanUpTime": 200.0,
+    "PreStartDelay": 30.0,
+    "Hills": [
         {
-            "Name": "Bad Endorf",
-            "X": 2258.22,
-            "Y": 2.74451,
-            "Z": 8757.87,
-            "CaptureRadius": 20,
-            "EventRadius": 100,
-            "ZombieCount": 20,
-            "Objects": [
-            ]
+            "Name": "Threewood",
+            "X": 4999.85,
+            "Y": 35.4925,
+            "Z": 7720.3,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
         },
-		{
-            "Name": "Stien",
-            "X": 4636.95,
-            "Y": 74.6339,
-            "Z": 7618.15,
-            "CaptureRadius": 20,
-            "EventRadius": 100,
-            "ZombieCount": 20,
-            "Objects": [
-            ]
+        {
+            "Name": "Area 42",
+            "X": 13512.1,
+            "Y": 8.9347,
+            "Z": 9810.58,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
         },
-		{
-            "Name": "Berg Telsenham",
-            "X": 2536.9,
-            "Y": 42.49,
-            "Z": 9924.27,
-            "CaptureRadius": 20,
-            "EventRadius": 100,
-            "ZombieCount": 20,
-            "Objects": [
-            ]
+        {
+            "Name": "Power Plant",
+            "X": 4637.22,
+            "Y": 20.57,
+            "Z": 7072.66,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
         },
-		{
-            "Name": "Crater",
-            "X": 7259.23,
-            "Y": 11.26,
-            "Z": 9628.44,
-            "CaptureRadius": 20,
-            "EventRadius": 100,
-            "ZombieCount": 20,
-            "Objects": [
-            ]
+        {
+            "Name": "The Swamp",
+            "X": 3730.27,
+            "Y": 9.3625,
+            "Z": 8831.95,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
         },
-		{
-            "Name": "Burgendorf",
-            "X": 1782.21,
-            "Y": 2.07,
-            "Z": 3566.86,
-            "CaptureRadius": 20,
-            "EventRadius": 100,
-            "ZombieCount": 20,
-            "Objects": [
-            ]
+        {
+            "Name": "Prison",
+            "X": 5525.97,
+            "Y": 34.84,
+            "Z": 684.657,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
         },
-		{
-            "Name": "Alsching",
-            "X": 8258.99,
-            "Y": 9.7125,
-            "Z": 7218.86,
-            "CaptureRadius": 20,
-            "EventRadius": 100,
-            "ZombieCount": 20,
-            "Objects": [
-            ]
+        {
+            "Name": "Fairfield",
+            "X": 10016.5,
+            "Y": 37.2266,
+            "Z": 6785.03,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
         },
-		{
-            "Name": "Oberleiten",
-            "X": 6529.24,
-            "Y": 8.65431,
-            "Z": 5950.17,
-            "CaptureRadius": 20,
-            "EventRadius": 100,
-            "ZombieCount": 20,
-            "Objects": [
-            ]
+        {
+            "Name": "North Haven",
+            "X": 872.205,
+            "Y": 18.0805,
+            "Z": 15325.1,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
         },
-		{
-            "Name": "Antwort",
-            "X": 2026.81,
-            "Y": 56.5225,
-            "Z": 5204.5,
-            "CaptureRadius": 20,
-            "EventRadius": 100,
-            "ZombieCount": 20,
-            "Objects": [
-            ]
+        {
+            "Name": "Portland",
+            "X": 6174.89,
+            "Y": 29.2428,
+            "Z": 13987.2,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
         },
-		{
-            "Name": "AltSchwanstein",
-            "X": 3955.79,
-            "Y": 50.8065,
-            "Z": 1270.95,
-            "CaptureRadius": 20,
-            "EventRadius": 100,
-            "ZombieCount": 20,
-            "Objects": [
-            ]
+        {
+            "Name": "The Raceway",
+            "X": 10241.8,
+            "Y": 32.7825,
+            "Z": 10915.5,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
         },
-		{
-            "Name": "Sagewerk",
-            "X": 4277.72,
-            "Y": 12.5225,
-            "Z": 6704.24,
-            "CaptureRadius": 20,
-            "EventRadius": 100,
-            "ZombieCount": 20,
-            "Objects": [
-            ]
+        {
+            "Name": "Waldoboro",
+            "X": 8355.26,
+            "Y": 5.14245,
+            "Z": 9265.92,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
         },
-		{
-            "Name": "Fraueninsel",
-            "X": 8954.52,
-            "Y": 6.92623,
-            "Z": 5009.63,
-            "CaptureRadius": 20,
-            "EventRadius": 100,
-            "ZombieCount": 20,
-            "Objects": [
-            ]
+        {
+            "Name": "Camp Eagle",
+            "X": 8893.59,
+            "Y": 45.518,
+            "Z": 3818.66,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Airfield",
+            "X": 5522.7,
+            "Y": 74.1847,
+            "Z": 3812.82,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Georgestown",
+            "X": 4688.83,
+            "Y": 19.1298,
+            "Z": 4452.3,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Smallville",
+            "X": 10345.1,
+            "Y": 8.11054,
+            "Z": 4408.86,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
         }
     ],
     "RewardPools": [
         {
-            "Name": "1",
-            "RewardContainer": "hardigg_Mung",
+            "Name": "First Pool",
+            "RewardContainer": "SeaChest",
             "Rewards": [
                 {
-                    "Item": "AmmoBox_556x45_20Rnd",
-                    "ItemAttachments": []
+                    "Item": "TWP_BerettaDEBlack",
+                    "ItemAttachments": [
+                    ]
                 },
-				{
-                    "Item": "AmmoBox_556x45_20Rnd",
-                    "ItemAttachments": []
+                {
+                    "Item": "TWP_BerettaDE_mag_15Rnd",
+                    "ItemAttachments": [
+                    ]
                 },
-				{
-                    "Item": "AmmoBox_556x45_20Rnd",
-                    "ItemAttachments": []
+                {
+                    "Item": "TWP_BerettaDE_mag_15Rnd",
+                    "ItemAttachments": [
+                    ]
                 },
-				{
-                    "Item": "AmmoBox_556x45_20Rnd",
+                {
+                    "Item": "TWP_AR15_Cannabis",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_AR15Cannabis_mag_30Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "AmmoBox_556x45_20Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AmmoBox_556x45_20Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AmmoBox_556x45_20Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AmmoBox_556x45_20Rnd",
+                    "Item": "TWP_AR15Cannabis_mag_30Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "TWP_Ruger556_mag_30Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_Ruger556_mag_30Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_Ruger556_mag_30Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_Ruger556_mag_30Rnd",
+                    "Item": "TWP_AR15Cannabis_mag_30Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "TWP_Ruger556_mag_30Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_Ruger556_mag_30Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_Ruger556_MagPul",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_Ruger556_MagPul",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_Ruger556_MagPul",
-                    "ItemAttachments": []
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
                 }
             ]
         },
         {
-            "Name": "2",
-            "RewardContainer": "hardigg_Mung",
+            "Name": "Second Pool",
+            "RewardContainer": "SeaChest",
             "Rewards": [
                 {
-                    "Item": "Ammo_308Win",
-                    "ItemAttachments": []
+                    "Item": "TWP_AmericanRifle",
+                    "ItemAttachments": [
+                        "TWP_LongRangeOptic_Black"
+                    ]
                 },
-				{
-                    "Item": "Ammo_308Win",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "Ammo_308Win",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "Ammo_308Win",
+                {
+                    "Item": "TWP_AmericanRifle_mag_5Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "Ammo_308Win",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "Ammo_308Win",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "Ammo_308Win",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "Ammo_308Win",
+                    "Item": "TWP_AmericanRifle_mag_5Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "Ammo_308Win",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_RemingtonMSR_mag_5Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_RemingtonMSR_mag_5Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_RemingtonMSR_mag_5Rnd",
+                    "Item": "TWP_AmericanRifle_mag_5Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "TWP_RemingtonMSR_mag_5Rnd",
+                    "Item": "TWP_Glock42",
+                    "ItemAttachments": [
+                        "TWP_Glock42_mag_12Rnd"
+                    ]
+                },
+                {
+                    "Item": "TWP_Glock42_mag_12Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "TWP_RemingtonMSR",
+                {
+                    "Item": "TWP_Glock42_mag_12Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "TWP_RemingtonMSR",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_Remington700",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_Remington700",
-                    "ItemAttachments": []
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
                 }
             ]
         },
         {
-            "Name": "3",
-            "RewardContainer": "hardigg_Mung",
+            "Name": "Third Pool",
+            "RewardContainer": "SeaChest",
             "Rewards": [
                 {
-                    "Item": "AmmoBox_9x39AP_20Rnd",
-                    "ItemAttachments": []
+                    "Item": "TWP_XM8",
+                    "ItemAttachments": [
+                        "TWP_TrijiconACOG"
+                    ]
                 },
-				{
-                    "Item": "AmmoBox_9x39AP_20Rnd",
-                    "ItemAttachments": []
+                {
+                    "Item": "TWP_Glock18Jungle",
+                    "ItemAttachments": [
+                    ]
                 },
-				{
-                    "Item": "AmmoBox_9x39AP_20Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AmmoBox_9x39AP_20Rnd",
+                {
+                    "Item": "TWP_Glock18Jungle_mag_17Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "AmmoBox_9x39AP_20Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AmmoBox_9x39AP_20Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AmmoBox_9x39AP_20Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AmmoBox_9x39AP_20Rnd",
+                    "Item": "TWP_Glock18Jungle_mag_17Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "TWP_ASVal_mag_30Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_ASVal_mag_30Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_ASVal_mag_30Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_ASVal_mag_30Rnd",
+                    "Item": "TWP_XM8_mag_30Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "TWP_ASVal_mag_30Rnd",
+                    "Item": "TWP_XM8_mag_30Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "TWP_ASVal_mag_30Rnd",
+                {
+                    "Item": "TWP_XM8_mag_30Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "TWP_ASVal",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_ASVal",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_ASVal",
-                    "ItemAttachments": []
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
                 }
             ]
         },
         {
-            "Name": "4",
-            "RewardContainer": "hardigg_Mung",
+            "Name": "Fourth Pool",
+            "RewardContainer": "SeaChest",
             "Rewards": [
                 {
-                    "Item": "AmmoBox_762x39_20Rnd",
-                    "ItemAttachments": []
+                    "Item": "TWP_StenGun",
+                    "ItemAttachments": [
+                    ]
                 },
-				{
-                    "Item": "AmmoBox_762x39_20Rnd",
-                    "ItemAttachments": []
+                {
+                    "Item": "TWP_M60",
+                    "ItemAttachments": [
+                    ]
                 },
-				{
-                    "Item": "AmmoBox_762x39_20Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AmmoBox_762x39_20Rnd",
+                {
+                    "Item": "TWP_M60_mag_200Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "AmmoBox_762x39_20Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AmmoBox_762x39_20Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AmmoBox_762x39_20Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AmmoBox_762x39_20Rnd",
+                    "Item": "TWP_M60_mag_200Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "TWP_AK47_mag_30Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_AK47_mag_30Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_AK47_mag_30Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_AK47_mag_30Rnd",
+                    "Item": "TWP_StenGun_mag_32Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "TWP_AK47_mag_30Rnd",
+                    "Item": "TWP_StenGun_mag_32Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "TWP_AK47_mag_30Rnd",
+                {
+                    "Item": "TWP_StenGun_mag_32Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "TWP_AK47",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_AK47",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_AK47",
-                    "ItemAttachments": []
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
                 }
             ]
         },
         {
-            "Name": "5",
-            "RewardContainer": "hardigg_Mung",
+            "Name": "Fifth Pool",
+            "RewardContainer": "SeaChest",
             "Rewards": [
                 {
-                    "Item": "NailBox",
-                    "ItemAttachments": []
+                    "Item": "ScarLKGreenCamo",
+                    "ItemAttachments": [
+                        "TWP_TrijiconACOG"
+                    ]
                 },
-				{
-                    "Item": "NailBox",
-                    "ItemAttachments": []
+                {
+                    "Item": "TWP_P2000BlueGirl",
+                    "ItemAttachments": [
+                    ]
                 },
-				{
-                    "Item": "NailBox",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "NailBox",
+                {
+                    "Item": "TWP_ScarL_mag_30Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "NailBox",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "SledgeHammer",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "SledgeHammer",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "HandSaw",
+                    "Item": "TWP_ScarL_mag_30Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "HandSaw",
+                    "Item": "TWP_ScarL_mag_30Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "Hacksaw",
+                {
+                    "Item": "TWP_P2000BlueGirl_mag_16Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "Hacksaw",
+                {
+                    "Item": "TWP_P2000BlueGirl_mag_16Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "BBP_Concrete_Brick_Pile",
+                {
+                    "Item": "TWP_P2000BlueGirl_mag_16Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "BBP_Cement",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "BBP_Mortar_Mix",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "BarbedWire",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "BarbedWire",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "Hatchet",
-                    "ItemAttachments": []
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
                 }
             ]
         },
         {
-            "Name": "6",
-            "RewardContainer": "hardigg_Mung",
+            "Name": "Sixth Pool",
+            "RewardContainer": "SeaChest",
             "Rewards": [
                 {
-                    "Item": "AK74",
-                    "ItemAttachments": []
+                    "Item": "TWP_MK23Socom",
+                    "ItemAttachments": [
+                        "TWP_MK23Light"
+                    ]
                 },
-				{
-                    "Item": "AK74_Black",
-                    "ItemAttachments": []
+                {
+                    "Item": "TWP_MP443",
+                    "ItemAttachments": [
+                    ]
                 },
-				{
-                    "Item": "AK74_Green",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AK74_Hndgrd",
+                {
+                    "Item": "TWP_MP443_mag_18Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "AK74_Hndgrd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AK74_Hndgrd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "SledgeHammer",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AK74_WoodBttstck",
+                    "Item": "TWP_MP443_mag_18Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "AK74_WoodBttstck",
+                    "Item": "TWP_MP443_mag_18Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "AK74_WoodBttstck",
+                {
+                    "Item": "TWP_MK23Socom_mag_12Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "Mag_AK74_45Rnd",
+                {
+                    "Item": "TWP_MK23Socom_mag_12Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "Mag_AK74_45Rnd",
+                {
+                    "Item": "TWP_MK23Socom_mag_12Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "Mag_AK74_45Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "Mag_AK74_45Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "Mag_AK74_45Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "Mag_AK74_45Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "Mag_AK74_45Rnd",
-                    "ItemAttachments": []
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
                 }
             ]
         },
         {
-            "Name": "7",
-            "RewardContainer": "hardigg_Mung",
+            "Name": "Seventh Pool",
+            "RewardContainer": "SeaChest",
             "Rewards": [
                 {
-                    "Item": "CP_CannabisBrickSkunk",
-                    "ItemAttachments": []
+                    "Item": "TWP_Glock18Rebel",
+                    "ItemAttachments": [
+                    ]
                 },
-				{
-                    "Item": "CP_CannabisBrickSkunk",
-                    "ItemAttachments": []
+                {
+                    "Item": "PlateTWP_ARX160BlackCarrierVest",
+                    "ItemAttachments": [
+                    ]
                 },
-				{
-                    "Item": "CP_CannabisBrickSkunk",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "CP_CannabisBrickBlue",
+                {
+                    "Item": "TWP_ARX160_mag_30Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "CP_CannabisBrickBlue",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "CP_CannabisBrickBlue",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "CP_CannabisBrickKush",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "CP_CannabisBrickKush",
+                    "Item": "TWP_ARX160_mag_30Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "CP_CannabisBrickKush",
+                    "Item": "TWP_ARX160_mag_30Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "CP_CannabisBrickStardawg",
+                {
+                    "Item": "TWP_Glock18Rebel_mag_17Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "CP_CannabisBrickStardawg",
+                {
+                    "Item": "TWP_Glock18Rebel_mag_17Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "CP_CannabisBrickStardawg",
+                {
+                    "Item": "TWP_Glock18Rebel_mag_17Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "CP_CannabisBrickFuture",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "CP_CannabisBrickFuture",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "CP_CannabisBrickFuture",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "CP_RollingPapers",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "CP_JointNomad",
-                    "ItemAttachments": []
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
                 }
             ]
         },
         {
-            "Name": "8",
-            "RewardContainer": "hardigg_Mung",
+            "Name": "Eigth Pool",
+            "RewardContainer": "SeaChest",
             "Rewards": [
                 {
-                    "Item": "AMS_GasMaskGP21",
-                    "ItemAttachments": []
+                    "Item": "TWP_P2000Toxic",
+                    "ItemAttachments": [
+                    ]
                 },
-				{
-                    "Item": "AMS_GasMaskGP21",
-                    "ItemAttachments": []
+                {
+                    "Item": "TWP_FN57Toxic",
+                    "ItemAttachments": [
+                    ]
                 },
-				{
-                    "Item": "AMS_GasMaskGP21",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AMS_GasMaskGP21_Filter",
+                {
+                    "Item": "TWP_FN57Toxic_mag_15Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "AMS_GasMaskGP21_Filter",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AMS_GasMaskGP21_Filter",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AMS_GasMaskGP21_Filter",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "AMS_GasMaskGP21_Filter",
+                    "Item": "TWP_FN57Toxic_mag_15Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "AMS_GasMaskGP21_Filter",
+                    "Item": "TWP_FN57Toxic_mag_15Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "NBCBootsGray",
+                {
+                    "Item": "TWP_P2000Toxic_mag_16Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "NBCBootsYellow",
+                {
+                    "Item": "TWP_P2000Toxic_mag_16Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "NBCGlovesGray",
+                {
+                    "Item": "TWP_P2000Toxic_mag_16Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "NBCGlovesYellow",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "NBCHoodGray",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "NBCHoodYellow",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "NBCJacketGray",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "NBCJacketYellow",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "NBCPantsGray",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "NBCPantsYellow",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "nbc_longcoat_mung",
-                    "ItemAttachments": []
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
                 }
             ]
         },
         {
-            "Name": "9",
-            "RewardContainer": "hardigg_Mung",
+            "Name": "Ninth Pool",
+            "RewardContainer": "SeaChest",
             "Rewards": [
                 {
-                    "Item": "TWP_MK18",
-                    "ItemAttachments": []
+                    "Item": "TWP_SP1Vektor",
+                    "ItemAttachments": [
+                    ]
                 },
-				{
-                    "Item": "TWP_MK18",
-                    "ItemAttachments": []
+                {
+                    "Item": "TWP_SG550",
+                    "ItemAttachments": [
+                    ]
                 },
-				{
-                    "Item": "TWP_MK18_mag_100Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_MK18_mag_100Rnd",
+                {
+                    "Item": "TWP_SP1Vektor_mag_15Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "TWP_MK18_mag_100Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_MK18_mag_100Rnd",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_RPK16Green",
-                    "ItemAttachments": []
-                },
-				{
-                    "Item": "TWP_RPK16",
+                    "Item": "TWP_SP1Vektor_mag_15Rnd",
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "TWP_RPK16_mag_100Rnd",
+                    "Item": "TWP_SP1Vektor_mag_15Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "TWP_RPK16_mag_100Rnd",
+                {
+                    "Item": "TWP_SG550_mag_30Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "TWP_RPK16Green_mag_100Rnd",
+                {
+                    "Item": "TWP_SG550_mag_30Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "TWP_RPK16Green_mag_100Rnd",
+                {
+                    "Item": "TWP_SG550_mag_30Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "TWP_RPK16Tan",
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Tenth Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TWP_ScarDragon",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_WaltherP99",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_ScarDragon_mag_50Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "TWP_RPK16tan_mag_100Rnd",
+                {
+                    "Item": "TWP_ScarDragon_mag_50Rnd",
                     "ItemAttachments": []
                 },
-				{
-                    "Item": "TWP_RPK16tan_mag_100Rnd",
+                {
+                    "Item": "TWP_ScarDragon_mag_50Rnd",
                     "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_WaltherP99_mag_15Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_WaltherP99_mag_15Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Eleventh Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TWP_UMPPrimalSaber",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_AK47Spider",
+                    "ItemAttachments": [
+                        "TWP_SpiderBayonet"
+                    ]
+                },
+                {
+                    "Item": "TWP_UMPPrimalSaber_mag_35Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_UMPPrimalSaber_mag_35Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_UMPPrimalSaber_mag_35Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_AK47Spider_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_AK47Spider_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Twelveth Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "LandMineTrap",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_GlockZapper",
+                    "ItemAttachments": [
+                        "TWP_GlockZapper_mag_15Rnd"
+                    ]
+                },
+                {
+                    "Item": "TWP_GlockZapper_mag_15Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_BenelliM3",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
                 }
             ]
         }
@@ -811,7 +681,7 @@
         "ZmbM_usSoldier_normal_Woodland",
         "ZmbM_usSoldier_normal_Desert"
     ],
-    "FullMapCheckTimer": 5,
-    "EventTickTime": 1,
+    "FullMapCheckTimer": 5.0,
+    "EventTickTime": 1.0,
     "Logging": 1
 }

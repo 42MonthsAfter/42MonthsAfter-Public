@@ -3,7 +3,7 @@
     "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
     "UseGarageToTradeCar": 0,
     "DisableHeightFailSafeForReceiptDeployment": 0,
-    "EnableShowAllPrices": 1,
+    "EnableShowAllPrices": 0,
     "EnableShowAllCheckBox": 1,
     "EnableStockAllCategory": 1,
     "IsReceiptTraderOnly": 0,
@@ -57,15 +57,15 @@
         {
             "Id": 0,
             "Name": "SurvivorM_Boris",
-            "GivenName": "Peter",
+            "GivenName": "Albert",
             "Role": "Food Trader",
             "Position": [
-                4926.14013671875,
-                13.046899795532227,
-                6460.68994140625
+                5179.81005859375,
+                1.823799967765808,
+                9234.25
             ],
             "Orientation": [
-                40.0,
+                60.0,
                 0.0,
                 0.0
             ],
@@ -79,294 +79,101 @@
             ]
         },
         {
-            "Id": 2,
-            "Name": "SurvivorM_Peter",
-            "GivenName": "QuickStop",
-            "Role": "Tool Trader",
+            "Id": 1,
+            "Name": "SurvivorM_Boris",
+            "GivenName": "Boris",
+            "Role": "Weapon Trader",
             "Position": [
-                4930.0400390625,
-                13.049200057983399,
-                6456.97998046875
+                5183.419921875,
+                1.7114900350570679,
+                9241.990234375
             ],
             "Orientation": [
-                45.0,
+                230.0,
                 0.0,
                 0.0
             ],
             "Clothes": [
-                "ConstructionHelmet_Blue",
-                "Shirt_RedCheck",
-                "ReflexVest",
-                "CargoPants_Beige",
-                "WorkingBoots_Beige",
+                "HunterPants_Autumn",
+                "HuntingJacket_Autumn",
+                "SportGlasses_Orange",
+                "HikingBootsLow_Black",
                 "Armband_Orange",
-                "Shovel"
+                "TWP_Beowulf",
+                "SmershVest"
             ]
         },
         {
-            "Id": 1,
-            "Name": "SurvivorM_Peter",
-            "GivenName": "QuickStop",
-            "Role": "Weapon Trader",
+            "Id": 2,
+            "Name": "SurvivorM_Boris",
+            "GivenName": "Chriss",
+            "Role": "Tool Trader",
             "Position": [
-                4938.5400390625,
-                14.023099899291993,
-                6449.7998046875
+                5179.85986328125,
+                1.8237799406051636,
+                9245.1103515625
             ],
             "Orientation": [
-                280.0,
+                -170.0,
                 0.0,
                 0.0
             ],
             "Clothes": [
-                "BoonieHat_DPM",
-                "GorkaEJacket_Autumn",
-                "GorkaPants_Autumn",
-                "CombatBoots_Beige",
-                "TWP_M16A4",
-                "SportGlasses_Orange",
+                "ReflexVest",
+                "Shirt_RedCheck",
+                "Jeans_Blue",
                 "Armband_Orange",
-                "PlateCarrierVest"
+                "ConstructionHelmet_White",
+                "WorkingBoots_Yellow",
+                "SledgeHammer"
             ]
         },
         {
             "Id": 3,
-            "Name": "SurvivorM_Peter",
-            "GivenName": "QuickStop",
+            "Name": "SurvivorM_Boris",
+            "GivenName": "David",
             "Role": "Clothes Trader",
             "Position": [
-                4943.72021484375,
-                12.96660041809082,
-                6461.5400390625
+                5185.60009765625,
+                1.7575199604034424,
+                9237.8203125
             ],
             "Orientation": [
-                200.0,
+                -90.0,
                 0.0,
                 0.0
             ],
             "Clothes": [
-                "BeanieHat_Grey",
-                "TrackSuitJacket_LightBlue",
-                "TrackSuitPants_LightBlue",
-                "Sneakers_Gray",
+                "ManSuit_LightGrey",
+                "Jeans_Blue",
+                "MassFedora_White",
+                "DressShoes_White",
                 "Armband_Orange",
-                "Lennon_glasses_white_mung"
+                "AviatorGlasses"
             ]
         },
         {
             "Id": 4,
-            "Name": "SurvivorM_Peter",
-            "GivenName": "QuickStop",
-            "Role": "Auto Trader",
+            "Name": "SurvivorM_Boris",
+            "GivenName": "Edward",
+            "Role": "Medical Trader",
             "Position": [
-                4949.669921875,
-                12.876199722290039,
-                6466.2099609375
+                5184.259765625,
+                1.8238099813461304,
+                9231.3798828125
             ],
             "Orientation": [
-                -80.0,
+                -50.0,
                 0.0,
                 0.0
             ],
             "Clothes": [
-                "bikervest_mung",
-                "AviatorGlasses",
-                "TShirt_Grey",
-                "LeatherPants_Black",
+                "MedicalScrubsHat_Blue",
+                "MedicalScrubsPants_Green",
+                "LabCoat",
+                "Sneakers_Black",
                 "Armband_Orange",
-                "MilitaryBoots_Black"
-            ]
-        },
-        {
-            "Id": 5,
-            "Name": "SurvivorM_Peter",
-            "GivenName": "PLF Storage",
-            "Role": "PLF Gear",
-            "Position": [
-                4556.0,
-                12.332500457763672,
-                1816.5799560546876
-            ],
-            "Orientation": [
-                -50.0,
-                0.0,
-                0.0
-            ],
-            "Clothes": [
-                "MVS_Pack_Black",
-                "MVS_Combat_Vest_Black",
-                "MVS_Facemask_Black",
-                "MVS_CombatPants_Black",
-                "MVS_CombatShirt_Black",
-                "CombatBoots_Green",
-                "TacticalGloves_Green",
-                "AviatorGlasses",
-                "MVS_Cap_Black",
-                "MVS_Patch_33",
-                "MVS_Patch_33",
-                "MVS_Patch_33",
-                "MVS_Patch_33",
-                "MVS_Patch_33",
-                "MVS_Patch_33",
-                "MVS_Patch_33",
-                "M4A1"
-            ]
-        },
-        {
-            "Id": 6,
-            "Name": "SurvivorM_Peter",
-            "GivenName": "PLF Public Trader",
-            "Role": "PLF Public Trader",
-            "Position": [
-                4529.81982421875,
-                5.258800029754639,
-                1825.8299560546876
-            ],
-            "Orientation": [
-                200.0,
-                0.0,
-                0.0
-            ],
-            "Clothes": [
-                "MVS_Pack_Black",
-                "MVS_Combat_Vest_Black",
-                "MVS_Facemask_Black",
-                "MVS_CombatPants_Black",
-                "MVS_CombatShirt_Black",
-                "CombatBoots_Green",
-                "TacticalGloves_Green",
-                "AviatorGlasses",
-                "MVS_Cap_Black",
-                "MVS_Patch_33",
-                "MVS_Patch_33",
-                "MVS_Patch_33",
-                "MVS_Patch_33",
-                "MVS_Patch_33",
-                "MVS_Patch_33",
-                "MVS_Patch_33",
-                "M4A1"
-            ]
-        },
-        {
-            "Id": 7,
-            "Name": "SurvivorM_Peter",
-            "GivenName": "Remnant Storage",
-            "Role": "Remnant Gear",
-            "Position": [
-                5039.7900390625,
-                3.485909938812256,
-                8413.76953125
-            ],
-            "Orientation": [
-                -200.0,
-                0.0,
-                0.0
-            ],
-            "Clothes": [
-                "MVS_Pack_OD",
-                "MVS_Combat_Vest_OD",
-                "MVS_Facemask_OD",
-                "MVS_CombatPants_OD",
-                "MVS_CombatShirt_OD",
-                "CombatBoots_Green",
-                "TacticalGloves_Green",
-                "AviatorGlasses",
-                "MVS_Comtacs_OD",
-                "MVS_Cap_OD",
-                "MVS_Patch_35",
-                "MVS_Patch_35",
-                "MVS_Patch_35",
-                "MVS_Patch_35",
-                "MVS_Patch_35",
-                "MVS_Patch_35",
-                "MVS_Patch_35",
-                "M4A1"
-            ]
-        },
-        {
-            "Id": 8,
-            "Name": "SurvivorM_Peter",
-            "GivenName": "Remnant Trader",
-            "Role": "Remnant Public Trader",
-            "Position": [
-                5050.740234375,
-                2.857599973678589,
-                8415.4599609375
-            ],
-            "Orientation": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "Clothes": [
-                "MVS_Pack_OD",
-                "MVS_Combat_Vest_OD",
-                "MVS_Facemask_OD",
-                "MVS_CombatPants_OD",
-                "MVS_CombatShirt_OD",
-                "CombatBoots_Green",
-                "TacticalGloves_Green",
-                "AviatorGlasses",
-                "MVS_Comtacs_OD",
-                "MVS_Cap_OD",
-                "MVS_Patch_35",
-                "MVS_Patch_35",
-                "MVS_Patch_35",
-                "MVS_Patch_35",
-                "MVS_Patch_35",
-                "MVS_Patch_35",
-                "MVS_Patch_35",
-                "M4A1"
-            ]
-        },
-        {
-            "Id": 9,
-            "Name": "SurvivorM_Peter",
-            "GivenName": "Hunter Trader",
-            "Role": "Hunter Trader",
-            "Position": [
-                4104.4599609375,
-                54.689998626708987,
-                9637.1396484375
-            ],
-            "Orientation": [
-                -50.0,
-                0.0,
-                0.0
-            ],
-            "Clothes": [
-                "LeatherJacket_Brown",
-                "LeatherPants_Natural",
-                "MilitaryBoots_Brown",
-                "LeatherStorageVest_Black",
-                "LeatherShoes_Black",
-                "TWP_Remington700"
-            ]
-        },
-        {
-            "Id": 10,
-            "Name": "SurvivorM_Peter",
-            "GivenName": "Black Market Trader",
-            "Role": "Black Market Trader",
-            "Position": [
-                8008.35009765625,
-                12.604399681091309,
-                6030.3701171875
-            ],
-            "Orientation": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "Clothes": [
-                "weldinggoggles_mung",
-                "BalaclavaMask_Blackskull",
-                "TWP_AR15_Skull",
-                "NBCPantsGray",
-                "NBCJacketGray",
-                "NBCHoodGray",
-                "NBCGlovesGray",
-                "Sneakers_Black"
+                "DesignerGlasses"
             ]
         }
     ],

@@ -975,7 +975,7 @@
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
         <Resistance_to_Vehicles		Day="10000" Night="10000"/> 	
-        <Resistance_to_Explosions	Day="10" 	Night="10"/>	<!-- Explosions Resistant -->	
+        <Resistance_to_Explosions	Day="0.01" 	Night="0.01"/>	<!-- Explosions Resistant -->	
         <Resistance_to_HeadShots	Day="0.001" Night="0.001"/>
 		<Resist_to_Melee_HeadShots	Day="0.001" 	Night="0.001"/>
 		<Special_HeadShot_Weapons	Day="1"		Night="1"/>
@@ -1114,7 +1114,7 @@
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
         <Resistance_to_Vehicles		Day="10000" Night="10000"/> 	
-        <Resistance_to_Explosions	Day="10" 	Night="10"/>	<!-- Explosions Resistant -->	
+        <Resistance_to_Explosions	Day="0.01" 	Night="0.01"/>	<!-- Explosions Resistant -->	
         <Resistance_to_HeadShots	Day="0.001" Night="0.001"/>
 		<Resist_to_Melee_HeadShots	Day="0.001" 	Night="0.001"/>
 		<Special_HeadShot_Weapons	Day="1"		Night="1"/>
@@ -1253,7 +1253,7 @@
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
         <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Resistant -->
-        <Resistance_to_Explosions	Day="3.0" 	Night="3.0"/>	<!-- Explosions Resistant -->	
+        <Resistance_to_Explosions	Day="0.01" 	Night="0.01"/>	<!-- Explosions Resistant -->	
         <Resistance_to_HeadShots	Day="0.001" Night="0.001"/>
 		<Resist_to_Melee_HeadShots	Day="0.001" 	Night="0.001"/>
 		<Special_HeadShot_Weapons	Day="1"		Night="1"/>
@@ -1280,7 +1280,7 @@
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
         <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Resistant -->
-        <Resistance_to_Explosions	Day="3.0" 	Night="3.0"/>	<!-- Explosions Resistant -->	
+        <Resistance_to_Explosions	Day="0.01" 	Night="0.01"/>	<!-- Explosions Resistant -->	
         <Resistance_to_HeadShots	Day="0.001" Night="0.001"/>
 		<Resist_to_Melee_HeadShots	Day="0.001" 	Night="0.001"/>
 		<Special_HeadShot_Weapons	Day="1"		Night="1"/>
@@ -1307,7 +1307,7 @@
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
         <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Resistant -->
-        <Resistance_to_Explosions	Day="10" 	Night="10"/>	<!-- Explosions Resistant -->	
+        <Resistance_to_Explosions	Day="0.01" 	Night="0.01"/>	<!-- Explosions Resistant -->	
         <Resistance_to_HeadShots	Day="0.001" Night="0.001"/>
 		<Resist_to_Melee_HeadShots	Day="0.001" 	Night="0.001"/>
 		<Special_HeadShot_Weapons	Day="0"		Night="0"/>
@@ -1334,7 +1334,7 @@
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
         <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Resistant -->
-        <Resistance_to_Explosions	Day="10" 	Night="10"/>	<!-- Explosions Resistant -->	
+        <Resistance_to_Explosions	Day="0.01" 	Night="0.01"/>	<!-- Explosions Resistant -->	
         <Resistance_to_HeadShots	Day="0.001" Night="0.001"/>
 		<Resist_to_Melee_HeadShots	Day="0.001" 	Night="0.001"/>
 		<Special_HeadShot_Weapons	Day="0"		Night="0"/>
@@ -1363,7 +1363,7 @@
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
         <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Resistant -->
-        <Resistance_to_Explosions	Day="10" 	Night="10"/>	<!-- Explosions Resistant -->	
+        <Resistance_to_Explosions	Day="0.01" 	Night="0.01"/>  <!-- Explosions Resistant -->	
         <Resistance_to_HeadShots	Day="0.001" Night="0.001"/>
 		<Resist_to_Melee_HeadShots	Day="0.001" 	Night="0.001"/>
 		<Special_HeadShot_Weapons	Day="0"		Night="0"/>
@@ -1390,7 +1390,7 @@
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
         <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Resistant -->
-        <Resistance_to_Explosions	Day="10" 	Night="10"/>	<!-- Explosions Resistant -->	
+        <Resistance_to_Explosions	Day="0.01" 	Night="0.01"/>	<!-- Explosions Resistant -->	
         <Resistance_to_HeadShots	Day="0.001" Night="0.001"/>
 		<Resist_to_Melee_HeadShots	Day="0.001" 	Night="0.001"/>
 		<Special_HeadShot_Weapons	Day="0"		Night="0"/>
@@ -1417,7 +1417,7 @@
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
         <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Resistant -->
-        <Resistance_to_Explosions	Day="10" 	Night="10"/>	<!-- Explosions Resistant -->	
+        <Resistance_to_Explosions	Day="0.01" 	Night="0.01"/>	<!-- Explosions Resistant -->	
         <Resistance_to_HeadShots	Day="0.001" Night="0.001"/>
 		<Resist_to_Melee_HeadShots	Day="0.001" 	Night="0.001"/>
 		<Special_HeadShot_Weapons	Day="1"		Night="1"/>
@@ -1444,7 +1444,7 @@
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
         <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Resistant -->
-        <Resistance_to_Explosions	Day="10" 	Night="10"/>	<!-- Explosions Resistant -->	
+        <Resistance_to_Explosions	Day="0.01" 	Night="0.01"/>	<!-- Explosions Resistant -->	
         <Resistance_to_HeadShots	Day="0.001" Night="0.001"/>
 		<Resist_to_Melee_HeadShots	Day="0.001" 	Night="0.001"/>
 		<Special_HeadShot_Weapons	Day="1"		Night="1"/>
@@ -1471,7 +1471,7 @@
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
         <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Resistant -->
-        <Resistance_to_Explosions	Day="10" 	Night="10"/>	<!-- Explosions Resistant -->	
+        <Resistance_to_Explosions	Day="0.01" 	Night="0.01"/>	<!-- Explosions Resistant -->	
         <Resistance_to_HeadShots	Day="0.001" Night="0.001"/>
 		<Resist_to_Melee_HeadShots	Day="0.001" 	Night="0.001"/>
 		<Special_HeadShot_Weapons	Day="0"		Night="0"/>
@@ -1635,7 +1635,7 @@
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
         <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Immune -->
-        <Resistance_to_Explosions	Day="100" 	Night="100"/> 	<!-- Explosions Immune -->	
+        <Resistance_to_Explosions	Day="0.01" 	Night="0.01"/>	<!-- Explosions Immune -->	
         <Resistance_to_HeadShots	Day="0.001" Night="0.001"/>
 		<Resist_to_Melee_HeadShots	Day="0.001" 	Night="0.001"/>
 		<Special_HeadShot_Weapons	Day="0"		Night="0"/>
@@ -1662,7 +1662,7 @@
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
         <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Immune -->
-        <Resistance_to_Explosions	Day="100" 	Night="100"/> 	<!-- Explosions Immune -->	
+        <Resistance_to_Explosions	Day="0.01" 	Night="0.01"/>	<!-- Explosions Immune -->	
         <Resistance_to_HeadShots	Day="0.001" Night="0.001"/>
 		<Resist_to_Melee_HeadShots	Day="0.001" 	Night="0.001"/>
 		<Special_HeadShot_Weapons	Day="0"		Night="0"/>
@@ -1697,7 +1697,7 @@
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
         <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Immune -->
-        <Resistance_to_Explosions	Day="100" 	Night="100"/> 	<!-- Explosions Immune -->	
+        <Resistance_to_Explosions	Day="0.01" 	Night="0.01"/>	<!-- Explosions Immune -->	
         <Resistance_to_HeadShots	Day="0.001" Night="0.001"/>
 		<Resist_to_Melee_HeadShots	Day="0.001" 	Night="0.001"/>
 		<Special_HeadShot_Weapons	Day="0"		Night="0"/>
@@ -1725,7 +1725,7 @@
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
         <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Immune -->
-        <Resistance_to_Explosions	Day="100" 	Night="100"/> 	<!-- Explosions Immune -->	
+        <Resistance_to_Explosions	Day="0.01" 	Night="0.01"/>	<!-- Explosions Immune -->	
         <Resistance_to_HeadShots	Day="0.001" Night="0.001"/>
 		<Resist_to_Melee_HeadShots	Day="0.001" 	Night="0.001"/>
 		<Special_HeadShot_Weapons	Day="0"		Night="0"/>
@@ -1753,7 +1753,7 @@
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
         <Resistance_to_Vehicles		Day="10000" Night="10000"/>	<!-- Vehicles Immune -->
-        <Resistance_to_Explosions	Day="100" 	Night="100"/> 	<!-- Explosions Immune -->	
+        <Resistance_to_Explosions	Day="0.01" 	Night="0.01"/>	<!-- Explosions Immune -->	
         <Resistance_to_HeadShots	Day="0.001" Night="0.001"/>
 		<Resist_to_Melee_HeadShots	Day="0.001" 	Night="0.001"/>
 		<Special_HeadShot_Weapons	Day="0"		Night="0"/>

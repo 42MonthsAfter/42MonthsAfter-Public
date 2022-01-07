@@ -1,55 +1,49 @@
 {
     "g_BBPDisableCraftVanillaFence": 1,
     "g_BBPDisableCraftVanillaWatchtower": 1,
-    "g_BBPRequireLandClaim": 0,
+    "g_BBPRequireLandClaim": 1,
     "g_BBPLandClaimBlockDismantle": 1,
-    "g_BBPLandClaimRadius": 80,
+    "g_BBPLandClaimRadius": 30,
     "g_BBPAdminLandClaimRadius": 100,
     "g_BBPFloatingPlacement": 0,
     "g_BBPAdvanceRotation": 0,
     "g_BBPInventoryToggle": 0,
-    "g_BBPBarbedWireRemoveOutside": 0,
+    "g_BBPBarbedWireRemoveOutside": 1,
     "g_BBPSetInfiniteLifetime": 1,
     "g_BBPEnableTimeDestructionMod": 0,
     "g_BBPRaidOnlyDoors": 0,
-    "g_BBPTier1RaidTime": 600,
-    "g_BBPTier2RaidTime": 1200,
+    "g_BBPTier1RaidTime": 1200,
+    "g_BBPTier2RaidTime": 1800,
     "g_BBPTier3RaidTime": 2400,
     "g_BBPTier1RaidToolDamage": 100,
     "g_BBPTier2RaidToolDamage": 100,
     "g_BBPTier3RaidToolDamage": 100,
     "g_BBPTier1RaidTools": [
-        "Hatchet",
-        "SledgeHammer",
-        "FirefighterAxe",
         "WoodAxe"
     ],
     "g_BBPTier2RaidTools": [
-        "SledgeHammer",
-        "FirefighterAxe"
     ],
     "g_BBPTier3RaidTools": [
-        "SledgeHammer"
     ],
     "g_BBPCementMixerTime": 240,
     "g_BBPCementMixerLocations": [
         {
             "position": [
-                4501.45,
-                20.42,
-                7079.82
+                10054.9150390625,
+                5.99834680557251,
+                1824.8145751953126
             ],
             "orientation": [
-                50.00,
+                140.3209991455078,
                 0.0,
                 0.0
             ]
         },
         {
             "position": [
-                8249.67,
-                5.15704,
-                8581.49
+                8025.97412109375,
+                14.320038795471192,
+                3112.5556640625
             ],
             "orientation": [
                 -134.31700134277345,
@@ -59,9 +53,9 @@
         },
         {
             "position": [
-                5652.81,
-                6.0914,
-                15123.9
+                2259.96728515625,
+                185.38668823242188,
+                5228.34326171875
             ],
             "orientation": [
                 31.42186164855957,
@@ -71,9 +65,9 @@
         },
         {
             "position": [
-                5358.28,
-                4.88519,
-                12427.2
+                13320.810546875,
+                9.184663772583008,
+                6120.3203125
             ],
             "orientation": [
                 0.4880000054836273,
@@ -83,14 +77,50 @@
         },
         {
             "position": [
-                1724.35,
-                12.9468,
-                8956.45
+                11916.3330078125,
+                28.763134002685548,
+                14286.380859375
             ],
             "orientation": [
                 105.10449981689453,
                 0.0,
                 0.0
+            ]
+        },
+        {
+            "position": [
+                8005.10009765625,
+                129.20440673828126,
+                12594.5
+            ],
+            "orientation": [
+                -12.629599571228028,
+                -0.7346320152282715,
+                0.24026000499725343
+            ]
+        },
+        {
+            "position": [
+                5216.392578125,
+                340.9700927734375,
+                9886.8974609375
+            ],
+            "orientation": [
+                -109.34298706054688,
+                -0.04223399981856346,
+                0.007776999846100807
+            ]
+        },
+        {
+            "position": [
+                2943.952880859375,
+                220.7844696044922,
+                12637.5263671875
+            ],
+            "orientation": [
+                -158.0102081298828,
+                0.0181450005620718,
+                -0.04493200033903122
             ]
         }
     ]

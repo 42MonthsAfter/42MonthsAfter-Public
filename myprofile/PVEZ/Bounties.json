@@ -1,4 +1,10 @@
 {
-    "Enabled": 0,
-    "Items": []
+    "Enabled": 1,
+    "Items": [
+        {
+            "className": "TraderPlus_Money_Dollar100",
+            "displayName": "100 USD",
+            "amount": 100
+        }
+    ]
 }
