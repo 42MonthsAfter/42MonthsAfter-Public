@@ -84795,10 +84795,10 @@
         <value name="Tier1" />
       </type>
       <type name="Syringe">
-        <nominal>20</nominal>
+        <nominal>30</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -84850,34 +84850,85 @@
         <value name="Tier1" />
       </type>
       <type name="AntiBodiesVial">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Medic"/>
+        <usage name="School"/>
+        <value name="Tier15" />
+        <value name="Tier13" />
+        <value name="Tier12" />
+        <value name="Tier11" />
+        <value name="Tier10" />
+        <value name="Tier9" />
+        <value name="Tier8" />
+        <value name="Tier7" />
+        <value name="Tier6" />
+        <value name="Tier5" />
+        <value name="Tier4" />
+        <value name="Tier3" />
+        <value name="Tier2" />
+        <value name="Tier1" />
       </type>
       <type name="RagePathogenVial">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Medic"/>
+        <usage name="School"/>
+        <value name="Tier15" />
+        <value name="Tier13" />
+        <value name="Tier12" />
+        <value name="Tier11" />
+        <value name="Tier10" />
+        <value name="Tier9" />
+        <value name="Tier8" />
+        <value name="Tier7" />
+        <value name="Tier6" />
+        <value name="Tier5" />
+        <value name="Tier4" />
+        <value name="Tier3" />
+        <value name="Tier2" />
+        <value name="Tier1" />
       </type>
       <type name="RageVirusCure">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Medic"/>
+        <usage name="School"/>
+        <value name="Tier15" />
+        <value name="Tier13" />
+        <value name="Tier12" />
+        <value name="Tier11" />
+        <value name="Tier10" />
+        <value name="Tier9" />
+        <value name="Tier8" />
+        <value name="Tier7" />
+        <value name="Tier6" />
+        <value name="Tier5" />
+        <value name="Tier4" />
+        <value name="Tier3" />
+        <value name="Tier2" />
+        <value name="Tier1" />
       </type>
 
 
