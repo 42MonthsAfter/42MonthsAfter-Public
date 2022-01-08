@@ -2,11 +2,11 @@
     "LastCapturePoint": -1,
     "ConfigVersion": "1",
     "Interval": 3600.0,
-    "StartDelay": 3000.0,
+    "StartDelay": 160.0,
     "CaptureTime": 900.0,
     "EmptyEventTimeOut": 200.0,
     "CleanUpTime": 200.0,
-    "PreStartDelay": 30.0,
+    "PreStartDelay": 900.0,
     "Hills": [
         {
             "Name": "Threewood",
