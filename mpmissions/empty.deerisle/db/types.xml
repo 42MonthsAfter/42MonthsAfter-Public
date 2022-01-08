@@ -76370,10 +76370,10 @@
         <category name="tools"/>
     </type>
 	<type name="CarLock">
-        <nominal>10</nominal>
-        <lifetime>2700</lifetime>
+        <nominal>6</nominal>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
