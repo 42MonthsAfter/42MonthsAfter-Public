@@ -84747,10 +84747,10 @@
 <!-- Chevy S10s -->
 <!--wheels-->
 	<type name="Spur_Chevy_Wheel">
-		<nominal>4</nominal>
-		<lifetime>10800</lifetime>
-		<restock>1800</restock>
-		<min>2</min>
+		<nominal>0</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -84761,8 +84761,8 @@
 	</type>
 	<type name="Spur_Chevy_Wheel_Ruined">
 		<nominal>0</nominal>
-		<lifetime>10800</lifetime>
-		<restock>1800</restock>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -84774,10 +84774,10 @@
 	</type>
 	
 	<type name="Spur_Chevy_Wheel_Chrome">
-		<nominal>4</nominal>
-		<lifetime>10800</lifetime>
-		<restock>1800</restock>
-		<min>2</min>
+		<nominal>0</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -84799,12 +84799,11 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>
-	
 	<type name="Spur_Chevy_Wheel_Gold">
-		<nominal>4</nominal>
-		<lifetime>10800</lifetime>
-		<restock>1800</restock>
-		<min>2</min>
+		<nominal>0</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -84828,10 +84827,10 @@
 	</type>
 	
 	<type name="Spur_Chevy_Wheel_Rust">
-		<nominal>4</nominal>
-		<lifetime>10800</lifetime>
-		<restock>1800</restock>
-		<min>2</min>
+		<nominal>0</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -84853,12 +84852,11 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>
-	
 	<type name="Spur_Chevy_Potenza_Wheel">
-		<nominal>4</nominal>
-		<lifetime>10800</lifetime>
-		<restock>1800</restock>
-		<min>2</min>
+		<nominal>0</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -84880,12 +84878,11 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>
-	
 	<type name="Spur_Chevy_Gold_Potenza_Wheel">
-		<nominal>4</nominal>
-		<lifetime>10800</lifetime>
-		<restock>1800</restock>
-		<min>2</min>
+		<nominal>0</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -84907,7 +84904,6 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>
-
 <!--Parts-->
 	<type name="Spur_Chevy_Driver_Door">
 		<nominal>0</nominal>
@@ -84961,7 +84957,6 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>
-	
 	<type name="Spur_Chevy_Driver_Door_Black">
 		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
@@ -85014,7 +85009,6 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>
-	
 	<type name="Spur_Chevy_Driver_Door_Red">
 		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
@@ -85067,7 +85061,6 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>
-	
 	<type name="Spur_Chevy_Driver_Door_White_N_Chrome">
 		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
@@ -85120,7 +85113,6 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>
-	
 	<type name="Spur_Chevy_Driver_Door_Black_N_Chrome">
 		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
@@ -85173,7 +85165,6 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>
-	
 	<type name="Spur_Chevy_Driver_Door_Red_N_Chrome">
 		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
@@ -85226,7 +85217,6 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>
-	
 	<type name="Spur_Chevy_Driver_Door_White_N_Gold">
 		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
@@ -85279,7 +85269,6 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>
-	
 	<type name="Spur_Chevy_Driver_Door_Black_N_Gold">
 		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
@@ -85332,7 +85321,6 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>
-	
 	<type name="Spur_Chevy_Driver_Door_Red_N_Gold">
 		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
@@ -85385,7 +85373,6 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>
-	
 	<type name="Spur_Chevy_Driver_Door_White_Rust">
 		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
@@ -85438,7 +85425,6 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>
-	
 	<type name="Spur_Chevy_Driver_Door_Black_Rust">
 		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
@@ -85491,7 +85477,6 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>
-	
 	<type name="Spur_Chevy_Driver_Door_Red_Rust">
 		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
@@ -86168,7 +86153,6 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>
-	
 	<type name="Spur_Chevy_Grill">
 		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
@@ -86221,7 +86205,6 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>
-	
 	<type name="Spur_Chevy_LicencePlate">
 		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
@@ -86261,7 +86244,6 @@
 		<tag name="floor"/>
 		<usage name="Industrial"/>
 	</type>	
-	
 <!--Chassis-->
 	<type name="Spur_Chevy_White">
 		<nominal>0</nominal>
@@ -86293,7 +86275,6 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	
 	<type name="Spur_Chevy_White_N_Chrome">
 		<nominal>0</nominal>
 		<lifetime>3888000</lifetime>
@@ -86324,7 +86305,6 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	
 	<type name="Spur_Chevy_White_N_Gold">
 		<nominal>0</nominal>
 		<lifetime>3888000</lifetime>
@@ -86355,7 +86335,6 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	
 	<type name="Spur_Chevy_White_Rust">
 		<nominal>0</nominal>
 		<lifetime>3888000</lifetime>
