@@ -88538,7 +88538,7 @@
 <!-- Flip Cars -->
     <type name="HydraulicJack">
     	<nominal>10</nominal>
-    	<lifetime>28800</lifetime>
+    	<lifetime>1800</lifetime>
     	<restock>0</restock>
     	<min>2</min>
     	<quantmin>-1</quantmin>
@@ -88561,7 +88561,7 @@
     </type>
     <type name="TrafficCone">
     	<nominal>6</nominal>
-    	<lifetime>28800</lifetime>
+    	<lifetime>1800</lifetime>
     	<restock>0</restock>
     	<min>2</min>
     	<quantmin>-1</quantmin>
