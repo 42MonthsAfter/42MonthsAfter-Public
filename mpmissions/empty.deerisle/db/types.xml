@@ -46358,10 +46358,10 @@
 <!-- Breaching Charge -->
 
 	<type name="HDSN_BreachingChargeHeavy">
-		<nominal>3</nominal>
+		<nominal>1</nominal>
 		<lifetime>1800</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -46379,7 +46379,28 @@
     <value name="Tier1" />
 	</type>
   	<type name="HDSN_BreachingCharge">
-		<nominal>3</nominal>
+		<nominal>0</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="explosives"/>
+		<usage name="Military"/>
+    <value name="Tier13" />
+    <value name="Tier12" />
+    <value name="Tier11" />
+    <value name="Tier10" />
+    <value name="Tier9" />
+    <value name="Tier7" />
+    <value name="Tier5" />
+    <value name="Tier4" />
+    <value name="Tier1" />
+	</type>
+	<type name="HDSN_C4NoWiring">
+		<nominal>4</nominal>
 		<lifetime>1800</lifetime>
 		<restock>0</restock>
 		<min>1</min>
@@ -46399,32 +46420,11 @@
     <value name="Tier4" />
     <value name="Tier1" />
 	</type>
-	<type name="HDSN_C4NoWiring">
-		<nominal>10</nominal>
-		<lifetime>1800</lifetime>
-		<restock>0</restock>
-		<min>5</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="explosives"/>
-		<usage name="Military"/>
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier7" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier1" />
-	</type>
   	<type name="HDSN_C4Stick">
-		<nominal>10</nominal>
+		<nominal>4</nominal>
 		<lifetime>1800</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -46442,10 +46442,10 @@
     <value name="Tier1" />
 	</type>
 	<type name="HDSN_C4Sticks">
-		<nominal>10</nominal>
+		<nominal>4</nominal>
 		<lifetime>1800</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -46463,10 +46463,10 @@
     <value name="Tier1" />
 	</type>
   	<type name="HDSN_Explosive">
-		<nominal>10</nominal>
+		<nominal>4</nominal>
 		<lifetime>1800</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -46484,10 +46484,10 @@
     <value name="Tier1" />
 	</type>
   	<type name="HDSN_Detonator">
-		<nominal>10</nominal>
+		<nominal>4</nominal>
 		<lifetime>1800</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -46505,10 +46505,10 @@
     <value name="Tier1" />
 	</type>
   	<type name="HDSN_Gunpowder">
-		<nominal>10</nominal>
+		<nominal>4</nominal>
 		<lifetime>1800</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>1</min>
 		<quantmin>1</quantmin>
 		<quantmax>5</quantmax>
 		<cost>100</cost>
@@ -46527,10 +46527,10 @@
     <value name="Tier1" />
 	</type>
   	<type name="HDSN_Charcoal">
-		<nominal>10</nominal>
+		<nominal>4</nominal>
 		<lifetime>1800</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -46552,10 +46552,10 @@
     <value name="Tier2" />
 	</type>
   	<type name="HDSN_Sulfur">
-		<nominal>20</nominal>
-		<lifetime>10800</lifetime>
+		<nominal>4</nominal>
+		<lifetime>1800</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
