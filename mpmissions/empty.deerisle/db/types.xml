@@ -55217,40 +55217,26 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
   </type>
     <type name="Msp_VolleyballNet_Kit">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>7200</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Coast" />
-        <value name="Tier15" />
-        <value name="Tier13" />
-        <value name="Tier12" />
-        <value name="Tier11" />
-        <value name="Tier10" />
-        <value name="Tier9" />
-        <value name="Tier8" />
-        <value name="Tier7" />
-        <value name="Tier6" />
-        <value name="Tier5" />
-        <value name="Tier4" />
-        <value name="Tier3" />
-        <value name="Tier2" />
-        <value name="Tier1" />
   </type>
     <type name="Msp_VolleyballNet">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
   </type>
     <type name="Msp_Water_Gun">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>1</min>
+        <restock>7200</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -55260,26 +55246,12 @@
         <usage name="Town" />
         <usage name="Village" />
         <usage name="Coast" />
-        <value name="Tier15" />
-        <value name="Tier13" />
-        <value name="Tier12" />
-        <value name="Tier11" />
-        <value name="Tier10" />
-        <value name="Tier9" />
-        <value name="Tier8" />
-        <value name="Tier7" />
-        <value name="Tier6" />
-        <value name="Tier5" />
-        <value name="Tier4" />
-        <value name="Tier3" />
-        <value name="Tier2" />
-        <value name="Tier1" />
   </type>
     <type name="Msp_Water_Gun_Mag">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>1</min>
+        <restock>7200</restock>
+        <min>0</min>
         <quantmin>20</quantmin>
         <quantmax>60</quantmax>
         <cost>100</cost>
@@ -55289,20 +55261,6 @@
         <usage name="Town" />
         <usage name="Village" />
         <usage name="Coast" />
-        <value name="Tier15" />
-        <value name="Tier13" />
-        <value name="Tier12" />
-        <value name="Tier11" />
-        <value name="Tier10" />
-        <value name="Tier9" />
-        <value name="Tier8" />
-        <value name="Tier7" />
-        <value name="Tier6" />
-        <value name="Tier5" />
-        <value name="Tier4" />
-        <value name="Tier3" />
-        <value name="Tier2" />
-        <value name="Tier1" />
   </type>
 
 
@@ -55322,11 +55280,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55343,11 +55299,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55364,11 +55318,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55385,11 +55337,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55406,11 +55356,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55427,11 +55375,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55448,11 +55394,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55469,11 +55413,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55490,11 +55432,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55511,11 +55451,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55532,11 +55470,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55553,11 +55489,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55574,11 +55508,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55595,11 +55527,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55616,11 +55546,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55637,11 +55565,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55658,11 +55584,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55679,11 +55603,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55700,11 +55622,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55721,11 +55641,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55742,11 +55660,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55763,11 +55679,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55784,11 +55698,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55805,11 +55717,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55826,11 +55736,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55847,11 +55755,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55868,11 +55774,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55889,11 +55793,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55910,11 +55812,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55931,11 +55831,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55952,11 +55850,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55973,11 +55869,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -55994,11 +55888,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56015,11 +55907,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56036,11 +55926,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56057,11 +55945,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56078,11 +55964,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56099,11 +55983,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56120,11 +56002,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56141,11 +56021,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56162,11 +56040,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56183,11 +56059,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56204,11 +56078,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56225,11 +56097,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56246,11 +56116,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56267,11 +56135,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56288,11 +56154,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56309,11 +56173,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56330,11 +56192,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56351,11 +56211,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56372,11 +56230,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56393,11 +56249,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56414,11 +56268,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56435,11 +56287,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56456,11 +56306,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56477,11 +56325,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56498,11 +56344,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56519,11 +56363,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56540,11 +56382,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56561,11 +56401,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56582,11 +56420,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56603,11 +56439,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56624,11 +56458,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56645,11 +56477,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56666,11 +56496,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56687,11 +56515,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56708,11 +56534,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56729,11 +56553,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56750,11 +56572,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56771,11 +56591,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56792,11 +56610,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56813,11 +56629,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56834,11 +56648,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56855,11 +56667,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56876,11 +56686,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56897,11 +56705,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56918,11 +56724,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56939,11 +56743,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56960,11 +56762,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -56981,11 +56781,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57002,11 +56800,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57023,11 +56819,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57044,11 +56838,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57065,11 +56857,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57086,11 +56876,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57107,11 +56895,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57128,11 +56914,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57149,11 +56933,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57170,11 +56952,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57191,11 +56971,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57212,11 +56990,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57233,11 +57009,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57254,11 +57028,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57275,11 +57047,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57296,11 +57066,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57317,11 +57085,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57338,11 +57104,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57359,11 +57123,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57380,11 +57142,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57401,11 +57161,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57422,11 +57180,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57443,11 +57199,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57464,11 +57218,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57485,11 +57237,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57506,11 +57256,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57527,11 +57275,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57548,11 +57294,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57569,11 +57313,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57590,11 +57332,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57611,11 +57351,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57632,11 +57370,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57653,11 +57389,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57674,11 +57408,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57695,11 +57427,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57716,11 +57446,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57737,11 +57465,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57758,11 +57484,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57779,11 +57503,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57800,11 +57522,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57821,11 +57541,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57842,11 +57560,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57863,11 +57579,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57884,11 +57598,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57905,11 +57617,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57926,11 +57636,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57947,11 +57655,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57968,11 +57674,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -57989,11 +57693,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58010,11 +57712,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58031,11 +57731,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58052,11 +57750,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58073,11 +57769,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58094,11 +57788,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58115,11 +57807,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58136,11 +57826,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58157,11 +57845,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58178,11 +57864,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58199,11 +57883,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58220,11 +57902,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58241,11 +57921,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58262,11 +57940,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58283,11 +57959,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58304,11 +57978,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58325,11 +57997,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58346,11 +58016,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58367,11 +58035,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58388,11 +58054,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58409,11 +58073,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58430,11 +58092,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58451,11 +58111,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58472,11 +58130,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58493,11 +58149,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58514,11 +58168,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58535,11 +58187,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58556,11 +58206,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58577,11 +58225,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58598,11 +58244,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58619,11 +58263,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58640,11 +58282,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58661,11 +58301,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58682,11 +58320,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58703,11 +58339,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58724,11 +58358,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58745,11 +58377,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58766,11 +58396,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58787,11 +58415,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58808,11 +58434,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58829,11 +58453,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58850,11 +58472,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58871,11 +58491,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58892,11 +58510,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58913,11 +58529,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58934,11 +58548,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58955,11 +58567,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58976,11 +58586,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -58997,11 +58605,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59018,11 +58624,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59039,11 +58643,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59060,11 +58662,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59081,11 +58681,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59102,11 +58700,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59123,11 +58719,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59144,11 +58738,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59165,11 +58757,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59186,11 +58776,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59207,11 +58795,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59228,11 +58814,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59249,11 +58833,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59270,11 +58852,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59291,11 +58871,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59312,11 +58890,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59333,11 +58909,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59354,11 +58928,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59375,11 +58947,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59396,11 +58966,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59417,11 +58985,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59438,11 +59004,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59459,11 +59023,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59480,11 +59042,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59501,11 +59061,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59522,11 +59080,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59543,11 +59099,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59564,11 +59118,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59585,11 +59137,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59606,11 +59156,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59627,11 +59175,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59648,11 +59194,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59669,11 +59213,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59690,11 +59232,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59711,11 +59251,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59732,11 +59270,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59753,11 +59289,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59774,11 +59308,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59795,11 +59327,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59816,11 +59346,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59837,11 +59365,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59858,11 +59384,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59879,11 +59403,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59900,11 +59422,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59921,11 +59441,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59942,11 +59460,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59963,11 +59479,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -59984,11 +59498,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60005,11 +59517,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60026,11 +59536,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60047,11 +59555,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60068,11 +59574,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60089,11 +59593,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60110,11 +59612,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60131,11 +59631,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60152,11 +59650,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60173,11 +59669,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60194,11 +59688,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60215,11 +59707,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60236,11 +59726,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60257,11 +59745,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60278,11 +59764,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60299,11 +59783,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60320,11 +59802,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60341,11 +59821,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60362,11 +59840,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60383,11 +59859,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60404,11 +59878,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60425,11 +59897,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60446,11 +59916,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60467,11 +59935,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60488,11 +59954,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60509,11 +59973,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60530,11 +59992,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60551,11 +60011,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60572,11 +60030,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60593,11 +60049,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60614,11 +60068,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60635,11 +60087,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60656,11 +60106,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60677,11 +60125,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60698,11 +60144,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60719,11 +60163,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60740,11 +60182,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60761,11 +60201,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60782,11 +60220,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60803,11 +60239,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60824,11 +60258,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60845,11 +60277,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60866,11 +60296,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60886,11 +60314,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60906,11 +60332,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60926,11 +60350,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60946,11 +60368,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60966,11 +60386,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -60986,11 +60404,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61006,11 +60422,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61026,11 +60440,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61046,11 +60458,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61066,11 +60476,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61086,11 +60494,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61106,11 +60512,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61126,11 +60530,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61146,11 +60548,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61166,11 +60566,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61186,11 +60584,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61206,11 +60602,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61226,11 +60620,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61246,11 +60638,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61266,11 +60656,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61286,11 +60674,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61306,11 +60692,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61326,11 +60710,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61346,11 +60728,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61366,11 +60746,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61386,11 +60764,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61406,11 +60782,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61426,11 +60800,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61446,11 +60818,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61466,11 +60836,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61486,11 +60854,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61506,11 +60872,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61526,11 +60890,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61546,11 +60908,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61566,11 +60926,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61586,11 +60944,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61606,11 +60962,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61626,11 +60980,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61646,11 +60998,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61666,11 +61016,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61686,11 +61034,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61706,11 +61052,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61726,11 +61070,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61746,11 +61088,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61766,11 +61106,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61786,11 +61124,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61806,11 +61142,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61826,11 +61160,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61846,11 +61178,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61866,11 +61196,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61886,11 +61214,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61906,11 +61232,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61926,11 +61250,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61946,11 +61268,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61966,11 +61286,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -61986,11 +61304,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62006,11 +61322,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62026,11 +61340,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62046,11 +61358,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62066,11 +61376,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62086,11 +61394,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62106,11 +61412,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62126,11 +61430,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62146,11 +61448,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62166,11 +61466,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62186,11 +61484,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62206,11 +61502,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62226,11 +61520,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62246,11 +61538,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62267,11 +61557,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62288,11 +61576,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62309,11 +61595,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62330,11 +61614,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62351,11 +61633,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62372,11 +61652,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62393,11 +61671,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62414,11 +61690,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62435,11 +61709,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62456,11 +61728,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62477,11 +61747,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62498,11 +61766,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62519,11 +61785,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62540,11 +61804,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62561,11 +61823,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62582,11 +61842,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62603,11 +61861,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62624,11 +61880,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62645,11 +61899,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62666,11 +61918,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62687,11 +61937,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62708,11 +61956,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62729,11 +61975,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62750,11 +61994,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62771,11 +62013,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62792,11 +62032,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62813,11 +62051,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62834,11 +62070,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62855,11 +62089,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62876,11 +62108,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62897,11 +62127,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62918,11 +62146,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62939,11 +62165,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62960,11 +62184,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -62981,11 +62203,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63002,11 +62222,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63023,11 +62241,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63044,11 +62260,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63065,11 +62279,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63086,11 +62298,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63107,11 +62317,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63128,11 +62336,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63149,11 +62355,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63170,11 +62374,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63191,11 +62393,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63212,11 +62412,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63233,11 +62431,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63254,11 +62450,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63275,11 +62469,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63296,11 +62488,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63317,11 +62507,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63338,11 +62526,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63359,11 +62545,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63380,11 +62564,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63401,11 +62583,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63422,11 +62602,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63443,11 +62621,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63464,11 +62640,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63485,11 +62659,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63506,11 +62678,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63527,11 +62697,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63548,11 +62716,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63569,11 +62735,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63590,11 +62754,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63611,11 +62773,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63632,11 +62792,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63653,11 +62811,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63674,11 +62830,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63695,11 +62849,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63716,11 +62868,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63737,11 +62887,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63758,11 +62906,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63779,11 +62925,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63800,11 +62944,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63821,11 +62963,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63842,11 +62982,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63863,11 +63001,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63884,11 +63020,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63905,11 +63039,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63926,11 +63058,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63947,11 +63077,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63968,11 +63096,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -63989,11 +63115,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64010,11 +63134,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64031,11 +63153,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64052,11 +63172,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64073,11 +63191,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64094,11 +63210,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64115,11 +63229,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64136,11 +63248,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64157,11 +63267,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64178,11 +63286,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64199,11 +63305,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64220,11 +63324,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64241,11 +63343,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64262,11 +63362,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64283,11 +63381,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64304,11 +63400,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64325,11 +63419,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64346,11 +63438,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64367,11 +63457,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64388,11 +63476,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64409,11 +63495,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64430,11 +63514,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64451,11 +63533,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64472,11 +63552,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64493,11 +63571,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64514,11 +63590,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64535,11 +63609,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64556,11 +63628,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64577,11 +63647,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64598,11 +63666,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64619,11 +63685,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64640,11 +63704,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64661,11 +63723,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64682,11 +63742,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64703,11 +63761,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64724,11 +63780,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64745,11 +63799,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64766,11 +63818,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64787,11 +63837,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64808,11 +63856,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64829,11 +63875,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64850,11 +63894,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64871,11 +63913,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64892,11 +63932,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64913,11 +63951,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64934,11 +63970,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64955,11 +63989,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64976,11 +64008,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -64997,11 +64027,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65018,11 +64046,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65039,11 +64065,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65060,11 +64084,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65081,11 +64103,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65102,11 +64122,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65123,11 +64141,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65144,11 +64160,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65165,11 +64179,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65186,11 +64198,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65207,11 +64217,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65228,11 +64236,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65249,11 +64255,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65270,11 +64274,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65291,11 +64293,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65312,11 +64312,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65333,11 +64331,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65354,11 +64350,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65375,11 +64369,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65396,11 +64388,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65417,11 +64407,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65438,11 +64426,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65459,11 +64445,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65480,11 +64464,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65501,11 +64483,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65522,11 +64502,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65543,11 +64521,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65564,11 +64540,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65585,11 +64559,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65606,11 +64578,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65627,11 +64597,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65648,11 +64616,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65669,11 +64635,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65690,11 +64654,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65711,11 +64673,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65732,11 +64692,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65753,11 +64711,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65774,11 +64730,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65795,11 +64749,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65816,11 +64768,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65837,11 +64787,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65858,11 +64806,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65879,11 +64825,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65900,11 +64844,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65921,11 +64863,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65942,11 +64882,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65963,11 +64901,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -65984,11 +64920,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66005,11 +64939,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66026,11 +64958,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66047,11 +64977,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66068,11 +64996,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66089,11 +65015,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66110,11 +65034,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66131,11 +65053,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66152,11 +65072,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66173,11 +65091,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66194,11 +65110,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66215,11 +65129,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66236,11 +65148,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66257,11 +65167,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66278,11 +65186,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66299,11 +65205,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66320,11 +65224,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66341,11 +65243,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66362,11 +65262,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
@@ -66383,11 +65281,9 @@
     <usage name="Military" />
     <value name="Tier13" />
     <value name="Tier12" />
-    <value name="Tier11" />
     <value name="Tier10" />
     <value name="Tier9" />
     <value name="Tier7" />
-    <value name="Tier5" />
     <value name="Tier4" />
     <value name="Tier1" />
   </type>
