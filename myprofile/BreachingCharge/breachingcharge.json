@@ -3,7 +3,7 @@
     "Charges": [
         {
             "Classname": "HDSN_BreachingCharge",
-            "DamageToObjects": 4,
+            "DamageToObjects": 2,
             "DamageToDestroyableObjectsRadius": 0.0,
             "VerticalDistanceModeObjects": 0,
             "MaxVerticalDistanceObjects": 0.0,
@@ -49,7 +49,7 @@
         },
         {
             "Classname": "HDSN_BreachingChargeHeavy",
-            "DamageToObjects": 6,
+            "DamageToObjects": 4,
             "DamageToDestroyableObjectsRadius": 0.0,
             "VerticalDistanceModeObjects": 0,
             "MaxVerticalDistanceObjects": 0.0,
