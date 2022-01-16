@@ -225,6 +225,54 @@
                 "BoonieHat_DPM",
                 "AviatorGlasses"
             ]
+        },
+        {
+            "Id": 7,
+            "Name": "SurvivorM_Boris",
+            "GivenName": "Harold",
+            "Role": "Quartermaster",
+            "Position": [
+                2773.25,
+                73.55560302734375,
+                4673.85009765625
+            ],
+            "Orientation": [
+                -35.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "CargoPants_Grey",
+                "bs_johndenver",
+                "BeanieHat_Beige",
+                "TacticalGloves_Beige",
+                "CombatBoots_Beige",
+                "AviatorGlasses"
+            ]
+        },
+        {
+            "Id": 8,
+            "Name": "SurvivorM_Boris",
+            "GivenName": "Ian",
+            "Role": "Quartermaster",
+            "Position": [
+                4263.8798828125,
+                13.707099914550782,
+                7314.509765625
+            ],
+            "Orientation": [
+                180.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "Jeans_Blue",
+                "bs_billmurray",
+                "BaseballCap_Black",
+                "Fingerless_Gloves",
+                "Sneakers_Green",
+                "DesignerGlasses"
+            ]
         }
     ],
     "TraderObjects": []
