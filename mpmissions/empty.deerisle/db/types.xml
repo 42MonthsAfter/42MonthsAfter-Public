@@ -83455,10 +83455,10 @@
 <!-- Chevy S10s -->
 <!--wheels-->
 	<type name="Spur_Chevy_Wheel">
-		<nominal>0</nominal>
+		<nominal>3</nominal>
 		<lifetime>1800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -83482,10 +83482,10 @@
 	</type>
 	
 	<type name="Spur_Chevy_Wheel_Chrome">
-		<nominal>0</nominal>
+		<nominal>3</nominal>
 		<lifetime>1800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -83508,10 +83508,10 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Spur_Chevy_Wheel_Gold">
-		<nominal>0</nominal>
+		<nominal>3</nominal>
 		<lifetime>1800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -83535,10 +83535,10 @@
 	</type>
 	
 	<type name="Spur_Chevy_Wheel_Rust">
-		<nominal>0</nominal>
+		<nominal>3</nominal>
 		<lifetime>1800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -83561,10 +83561,10 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Spur_Chevy_Potenza_Wheel">
-		<nominal>0</nominal>
+		<nominal>3</nominal>
 		<lifetime>1800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -83587,10 +83587,10 @@
 		<usage name="Industrial"/>
 	</type>
 	<type name="Spur_Chevy_Gold_Potenza_Wheel">
-		<nominal>0</nominal>
+		<nominal>3</nominal>
 		<lifetime>1800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -85340,10 +85340,10 @@
     <usage name="Industrial"/>
 </type>
 <type name="DingoWheel">
-        <nominal>4</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>2</min>
+		    <nominal>3</nominal>
+		    <lifetime>1800</lifetime>
+		    <restock>0</restock>
+		    <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -85553,10 +85553,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="DingoWheel_DON_DARKGREEN">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
+		    <nominal>1</nominal>
+		    <lifetime>1800</lifetime>
+		    <restock>0</restock>
+		    <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -85658,10 +85658,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="DingoWheel_DON_WTR">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
+		    <nominal>1</nominal>
+		    <lifetime>1800</lifetime>
+		    <restock>0</restock>
+		    <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -85763,10 +85763,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="DingoWheel_DON_CDF">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
+		    <nominal>1</nominal>
+		    <lifetime>1800</lifetime>
+		    <restock>0</restock>
+		    <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -85868,10 +85868,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="DingoWheel_DON_CP">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
+		    <nominal>1</nominal>
+		    <lifetime>1800</lifetime>
+		    <restock>0</restock>
+		    <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -85973,10 +85973,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="DingoWheel_DON_UN">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
+		    <nominal>1</nominal>
+		    <lifetime>1800</lifetime>
+		    <restock>0</restock>
+		    <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -86078,10 +86078,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="DingoWheel_DON_CZ_Woodland">
-        <nominal>4</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>2</min>
+		    <nominal>1</nominal>
+		    <lifetime>1800</lifetime>
+		    <restock>0</restock>
+		    <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -86183,10 +86183,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="DingoWheel_DON_CZ_DESERTWheel">
-        <nominal>4</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>2</min>
+		    <nominal>1</nominal>
+		    <lifetime>1800</lifetime>
+		    <restock>0</restock>
+		    <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -86504,15 +86504,16 @@
         <usage name="Industrial"/>
     </type>
     <type name="Nehr_PickupLadaWheel">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
+        <usage name="Industrial"/>
     </type>
     <type name="Nehr_PickupLada_Blue">
         <nominal>0</nominal>
