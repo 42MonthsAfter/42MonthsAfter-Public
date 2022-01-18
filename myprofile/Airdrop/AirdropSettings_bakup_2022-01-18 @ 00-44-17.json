@@ -269,8 +269,8 @@
             "Title": "Paris Island",
             "Location": "Military",
             "DropType": "RANDOM",
-            "X": 2794.0,
-            "Z": 3709.0,
+            "X": 2830.0,
+            "Z": 4228.0,
             "Zombies": 10,
             "Radius": 50,
             "DropAccuracy": 100
@@ -281,16 +281,6 @@
             "DropType": "RANDOM",
             "X": 4556.0,
             "Z": 2597.0,
-            "Zombies": 10,
-            "Radius": 50,
-            "DropAccuracy": 100
-        },
-        {
-            "Title": "Krasnostav",
-            "Location": "Military",
-            "DropType": "RANDOM",
-            "X": 12159.0,
-            "Z": 12583.0,
             "Zombies": 10,
             "Radius": 50,
             "DropAccuracy": 100
@@ -321,16 +311,6 @@
             "DropType": "RANDOM",
             "X": 6934.0,
             "Z": 5472.0,
-            "Zombies": 10,
-            "Radius": 50,
-            "DropAccuracy": 100
-        },
-        {
-            "Title": "Novy Sobor",
-            "Location": "Country",
-            "DropType": "RANDOM",
-            "X": 7436.0,
-            "Z": 7720.0,
             "Zombies": 10,
             "Radius": 50,
             "DropAccuracy": 100
@@ -634,7 +614,7 @@
             ]
         },
         {
-            "Title": "Food/Medical",
+            "Title": "Food",
             "Container": "AirdropContainer_Medical",
             "Quantity": 10,
             "AddFlare": 10.0,
@@ -684,6 +664,66 @@
                 "Mosin_Compensator",
                 "AmmoBox_762x54_20Rnd",
                 "AmmoBox_762x39_20Rnd"
+            ]
+        },
+        {
+            "Title": "Medical Supplies",
+            "Container": "AirdropContainer_Medical",
+            "Quantity": 10,
+            "AddFlare": 10.0,
+            "SpawnMin": 1.0,
+            "SpawnMax": 3.0,
+            "SpawnOffset": 0.05000000074505806,
+            "Lifespan": 60,
+            "Items": [
+                "AMS_FirstAidKit",
+                "AMS_Bandage",
+                "AMS_Bandage",
+                "AMS_Absorbent",
+                "AMS_BandageTape",
+                "AMS_AntiSept",
+                "AMS_Energy",
+                "AMS_Tourniquet",
+                "AMS_Splint",
+                "AMS_WaterStraw",
+                "AMS_GasMaskGP21_Filter",
+                "TetracyclineAntibiotics",
+                "VitaminBottle",
+                "BandageDressing",
+                "Epinephrine",
+                "Morphine",
+                "IodineTincture",
+                "DisinfectantAlcohol"
+            ]
+        },
+        {
+            "Title": "Building Supplies",
+            "Container": "AirdropContainer_Military",
+            "Quantity": 10,
+            "AddFlare": 10.0,
+            "SpawnMin": 1.0,
+            "SpawnMax": 3.0,
+            "SpawnOffset": 0.05000000074505806,
+            "Lifespan": 60,
+            "Items": [
+                "Hammer",
+                "NailBox",
+                "NailBox",
+                "Whetstone",
+                "Hacksaw",
+                "HandSaw",
+                "Pickaxe",
+                "SledgeHammer",
+                "Shovel",
+                "CodeLock",
+                "BBP_T1_GateKit",
+                "BBP_T2_GateKit",
+                "BBP_T1_DoorKit",
+                "BBP_T2_DoorKit",
+                "Hatchet",
+                "BBP_Mortar_Mix",
+                "Pliers",
+                "Clawhammer_mung"
             ]
         }
     ],
