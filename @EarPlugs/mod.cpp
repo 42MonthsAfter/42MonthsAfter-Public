@@ -1,10 +1,11 @@
 name = "Ear Plugs";
 picture = "EarPlugs/logos/modIcon.edds";
-logoSmall = "EarPlugs/logos/modIcon.edds";
 logo = "EarPlugs/logos/modIcon.edds";
+logoSmall = "EarPlugs/logos/modIcon.edds";
 logoOver = "EarPlugs/logos/modIcon.edds";
-tooltip = "Adds a bind to adjust sound effect volume with visual icon.";
-overview = "Ear Plugs is a mod that allows you to tune your sound effect volume with keybinds. Great for when driving or flying and you need to hear VOIP.";
+overview = "$STR_EARPLUGS_MOD_DESCRIPTION";
+tooltip = "$STR_EARPLUGS_MOD_TOOLTIP";
 action = "https://steamcommunity.com/sharedfiles/filedetails/?id=1819514788";
-author = "Cooltrain";
-version = "1.1";
+author = "$STR_EARPLUGS_MOD_AUTHOR";
+authorID = "76561198023797229";
+version = "2.0";
