@@ -1461,6 +1461,10 @@
                 "MVS_S10Respirator_Tan,1,100,-1,500,0.8",
                 "MVS_S10Respirator_Black,1,100,-1,500,0.8",
                 "MVS_S10Respirator_FS,1,100,-1,500,0.8",
+                "MVS_M50Respirator_OD,1,100,-1,500,0.8",
+                "MVS_M50Respirator_Tan,1,100,-1,500,0.8",
+                "MVS_M50Respirator_Black,1,100,-1,500,0.8",
+                "MVS_M50Respirator_Snow,1,100,-1,500,0.8",
                 "MVS_PMK2Respirator_Black,1,100,-1,500,0.8",
                 "MVS_PMK2Respirator_Tan,1,100,-1,500,0.8",
                 "MVS_PMK2Respirator_OD,1,100,-1,500,0.8",
@@ -2674,7 +2678,7 @@
             ]
         },
         {
-            "CategoryName": "Farming & Hunting & Fishing Supplies",
+            "CategoryName": "Farming & Hunting & Fishing",
             "Products": [
                 "TomatoSeedsPack,1,-1,-1,20,0.8",
                 "PepperSeedsPack,1,-1,-1,20,0.8",
@@ -2686,6 +2690,7 @@
                 "FishNetTrap,1,100,-1,100,0.8",
                 "RabbitSnareTrap,1,100,-1,100,0.8",
                 "BearTrap,1,100,-1,150,0.8",
+                "Hook,1,100,-1,50,0.8",
                 "zeroy_lure_01,1,100,-1,1200,0.8",
                 "zeroy_lure_02,1,100,-1,1200,0.8",
                 "zeroy_lure_03,1,100,-1,1200,0.8",
@@ -3673,7 +3678,8 @@
                 "CP_CannabisBrickFuture,1,-1,-1,-1,1600",
                 "CP_CannabisBrickS1,1,-1,-1,-1,1920",
                 "CP_CannabisBrickNomad,1,-1,-1,-1,2240",
-                "CP_CannabisBrickBlackFrost,1,-1,-1,-1,2560"
+                "CP_CannabisBrickBlackFrost,1,-1,-1,-1,2560",
+                "MassMeth,1,-1,-1,-1,3000"
             ]
         },
         {
@@ -5615,7 +5621,7 @@
             ]
         },
         {
-            "CategoryName": "Faction Farming & Hunting & Fishing Supplies",
+            "CategoryName": "Faction Farming & Hunting & Fishing",
             "Products": [
                 "TomatoSeedsPack,1,1000,-1,1,1",
                 "PepperSeedsPack,1,1000,-1,1,1",
@@ -5627,6 +5633,7 @@
                 "FishNetTrap,1,1000,-1,1,1",
                 "RabbitSnareTrap,1,1000,-1,1,1",
                 "BearTrap,1,1000,-1,1,1",
+                "Hook,1,1000,-1,1,1",
                 "zeroy_lure_01,1,1000,-1,1,1",
                 "zeroy_lure_02,1,1000,-1,1,1",
                 "zeroy_lure_03,1,1000,-1,1,1",
@@ -5794,7 +5801,8 @@
                 "CP_CannabisBrickFuture,1,1000,-1,1,1",
                 "CP_CannabisBrickS1,1,1000,-1,1,1",
                 "CP_CannabisBrickNomad,1,1000,-1,1,1",
-                "CP_CannabisBrickBlackFrost,1,1000,-1,1,1"
+                "CP_CannabisBrickBlackFrost,1,1000,-1,1,1",
+                "MassMeth,1,1000,-1,1,1"
             ]
         }
     ]
