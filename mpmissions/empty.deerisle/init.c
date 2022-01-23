@@ -311,7 +311,7 @@ class CustomMission: MissionServer
 		ref TStringArray vestArray  = {""};	
 		ref TStringArray glassesArray = {""};
 		ref TStringArray shoesArray = {"CombatBoots_Grey","CombatBoots_Beige","CombatBoots_Brown","CombatBoots_Black","CombatBoots_Green"};	
-		ref TStringArray maskArray = {"GasMask"};	
+		ref TStringArray maskArray = {""};	
 		ref TStringArray glovesArray = {"LeatherGloves_Beige","LeatherGloves_Black","NBCGlovesYellow","NBCGlovesGray","OMNOGloves_Gray","SurgicalGloves_Green","SurgicalGloves_Blue"};		
 		ref TStringArray foodArray = {"BakedBeansCan","PeachesCan","PorkCan","SardinesCan","SpaghettiCan"};
 		ref TStringArray drinkArray = {"SodaCan_Cola","SodaCan_Fronta","SodaCan_Pipsi"};
@@ -332,7 +332,6 @@ class CustomMission: MissionServer
 		player.GetInventory().CreateInInventory(backpackArray.GetRandomElement());
 		player.GetInventory().CreateInInventory(knifeArray.GetRandomElement());
 		player.GetInventory().CreateInInventory("Armband_White");
-		player.GetInventory().CreateInInventory("GasMask_Filter");
 		player.GetInventory().CreateInInventory("Matchbox");
 		player.GetInventory().CreateInInventory("SAK_Mung");
 		player.GetInventory().CreateInInventory("TraderPlus_Wallet");
@@ -345,7 +344,7 @@ class CustomMission: MissionServer
 		ItemBase melee = player.GetInventory().CreateInInventory(meleeArray.GetRandomElement());	// Melee
 		
 		player.SetQuickBarEntityShortcut(gun, 0, true);
-		player.SetQuickBarEntityShortcut(melee, 1, true);
+		player.SetQuickBarEntityShortcut(melee, 0, true);
 		return gun;
 	}
 	
