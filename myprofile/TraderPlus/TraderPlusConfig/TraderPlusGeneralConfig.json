@@ -273,6 +273,54 @@
                 "Sneakers_Green",
                 "DesignerGlasses"
             ]
+        },
+        {
+            "Id": 9,
+            "Name": "SurvivorM_Boris",
+            "GivenName": "Jason",
+            "Role": "Quartermaster",
+            "Position": [
+                5908.72998046875,
+                15.290200233459473,
+                7387.18017578125
+            ],
+            "Orientation": [
+                180.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "bs_tyrone",
+                "Skinny_Jeans_Blue",
+                "Msp_Slouchie_Beige",
+                "High_Knee_Sneakers",
+                "DesignerGlasses",
+                "Fingerless_Gloves_Wool"
+            ]
+        },
+        {
+            "Id": 10,
+            "Name": "SurvivorM_Boris",
+            "GivenName": "Kelvin",
+            "Role": "Quartermaster",
+            "Position": [
+                9582.4296875,
+                26.101200103759767,
+                8933.4404296875
+            ],
+            "Orientation": [
+                200.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "bs_volcom",
+                "CargoPants_Beige",
+                "SK8_Sneakers_Blue",
+                "SkateHelmet_Black",
+                "Round_Glasses_Black",
+                "joint_mung"
+            ]
         }
     ],
     "TraderObjects": []
