@@ -22544,8 +22544,7 @@
   </type>
   <type name="Sneakers_Gray">
     <nominal>10</nominal>
-<<<<<<< Updated upstream
-    <lifetime>2700</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -22568,7 +22567,7 @@
   </type>
   <type name="Sneakers_Green">
     <nominal>10</nominal>
-    <lifetime>2700</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -22591,7 +22590,7 @@
   </type>
   <type name="Sneakers_Red">
     <nominal>10</nominal>
-    <lifetime>2700</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
@@ -22614,130 +22613,9 @@
   </type>
   <type name="Sneakers_White">
     <nominal>10</nominal>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="clothes" />
-    <tag name="floor" />
-    <usage name="Farm" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier11" />
-    <value name="Tier8" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-  </type>
-  <type name="SodaCan_Cola">
-    <nominal>20</nominal>
-    <lifetime>2700</lifetime>
-    <restock>300</restock>
-    <min>10</min>
-=======
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <min>5</min>
->>>>>>> Stashed changes
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="clothes" />
-    <tag name="floor" />
-    <usage name="Farm" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier11" />
-    <value name="Tier8" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-  </type>
-<<<<<<< Updated upstream
-  <type name="SodaCan_Fronta">
-    <nominal>20</nominal>
-    <lifetime>2700</lifetime>
-    <restock>300</restock>
-    <min>10</min>
-=======
-  <type name="Sneakers_Green">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>0</restock>
-    <min>5</min>
->>>>>>> Stashed changes
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="clothes" />
-    <tag name="floor" />
-    <usage name="Farm" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier11" />
-    <value name="Tier8" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-  </type>
-<<<<<<< Updated upstream
-  <type name="SodaCan_Kvass">
-    <nominal>20</nominal>
-    <lifetime>2700</lifetime>
-    <restock>300</restock>
-    <min>10</min>
-=======
-  <type name="Sneakers_Red">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>0</restock>
-    <min>5</min>
->>>>>>> Stashed changes
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="clothes" />
-    <tag name="floor" />
-    <usage name="Farm" />
-    <usage name="Village" />
-    <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier11" />
-    <value name="Tier8" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-  </type>
-<<<<<<< Updated upstream
-  <type name="SodaCan_Pipsi">
-    <nominal>20</nominal>
-    <lifetime>2700</lifetime>
-    <restock>300</restock>
-    <min>10</min>
-=======
-  <type name="Sneakers_White">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>0</restock>
-    <min>5</min>
->>>>>>> Stashed changes
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
