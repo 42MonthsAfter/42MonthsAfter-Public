@@ -694,10 +694,10 @@
     <value name="Tier2" />
   </type>
   <type name="AliceBag_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -714,10 +714,10 @@
     <value name="Tier2" />
   </type>
   <type name="AliceBag_Camo">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -734,10 +734,10 @@
     <value name="Tier2" />
   </type>
   <type name="AliceBag_Green">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -764,20 +764,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
     <category name="containers" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_00buck_10rnd">
     <nominal>60</nominal>
@@ -794,20 +780,6 @@
     <usage name="Farm" />
     <usage name="Village" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_12gaRubberSlug_10Rnd">
     <nominal>30</nominal>
@@ -847,20 +819,6 @@
     <usage name="Farm" />
     <usage name="Village" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_22_50Rnd">
     <nominal>30</nominal>
@@ -903,20 +861,6 @@
     <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_308Win_20Rnd">
     <nominal>60</nominal>
@@ -932,20 +876,6 @@
     <usage name="Police" />
     <usage name="Hunting" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_357_20Rnd">
     <nominal>40</nominal>
@@ -964,20 +894,6 @@
     <usage name="Village" />
     <usage name="Hunting" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_380_35rnd">
     <nominal>40</nominal>
@@ -992,20 +908,6 @@
     <usage name="Military" />
     <usage name="Police" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_45ACP_25rnd">
     <nominal>40</nominal>
@@ -1020,20 +922,6 @@
     <usage name="Military" />
     <usage name="Police" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_545x39Tracer_20Rnd">
     <nominal>60</nominal>
@@ -1049,20 +937,6 @@
     <usage name="Military" />
     <usage name="Police" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_545x39_20Rnd">
     <nominal>60</nominal>
@@ -1078,20 +952,6 @@
     <usage name="Military" />
     <usage name="Police" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_556x45Tracer_20Rnd">
     <nominal>60</nominal>
@@ -1107,20 +967,6 @@
     <usage name="Military" />
     <usage name="Police" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_556x45_20Rnd">
     <nominal>60</nominal>
@@ -1136,20 +982,6 @@
     <usage name="Police" />
     <usage name="Prison" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_762x39Tracer_20Rnd">
     <nominal>60</nominal>
@@ -1165,20 +997,6 @@
     <usage name="Military" />
     <usage name="Police" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_762x39_20Rnd">
     <nominal>60</nominal>
@@ -1193,20 +1011,6 @@
     <usage name="Military" />
     <usage name="Police" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_762x54Tracer_20Rnd">
     <nominal>60</nominal>
@@ -1222,20 +1026,6 @@
     <usage name="Military" />
     <usage name="Police" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_762x54_20Rnd">
     <nominal>60</nominal>
@@ -1250,20 +1040,6 @@
     <usage name="Military" />
     <usage name="Police" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_9x19_25rnd">
     <nominal>40</nominal>
@@ -1279,20 +1055,6 @@
     <usage name="Police" />
     <usage name="Prison" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_9x39AP_20Rnd">
     <nominal>30</nominal>
@@ -1307,20 +1069,6 @@
     <usage name="Military" />
     <usage name="Police" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="AmmoBox_9x39_20Rnd">
     <nominal>30</nominal>
@@ -1335,20 +1083,6 @@
     <usage name="Military" />
     <usage name="Police" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_12gaPellets">
     <nominal>60</nominal>
@@ -1363,20 +1097,6 @@
     <usage name="Police" />
     <usage name="Farm" />
     <usage name="Village" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_12gaRubberSlug">
     <nominal>30</nominal>
@@ -1465,20 +1185,6 @@
     <usage name="Farm" />
     <usage name="Village" />
     <usage name="Hunting" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_308WinTracer">
     <nominal>60</nominal>
@@ -1492,20 +1198,6 @@
     <category name="weapons" />
     <tag name="shelves" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_357">
     <nominal>35</nominal>
@@ -1524,20 +1216,6 @@
     <usage name="Hunting" />
     <usage name="Coast" />
     <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_380">
     <nominal>50</nominal>
@@ -1555,20 +1233,6 @@
     <usage name="Hunting" />
     <usage name="Coast" />
     <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_45ACP">
     <nominal>30</nominal>
@@ -1582,20 +1246,6 @@
     <category name="weapons" />
     <usage name="Military" />
     <usage name="Police" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_545x39">
     <nominal>30</nominal>
@@ -1609,20 +1259,6 @@
     <category name="weapons" />
     <tag name="shelves" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_545x39Tracer">
     <nominal>20</nominal>
@@ -1636,20 +1272,6 @@
     <category name="weapons" />
     <tag name="shelves" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_556x45">
     <nominal>60</nominal>
@@ -1663,20 +1285,6 @@
     <category name="weapons" />
     <usage name="Military" />
     <usage name="Hunting" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_556x45Tracer">
     <nominal>60</nominal>
@@ -1690,20 +1298,6 @@
     <category name="weapons" />
     <tag name="shelves" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_762x39">
     <nominal>60</nominal>
@@ -1718,20 +1312,6 @@
     <tag name="shelves" />
     <usage name="Military" />
     <usage name="Hunting" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_762x39Tracer">
     <nominal>60</nominal>
@@ -1745,20 +1325,6 @@
     <category name="weapons" />
     <tag name="shelves" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_762x54">
     <nominal>60</nominal>
@@ -1775,20 +1341,6 @@
     <usage name="Farm" />
     <usage name="Village" />
     <usage name="Hunting" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_762x54Tracer">
     <nominal>60</nominal>
@@ -1802,20 +1354,6 @@
     <category name="weapons" />
     <tag name="shelves" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_9x19">
     <nominal>60</nominal>
@@ -1831,20 +1369,6 @@
     <usage name="Prison" />
     <usage name="Village" />
     <usage name="Hunting" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_9x39">
     <nominal>20</nominal>
@@ -1858,20 +1382,6 @@
     <category name="weapons" />
     <usage name="Military" />
     <usage name="Police" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_9x39AP">
     <nominal>20</nominal>
@@ -1885,20 +1395,6 @@
     <category name="weapons" />
     <usage name="Military" />
     <usage name="Police" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_Flare">
     <nominal>20</nominal>
@@ -1913,20 +1409,6 @@
     <usage name="Police" />
     <usage name="Coast" />
     <usage name="Firefighter" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_FlareBlue">
     <nominal>20</nominal>
@@ -1939,20 +1421,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_FlareGreen">
     <nominal>20</nominal>
@@ -1965,20 +1433,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ammo_FlareRed">
     <nominal>20</nominal>
@@ -1991,20 +1445,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Animal_BosTaurusF_Brown">
     <nominal>10</nominal>
@@ -2647,10 +2087,10 @@
     <value name="Tier2" />
   </type>
   <type name="AssaultBag_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>4</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2667,10 +2107,10 @@
     <value name="Tier2" />
   </type>
   <type name="AssaultBag_Green">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>4</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2687,10 +2127,10 @@
     <value name="Tier2" />
   </type>
   <type name="AssaultBag_Ttsko">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>4</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3025,20 +2465,6 @@
     <tag name="shelves" />
     <usage name="Village" />
     <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="BakedBeansCan_Opened">
     <nominal>0</nominal>
@@ -3423,20 +2849,6 @@
     <usage name="Prison" />
     <usage name="Hunting" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="BandanaMask_BlackPattern">
     <nominal>0</nominal>
@@ -4146,20 +3558,6 @@
     <usage name="School" />
     <usage name="Prison" />
     <usage name="Lunapark" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="BatteryCharger">
     <nominal>20</nominal>
@@ -4956,20 +4354,6 @@
     <usage name="Village" />
     <usage name="Town" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="BoonieHat_Blue">
     <nominal>20</nominal>
@@ -5106,20 +4490,6 @@
     <usage name="Village" />
     <usage name="Town" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="BoonieHat_Orange">
     <nominal>20</nominal>
@@ -5206,20 +4576,6 @@
     <tag name="shelves" />
     <usage name="Village" />
     <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="BrassKnuckles_Dull">
     <nominal>10</nominal>
@@ -5583,20 +4939,6 @@
     <usage name="Hunting" />
     <usage name="Coast" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="BurlapSackCover">
     <nominal>0</nominal>
@@ -6300,20 +5642,6 @@
     <usage name="Hunting" />
     <usage name="Town" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="CargoPants_Blue">
     <nominal>20</nominal>
@@ -6354,20 +5682,6 @@
     <usage name="Hunting" />
     <usage name="Town" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="CargoPants_Grey">
     <nominal>20</nominal>
@@ -6426,20 +5740,6 @@
     <category name="tools" />
     <tag name="shelves" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Chemlight_Blue">
     <nominal>40</nominal>
@@ -6454,20 +5754,6 @@
     <usage name="Police" />
     <usage name="Coast" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Chemlight_Green">
     <nominal>40</nominal>
@@ -6487,20 +5773,6 @@
     <usage name="Coast" />
     <usage name="Town" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Chemlight_Red">
     <nominal>30</nominal>
@@ -6513,20 +5785,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Chemlight_White">
     <nominal>40</nominal>
@@ -6543,20 +5801,6 @@
     <usage name="Hunting" />
     <usage name="Coast" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Chemlight_Yellow">
     <nominal>40</nominal>
@@ -6570,20 +5814,6 @@
     <category name="tools" />
     <usage name="Military" />
     <usage name="Police" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="ChernarusMap">
     <nominal>10</nominal>
@@ -6688,10 +5918,10 @@
     <value name="Tier2" />
   </type>
   <type name="ChildBag_Blue">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6710,10 +5940,10 @@
     <value name="Tier2" />
   </type>
   <type name="ChildBag_Green">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6732,10 +5962,10 @@
     <value name="Tier2" />
   </type>
   <type name="ChildBag_Red">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7698,20 +6928,6 @@
     <category name="clothes" />
     <tag name="floor" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="CombatBoots_Black">
     <nominal>10</nominal>
@@ -7725,20 +6941,6 @@
     <category name="clothes" />
     <tag name="floor" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="CombatBoots_Brown">
     <nominal>10</nominal>
@@ -7752,20 +6954,6 @@
     <category name="clothes" />
     <tag name="floor" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="CombatBoots_Green">
     <nominal>10</nominal>
@@ -7779,20 +6967,6 @@
     <category name="clothes" />
     <tag name="floor" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="CombatBoots_Grey">
     <nominal>10</nominal>
@@ -7806,20 +6980,6 @@
     <category name="clothes" />
     <tag name="floor" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="CombatKnife">
     <nominal>20</nominal>
@@ -7833,20 +6993,6 @@
     <category name="tools" />
     <tag name="shelves" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="CombinationLock">
     <nominal>40</nominal>
@@ -8190,10 +7336,10 @@
     <value name="Tier2" />
   </type>
   <type name="CoyoteBag_Brown">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -8210,10 +7356,10 @@
     <value name="Tier2" />
   </type>
   <type name="CoyoteBag_Green">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -8567,20 +7713,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="DirtBikeHelmet_Black">
     <nominal>10</nominal>
@@ -8792,20 +7924,6 @@
     <category name="tools" />
     <tag name="shelves" />
     <usage name="Village" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="DisinfectantSpray">
     <nominal>50</nominal>
@@ -8819,20 +7937,6 @@
     <category name="tools" />
     <tag name="shelves" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="DogFoodCan">
     <nominal>20</nominal>
@@ -8993,10 +8097,10 @@
     <value name="Tier2" />
   </type>
   <type name="DryBag_Black">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9004,26 +8108,12 @@
     <category name="containers" />
     <usage name="Coast" />
     <usage name="Hunting" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="DryBag_Blue">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9041,10 +8131,10 @@
     <value name="Tier2" />
   </type>
   <type name="DryBag_Green">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9062,10 +8152,10 @@
     <value name="Tier2" />
   </type>
   <type name="DryBag_Orange">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9083,10 +8173,10 @@
     <value name="Tier2" />
   </type>
   <type name="DryBag_Red">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9104,10 +8194,10 @@
     <value name="Tier2" />
   </type>
   <type name="DryBag_Yellow">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9141,20 +8231,6 @@
     <usage name="Coast" />
     <usage name="Town" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="EasterEgg">
     <nominal>5</nominal>
@@ -9168,20 +8244,6 @@
     <usage name="Farm" />
     <usage name="Village" />
     <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="ElectronicRepairKit">
     <nominal>20</nominal>
@@ -9195,20 +8257,6 @@
     <category name="tools" />
     <tag name="shelves" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="EngineOil">
     <nominal>0</nominal>
@@ -9265,20 +8313,6 @@
     <category name="tools" />
     <tag name="shelves" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="EpoxyPutty">
     <nominal>100</nominal>
@@ -9292,20 +8326,6 @@
     <category name="tools" />
     <tag name="shelves" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Fabric">
     <nominal>20</nominal>
@@ -9521,20 +8541,6 @@
     <category name="tools" />
     <tag name="floor" />
     <usage name="Firefighter" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="FirefighterAxe_Black">
     <nominal>0</nominal>
@@ -9548,20 +8554,6 @@
     <category name="tools" />
     <tag name="floor" />
     <usage name="Firefighter" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="FirefighterAxe_Green">
     <nominal>0</nominal>
@@ -9575,20 +8567,6 @@
     <category name="tools" />
     <tag name="floor" />
     <usage name="Firefighter" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="FirefighterJacket_Beige">
     <nominal>10</nominal>
@@ -9601,20 +8579,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Firefighter" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="FirefighterJacket_Black">
     <nominal>10</nominal>
@@ -9627,20 +8591,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Firefighter" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="FirefightersHelmet_Red">
     <nominal>8</nominal>
@@ -9653,20 +8603,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Firefighter" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="FirefightersHelmet_White">
     <nominal>8</nominal>
@@ -9679,20 +8615,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Firefighter" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="FirefightersHelmet_Yellow">
     <nominal>8</nominal>
@@ -9705,20 +8627,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Firefighter" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="FirefightersPants_Beige">
     <nominal>10</nominal>
@@ -9731,20 +8639,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Firefighter" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="FirefightersPants_Black">
     <nominal>10</nominal>
@@ -9757,20 +8651,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Firefighter" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Fireplace">
     <nominal>0</nominal>
@@ -9839,20 +8719,6 @@
     <category name="containers" />
     <tag name="shelves" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="FishingRod">
     <nominal>40</nominal>
@@ -10500,20 +9366,6 @@
     <usage name="Police" />
     <usage name="Coast" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="FlashGrenade">
     <nominal>40</nominal>
@@ -10528,20 +9380,6 @@
     <usage name="Military" />
     <usage name="Police" />
     <usage name="Prison" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Flashlight">
     <nominal>40</nominal>
@@ -10938,20 +9776,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="GhillieAtt_Tan">
     <nominal>10</nominal>
@@ -10964,20 +9788,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="GhillieAtt_Woodland">
     <nominal>10</nominal>
@@ -10990,20 +9800,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="GhillieBushrag_Mossy">
     <nominal>10</nominal>
@@ -11016,20 +9812,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="GhillieBushrag_Tan">
     <nominal>10</nominal>
@@ -11042,20 +9824,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="GhillieBushrag_Woodland">
     <nominal>10</nominal>
@@ -11068,20 +9836,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="GhillieHood_Mossy">
     <nominal>10</nominal>
@@ -11094,20 +9848,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="GhillieHood_Tan">
     <nominal>10</nominal>
@@ -11120,20 +9860,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="GhillieHood_Woodland">
     <nominal>10</nominal>
@@ -11146,20 +9872,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="GhillieSuit_Mossy">
     <nominal>10</nominal>
@@ -11172,20 +9884,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="GhillieSuit_Tan">
     <nominal>10</nominal>
@@ -11198,20 +9896,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="GhillieSuit_Woodland">
     <nominal>10</nominal>
@@ -11224,20 +9908,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="GhillieTop_Mossy">
     <nominal>10</nominal>
@@ -11250,20 +9920,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="GhillieTop_Tan">
     <nominal>10</nominal>
@@ -11276,20 +9932,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="GhillieTop_Woodland">
     <nominal>10</nominal>
@@ -11302,20 +9944,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="GiftBox_Large_1">
     <nominal>0</nominal>
@@ -11913,20 +10541,6 @@
     <category name="tools" />
     <usage name="Industrial" />
     <usage name="Farm" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Hammer">
     <nominal>80</nominal>
@@ -11941,20 +10555,6 @@
     <usage name="Industrial" />
     <usage name="Farm" />
     <usage name="Village" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="HandDrillKit">
     <nominal>0</nominal>
@@ -11987,20 +10587,6 @@
     <category name="tools" />
     <usage name="Industrial" />
     <usage name="Farm" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="HandcuffKeys">
     <nominal>20</nominal>
@@ -12037,20 +10623,6 @@
     <tag name="shelves" />
     <usage name="Police" />
     <usage name="Prison" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="HandcuffsLocked">
     <nominal>0</nominal>
@@ -13480,20 +12052,6 @@
     <tag name="floor" />
     <usage name="Farm" />
     <usage name="Village" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="HeadlightH7">
     <nominal>0</nominal>
@@ -13615,20 +12173,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="HighCapacityVest_Black">
     <nominal>10</nominal>
@@ -14356,10 +12900,10 @@
     <value name="Tier2" />
   </type>
   <type name="HuntingBag">
-    <nominal>30</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>20</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -14634,20 +13178,6 @@
     <usage name="Town" />
     <usage name="Firefighter" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Izh43Shotgun">
     <nominal>20</nominal>
@@ -15346,20 +13876,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="LactariusMushroom">
     <nominal>0</nominal>
@@ -15544,20 +14060,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="LeatherBelt_Beige">
     <nominal>0</nominal>
@@ -16047,20 +14549,6 @@
     <tag name="shelves" />
     <usage name="Industrial" />
     <usage name="Village" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="LeatherShirt_Natural">
     <nominal>0</nominal>
@@ -16244,20 +14732,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="LongWoodenStick">
     <nominal>0</nominal>
@@ -16331,20 +14805,6 @@
     <usage name="Town" />
     <usage name="Office" />
     <usage name="School" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Lunchmeat_Opened">
     <nominal>0</nominal>
@@ -16376,20 +14836,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="M18SmokeGrenade_Purple">
     <nominal>30</nominal>
@@ -16402,20 +14848,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="M18SmokeGrenade_Red">
     <nominal>30</nominal>
@@ -16428,20 +14860,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="M18SmokeGrenade_White">
     <nominal>30</nominal>
@@ -16454,20 +14872,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="M18SmokeGrenade_Yellow">
     <nominal>30</nominal>
@@ -16480,20 +14884,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="M16A2">
     <nominal>10</nominal>
@@ -16765,20 +15155,6 @@
     <usage name="Military" />
     <usage name="Police" />
     <usage name="Hunting" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="M4_T3NRDSOptic">
     <nominal>10</nominal>
@@ -16899,20 +15275,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="M68Optic">
     <nominal>12</nominal>
@@ -17167,20 +15529,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Mag_AK101_30Rnd">
     <nominal>20</nominal>
@@ -17193,20 +15541,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Mag_AK74_30Rnd">
     <nominal>40</nominal>
@@ -17219,20 +15553,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Mag_AKM_30Rnd">
     <nominal>20</nominal>
@@ -17245,20 +15565,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Mag_AKM_Drum75Rnd">
     <nominal>12</nominal>
@@ -17272,20 +15578,6 @@
     <category name="weapons" />
     <tag name="shelves" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Mag_AKM_Palm30Rnd">
     <nominal>20</nominal>
@@ -17299,20 +15591,6 @@
     <category name="weapons" />
     <tag name="shelves" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Mag_CMAG_10Rnd">
     <nominal>20</nominal>
@@ -17326,20 +15604,6 @@
     <category name="weapons" />
     <tag name="shelves" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Mag_CMAG_20Rnd">
     <nominal>20</nominal>
@@ -17353,20 +15617,6 @@
     <category name="weapons" />
     <tag name="shelves" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Mag_CMAG_30Rnd">
     <nominal>20</nominal>
@@ -17380,20 +15630,6 @@
     <category name="weapons" />
     <tag name="shelves" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Mag_CMAG_40Rnd">
     <nominal>20</nominal>
@@ -17407,20 +15643,6 @@
     <category name="weapons" />
     <tag name="shelves" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Mag_CZ527_5rnd">
     <nominal>20</nominal>
@@ -18249,20 +16471,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="MedicalScrubsHat_Green">
     <nominal>10</nominal>
@@ -18275,20 +16483,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="MedicalScrubsHat_White">
     <nominal>10</nominal>
@@ -18301,20 +16495,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="MedicalScrubsPants_Blue">
     <nominal>10</nominal>
@@ -18327,20 +16507,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="MedicalScrubsPants_Green">
     <nominal>10</nominal>
@@ -18353,20 +16519,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="MedicalScrubsPants_White">
     <nominal>10</nominal>
@@ -18379,20 +16531,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="MedicalScrubsShirt_Blue">
     <nominal>10</nominal>
@@ -18405,20 +16543,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="MedicalScrubsShirt_Green">
     <nominal>10</nominal>
@@ -18431,20 +16555,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="MedicalScrubsShirt_White">
     <nominal>10</nominal>
@@ -18457,20 +16567,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="MediumGasCanister">
     <nominal>30</nominal>
@@ -18502,7 +16598,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="containers" />
     <usage name="Hunting" />
     <usage name="Coast" />
     <value name="Tier15" />
@@ -18636,20 +16732,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="MilitaryBelt">
     <nominal>20</nominal>
@@ -18662,20 +16744,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="MilitaryBeret_CDF">
     <nominal>10</nominal>
@@ -19068,20 +17136,6 @@
     <tag name="shelves" />
     <usage name="Firefighter" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Mosin9130">
     <nominal>10</nominal>
@@ -19358,10 +17412,10 @@
     <value name="Tier2" />
   </type>
   <type name="MountainBag_Blue">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -19380,10 +17434,10 @@
     <value name="Tier2" />
   </type>
   <type name="MountainBag_Green">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -19402,10 +17456,10 @@
     <value name="Tier2" />
   </type>
   <type name="MountainBag_Orange">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -19424,10 +17478,10 @@
     <value name="Tier2" />
   </type>
   <type name="MountainBag_Red">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -20135,20 +18189,6 @@
     <tag name="shelves" />
     <usage name="Military" />
     <usage name="Village" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="PipeWrench">
     <nominal>30</nominal>
@@ -20268,20 +18308,6 @@
     <tag name="shelves" />
     <usage name="Coast" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Pajka">
     <nominal>25</nominal>
@@ -20355,20 +18381,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="ParamedicJacket_Crimson">
     <nominal>10</nominal>
@@ -20381,20 +18393,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="ParamedicJacket_Green">
     <nominal>10</nominal>
@@ -20407,20 +18405,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="ParamedicPants_Blue">
     <nominal>10</nominal>
@@ -20433,20 +18417,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="ParamedicPants_Crimson">
     <nominal>10</nominal>
@@ -20459,20 +18429,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="ParamedicPants_Green">
     <nominal>10</nominal>
@@ -20485,20 +18441,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Pate">
     <nominal>50</nominal>
@@ -20515,20 +18457,6 @@
     <usage name="Village" />
     <usage name="Office" />
     <usage name="School" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Pate_Opened">
     <nominal>0</nominal>
@@ -20562,20 +18490,6 @@
     <tag name="shelves" />
     <usage name="Village" />
     <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="PeachesCan_Opened">
     <nominal>0</nominal>
@@ -20774,20 +18688,6 @@
     <tag name="shelves" />
     <usage name="Industrial" />
     <usage name="Farm" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="PigPelt">
     <nominal>0</nominal>
@@ -20900,20 +18800,6 @@
     <category name="weapons" />
     <usage name="Military" />
     <usage name="Police" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="PlantMaterial">
     <nominal>0</nominal>
@@ -21124,20 +19010,6 @@
     <usage name="Industrial" />
     <usage name="Farm" />
     <usage name="Village" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Plum">
     <nominal>0</nominal>
@@ -21171,20 +19043,6 @@
     <tag name="shelves" />
     <usage name="Police" />
     <usage name="Prison" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="PoliceJacket">
     <nominal>30</nominal>
@@ -21198,20 +19056,6 @@
     <category name="clothes" />
     <usage name="Police" />
     <usage name="Prison" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="PoliceJacketOrel">
     <nominal>16</nominal>
@@ -21225,20 +19069,6 @@
     <category name="clothes" />
     <usage name="Police" />
     <usage name="Prison" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="PolicePants">
     <nominal>30</nominal>
@@ -21252,20 +19082,6 @@
     <category name="clothes" />
     <usage name="Police" />
     <usage name="Prison" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="PolicePantsOrel">
     <nominal>16</nominal>
@@ -21279,20 +19095,6 @@
     <category name="clothes" />
     <usage name="Police" />
     <usage name="Prison" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="PoliceVest">
     <nominal>40</nominal>
@@ -21306,20 +19108,6 @@
     <category name="clothes" />
     <usage name="Police" />
     <usage name="Prison" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="PorkCan">
     <nominal>50</nominal>
@@ -21336,20 +19124,6 @@
     <usage name="Village" />
     <usage name="Office" />
     <usage name="School" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="PorkCan_Opened">
     <nominal>0</nominal>
@@ -21724,20 +19498,6 @@
     <usage name="Coast" />
     <usage name="Firefighter" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="QuiltedJacket_Black">
     <nominal>20</nominal>
@@ -21968,20 +19728,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Military" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="RadarCap_Black">
     <nominal>10</nominal>
@@ -22445,20 +20191,6 @@
     <usage name="Farm" />
     <usage name="Village" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ruger1022">
     <nominal>30</nominal>
@@ -22605,20 +20337,6 @@
     <usage name="Firefighter" />
     <usage name="Medic" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="SalineBagIV">
     <nominal>0</nominal>
@@ -22737,20 +20455,6 @@
     <tag name="shelves" />
     <usage name="Village" />
     <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="SardinesCan_Opened">
     <nominal>0</nominal>
@@ -22898,20 +20602,6 @@
     <usage name="Industrial" />
     <usage name="Farm" />
     <usage name="Village" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Scout">
     <nominal>5</nominal>
@@ -22986,20 +20676,6 @@
     <usage name="Industrial" />
     <usage name="Farm" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Sedan_02">
     <nominal>0</nominal>
@@ -23862,20 +21538,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
     <usage name="Village" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="SharpLongWoodenStick">
     <nominal>0</nominal>
@@ -24313,20 +21975,6 @@
     <usage name="Farm" />
     <usage name="Village" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Sickle">
     <nominal>10</nominal>
@@ -24722,20 +22370,6 @@
     <category name="tools" />
     <tag name="floor" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="SlicedPumpkin">
     <nominal>0</nominal>
@@ -24840,10 +22474,10 @@
     <value name="Tier2" />
   </type>
   <type name="SmershBag">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>6</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -25006,20 +22640,6 @@
     <category name="industrialfood" />
     <usage name="Village" />
     <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="SodaCan_Fronta">
     <nominal>20</nominal>
@@ -25033,20 +22653,6 @@
     <category name="industrialfood" />
     <usage name="Village" />
     <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="SodaCan_Kvass">
     <nominal>20</nominal>
@@ -25060,20 +22666,6 @@
     <category name="industrialfood" />
     <usage name="Village" />
     <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="SodaCan_Pipsi">
     <nominal>20</nominal>
@@ -25087,20 +22679,6 @@
     <category name="industrialfood" />
     <usage name="Village" />
     <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="SodaCan_Spite">
     <nominal>20</nominal>
@@ -25114,20 +22692,6 @@
     <category name="industrialfood" />
     <usage name="Village" />
     <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="SpaghettiCan">
     <nominal>20</nominal>
@@ -25142,20 +22706,6 @@
     <tag name="shelves" />
     <usage name="Village" />
     <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="SpaghettiCan_Opened">
     <nominal>0</nominal>
@@ -25357,20 +22907,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Ssh68Helmet">
     <nominal>20</nominal>
@@ -25404,20 +22940,6 @@
     <category name="tools" />
     <tag name="shelves" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="SteakKnife">
     <nominal>20</nominal>
@@ -25496,20 +23018,6 @@
     <category name="tools" />
     <usage name="Police" />
     <usage name="Prison" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="SurgicalGloves_Blue">
     <nominal>10</nominal>
@@ -25522,20 +23030,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="SurgicalGloves_Green">
     <nominal>10</nominal>
@@ -25548,20 +23042,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="SurgicalGloves_LightBlue">
     <nominal>10</nominal>
@@ -25574,20 +23054,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="SurgicalGloves_White">
     <nominal>10</nominal>
@@ -25600,20 +23066,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="SurgicalMask">
     <nominal>10</nominal>
@@ -25626,20 +23078,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Sweater_Blue">
     <nominal>20</nominal>
@@ -26021,20 +23459,6 @@
     <usage name="Village" />
     <usage name="Coast" />
     <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="TacticalBaconCan_Opened">
     <nominal>0</nominal>
@@ -26220,10 +23644,10 @@
     <value name="Tier2" />
   </type>
   <type name="TaloonBag_Blue">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -26242,10 +23666,10 @@
     <value name="Tier2" />
   </type>
   <type name="TaloonBag_Green">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -26264,10 +23688,10 @@
     <value name="Tier2" />
   </type>
   <type name="TaloonBag_Orange">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -26286,10 +23710,10 @@
     <value name="Tier2" />
   </type>
   <type name="TaloonBag_Violet">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -26419,20 +23843,6 @@
     <usage name="Coast" />
     <usage name="Firefighter" />
     <usage name="Medic" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Thermometer">
     <nominal>10</nominal>
@@ -26509,20 +23919,6 @@
     <category name="tools" />
     <tag name="shelves" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Tomato">
     <nominal>40</nominal>
@@ -26606,10 +24002,10 @@
     <value name="Tier2" />
   </type>
   <type name="TortillaBag">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
     <restock>1800</restock>
-    <min>4</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -26879,20 +24275,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Truck_01_Door_1_1_BlueRust">
     <nominal>4</nominal>
@@ -27417,20 +24799,6 @@
     <tag name="shelves" />
     <usage name="Village" />
     <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="TunaCan_Opened">
     <nominal>0</nominal>
@@ -27664,20 +25032,6 @@
     <tag name="shelves" />
     <usage name="Military" />
     <usage name="Police" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="UnknownFoodCan">
     <nominal>20</nominal>
@@ -27694,20 +25048,6 @@
     <usage name="Village" />
     <usage name="Office" />
     <usage name="Prison" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="UnknownFoodCan_Opened">
     <nominal>0</nominal>
@@ -27822,20 +25162,6 @@
     <tag name="shelves" />
     <usage name="Medic" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="Watchtower">
     <nominal>0</nominal>
@@ -27886,52 +25212,24 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <usage name="Village" />
     <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="WaterproofBag_Green">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="containers" />
     <usage name="Coast" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="WaterproofBag_Orange">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -27948,10 +25246,10 @@
     <value name="Tier2" />
   </type>
   <type name="WaterproofBag_Yellow">
-    <nominal>20</nominal>
+    <nominal>5</nominal>
     <lifetime>21600</lifetime>
-    <restock>0</restock>
-    <min>10</min>
+    <restock>1800</restock>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -27980,20 +25278,6 @@
     <usage name="Military" />
     <usage name="Police" />
     <usage name="Hunting" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="WeldingMask">
     <nominal>10</nominal>
@@ -28115,20 +25399,6 @@
     <category name="tools" />
     <tag name="shelves" />
     <usage name="Farm" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="WildboarPelt">
     <nominal>0</nominal>
@@ -28476,20 +25746,6 @@
     <usage name="Village" />
     <usage name="Coast" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="WoodenCrate">
     <nominal>0</nominal>
@@ -29023,20 +26279,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
     <usage name="Industrial" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="XmasLights">
     <nominal>30</nominal>
@@ -29075,20 +26317,6 @@
     <usage name="Office" />
     <usage name="School" />
     <usage name="Lunapark" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="ZagorkyChocolate">
     <nominal>40</nominal>
@@ -29106,20 +26334,6 @@
     <usage name="Hunting" />
     <usage name="Coast" />
     <usage name="Town" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="ZagorkyPeanuts">
     <nominal>40</nominal>
@@ -29136,20 +26350,6 @@
     <usage name="Office" />
     <usage name="School" />
     <usage name="Lunapark" />
-    <value name="Tier15" />
-    <value name="Tier13" />
-    <value name="Tier12" />
-    <value name="Tier11" />
-    <value name="Tier10" />
-    <value name="Tier9" />
-    <value name="Tier8" />
-    <value name="Tier7" />
-    <value name="Tier6" />
-    <value name="Tier5" />
-    <value name="Tier4" />
-    <value name="Tier3" />
-    <value name="Tier2" />
-    <value name="Tier1" />
   </type>
   <type name="ZSh3PilotHelmet">
     <nominal>20</nominal>
@@ -31018,10 +28218,10 @@
         <value name="Tier2" />
     </type>
     <type name="MassBlackYellowMB">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -31039,10 +28239,10 @@
         <value name="Tier2" />
     </type>
     <type name="Massczech">
-        <nominal>30</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>10</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -31181,10 +28381,10 @@
         <value name="Tier2" />
     </type>
     <type name="MasscamoTaloon">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -31221,10 +28421,10 @@
         <value name="Tier2" />
     </type>
     <type name="Massbrownhuntingbp">
-        <nominal>20</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>10</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -31406,10 +28606,10 @@
         <value name="Tier2" />
     </type>
     <type name="MassSmersh">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -31730,10 +28930,10 @@
         <value name="Tier2" />
     </type>
     <type name="MassWinterTortilla">
-        <nominal>20</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>10</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -31810,10 +29010,10 @@
         <value name="Tier2" />
     </type>
     <type name="MassWinterHuntingbp">
-        <nominal>20</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>10</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -31910,10 +29110,10 @@
         <value name="Tier2" />
     </type>
 	<type name="MassczechWinter">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -31931,10 +29131,10 @@
         <value name="Tier2" />
     </type>
 	<type name="MassCoyoteBPUrban">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -31951,10 +29151,10 @@
         <value name="Tier2" />
     </type>
 	<type name="Massblackhuntingbp">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -31971,10 +29171,10 @@
         <value name="Tier2" />
     </type>
 	<type name="MassCanvasBag">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -32303,10 +29503,10 @@
         <value name="Tier2" />
     </type>
 	<type name="MasscamoTaloon1">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -33398,10 +30598,10 @@
         <value name="Tier2" />
     </type>
 	<type name="MassSmershblack">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -33452,10 +30652,10 @@
         <value name="Tier1" />
     </type>
 	<type name="Massbag">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>14400</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -33473,10 +30673,10 @@
         <value name="Tier2" />
     </type>
 	<type name="Massbag2">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>14400</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -33494,10 +30694,10 @@
         <value name="Tier2" />
     </type>
 	<type name="Massbag3">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>14400</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -33515,10 +30715,10 @@
         <value name="Tier2" />
     </type>
 	<type name="Massbag4">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>14400</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -33538,7 +30738,7 @@
 	<type name="Massmedbag">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -33558,7 +30758,7 @@
 	<type name="Massmedbag_blue">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -33578,7 +30778,7 @@
 	<type name="Massmedbag_green">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -33598,8 +30798,8 @@
 	<type name="MassMedical_Bag">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>2</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -33619,8 +30819,8 @@
 	<type name="MassMedical_Bag_Blue">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>2</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -33640,8 +30840,8 @@
 	<type name="MassMedical_Bag_Green">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>2</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -33659,10 +30859,10 @@
         <value name="Tier2" />
     </type>
 	<type name="MassNBC_Bag">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>6</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -33848,10 +31048,10 @@
         <value name="Tier2" />
     </type>
 	<type name="MassMolleBagBlack">
-        <nominal>10</nominal>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <nominal>5</nominal>
+        <lifetime>21600</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -33868,10 +31068,10 @@
         <value name="Tier2" />
     </type>
 	<type name="MassMolleBagDesert">
-        <nominal>10</nominal>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <nominal>5</nominal>
+        <lifetime>21600</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -33888,10 +31088,10 @@
         <value name="Tier2" />
     </type>
 	<type name="MassMolleBagGorka">
-        <nominal>10</nominal>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <nominal>5</nominal>
+        <lifetime>21600</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -34487,7 +31687,7 @@
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -34507,7 +31707,7 @@
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -34527,7 +31727,7 @@
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -34547,7 +31747,7 @@
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -34596,7 +31796,7 @@
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -34616,7 +31816,7 @@
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -34636,7 +31836,7 @@
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -34656,7 +31856,7 @@
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -34673,10 +31873,10 @@
         <value name="Tier2" />
     </type>
 	<type name="MassSlingBag">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -34693,10 +31893,10 @@
         <value name="Tier2" />
     </type>
 	<type name="MassSlingBagDesert">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -34713,10 +31913,10 @@
         <value name="Tier2" />
     </type>
 	<type name="MassSlingBagGorka">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -35130,8 +32330,8 @@
 	<type name="MassLargeSmersh">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>2</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -35150,8 +32350,8 @@
 	<type name="MassLargeSmersh_Black">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>2</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -35170,8 +32370,8 @@
 	<type name="MassLargeSmersh_Tan">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>2</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -40091,7 +37291,7 @@
     <type name="carrierrig_mung">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -40114,10 +37314,10 @@
         <value name="Tier1" />
   </type>
     <type name="Hikingbagmung_pink">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -40137,10 +37337,10 @@
         <value name="Tier2" />
   </type>
     <type name="Hikingbagmung_meow">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -40160,10 +37360,10 @@
         <value name="Tier2" />
   </type>
     <type name="Hikingbagmung_snow">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -40183,10 +37383,10 @@
         <value name="Tier2" />
   </type>
 	<type name="rifleholster_black_mung">
-        <nominal>10</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <nominal>5</nominal>
+        <lifetime>21600</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -40204,10 +37404,10 @@
         <value name="Tier2" />
   </type>
     <type name="rifleholster_tan_mung">
-        <nominal>10</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <nominal>5</nominal>
+        <lifetime>21600</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -40225,10 +37425,10 @@
         <value name="Tier2" />
   </type>
     <type name="rifleholster_snow_mung">
-        <nominal>10</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <nominal>5</nominal>
+        <lifetime>21600</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -40246,10 +37446,10 @@
         <value name="Tier2" />
   </type>
     <type name="rifleholster_TTsKO_mung">
-        <nominal>10</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <nominal>5</nominal>
+        <lifetime>21600</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -40267,10 +37467,10 @@
         <value name="Tier2" />
   </type>
     <type name="rifleholster_leatherengraved_mung">
-        <nominal>10</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <nominal>5</nominal>
+        <lifetime>21600</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -41006,10 +38206,10 @@
         <value name="Tier2" />
   </type>
     <type name="fannypack_pink_mung">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -41027,10 +38227,10 @@
         <value name="Tier2" />
   </type>
 	<type name="fannypack_black_mung">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -41048,10 +38248,10 @@
         <value name="Tier2" />
   </type>
 	<type name="fannypack_camo_mung">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -41069,10 +38269,10 @@
         <value name="Tier2" />
   </type>
 	<type name="fannypack_multi_mung">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -41090,10 +38290,10 @@
         <value name="Tier2" />
   </type>
 	<type name="Hikingbagmung_white">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -41113,10 +38313,10 @@
         <value name="Tier2" />
   </type>
     <type name="Hikingbagmung_yellow">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -41136,10 +38336,10 @@
         <value name="Tier2" />
   </type>
     <type name="Hikingbagmung_red">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -41159,10 +38359,10 @@
         <value name="Tier2" />
   </type>
     <type name="Hikingbagmung_blue">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -41182,10 +38382,10 @@
         <value name="Tier2" />
   </type>
     <type name="Hikingbagmung_green">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -41205,10 +38405,10 @@
         <value name="Tier2" />
   </type>
     <type name="Hikingbagmung_black">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -41228,10 +38428,10 @@
         <value name="Tier2" />
   </type>
     <type name="Hikingbagmung_camo">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -41576,10 +38776,10 @@
         <value name="Tier2" />
   </type>
     <type name="simplebackpack_blue_mung">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -41598,10 +38798,10 @@
         <value name="Tier2" />
   </type>
     <type name="simplebackpack_camoblack_mung">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -41620,10 +38820,10 @@
         <value name="Tier2" />
   </type>
     <type name="simplebackpack_green_mung">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -41642,10 +38842,10 @@
         <value name="Tier2" />
   </type>
     <type name="simplebackpack_redpink_mung">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -41664,10 +38864,10 @@
         <value name="Tier2" />
   </type>
     <type name="simplebackpack_redyellow_mung">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -75113,10 +72313,10 @@
         <value name="Tier2" />
   </type>
     <type name="Canvas_Backpack_Base">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -75134,10 +72334,10 @@
         <value name="Tier2" />
   </type>
     <type name="Canvas_Backpack_Black">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -75155,10 +72355,10 @@
         <value name="Tier2" />
   </type>
     <type name="Canvas_Backpack_White">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -75176,10 +72376,10 @@
         <value name="Tier2" />
   </type>
     <type name="Canvas_Backpack_Red">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -75197,10 +72397,10 @@
         <value name="Tier2" />
   </type>
     <type name="Canvas_Backpack_Blue">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
@@ -75218,10 +72418,10 @@
         <value name="Tier2" />
   </type>
     <type name="Canvas_Backpack_Purple">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>21600</lifetime>
-        <restock>0</restock>
-        <min>5</min>
+        <restock>1800</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>50</cost>
