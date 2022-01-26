@@ -37,14 +37,6 @@
         "High_Knee_Sneakers_Black"
     ],
     "BackPacks": [
-        "simplebackpack_camoblack_mung",
-        "simplebackpack_green_mung",
-        "simplebackpack_redpink_mung",
-        "simplebackpack_redyellow_mung",
-        "Canvas_Backpack_Base",
-        "Canvas_Backpack_Black",
-        "Canvas_Backpack_White",
-        "Hikingbagmung_pink"
     ],
     "Vests": [
     ],
@@ -130,14 +122,13 @@
         100
     ],
     "Loot": [
-        ""
+        "EasterEgg"
     ],
     "LootRandom": [
-        "EasterEgg",
         "TraderPlus_Bitcoin"
     ],
     "LootChance": [
-        20,
+        50,
         5,
         100,
         100,

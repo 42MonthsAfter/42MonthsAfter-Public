@@ -60,7 +60,7 @@ class CustomPatrol : eAIDynamicPatrol {
 	override void OnPatrolSpawn(eAIGroup patrol) {
 		// Uncomment this line to change the faction of the patrol from Raiders (default)
 		// eAIFactionGuards for example is a faction which only kills players who have their weapons out
-	    patrol.SetFaction(new eAIFactionGuards());
+	    // patrol.SetFaction(new eAIFactionGuards());
 		
 		// Uncomment this line to slow down or speed up the patrol (1.0 to 3.0)
 		patrol.SetSpeedLimit(1.0);
