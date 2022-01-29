@@ -305,19 +305,19 @@ class CustomMission: MissionServer
 // Non-VIP Loadout (Default Loadout)
 	EntityAI randomLoadOut(PlayerBase player) 
 	{
-		ref TStringArray hatArray = {"BaseballCap_CMMG_Pink","BaseballCap_Pink","BaseballCap_Red","BeanieHat_Beige","BeanieHat_Blue","BeanieHat_Green","BeanieHat_Red","BoonieHat_Black","BoonieHat_DPM","BoonieHat_Dubok","BoonieHat_Flecktran","FlatCap_BlackCheck","FlatCap_Brown","FlatCap_Grey","FlatCap_Red"};
-		ref TStringArray topArray = {"Sweater_Red","Sweater_Blue","Sweater_Gray","Sweater_Green","Raincoat_Blue","Raincoat_Green","Raincoat_Orange","Raincoat_Yellow"};
-		ref TStringArray pantsArray = {"Jeans_Blue","Jeans_BlueDark","Jeans_Grey","Jeans_Brown","Jeans_Black","Jeans_Green","CargoPants_Beige","CargoPants_Blue","Breeches_Beetcheck","Breeches_Red","Breeches_Browncheck"};	
-		ref TStringArray vestArray  = {""};	
+		ref TStringArray hatArray = {"BaseballCap_Black","BaseballCap_Camo","BoonieHat_Black","BoonieHat_DPM","Slouch_Hat_Brown","BeanieHat_Blue","BeanieHat_Brown","Msp_Slouchie_Black","Msp_Slouchie_Red","ZmijovkaCap_Red","ZmijovkaCap_Green","RadarCap_Blue","Ushanka_Blue","strawhat_mung","jesterhat_mung"};
+		ref TStringArray topArray = {"Hoodie_Red","Hoodie_Grey","Hoodie_Green","TrackSuitJacket_Black","JumpsuitJacket_Gray","Raincoat_Red","HikingJacket_Blue","WoolCoat_GreyCheck","WoolCoat_Green","QuiltedJacket_Yellow","QuiltedJacket_Grey","Winter_Parka_Green","BomberJacket_Brown","DenimJacket","ParamedicJacket_Crimson","FirefighterJacket_Beige"};
+		ref TStringArray pantsArray = {"Adidas_Leggings","TrackSuitPants_Red","TrackSuitPants_Green","ShortJeans_Red","Kneepads_Jeans_Base","Skinny_Jeans_Blue","Jeans_Brown","Jeans_Green","CanvasPantsMidi_Grey","Breeches_Blue","Breeches_Black"};	
+		ref TStringArray vestArray  = {"HuntingVest","ReflexVest","bikervest_mung","UKAssVest_Khaki"};	
 		ref TStringArray glassesArray = {""};
-		ref TStringArray shoesArray = {"CombatBoots_Grey","CombatBoots_Beige","CombatBoots_Brown","CombatBoots_Black","CombatBoots_Green"};	
-		ref TStringArray maskArray = {""};	
-		ref TStringArray glovesArray = {"LeatherGloves_Beige","LeatherGloves_Black","NBCGlovesYellow","NBCGlovesGray","OMNOGloves_Gray","SurgicalGloves_Green","SurgicalGloves_Blue"};		
-		ref TStringArray foodArray = {"BakedBeansCan","PeachesCan","PorkCan","SardinesCan","SpaghettiCan"};
-		ref TStringArray drinkArray = {"SodaCan_Cola","SodaCan_Fronta","SodaCan_Pipsi"};
-		ref TStringArray backpackArray = {"MountainBag_Red","MountainBag_Orange","MountainBag_Green","MountainBag_Blue","DryBag_Yellow","DryBag_Orange","DryBag_Red","DryBag_Blue","DryBag_Black","DryBag_Green"};
-		ref TStringArray knifeArray  = {"HuntingKnife"};
-		ref TStringArray meleeArray = {""};
+		ref TStringArray shoesArray = {"AthleticShoes_Blue","JoggingShoes_Blue","Sneakers_Gray","High_Knee_Sneakers_Black","HikingBootsLow_Grey","WorkingBoots_Brown","JungleBoots_Black","MilitaryBoots_Bluerock","CombatBoots_Beige"};	
+		ref TStringArray maskArray = {"SurgicalMask","Balaclava3Holes_Beige","BalaclavaMask_Pink","BalaclavaMask_Blackskull","Balaclava3Holes_Green","BalaclavaMask_Blue"};	
+		ref TStringArray glovesArray = {"LeatherGloves_Beige","LeatherGloves_Black","SurgicalGloves_White","Fingerless_Gloves","Fingerless_Gloves_Wool","WorkingGloves_Yellow","WorkingGloves_Brown"};		
+		ref TStringArray foodArray = {"Pate","BrisketSpread","Pajka","Zagorky","ZagorkyChocolate","ZagorkyPeanuts","Lunchmeat","CatFoodCan","DogFoodCan"};
+		ref TStringArray drinkArray = {"WaterBottle","SodaCan_Cola","SodaCan_Pipsi","SodaCan_Spite","SodaCan_Fronta","SodaCan_Kvass","Canteen"};
+		ref TStringArray backpackArray = {"simplebackpack_blue_mung","simplebackpack_redpink_mung","Canvas_Backpack_Base","Canvas_Backpack_White","TaloonBag_Orange","TaloonBag_Blue","MountainBag_Orange","MountainBag_Blue","bag_6B38_camo_mung","bag_6B38_black_mung"};
+		ref TStringArray knifeArray  = {"HuntingKnife","bowieknife_mung"};
+		ref TStringArray meleeArray = {"Pipe","cricket_bat_mung","BaseballBat","Msp_BeanBasher","CrudeMachete","NailedBaseballBat","Broom"};
 
 		player.GetInventory().CreateInInventory(hatArray.GetRandomElement());
 		player.GetInventory().CreateInInventory(topArray.GetRandomElement());
