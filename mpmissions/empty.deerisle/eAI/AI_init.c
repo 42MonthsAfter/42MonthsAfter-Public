@@ -43,41 +43,11 @@ ref array<vector> patrol_14 = {"2613.89 40.7117 13899.4", "2646.98 40.9853 13899
  // Patrol 15 =
 ref array<vector> patrol_15 = {"591.568 22.3018 763.248", "657.714 30.4275 772.406", "650.889 37.7634 864.345", "592.248 57.6684 903.387", "607.048 31.6412 921.698", "575.976 30.3831 972.724", "535.294 29.591 996.144", "460.183 16.6023 956.739"};
 
- // Patrol 16 =
-ref array<vector> patrol_16 = {"14473.7 2.32 3394.23", "14295.4 2.35 6320.9", "14295.4 2.35 6428.99", "14466.7 2.5 6428.69", "14295.4 2.35 6428.99", "14295.4 2.35 6320.9", "14473.7 2.32 3394.23"};
-
- // Patrol 17 =
-ref array<vector> patrol_17 = {"14127.1 2.55 6505.48", "14063.7 2.35 6549.5", "14072.6 9.2 6700.32", "14072.6 9.2 6700.32", "14344.6 1.9 6613.36", "14072.6 9.2 6700.32", "14063.7 2.35 6549.5", "14127.1 2.55 6505.48"};
-
- // Patrol 18 =
-ref array<vector> patrol_18 = {"14082.2 2.55 6485.91", "14077.5 2.36 6396.64", "13987.9 3.79 6392.49", "13872.1 25.36 6364.29", "13987.9 3.79 6392.49", "14077.5 2.36 6396.64", "14082.2 2.55 6485.91"};
-
- // Patrol 19 =
-ref array<vector> patrol_19 = {"14338 2.35 6428.76", "14467.2 2.49 6429", "14471.4 2.55 6380.94", "1413.7 2.55 6367.75", "14473.5 2.39 6354.05", "14473.1 2.35 6321.35", "14294.9 2.35 6320.98", "14473.1 2.35 6321.35", "14473.5 2.39 6354.05", "1413.7 2.55 6367.75", "14471.4 2.55 6380.94", "14467.2 2.49 6429"};
-
- // Patrol 20 =
-ref array<vector> patrol_20 = {"591.568 22.3018 763.248", "657.714 30.4275 772.406", "650.889 37.7634 864.345", "592.248 57.6684 903.387", "607.048 31.6412 921.698", "575.976 30.3831 972.724", "535.294 29.591 996.144", "460.183 16.6023 956.739","591.568 22.3018 763.248"};
-
- // Patrol 21 =
-ref array<vector> patrol_21 = {"14415.2 3.85 6501.75"};
-
- // Patrol 22 =
-ref array<vector> patrol_22 = {"14369.4 6.25 6617.07", "14393 6.25 6614.64"};
-
- // Patrol 23 =
-ref array<vector> patrol_23 = {"14191.8 2.89 6465.46"};
-
- // Patrol 24 =
-ref array<vector> patrol_24 = {"14124.3 2.79 6335.86"};
-
- // Patrol 25 =
-ref array<vector> patrol_25 = {"14092 2.55 6501.07"};
-
 // If you add another patrol array, add it to this list
-ref array<array<vector>> patrol_list = {patrol_1, patrol_2, patrol_3, patrol_4, patrol_5, patrol_6, patrol_7, patrol_8, patrol_9, patrol_10, patrol_11, patrol_12, patrol_13, patrol_14, patrol_15, patrol_16, patrol_17, patrol_18, patrol_19, patrol_20, patrol_21, patrol_22, patrol_23, patrol_24, patrol_25};
+ref array<array<vector>> patrol_list = {patrol_1, patrol_2, patrol_3, patrol_4, patrol_5, patrol_6, patrol_7, patrol_8, patrol_9, patrol_10, patrol_11, patrol_12, patrol_13, patrol_14, patrol_15};
 
 // IMPORTANT: If you add an entry to the above list, pick the loadout for it by adding the loadout filename to this list
-ref array<string> patrol_loadouts = {"SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json"};
+ref array<string> patrol_loadouts = {"SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json"};
 
 // you may change these quantities
 const int NUMBER_PER_PATROL = 4;	// Number of AI per patrol
@@ -90,7 +60,7 @@ class CustomPatrol : eAIDynamicPatrol {
 	override void OnPatrolSpawn(eAIGroup patrol) {
 		// Uncomment this line to change the faction of the patrol from Raiders (default)
 		// eAIFactionGuards for example is a faction which only kills players who have their weapons out
-	    // patrol.SetFaction(new eAIFactionGuards());
+	    patrol.SetFaction(new eAIFactionGuards());
 		
 		// Uncomment this line to slow down or speed up the patrol (1.0 to 3.0)
 		patrol.SetSpeedLimit(1.0);
