@@ -22,6 +22,9 @@
         <cargo chance="0.7">
             <item name="AMS_AntiSept" />
         </cargo>
+        <cargo chance="0.7">
+            <item name="AMS_Heatpack" />
+        </cargo>
     </type>
     <type name="AMS_BandageBox">
         <tag name="shelves" />

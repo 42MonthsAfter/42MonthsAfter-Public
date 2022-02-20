@@ -7,4 +7,4 @@ tooltip = "$STR_PvzmodCustomisableZombies_tooltip";												// tool tip on mo
 overview = "$STR_PvzmodCustomisableZombies_overview";
 action = "https://steamcommunity.com/sharedfiles/filedetails/?id=2051775667";	// link
 author = "$STR_PvzmodCustomisableZombies_author";
-version = "V1.15.q3";
+version = "V1.16.r";

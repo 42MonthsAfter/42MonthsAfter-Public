@@ -1,4 +1,4 @@
 protocol = 1;
 publishedid = 2443122116;
-name = "SNAFU Weapons";
-timestamp = 5249381940768016277;
+name = "SNAFU_Weapons";
+timestamp = 1633994432;
