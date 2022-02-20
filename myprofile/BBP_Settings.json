@@ -1,0 +1,79 @@
+{
+    "g_BBPDisableCraftVanillaFence": 1,
+    "g_BBPDisableCraftVanillaWatchtower": 1,
+    "g_BBPRequireLandClaim": 1,
+    "g_BBPLandClaimBlockDismantle": 1,
+    "g_BBPLandClaimRadius": 60,
+    "g_BBPAdminLandClaimRadius": 100,
+    "g_BBPFloatingPlacement": 0,
+    "g_BBPAdvanceRotation": 0,
+    "g_BBPInventoryToggle": 0,
+    "g_BBPBarbedWireRemoveOutside": 1,
+    "g_BBPSetInfiniteLifetime": 1,
+    "g_BBPEnableTimeDestructionMod": 0,
+    "g_BBPRaidOnlyDoors": 0,
+    "g_BBPTier1RaidTime": 1200,
+    "g_BBPTier2RaidTime": 1800,
+    "g_BBPTier3RaidTime": 2400,
+    "g_BBPTier1RaidToolDamage": 100,
+    "g_BBPTier2RaidToolDamage": 100,
+    "g_BBPTier3RaidToolDamage": 100,
+    "g_BBPTier1RaidTools": [
+        "WoodAxe"
+    ],
+    "g_BBPTier2RaidTools": [
+    ],
+    "g_BBPTier3RaidTools": [
+    ],
+    "g_BBPCementMixerTime": 240,
+    "g_BBPCementMixerLocations": [
+        {
+            "position": [
+                4476.2,
+                7.7925,
+                12020.9
+            ],
+            "orientation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "position": [
+                768.186,
+                8.1325,
+                15163.8
+            ],
+            "orientation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "position": [
+                9043.75,
+                35.4925,
+                7697.27
+            ],
+            "orientation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "position": [
+                7294.93,
+                45.6786,
+                2560.3
+            ],
+            "orientation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ]
+}
