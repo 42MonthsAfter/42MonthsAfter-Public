@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
+
 <!--  ___________ YOU CAN FIND DETAILED INSTRUCTIONS in PvZmoD_CustomisableZombies_HELP.txt file ___________  -->
 <!-- See the new Features at the end of the file -->
-
+
 <types>
 	<type name="File_Name">
         <Customisable_Zombies_List 		File_Name = "PvZmoD_CustomisableZombies_Characteristics.xml"/>	<!-- don't forget .xml extension  -->
@@ -85,8 +85,15 @@
         <Debug_Mod 	Activated = "0"/>	<!-- [0 1 or 2] keep to 0 to save server resources : refresh xml modifications each 1 second if debug mod > 0 and each 30 seconds if debug mod = 0 (when change from 0 to 1 the curent 30s timer have to finished before begin to refresh at 1s rate) / if set to 2 damage messages will be shown when hitting zombies -->
 	</type>		
 	
+	
 	<type name="NewFeatures">		<!-- New feautures, you should move them in the right section (not mandatory but cleaner structure is easier for you to tweak) -->      
+       <Bleeding_Chance_Activated	 						Day = "1"	Night = "1"/>	<!-- [0 or 1]  is new feauture should be in "Features_Activation" section -->
+       <Zombies_Clamp_Speed_Mini					Day	= "0.0"	Night = "0.0"/> <!-- [Decimal 1.5=Walk / 2.5=Run / 3.0=Sprint] is new feauture should be in "Zombies_Caracteristics" section-->
+       <Zombies_Clamp_Speed_Maxi					Day	= "3.0"	Night = "3.0"/> <!-- [Decimal 1.5=Walk / 2.5=Run / 3.0=Sprint] is new feauture should be in "Zombies_Caracteristics" section-->
+       <Special_Mask_Type_Of_Slot			Slot 		= "Mask"	/>		<!-- This value allow you to use another item than a mask. Set one of these Slots : Mask/Head/Shoulder/Melee/Headgear/Eyewear/Gloves/Armband/Vest/Body/Back/Hips/Legs/Feet/Splint_Right/Hands (is new feauture should be in "Players_Caracteristics" section)-->
+       <Special_Mask_Lifetime				Minutes 	= "0.0"		/>		<!-- [Decimal 0.0 to infinite] 0.0 : Does not degrade automatically (is new feauture should be in "Players_Caracteristics" section)-->
+ 
  	</type>
 </types>
-
+
 <!--  ___________ YOU CAN FIND DETAILED INSTRUCTIONS in PvZmoD_CustomisableZombies_HELP.txt file ___________  -->

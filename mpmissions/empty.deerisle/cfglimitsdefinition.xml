@@ -32,13 +32,14 @@
 		<usage name="Prison"/>
 		<usage name="Lunapark"/>
 		<usage name="SeasonalEvent"/>		
-		<usage name="Fortknox"/>
+		<usage name="ContaminatedArea"/>		
+		<usage name="Crypt" />	
+		<usage name="Carrier" />	
 		<usage name="Temple"/>
-		<usage name="Mine" />	
-		<usage name="Area42" />	
-		<usage name="KMUC" />	
-		<usage name="MilitaryCrates" />	
-		<usage name="Skelettons" />		
+		<usage name="Mine" />							
+		<usage name="PlantsA" />	
+		<usage name="PlantsB" />	
+		<usage name="PlantsC" />			
 	</usageflags>
 	<valueflags>
 		<value name="Tier1"/>
@@ -56,5 +57,8 @@
 		<value name="Tier13"/>		
 		<value name="Tier14"/>		
 		<value name="Tier15"/>	
+		<value name="Tier16"/>	
+		<value name="Tier17"/>	
+		<value name="Tier18"/>	
 	</valueflags>
 </lists>

@@ -1,94 +1,10 @@
 [
     {
         "Type": 0,
-        "Name": "Area 42",
-        "X": 13395.0,
-        "Z": 9878.0,
-        "Radius": 600,
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 1,
-        "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
-            "StartHour": 0,
-            "EndHour": 24
-        }
-    },
-    {
-        "Type": 0,
-        "Name": "Throne Isle",
-        "X": 385.0,
-        "Z": 580.0,
-        "Radius": 800,
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 1,
-        "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
-            "StartHour": 0,
-            "EndHour": 24
-        }
-    },
-    {
-        "Type": 0,
-        "Name": "The Mine",
-        "X": 11127.0,
-        "Z": 2276.0,
-        "Radius": 400,
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 1,
-        "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
-            "StartHour": 0,
-            "EndHour": 24
-        }
-    },
-    {
-        "Type": 0,
-        "Name": "The Bunker",
-        "X": 7142.0,
-        "Z": 11614.0,
-        "Radius": 200,
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 1,
-        "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
-            "StartHour": 0,
-            "EndHour": 24
-        }
-    },
-    {
-        "Type": 0,
-        "Name": "Rogue Wave",
-        "X": 2152.0,
-        "Z": 14622.0,
+        "Name": "QuickStop",
+        "X": 5181.0,
+        "Z": 9237.0,
         "Radius": 60,
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 1,
-        "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
-            "StartHour": 0,
-            "EndHour": 24
-        }
-    },
-    {
-        "Type": 0,
-        "Name": "Horizon",
-        "X": 4143.0,
-        "Z": 15470.0,
-        "Radius": 140,
-        "ShowBorderOnMap": 1,
-        "ShowNameOnMap": 1,
-        "Activity_Schedule": {
-            "Days": "1 2 3 4 5 6 7",
-            "StartHour": 0,
-            "EndHour": 24
-        }
-    },
-    {
-        "Type": 0,
-        "Name": "Deep Water",
-        "X": 1674.0,
-        "Z": 12729.0,
-        "Radius": 160,
         "ShowBorderOnMap": 1,
         "ShowNameOnMap": 1,
         "Activity_Schedule": {

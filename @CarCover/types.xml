@@ -981,6 +981,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
 	</type>
+	<type name="Croco_QuadBike_Cover">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+	</type>
 	
 <!-- Winter variants -->
 	
@@ -1909,6 +1920,17 @@
         <category name="containers"/>
 	</type>
 	<type name="Chaos_Kart_Cover_Winter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+	</type>
+	<type name="Croco_QuadBike_Cover_Winter">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -2857,6 +2879,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
 	</type>
+	<type name="Croco_QuadBike_Cover_Civil">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+	</type>
 	
 <!-- Desert Covers -->
 
@@ -3785,6 +3818,17 @@
         <category name="containers"/>
 	</type>
 	<type name="Chaos_Kart_Cover_Desert">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+	</type>
+	<type name="Croco_QuadBike_Cover_Desert">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>

@@ -18,15 +18,15 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="dyn_radius" value="30" />
 		<default name="dyn_smin" value="0" />
 		<default name="dyn_smax" value="0" />
-		<default name="dyn_dmin" value="3" />
-		<default name="dyn_dmax" value="6" />
-		<default name="log_ce_loop" value="false"/>
-		<default name="log_ce_dynamicevent" value="false"/>
+		<default name="dyn_dmin" value="1" />
+		<default name="dyn_dmax" value="5" />
+		<default name="log_ce_loop" value="true"/>
+		<default name="log_ce_dynamicevent" value="true"/>
 		<default name="log_ce_vehicle" value="false"/>
-		<default name="log_ce_lootspawn" value="false"/>
-		<default name="log_ce_lootcleanup" value="false"/>
-		<default name="log_ce_lootrespawn" value="false"/>
-		<default name="log_ce_statistics" value="false"/>
+		<default name="log_ce_lootspawn" value="true"/>
+		<default name="log_ce_lootcleanup" value="true"/>
+		<default name="log_ce_lootrespawn" value="true"/>
+		<default name="log_ce_statistics" value="true"/>
 		<default name="log_ce_zombie" value="false"/>
 		<default name="log_storageinfo" value="false"/>
 		<default name="log_hivewarning" value="true"/>
@@ -34,9 +34,4 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
-	
-	<!-- Trader Plus -->
-	<ce folder="TraderPlus_ce">
-		<file name="TraderPlus_types.xml" type="types" />
-	</ce>
 </economycore>
