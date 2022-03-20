@@ -1,94 +1,24 @@
 {
     "Shirts": [
-        "MassImprovArmor_Smiley",
-        "MassImprovArmor_Black",
-        "MassImprovArmorlow",
-        "MassImprovArmor_low_Blue",
-        "MassImprovArmor_low_Green",
-        "MassImprovArmor_low_Smiley",
-        "MassImprovArmor_low_White",
-        "MassImprovArmormed_Green",
-        "MassImprovArmormed_Orange",
-        "MassImprovArmormed_Pink",
-        "MassImprovArmormed_Yellow"
+        "NBCJacketGray"
     ],
     "Pants": [
-        "Kneepads_Jeans_Base",
-        "Kneepads_Jeans_Black",
-        "Skinny_Jeans_Black",
-        "Skinny_Jeans_Blue",
-        "Jeans_Black",
-        "Jeans_BlueDark",
-        "Massjeanshorts",
-        "Msp_BoxingShorts_Red",
-        "Msp_BoxingShorts_Blue"
+        "NBCPantsGray"
     ],
     "Shoes": [
-        "FlipFlops_Colorbase",
-        "SK8_Sneakers_Black",
-        "SK8_Sneakers_FullBlack",
-        "SK8_Sneakers_Blue",
-        "Sneakers_Black",
-        "Sneakers_Gray",
-        "Sneakers_Green",
-        "Sneakers_Red",
-        "Sneakers_White",
-        "High_Knee_Sneakers",
-        "High_Knee_Sneakers_Black"
+        "NBCBootsGray"
     ],
     "BackPacks": [
     ],
     "Vests": [
     ],
     "Headgear": [
-        "BallisticHelmet_UN",
-        "ConstructionHelmet_Blue",
-        "ConstructionHelmet_Lime",
-        "DarkMotoHelmet_Black",
-        "DarkMotoHelmet_Blue",
-        "DarkMotoHelmet_Grey",
-        "DirtBikeHelmet_Black",
-        "DirtBikeHelmet_Blue",
-        "DirtBikeHelmet_Police",
-        "DirtBikeHelmet_Red",
-        "FirefightersHelmet_White",
-        "FirefightersHelmet_Red",
-        "HockeyHelmet_Black",
-        "HockeyHelmet_Blue",
-        "HockeyHelmet_Red",
-        "HockeyHelmet_White",
-        "MotoHelmet_Green",
-        "MotoHelmet_Grey",
-        "TWP_Covid19Head_Red",
-        "TWP_Covid19Head_Green",
-        "TWP_Covid19Head_Orange",
-        "TWP_Covid19Head_yellow",
-        "HockeyMask",
-        "HoxtonMask",
-        "NioshFaceMask",
-        "WeldingMask",
-        "WolfMask",
-        "clownmask_mung",
-        "dollmask_mung",
-        "hannibal_mask_mung",
-        "TWP_JasonMask",
-        "SkullMask",
-        "BandanaMask_BlackPattern",
-        "BandanaMask_CamoPattern",
-        "BandanaMask_PolkaPattern",
-        "DallasMask",
-        "BandanaMask_RedPattern"
+        "MVS_M50Respirator_Black",
+        "MVS_S10Respirator_Black",
+        "MVS_PMK2Respirator_Black"
     ],
     "Gloves": [
-        "LeatherGloves_Beige",
-        "LeatherGloves_Natural",
-        "NBCGlovesGray",
-        "SurgicalGloves_Blue",
-        "SurgicalGloves_Green",
-        "Msp_BoxingGloves_Black",
-        "Fingerless_Gloves_Brown",
-        "Fingerless_Gloves_Wool_Grey",
-        "Fingerless_Gloves_Wool_Black"
+        "NBCGlovesGray"
     ],
     "Misc": [
         ""
@@ -101,12 +31,12 @@
         ""
     ],
     "WeaponRifle": [
-        "Massmini14",
-        "HK416_Gun",
-        "Tec9_Gun",
-        "TWP_ThompsonMK2",
+        "AK101_Black",
+        "AK101",
         "AK74",
-        "GCGN_MP7"
+        "AK74_Black",
+        "AKM",
+        "AKS74U_Black"
     ],
     "WeaponRifleMagCount": [
         1
@@ -115,21 +45,19 @@
         ""
     ],
     "WeaponHandgunMagCount": [
-        1
+        0
     ],
     "WeaponHealth": [
         100,
         100
     ],
     "Loot": [
-        "EasterEgg",
-        "TraderPlus_Bitcoin"
     ],
     "LootRandom": [
     ],
     "LootChance": [
-        50,
-        5,
+        100,
+        100,
         100,
         100,
         100,
