@@ -1,0 +1,14 @@
+Window Barricade Parts have half the Health of Vanilla Fence Parts
+
+
+"ConfigVersion": "1", //Config Version, when update the config this # will change
+"Disable_Raiding_Tool": 0, // Disables the Sledgehammer from being a timed destroy part for tools
+"Raid_Destory_Part_Time": 5, // Raid Time in Seconds for Sledgehammer to destroy one part
+"Enable_Destroy_Logs": 1, // Enabled Destroy action and Damage logs from weapons to mod basebuilding items prints to ADM logs
+"Window_Barricade_FireArm_Dmg": 100.0, // Percentage of damage reduced from Firarms
+"Window_Barricade_Explosives_Dmg": 100.0, // Percentage of damage reduced from Explosives
+"Window_Barricade_Melee_Dmg": 100.0 // Percentage of damage reduced from Melee
+
+"Door_Barricade_FireArm_Dmg": 100.0, // Percentage of damage reduced from Firarms
+"Door_Barricade_Explosives_Dmg": 100.0, // Percentage of damage reduced from Explosives
+"Door_Barricade_Melee_Dmg": 100.0  // Percentage of damage reduced from Melee

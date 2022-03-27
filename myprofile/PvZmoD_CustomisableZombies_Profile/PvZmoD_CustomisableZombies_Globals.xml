@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
+
+
 <!--  ___________ YOU CAN FIND DETAILED INSTRUCTIONS in PvZmoD_CustomisableZombies_HELP.txt file ___________  -->
 <!-- See the new Features at the end of the file -->
-
+
+
 <types>
 	<type name="File_Name">
         <Customisable_Zombies_List 		File_Name = "PvZmoD_CustomisableZombies_Characteristics.xml"/>	<!-- don't forget .xml extension  -->
@@ -57,22 +59,22 @@
     </type>		
 	
 	<type name="Damages_To_Vehicles_Radiator_When_Cruching_Zombies">
- 		<Damages_To_Vehicles		Activated	 			= "0"		/>	<!-- [0 or 1] -->
+ 		<Damages_To_Vehicles		Activated	 			= "1"		/>	<!-- [0 or 1] -->
 		<Damages_To_Vehicles		Vehicle_Type_Resistance	= "DefaultCars:100,ExpansionVodnik:200,ExpansionBus:200"/>	<!-- (no spaces, look carefully at the line structure if you want to add vehicles) -->
-		<Damages_To_Vehicles		Damages_Per_Impact	 	= "0.0"		/>	<!-- decimal [0.0 to infinite] -->
+		<Damages_To_Vehicles		Damages_Per_Impact	 	= "0.2"		/>	<!-- decimal [0.0 to infinite] -->
 		<Damages_To_Vehicles		Timer_Between_Impacts	= "5"		/>	<!-- Integer [1 to infinite] (seconds) (never inferior to 1) -->
 		<Damages_To_Vehicles		Speed_Minimum	 		= "5"		/>	<!-- Integer [1 to infinite] (km/h) (never inferior to 1) -->
 		<Damages_To_Vehicles		Speed_Multiplier	 	= "0.01"	/>	<!-- decimal [0.0 to infinite] -->
     </type>	
 	
 	<type name="Zombies_Attacking_Stopped_Vehicles">
- 		<Attack_Stopped_Vehicles	Activated	 			= "0"		/>	<!-- Integer [0 or 1] -->
+ 		<Attack_Stopped_Vehicles	Activated	 			= "1"		/>	<!-- Integer [0 or 1] -->
 		<Attack_Stopped_Vehicles	Vehicle_Type_Resistance	= "DefaultCars:100,ExpansionVodnik:200,ExpansionBus:200"/>	<!-- (no spaces, look carefully at the line structure if you want to add vehicles) -->
 		<Attack_Stopped_Vehicles	Damage_On_Structure		= "2.0"	/>	<!-- decimal [0.0 to infinite] -->
 		<Attack_Stopped_Vehicles	Damage_On_Attachments	= "5.0"	/>	<!-- decimal [0.0 to infinite] -->
 		<Attack_Stopped_Vehicles	Attack_Speed_Factor		= "1.0"	/>	<!-- decimal [0.01 to 3.0] more than 3 will make no difference -->
 		<Attack_Stopped_Vehicles	Activate_Sounds	 		= "1"	/>	<!-- Integer [0 or 1] (deactivate if desync problems) -->
-		<Attack_Stopped_Vehicles	Player_Inside_Can_Be_Hit= "1"	/>	<!-- Integer [0 or 1] -->
+		<Attack_Stopped_Vehicles	Player_Inside_Can_Be_Hit= "0"	/>	<!-- Integer [0 or 1] -->
     </type>	
 	
 	<type name="Other">
@@ -87,13 +89,14 @@
 	
 	
 	<type name="NewFeatures">		<!-- New feautures, you should move them in the right section (not mandatory but cleaner structure is easier for you to tweak) -->      
-       <Bleeding_Chance_Activated	 						Day = "1"	Night = "1"/>	<!-- [0 or 1]  is new feauture should be in "Features_Activation" section -->
-       <Zombies_Clamp_Speed_Mini					Day	= "0.0"	Night = "0.0"/> <!-- [Decimal 1.5=Walk / 2.5=Run / 3.0=Sprint] is new feauture should be in "Zombies_Caracteristics" section-->
-       <Zombies_Clamp_Speed_Maxi					Day	= "3.0"	Night = "3.0"/> <!-- [Decimal 1.5=Walk / 2.5=Run / 3.0=Sprint] is new feauture should be in "Zombies_Caracteristics" section-->
+       <Bleeding_Chance_Activated	 		Day = "1"	Night = "1"/>	<!-- [0 or 1]  is new feauture should be in "Features_Activation" section -->
+       <Zombies_Clamp_Speed_Mini			Day	= "0.0"	Night = "0.0"/> <!-- [Decimal 1.5=Walk / 2.5=Run / 3.0=Sprint] is new feauture should be in "Zombies_Caracteristics" section-->
+       <Zombies_Clamp_Speed_Maxi			Day	= "3.0"	Night = "3.0"/> <!-- [Decimal 1.5=Walk / 2.5=Run / 3.0=Sprint] is new feauture should be in "Zombies_Caracteristics" section-->
        <Special_Mask_Type_Of_Slot			Slot 		= "Mask"	/>		<!-- This value allow you to use another item than a mask. Set one of these Slots : Mask/Head/Shoulder/Melee/Headgear/Eyewear/Gloves/Armband/Vest/Body/Back/Hips/Legs/Feet/Splint_Right/Hands (is new feauture should be in "Players_Caracteristics" section)-->
        <Special_Mask_Lifetime				Minutes 	= "0.0"		/>		<!-- [Decimal 0.0 to infinite] 0.0 : Does not degrade automatically (is new feauture should be in "Players_Caracteristics" section)-->
  
  	</type>
 </types>
-
+
+
 <!--  ___________ YOU CAN FIND DETAILED INSTRUCTIONS in PvZmoD_CustomisableZombies_HELP.txt file ___________  -->

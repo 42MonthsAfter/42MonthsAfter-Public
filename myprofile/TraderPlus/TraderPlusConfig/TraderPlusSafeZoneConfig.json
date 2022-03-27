@@ -1,10 +1,12 @@
 {
-    "EnableNameTag": 1,
+    "Version": "2.0",
+    "IsHideOutActive": 0,
     "EnableAfkDisconnect": 0,
     "KickAfterDelay": 0,
     "MsgEnterZone": "Welcome to the Quick Stop!",
     "MsgExitZone": "Be safe out there!",
     "MsgOnLeavingZone": "You're leaving the safezone in:",
+    "MustRemoveArmband": "You must remove your armband in order to make your stash appear !",
     "SafeAreaLocation": [
         {
             "SafeZoneStatut": "Quick Stop",
@@ -20,5 +22,10 @@
     ],
     "SZSteamUIDs": [
         "76561198036774377"
+    ],
+    "BlackListedItemInStash": [
+        "Apple",
+        "Plum",
+        "Plier"
     ]
 }

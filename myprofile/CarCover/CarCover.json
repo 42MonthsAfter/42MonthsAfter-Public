@@ -17,7 +17,12 @@
                 "OffroadHatchback_chernarusarmy_rust",
                 "OffroadHatchback_wineblue_rust",
                 "OffroadHatchback_5000ca",
-                "OffroadHatchback_5000ca_rust"
+                "OffroadHatchback_5000ca_rust",
+                "OffroadHatchback_Green",
+                "OffroadHatchback_Police",
+                "OffroadHatchback_GreenRust",
+                "OffroadHatchback_BlueRust",
+                "OffroadHatchback_WhiteRust"
             ]
         },
         {
@@ -28,7 +33,12 @@
                 "CivilianSedan_Wine",
                 "CivilianSedan_Black",
                 "CivilianSedan_ChernarusPolice",
-                "CivilianSedan_mail"
+                "CivilianSedan_mail",
+                "CivilianSedan_White",
+                "CivilianSedan_Police",
+                "CivilianSedan_Lime",
+                "CivilianSedan_WineRust",
+                "CivilianSedan_BlackRust"
             ]
         },
         {
@@ -40,7 +50,15 @@
                 "Sedan_02_Grey",
                 "Sedan_02_Medic01",
                 "Sedan_02_sk_policja",
-                "Sedan_02_peacebird"
+                "Sedan_02_peacebird",
+                "Sedan_02_Yellow",
+                "Sedan_02_YellowBright",
+                "Sedan_02_Blue",
+                "Sedan_02_YellowRust",
+                "Sedan_02_BlueRust",
+                "Sedan_02_YellowBrightRust",
+                "Sedan_02_RedRust",
+                "Sedan_02_GreyRust"
             ]
         },
         {
@@ -63,7 +81,12 @@
                 "Hatchback_02_fat_rust",
                 "Hatchback_02_purplesmoke",
                 "Hatchback_02_purplebomb",
-                "Hatchback_02_icegem"
+                "Hatchback_02_icegem",
+                "Hatchback_02_Red",
+                "Hatchback_02_RedRust",
+                "Hatchback_02_BlueRust",
+                "Hatchback_02_BlackRust",
+                "Hatchback_02_BanditKitty"
             ]
         },
         {
@@ -72,7 +95,15 @@
             "CarClasses": [
                 "Truck_01_Covered",
                 "Truck_01_Covered_Blue",
-                "Truck_01_Covered_Orange"
+                "Truck_01_Covered_Orange",
+                "Truck_01_Covered_Green",
+                "Truck_01_Covered_Red",
+                "Truck_01_Covered_White",
+                "Truck_01_Covered_Black",
+                "Truck_01_Covered_Wine",
+                "Truck_01_Covered_Lime",
+                "Truck_01_Covered_Yellow",
+                "Truck_01_Covered_YellowBright"
             ]
         },
         {
@@ -262,18 +293,31 @@
                 "ExpansionMh6_Sunset",
                 "ExpansionMh6_Vrana",
                 "ExpansionMh6_Wasp",
-                "ExpansionMh6_Wave"
+                "ExpansionMh6_Wave",
+                "ExpansionMh6_Pink",
+                "ExpansionMh6_Navy",
+                "ExpansionMh6_BabyBlue",
+                "ExpansionMh6_DigitalBlack",
+                "ExpansionMh6_DigitalOlive",
+                "ExpansionMh6_DigitalYellow",
+                "ExpansionMh6_DigitalWhite",
+                "ExpansionMh6_JeansOrange",
+                "ExpansionMh6_ShadowOcean",
+                "ExpansionMh6_Tiger"
             ]
         },
         {
             "CoverName": "ExpansionUh1h_Cover",
-            "Offset": -3.0,
+            "Offset": 0.0,
             "CarClasses": [
                 "ExpansionUh1h",
                 "ExpansionUh1h_Civillian",
                 "ExpansionUh1h_Medical",
                 "ExpansionUh1h_Resistance",
-                "ExpansionUh1h_Uber"
+                "ExpansionUh1h_Uber",
+                "ExpansionUh1h_Civilian_Black",
+                "ExpansionUh1h_Civilian_Blue",
+                "ExpansionUh1h_Civilian_Pink"
             ]
         },
         {
@@ -285,7 +329,10 @@
                 "ExpansionMerlin_Ion",
                 "ExpansionMerlin_President",
                 "ExpansionMerlin_Vrana",
-                "ExpansionMerlin_Wave"
+                "ExpansionMerlin_Wave",
+                "ExpansionMerlin_PresidentPink",
+                "ExpansionMerlin_VranaBlack",
+                "ExpansionMerlin_WaveBlue"
             ]
         },
         {
@@ -297,7 +344,7 @@
         },
         {
             "CoverName": "ExpansionUAZ_Cover",
-            "Offset": -1.7999999523162842,
+            "Offset": -1.100000023841858,
             "CarClasses": [
                 "ExpansionUAZCargoRoofless",
                 "ExpansionUAZCargo",
@@ -310,14 +357,20 @@
                 "ExpansionUAZRoofless_Black",
                 "ExpansionUAZ_Black",
                 "ExpansionUAZCargo_Black",
-                "ExpansionUAZCargoRoofless_Black"
+                "ExpansionUAZCargoRoofless_Black",
+                "ExpansionUAZCargoRoofless_Green",
+                "ExpansionUAZCargo_Green",
+                "ExpansionUAZRoofless_Green",
+                "ExpansionUAZ_Green"
             ]
         },
         {
             "CoverName": "ExpansionVodnik_Cover",
             "Offset": -2.4000000953674318,
             "CarClasses": [
-                "ExpansionVodnik"
+                "ExpansionVodnik",
+                "ExpansionVodnik_Camo",
+                "ExpansionVodnik_CamoMedical"
             ]
         },
         {
@@ -326,7 +379,8 @@
             "CarClasses": [
                 "ExpansionBus",
                 "ExpansionBus_Red",
-                "ExpansionBus_Weeb"
+                "ExpansionBus_Weeb",
+                "ExpansionBus_Blue"
             ]
         },
         {
@@ -335,7 +389,8 @@
             "CarClasses": [
                 "ExpansionTractor",
                 "ExpansionTractor_Green",
-                "ExpansionTractor_Blue"
+                "ExpansionTractor_Blue",
+                "ExpansionTractor_Red"
             ]
         },
         {
@@ -675,7 +730,7 @@
                 "Spur_Chevy_Red",
                 "Spur_Chevy_White_N_Chrome",
                 "Spur_Chevy_Black_N_Chrome",
-                "Spur_Chevy_Hood_Red_N_Chrome",
+                "Spur_Chevy_Red_N_Chrome",
                 "Spur_Chevy_White_N_Gold",
                 "Spur_Chevy_Black_N_Gold",
                 "Spur_Chevy_Red_N_Gold",
@@ -746,7 +801,10 @@
             "CoverName": "LAPV_Cover",
             "Offset": -1.2000000476837159,
             "CarClasses": [
-                "LAPV"
+                "LAPV",
+                "LAPV_camo",
+                "LAPV_green",
+                "LAPV_tan"
             ]
         },
         {
@@ -993,6 +1051,40 @@
             "CarClasses": [
                 "rag_schoolbus",
                 "rag_schoolbus_czech"
+            ]
+        },
+        {
+            "CoverName": "FK_Kraz6322_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "Kraz6322",
+                "Kraz6322_Desert",
+                "Kraz6322_Camo",
+                "Kraz6322_Red",
+                "Kraz6322_White",
+                "Kraz6322_WinterCamo",
+                "Kraz6322_Blue",
+                "Kraz6322_Black"
+            ]
+        },
+        {
+            "CoverName": "Chaos_Kart_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "KartZ_ChaosKart",
+                "KartZ_Blue",
+                "KartZ_Police"
+            ]
+        },
+        {
+            "CoverName": "Croco_QuadBike_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "Croco_QuadBike_Grey",
+                "Croco_QuadBike_Green",
+                "Croco_QuadBike_Yellow",
+                "Croco_QuadBike_Red",
+                "Croco_QuadBike_Black"
             ]
         }
     ]
