@@ -59,9 +59,9 @@ ref array<string> patrol_loadouts = {"SoldierLoadout.json", "SoldierLoadout.json
 
 // you may change these quantities
 const int NUMBER_PER_PATROL = 2;	// Number of AI per patrol
-const int MAXR = 1400;				// This is the main spawn radius- how close a player needs to be to spawn them in.
+const int MAXR = 400;				// This is the main spawn radius- how close a player needs to be to spawn them in.
 const int MINR = 60;				// If a player is this close to the patrol start point, it is too close for them to spawn
-const int DESPAWNR = 1400;			// If all players are this far away, they despawn.
+const int DESPAWNR = 400;			// If all players are this far away, they despawn.
 const int RESPAWN_SECONDS = 600;	// The amount of seconds before a new patrol will spawn, after they both die
 
 class CustomPatrol : eAIDynamicPatrol {
