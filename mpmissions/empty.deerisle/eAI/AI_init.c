@@ -43,14 +43,22 @@ ref array<vector> patrol_14 = {"5284.81 75 3926.46", "5498.87 74.5 3837.57", "55
  // Patrol 15 Airfield Roof Top Patrol =
 ref array<vector> patrol_15 = {"5510.73 84 3734.9", "5578.49 84 3726.27", "5579.97 85 3728.27", "5509.06 84 3753.51"};
 
-// If you add another patrol array, add it to this list
-ref array<array<vector>> patrol_list = {patrol_1, patrol_2, patrol_3, patrol_4, patrol_5, patrol_6, patrol_7, patrol_8, patrol_9, patrol_10, patrol_11, patrol_12, patrol_13, patrol_14, patrol_15};
+ // Patrol 16 Base Caravan Patrol 01 =
+ref array<vector> patrol_15 = {"4737.14 109 2326.37", "5726.87 109 2340.6", "5728.88 108.8 2346.77", "5740 108.87 2346", "5742.64 108.87 2348.76", "5741.06 108.87 2353.19"};
+
+ // Patrol 17 Base Huts Patrol 01 =
+ref array<vector> patrol_15 = {"5706.97 109 2388.04", "5699.56 108.5 2392.16", "5694.02 108.75 2392.99", "5693.32 108.79 2386.73", "5687.93 108.87 2387.42", "5688.12 108.87 2393.96"};
+
+ // Patrol 18 Base Forest Patrol 01 =
+ref array<vector> patrol_15 = {"5705.89 108.8 2431.74", "5712.36 108.04 2432.23", "5712.36 108.2 2442.64", "5693.99 108 2445.37", "5684.47 107.95 2450.38", "5686.22 107.8 2464.4", "5694.89 108.1 2475.59", "5697.27 108.2 2485.94"};
+
+ref array<array<vector>> patrol_list = {patrol_1, patrol_2, patrol_3, patrol_4, patrol_5, patrol_6, patrol_7, patrol_8, patrol_9, patrol_10, patrol_11, patrol_12, patrol_13, patrol_14, patrol_15, patrol_16, patrol_17, patrol_17};
 
 // IMPORTANT: If you add an entry to the above list, pick the loadout for it by adding the loadout filename to this list
-ref array<string> patrol_loadouts = {"SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json"};
+ref array<string> patrol_loadouts = {"SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json"};
 
 // you may change these quantities
-const int NUMBER_PER_PATROL = 3;	// Number of AI per patrol
+const int NUMBER_PER_PATROL = 2;	// Number of AI per patrol
 const int MAXR = 1400;				// This is the main spawn radius- how close a player needs to be to spawn them in.
 const int MINR = 60;				// If a player is this close to the patrol start point, it is too close for them to spawn
 const int DESPAWNR = 1400;			// If all players are this far away, they despawn.
