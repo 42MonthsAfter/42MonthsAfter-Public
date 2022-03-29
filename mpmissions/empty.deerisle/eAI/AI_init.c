@@ -52,7 +52,7 @@ ref array<vector> patrol_17 = {"5706.97 109 2388.04", "5699.56 108.5 2392.16", "
  // Patrol 18 Base Forest Patrol 01 =
 ref array<vector> patrol_18 = {"5705.89 108.8 2431.74", "5712.36 108.04 2432.23", "5712.36 108.2 2442.64", "5693.99 108 2445.37", "5684.47 107.95 2450.38", "5686.22 107.8 2464.4", "5694.89 108.1 2475.59", "5697.27 108.2 2485.94"};
 
-ref array<array<vector>> patrol_list = {patrol_1, patrol_2, patrol_3, patrol_4, patrol_5, patrol_6, patrol_7, patrol_8, patrol_9, patrol_10, patrol_11, patrol_12, patrol_13, patrol_14, patrol_15, patrol_16, patrol_17, patrol_17};
+ref array<array<vector>> patrol_list = {patrol_1, patrol_2, patrol_3, patrol_4, patrol_5, patrol_6, patrol_7, patrol_8, patrol_9, patrol_10, patrol_11, patrol_12, patrol_13, patrol_14, patrol_15, patrol_16, patrol_17, patrol_18};
 
 // IMPORTANT: If you add an entry to the above list, pick the loadout for it by adding the loadout filename to this list
 ref array<string> patrol_loadouts = {"SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json", "SoldierLoadout.json"};
