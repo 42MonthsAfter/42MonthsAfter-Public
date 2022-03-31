@@ -40,7 +40,7 @@
 	</type>
 	
     <type name="Players_Caracteristics">
-        <Maximum_Number_Of_Bleeding_Sources_From_Zombies_Combat			Value = "6"	/>
+        <Maximum_Number_Of_Bleeding_Sources_From_Zombies_Combat			Value = "3"	/>
         <Shoes_Degradation_When_Hit_By_Crawling_Zombie					Value = "5.0" />			<!-- [Decimal 0.0 to infinite] -->
 		<Fist_Fighting   Bleeding_Chance_If_Fist_Fighting_Without_Gloves 			= "0.025"	/>	<!-- [0.0 to 1.0] -->
 		<Fist_Fighting	 Player_Dammage_If_Fist_Fighting_Without_Gloves				= "0.5"		/>  <!-- [Decimal 0.0 to 100.0] (Max player health is 100.0 hp) -->
@@ -78,7 +78,7 @@
     </type>	
 	
 	<type name="Other">
-		<Special_HeadShot_Weapons	List = "Crossbow,"		/>	<!-- (no spaces, use comma between each weapon) -->
+		<Special_HeadShot_Weapons	List = ""		/>	<!-- (no spaces, use comma between each weapon) -->
 		<Items_Protect_HeadShots	List = "BallisticHelmet,ConstructionHelmet,DarkMotoHelmet,DirtBikeHelmet,FirefightersHelmet,GorkaHelmet,HockeyHelmet,GreatHelm,Mich2001Helmet,MotoHelmet,PumpkinHelmet,SkateHelmet,Ssh68Helmet,TankerHelmet,ZSh3PilotHelmet,WeldingMask"		/>		<!-- no spaces, use comma between each helmet or mask-->
 		<Friendly_Wolves			List = ""	/>	<!-- (no spaces, use comma between each wolf)-->
     </type>

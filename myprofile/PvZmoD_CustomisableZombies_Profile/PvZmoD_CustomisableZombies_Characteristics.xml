@@ -999,7 +999,7 @@
 	
 	<!-- Walkers (have to be head shot) -->
 	<type name="ZmbM_Jacket_Base">								
-        <Health_Points				Day="250"	Night="250"/> <!-- Health increased -->
+        <Health_Points				Day="150"	Night="150"/> <!-- Health increased -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="0.1" 	Night="0.1"/> 	<!-- Melee resistance increased to avoid one shot with fists -->
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1026,7 +1026,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="5"		Night="5"/>
     </type>
 	<type name="ZmbF_ShortSkirt_Base">							
-        <Health_Points				Day="250"	Night="250"/> <!-- Health increased -->
+        <Health_Points				Day="150"	Night="150"/> <!-- Health increased -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="0.1" 	Night="0.1"/> 	<!-- Melee resistance increased to avoid one shot with fists -->
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1055,7 +1055,7 @@
 	
 	<!-- Police -->
 	<type name="ZmbM_PolicemanFat_Base">						
-        <Health_Points				Day="250" 	Night="250"/> 	<!-- Strong Lvl 2 -->
+        <Health_Points				Day="150"	Night="150"/> 	<!-- Strong Lvl 2 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1082,7 +1082,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="5"		Night="5"/>
     </type>
 	<type name="ZmbF_PoliceWomanNormal_Base">					
-        <Health_Points				Day="250" 	Night="250"/> 	<!-- Strong Lvl 2 -->
+        <Health_Points				Day="150"	Night="150"/> 	<!-- Strong Lvl 2 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1109,7 +1109,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="5"		Night="5"/>
     </type>
 	<type name="ZmbM_PolicemanSpecForce_Heavy">					
-        <Health_Points				Day="250" 	Night="250"/> 	<!-- Strong Lvl 3 -->
+        <Health_Points				Day="150"	Night="150"/> 	<!-- Strong Lvl 3 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1136,7 +1136,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="3"		Night="3"/>
     </type>
 	<type name="ZmbM_PolicemanSpecForce_Base">					
-        <Health_Points				Day="250" 	Night="250"/> 	<!-- Strong Lvl 3 -->
+        <Health_Points				Day="150"	Night="150"/> 	<!-- Strong Lvl 3 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1219,7 +1219,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="3"		Night="3"/>
     </type>	
 	<type name="ZmbM_usSoldier_normal_Base">					
-        <Health_Points				Day="250" 	Night="250"/> 	<!-- Strong Lvl 3 -->
+        <Health_Points				Day="200"	Night="200"/> 	<!-- Strong Lvl 3 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1246,7 +1246,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="5"		Night="5"/>
     </type>
 	<type name="ZmbM_PatrolNormal_Base">						
-        <Health_Points				Day="250" 	Night="250"/> 	<!-- Strong Lvl 3 -->
+        <Health_Points				Day="200"	Night="200"/> 	<!-- Strong Lvl 3 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1410,7 +1410,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="5"		Night="5"/>
     </type>
 	<type name="ZmbM_DoctorFat_Base">
-        <Health_Points				Day="250" 	Night="250"/> 	<!-- Strong Lvl 3 -->
+        <Health_Points				Day="200"	Night="200"/> 	<!-- Strong Lvl 3 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 
@@ -1464,7 +1464,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="1"		Night="1"/>
     </type>
 	<type name="ZmbM_priestPopSkinny_Base">	 					<!-- ! More Dangerous at NIGHT ! -->
-        <Health_Points				Day="500" 	Night="500"/> 	<!--  Very Very Strong Lvl BOSS  -->
+        <Health_Points				Day="100" 	Night="100"/> 	<!--  Very Very Strong Lvl BOSS  -->
         <Resistance_to_Bullets		Day="0.5" 	Night="0.5"/>
         <Resistance_to_Melees		Day="0.5" 	Night="0.5"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
