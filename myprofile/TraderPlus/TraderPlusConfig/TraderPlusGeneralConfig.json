@@ -24,10 +24,6 @@
     "StoreOnlyToPristineState": 0,
     "Currencies": [
         {
-            "ClassName": "TraderPlus_Money_Euro500,TraderPlus_Money_Ruble500",
-            "Value": 500
-        },
-        {
             "ClassName": "TraderPlus_Money_Dollar100,TraderPlus_Money_Euro100,TraderPlus_Money_Ruble100",
             "Value": 100
         },
@@ -125,8 +121,8 @@
         },
         {
             "Id": 3,
-            "Name": "SurvivorF_Eva",
-            "GivenName": "Eva",
+            "Name": "SurvivorM_Cyril",
+            "GivenName": "Cyril",
             "Role": "Pot Farmer",
             "Position": [
                 5592.48,
@@ -198,8 +194,8 @@
         },
         {
             "Id": 6,
-            "Name": "SurvivorF_Gabi",
-            "GivenName": "Gabi",
+            "Name": "SurvivorF_Maria",
+            "GivenName": "Maria",
             "Role": "Tech Specialist",
             "Position": [
                 5614,52,
