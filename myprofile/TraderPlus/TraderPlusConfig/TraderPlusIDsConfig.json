@@ -4,11 +4,7 @@
         {
             "Id": 0,
             "Categories": [
-                "Electronics",
-                "Gear",
-                "Survival",
-                "Weapons",
-                "Ammo",
+                "Food",
                 "Money Exchange"
             ],
             "LicencesRequired": [],
@@ -17,8 +13,7 @@
         {
             "Id": 1,
             "Categories": [
-                "Food",
-                "Medical",
+                "Auto Parts",
                 "Money Exchange"
             ],
             "LicencesRequired": [],
@@ -27,7 +22,7 @@
         {
             "Id": 2,
             "Categories": [
-                "Auto Parts",
+                "Tools",
                 "Money Exchange"
             ],
             "LicencesRequired": [],
@@ -36,7 +31,7 @@
         {
             "Id": 3,
             "Categories": [
-                "Tools",
+                "That Good Good",
                 "Money Exchange"
             ],
             "LicencesRequired": [],
@@ -45,8 +40,36 @@
         {
             "Id": 4,
             "Categories": [
-                "That Good Good",
+                "Weapons",
+                "Ammo",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 5,
+            "Categories": [
+                "Gear",
+                "Survival",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 6,
+            "Categories": [
                 "Electronics",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 7,
+            "Categories": [
+                "Medical",
                 "Money Exchange"
             ],
             "LicencesRequired": [],

@@ -59,32 +59,9 @@
     "Traders": [
         {
             "Id": 0,
-            "Name": "SurvivorM_Boris",
-            "GivenName": "Stinky Pete",
-            "Role": "Trader",
-            "Position": [
-                5595.51,
-                28.922,
-                5345.25
-            ],
-            "Orientation": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "Clothes": [
-                "Zeroy_fishing_Cap_Camo0",
-                "bs_metallica1",
-                "USMCPants_Woodland",
-                "WorkingBoots_Yellow",
-                "SportGlasses_Orange"
-            ]
-        },
-        {
-            "Id": 1,
             "Name": "SurvivorF_Helga",
-            "GivenName": "Maggie",
-            "Role": "Owner of Maggie's Place",
+            "GivenName": "Helga",
+            "Role": "Town Mum",
             "Position": [
                 5632.79,
                 29.28,
@@ -103,10 +80,10 @@
             ]
         },
         {
-            "Id": 2,
+            "Id": 1,
             "Name": "SurvivorM_Jose",
-            "GivenName": "Ol' Bert",
-            "Role": "Mechanic",
+            "GivenName": "Jose",
+            "Role": "Grease Monkey",
             "Position": [
                 5597.84,
                 28.8,
@@ -125,9 +102,9 @@
             ]
         },
         {
-            "Id": 3,
+            "Id": 2,
             "Name": "SurvivorM_Taiki",
-            "GivenName": "Lee",
+            "GivenName": "Taiki",
             "Role": "Handyman",
             "Position": [
                 5634.1,
@@ -149,7 +126,7 @@
         {
             "Id": 3,
             "Name": "SurvivorF_Eva",
-            "GivenName": "Red",
+            "GivenName": "Eva",
             "Role": "Pot Farmer",
             "Position": [
                 5591.83,
@@ -166,6 +143,103 @@
                 "Shirt_RedCheck",
                 "Jeans_Blue",
                 "WorkingBoots_Yellow"
+            ]
+        },
+        {
+            "Id": 4,
+            "Name": "SurvivorM_Seth",
+            "GivenName": "Seth",
+            "Role": "Arms Dealer",
+            "Position": [
+                5620.43,
+                29.1,
+                5418.64
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "rifleholster_camo_mung",
+                "TacticalShirt_Black",
+                "CargoPants_Grey",
+                "Zeroy_fishing_Wellies_Camo3",
+                "TacticalGloves_Black",
+                "SportGlasses_Green",
+                "MVS_Belt_OD",
+                "MVS_BoonieHat"
+            ]
+        },
+        {
+            "Id": 5,
+            "Name": "SurvivorM_Oliver",
+            "GivenName": "Oliver",
+            "Role": "Gear Guy",
+            "Position": [
+                5614,52,
+                29.05,
+                5418.01
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "bag_6B38_camo_mung",
+                "TTsKOJacket_Camo",
+                "CargoPants_Black",
+                "Zeroy_fishing_Wellies_Camo2",
+                "DesignerGlasses",
+                "Msp_WaistPack_UrbanFlektarn"
+            ]
+        },
+        {
+            "Id": 6,
+            "Name": "SurvivorM_Niki",
+            "GivenName": "Niki",
+            "Role": "Tech Specialist",
+            "Position": [
+                5614,52,
+                29.05,
+                5418.01
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "Jeans_BlueDark",
+                "fannypack_pink_mung",
+                "bs_starbucks",
+                "Sneakers_Black",
+                "cigarette_mung",
+                "Msp_Slouchie_Red"
+            ]
+        },
+        {
+            "Id": 7,
+            "Name": "SurvivorM_Rolf",
+            "GivenName": "Rolph",
+            "Role": "Medic",
+            "Position": [
+                5580.41,
+                28.72,
+                5389.89
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "ParamedicPants_Blue",
+                "ParamedicJacket_Crimson",
+                "NBCGlovesGray",
+                "NBCBootsYellow",
+                "SurgicalMask"
             ]
         }
     ],
