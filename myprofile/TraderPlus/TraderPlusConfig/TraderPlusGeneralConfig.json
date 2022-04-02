@@ -129,9 +129,9 @@
             "GivenName": "Eva",
             "Role": "Pot Farmer",
             "Position": [
-                5591.83,
+                5592.48,
                 29.77,
-                5412.64
+                5412.77
             ],
             "Orientation": [
                 0.0,
@@ -139,10 +139,11 @@
                 0.0
             ],
             "Clothes": [
-                "BaseballCap_Blue",
+                "bs_gratefuldead",
                 "Shirt_RedCheck",
-                "Jeans_Blue",
-                "WorkingBoots_Yellow"
+                "Skirt_White",
+                "victorian_glasses_blue_mung",
+                "joint_mung"
             ]
         },
         {
@@ -156,7 +157,7 @@
                 5418.64
             ],
             "Orientation": [
-                0.0,
+                -90.0,
                 0.0,
                 0.0
             ],
@@ -173,8 +174,8 @@
         },
         {
             "Id": 5,
-            "Name": "SurvivorM_Oliver",
-            "GivenName": "Oliver",
+            "Name": "SurvivorM_Francis",
+            "GivenName": "Francis",
             "Role": "Gear Guy",
             "Position": [
                 5614,52,
@@ -197,8 +198,8 @@
         },
         {
             "Id": 6,
-            "Name": "SurvivorM_Niki",
-            "GivenName": "Niki",
+            "Name": "SurvivorF_Linda",
+            "GivenName": "Linda",
             "Role": "Tech Specialist",
             "Position": [
                 5614,52,
@@ -230,7 +231,7 @@
                 5389.89
             ],
             "Orientation": [
-                0.0,
+                -115.0,
                 0.0,
                 0.0
             ],
