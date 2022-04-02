@@ -3,16 +3,16 @@
     "IsHideOutActive": 0,
     "EnableAfkDisconnect": 0,
     "KickAfterDelay": 0,
-    "MsgEnterZone": "Welcome to The Holler",
+    "MsgEnterZone": "Welcome! All can find safety here.",
     "MsgExitZone": "Be safe out there!",
-    "MsgOnLeavingZone": "You're leaving the safezone in:",
+    "MsgOnLeavingZone": "You're leaving The Holler in:",
     "MustRemoveArmband": "You must remove your armband in order to make your stash appear !",
     "SafeAreaLocation": [
         {
             "SafeZoneStatut": "The Holler",
             "X": 5628.0,
             "Y": 5386.0,
-            "Radius": 200.0,
+            "Radius": 100.0,
             "Countdown": 10
         }
     ],
