@@ -3,16 +3,16 @@
     "IsHideOutActive": 0,
     "EnableAfkDisconnect": 0,
     "KickAfterDelay": 0,
-    "MsgEnterZone": "Welcome to the Quick Stop!",
+    "MsgEnterZone": "Welcome to The Holler",
     "MsgExitZone": "Be safe out there!",
     "MsgOnLeavingZone": "You're leaving the safezone in:",
     "MustRemoveArmband": "You must remove your armband in order to make your stash appear !",
     "SafeAreaLocation": [
         {
-            "SafeZoneStatut": "Quick Stop",
-            "X": 6249.0,
-            "Y": 9593.0,
-            "Radius": 9.0,
+            "SafeZoneStatut": "The Holler",
+            "X": 5628.0,
+            "Y": 5386.0,
+            "Radius": 200.0,
             "Countdown": 10
         }
     ],
@@ -24,8 +24,5 @@
         "76561198036774377"
     ],
     "BlackListedItemInStash": [
-        "Apple",
-        "Plum",
-        "Plier"
     ]
 }

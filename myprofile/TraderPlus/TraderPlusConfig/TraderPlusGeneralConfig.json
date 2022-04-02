@@ -59,269 +59,90 @@
         {
             "Id": 0,
             "Name": "SurvivorM_Boris",
-            "GivenName": "Albert",
-            "Role": "Food Trader",
+            "GivenName": "Stinky Pete",
+            "Role": "Trader",
             "Position": [
-                5179.81005859375,
-                1.823799967765808,
-                9234.25
+                5595.51,
+                28.922,
+                5345.25
             ],
             "Orientation": [
-                60.0,
+                0.0,
                 0.0,
                 0.0
             ],
             "Clothes": [
-                "BaseballCap_Beige",
-                "WoolCoat_BlackCheck",
-                "Jeans_Blue",
-                "HikingBootsLow_Black",
-                "Armband_Orange",
-                "ThickFramesGlasses"
+                "Zeroy_fishing_Cap_Camo0",
+                "bs_metallica1",
+                "USMCPants_Woodland",
+                "WorkingBoots_Yellow",
+                "SportGlasses_Orange"
             ]
         },
         {
             "Id": 1,
-            "Name": "SurvivorM_Boris",
-            "GivenName": "Boris",
-            "Role": "Weapon Trader",
+            "Name": "SurvivorF_Helga",
+            "GivenName": "Maggie",
+            "Role": "Owner of Maggie's Place",
             "Position": [
-                5183.419921875,
-                1.7114900350570679,
-                9241.990234375
+                5632.79,
+                29.28,
+                5394.21
             ],
             "Orientation": [
-                230.0,
+                -65.0,
                 0.0,
                 0.0
             ],
             "Clothes": [
-                "HunterPants_Autumn",
-                "HuntingJacket_Autumn",
-                "SportGlasses_Orange",
-                "HikingBootsLow_Black",
-                "Armband_Orange",
-                "TWP_Beowulf",
-                "SmershVest"
+                "Zeroy_fishing_Bandana_Camo",
+                "Blouse_White",
+                "Jeans_Green",
+                "AthleticShoes_Black"
             ]
         },
         {
             "Id": 2,
-            "Name": "SurvivorM_Boris",
-            "GivenName": "Chriss",
-            "Role": "Tool Trader",
+            "Name": "SurvivorM_Jose",
+            "GivenName": "Ol' Bert",
+            "Role": "Mechanic",
             "Position": [
-                5179.85986328125,
-                1.8237799406051636,
-                9245.1103515625
+                5597.84,
+                28.8,
+                5352.1
             ],
             "Orientation": [
-                -170.0,
+                0.0,
                 0.0,
                 0.0
             ],
             "Clothes": [
-                "ReflexVest",
-                "Shirt_RedCheck",
-                "Jeans_Blue",
-                "Armband_Orange",
-                "ConstructionHelmet_White",
-                "WorkingBoots_Yellow",
-                "SledgeHammer"
+                "CowboyHat_black",
+                "RidersJacket_Black",
+                "CargoPants_Beige",
+                "CombatBoots_Brown"
             ]
         },
         {
             "Id": 3,
-            "Name": "SurvivorM_Boris",
-            "GivenName": "David",
-            "Role": "Clothes Trader",
+            "Name": "SurvivorM_Taiki",
+            "GivenName": "Lee",
+            "Role": "Handyman",
             "Position": [
-                5185.60009765625,
-                1.7575199604034424,
-                9237.8203125
+                5634.1,
+                29.28,
+                5391.39
             ],
             "Orientation": [
-                -90.0,
+                90.0,
                 0.0,
                 0.0
             ],
             "Clothes": [
-                "ManSuit_LightGrey",
+                "BaseballCap_Blue",
+                "Shirt_RedCheck",
                 "Jeans_Blue",
-                "MassFedora_White",
-                "DressShoes_White",
-                "Armband_Orange",
-                "AviatorGlasses"
-            ]
-        },
-        {
-            "Id": 4,
-            "Name": "SurvivorM_Boris",
-            "GivenName": "Edward",
-            "Role": "Medical Trader",
-            "Position": [
-                5184.259765625,
-                1.8238099813461304,
-                9231.3798828125
-            ],
-            "Orientation": [
-                -50.0,
-                0.0,
-                0.0
-            ],
-            "Clothes": [
-                "MedicalScrubsHat_Blue",
-                "MedicalScrubsPants_Green",
-                "LabCoat",
-                "Sneakers_Black",
-                "Armband_Orange",
-                "DesignerGlasses"
-            ]
-        },
-        {
-            "Id": 5,
-            "Name": "SurvivorM_Boris",
-            "GivenName": "Frank",
-            "Role": "Black Market",
-            "Position": [
-                6296.06982421875,
-                77.12059783935547,
-                14833.099609375
-            ],
-            "Orientation": [
-                20.0,
-                0.0,
-                0.0
-            ],
-            "Clothes": [
-                "bs_nickcage",
-                "Skinny_Jeans_Blue",
-                "fannypack_black_mung",
-                "FlipFlops_Colorbase",
-                "joint_mung",
-                "Msp_Slouchie_Red",
-                "DesignerGlasses"
-            ]
-        },
-        {
-            "Id": 6,
-            "Name": "SurvivorM_Boris",
-            "GivenName": "Gerry",
-            "Role": "Hunter Trader",
-            "Position": [
-                4037.47998046875,
-                11.465100288391114,
-                9471.2802734375
-            ],
-            "Orientation": [
-                180.0,
-                0.0,
-                0.0
-            ],
-            "Clothes": [
-                "HunterPants_Spring",
-                "HuntingJacket_Spring",
-                "TWP_Remington700",
-                "HuntingVest",
-                "JungleBoots_Beige",
-                "BoonieHat_DPM",
-                "AviatorGlasses"
-            ]
-        },
-        {
-            "Id": 7,
-            "Name": "SurvivorM_Boris",
-            "GivenName": "Harold",
-            "Role": "Quartermaster",
-            "Position": [
-                2773.25,
-                73.55560302734375,
-                4673.85009765625
-            ],
-            "Orientation": [
-                -35.0,
-                0.0,
-                0.0
-            ],
-            "Clothes": [
-                "CargoPants_Grey",
-                "bs_johndenver",
-                "BeanieHat_Beige",
-                "TacticalGloves_Beige",
-                "CombatBoots_Beige",
-                "AviatorGlasses"
-            ]
-        },
-        {
-            "Id": 8,
-            "Name": "SurvivorM_Boris",
-            "GivenName": "Ian",
-            "Role": "Quartermaster",
-            "Position": [
-                4263.8798828125,
-                13.707099914550782,
-                7314.509765625
-            ],
-            "Orientation": [
-                180.0,
-                0.0,
-                0.0
-            ],
-            "Clothes": [
-                "Jeans_Blue",
-                "bs_billmurray",
-                "BaseballCap_Black",
-                "Fingerless_Gloves",
-                "Sneakers_Green",
-                "DesignerGlasses"
-            ]
-        },
-        {
-            "Id": 9,
-            "Name": "SurvivorM_Boris",
-            "GivenName": "Jason",
-            "Role": "Quartermaster",
-            "Position": [
-                5908.72998046875,
-                15.290200233459473,
-                7387.18017578125
-            ],
-            "Orientation": [
-                180.0,
-                0.0,
-                0.0
-            ],
-            "Clothes": [
-                "bs_tyrone",
-                "Skinny_Jeans_Blue",
-                "Msp_Slouchie_Beige",
-                "High_Knee_Sneakers",
-                "DesignerGlasses",
-                "Fingerless_Gloves_Wool"
-            ]
-        },
-        {
-            "Id": 10,
-            "Name": "SurvivorM_Boris",
-            "GivenName": "Kelvin",
-            "Role": "Quartermaster",
-            "Position": [
-                9582.4296875,
-                26.101200103759767,
-                8933.4404296875
-            ],
-            "Orientation": [
-                200.0,
-                0.0,
-                0.0
-            ],
-            "Clothes": [
-                "bs_volcom",
-                "CargoPants_Beige",
-                "SK8_Sneakers_Blue",
-                "SkateHelmet_Black",
-                "Round_Glasses_Black",
-                "joint_mung"
+                "WorkingBoots_Yellow"
             ]
         }
     ],
