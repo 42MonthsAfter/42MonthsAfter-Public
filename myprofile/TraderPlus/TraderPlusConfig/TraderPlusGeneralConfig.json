@@ -1,5 +1,5 @@
 {
-    "Version": "2.0",
+    "Version": "2.1",
     "ConvertTraderConfigToTraderPlus": 0,
     "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
     "UseGarageToTradeCar": 0,
@@ -7,6 +7,7 @@
     "EnableShowAllPrices": 0,
     "EnableShowAllCheckBox": 1,
     "IsReceiptTraderOnly": 0,
+    "IsReceiptSaveLock": 0,
     "IsReceiptSaveAttachment": 0,
     "IsReceiptSaveCargo": 0,
     "LockPickChance": 0.10000000894069672,

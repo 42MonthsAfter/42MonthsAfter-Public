@@ -1,7 +1,8 @@
 {
+    "Version": "2.0",
     "IDs": [
         {
-			"EnableStockAllCategoryForID": 1,
+            "Id": 0,
             "Categories": [
                 "Licences",
                 "Vegetables",
@@ -17,7 +18,7 @@
             "CurrenciesAccepted": []
         },
         {
-			"EnableStockAllCategoryForID": 1,
+            "Id": 1,
             "Categories": [
                 "Melee",
                 "Sidearms",
@@ -41,7 +42,7 @@
             "CurrenciesAccepted": []
         },
         {
-			"EnableStockAllCategoryForID": 1,
+            "Id": 2,
             "Categories": [
                 "Tools",
                 "Heavy Tools",
@@ -55,7 +56,7 @@
             "CurrenciesAccepted": []
         },
         {
-			"EnableStockAllCategoryForID": 1,
+            "Id": 3,
             "Categories": [
                 "Glasses",
                 "Armbands",
@@ -79,7 +80,7 @@
             "CurrenciesAccepted": []
         },
         {
-			"EnableStockAllCategoryForID": 1,
+            "Id": 4,
             "Categories": [
                 "Vehicles",
                 "Vehicle Parts"

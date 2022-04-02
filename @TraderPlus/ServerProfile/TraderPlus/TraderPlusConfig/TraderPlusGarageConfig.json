@@ -1,78 +1,53 @@
 {
-    "VehicleMustHaveLock": 1,
-    "SaveVehicleCargo": 0,
+    "VehicleMustHaveLock": 0,
+    "SaveVehicleCargo": 1,
     "SaveVehicleHealth": 1,
     "SaveVehicleFuel": 1,
     "ParkInCost": 100,
     "ParkOutCost": 100,
-    "PayWithBankAccount": 1,
+    "PayWithBankAccount": 0,
     "WhitelistedObjects": [
         "SK_LandingPad"
     ],
     "NPCs": [
         {
-            "ClassName": "TraderPlusSign",
-            "Position": [
-                11628.0,
-                59.0,
-                14679.0
-            ],
-            "Orientation": [
-                54.0,
-                -0.0,
-                -0.0
-            ],
-            "ParkingPosition": [
-                11612.20703125,
-				57.90999984741211,
-				14693.2568359375
-            ],
-            "ParkingOrientation": [
-                 -33.7625846862793,
-				0.000008328365765919444,
-				-0.000005567482276092051
-            ],
-            "Clothes": []
-        },
-		{
             "ClassName": "SurvivorM_Peter",
             "Position": [
-                3723.84,
-				402.012,
-				5990.04
+		11632.63,
+		58.13,
+		14658.40
             ],
             "Orientation": [
-                54.0,
+                250.0,
                 -0.0,
                 -0.0
             ],
             "ParkingPosition": [
-                3719.71,
-				402.012,
-				5994.85
+		11633.363281,
+		57.807411,
+		14650.166016
             ],
             "ParkingOrientation": [
-                -42,
-				0,
-				0
+                250,
+		0,
+		0
             ],
             "Clothes": [
-				"Wrench",
-				"SledgeHammer",
-				"WorkingGloves_Brown",
-				"ConstructionHelmet_White",
-				"Shirt_BlueCheck",
-				"CanvasPants_Blue",
-				"WorkingBoots_Grey"
-			]
+     	        	"Wrench",
+        	        "Jeans_Blue",
+	                "ManSuit_Black",
+        	        "Sneakers_Black",
+	                "SportGlasses_Blue",
+	                "BaseballCap_Black"
+		]
         }
     ],
-    "ParkingNotAvailable": "The park area is not available!",
+    "ParkingNotAvailable": "The parking area is already occupied!",
     "NotEnoughMoney": "You don't have enough money",
-    "NotRightToPark": "You don't have the right to park in this vehicle!",
-    "CarHasMember": "The car still have member inside!",
-    "ParkInFail": "The car was not able to be park in correctly",
-    "ParkInSuccess": "The car was successfully parked",
-    "ParkOutFail": "The car was not able to spawn!",
-    "ParkOutSuccess": "The car was able to spawn!"
+    "NotRightToPark": "You don't have the right to park this vehicle!",
+    "CarHasMember": "The vehicle still has players inside!",
+    "ParkInFail": "The vehicle was not able to be stored correctly",
+    "ParkInSuccess": "The vehicle was successfully stored",
+    "ParkOutFail": "The vehicle was not able to retrieved!",
+    "ParkOutSuccess": "The vehicle was retrieved successfully!"
 }

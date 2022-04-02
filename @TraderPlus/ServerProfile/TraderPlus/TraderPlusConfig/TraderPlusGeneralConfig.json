@@ -1,12 +1,15 @@
 {
+    "Version": "2.0",
     "ConvertTraderConfigToTraderPlus": 0,
-	"ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
-	"UseGarageToTradeCar": 0,
-	"DisableHeightFailSafeForReceiptDeployment": 0,
+    "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
+    "UseGarageToTradeCar": 0,
+    "DisableHeightFailSafeForReceiptDeployment": 0,
+    "EnableShowAllPrices": 0,
     "EnableShowAllCheckBox": 1,
-	"EnableStockAllCategory": 1,
     "IsReceiptTraderOnly": 1,
-    "LockPickChance": 0.30,
+    "IsReceiptSaveAttachment": 0,
+    "IsReceiptSaveCargo": 0,
+    "LockPickChance": 0.30000001192092898,
     "LicenceKeyWord": "Licence",
     "Licences": [
         "Car Licence",
@@ -17,38 +20,50 @@
         "AcceptDamaged": 1,
         "AcceptBadlyDamaged": 1
     },
-	"StoreOnlyToPristineState": 0,
+    "StoreOnlyToPristineState": 0,
     "Currencies": [
         {
-            "ClassName": "TraderPlus_Money_Euro500,TraderPlus_Money_Ruble500",
+            "ClassName": "TraderPlus_Money_Ruble5000",
+            "Value": 5000
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble2000",
+            "Value": 2000
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble1000",
+            "Value": 1000
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble500,TraderPlus_Money_Euro500",
             "Value": 500
         },
         {
-            "ClassName": "TraderPlus_Money_Dollar100,TraderPlus_Money_Euro100,TraderPlus_Money_Ruble100",
+            "ClassName": "TraderPlus_Money_Ruble200,TraderPlus_Money_Euro200",
+            "Value": 200
+        },
+        {
+            "ClassName": "TraderPlus_Money_Ruble100,TraderPlus_Money_Euro100,TraderPlus_Money_Dollar100",
             "Value": 100
         },
         {
-            "ClassName": "TraderPlus_Money_Dollar50,TraderPlus_Money_Euro50,TraderPlus_Money_Ruble50",
+            "ClassName": "TraderPlus_Money_Ruble50,TraderPlus_Money_Euro50,TraderPlus_Money_Dollar50",
             "Value": 50
         },
         {
-            "ClassName": "TraderPlus_Money_Dollar20,TraderPlus_Money_Euro20",
-            "Value": 20
-        },
-        {
-            "ClassName": "TraderPlus_Money_Dollar10,TraderPlus_Money_Euro10,TraderPlus_Money_Ruble10",
+            "ClassName": "TraderPlus_Money_Ruble10,TraderPlus_Money_Euro10,TraderPlus_Money_Dollar10",
             "Value": 10
         },
         {
-            "ClassName": "TraderPlus_Money_Dollar5,TraderPlus_Money_Euro5,TraderPlus_Money_Ruble5,TraderPlus_Money_Ruble5_Coin",
+            "ClassName": "TraderPlus_Money_Ruble5,TraderPlus_Money_Euro5,TraderPlus_Money_Dollar5",
             "Value": 5
         },
         {
-            "ClassName": "TraderPlus_Money_Dollar2,TraderPlus_Money_Ruble2_Coin",
+            "ClassName": "TraderPlus_Money_Ruble2_Coin,TraderPlus_Money_Euro2,TraderPlus_Money_Dollar2",
             "Value": 2
         },
         {
-            "ClassName": "TraderPlus_Money_Dollar1,TraderPlus_Money_Ruble1_Coin",
+            "ClassName": "TraderPlus_Money_Ruble1_Coin,TraderPlus_Money_Euro1,TraderPlus_Money_Dollar1",
             "Value": 1
         }
     ],
@@ -59,9 +74,9 @@
             "GivenName": "Marie",
             "Role": "Food Trader",
             "Position": [
-                11622.50,
-                58.74,
-                14678.95
+                11622.5,
+                58.7400016784668,
+                14678.9501953125
             ],
             "Orientation": [
                 54.0,
@@ -72,20 +87,35 @@
         },
         {
             "Id": 1,
-            "Name": "TraderPlusSign",
+            "Name": "SurvivorM_Jose",
             "GivenName": "Kevin",
             "Role": "Weapon Trader",
             "Position": [
-                11620.63,
-                59.04,
-                14656.83
+                11620.6298828125,
+                59.040000915527347,
+                14656.830078125
             ],
             "Orientation": [
-                145.0,
+                325.0,
                 0.0,
                 0.0
             ],
-            "Clothes": []
+            "Clothes": [
+                "FirefighterAxe",
+                "SVD",
+                "M4A1",
+                "M4_RISHndgrd",
+                "Universallight",
+                "M4_OEBttstck",
+                "OMNOGloves_Brown",
+                "GorkaHelmet",
+                "PlateCarrierVest",
+                "GorkaEJacket_Autumn",
+                "GorkaPants_Autumn",
+                "CombatBoots_Black",
+                "Balaclava3Holes_Black",
+                "AliceBag_Black"
+            ]
         },
         {
             "Id": 2,
@@ -93,9 +123,9 @@
             "GivenName": "Bob",
             "Role": "Tool Trader",
             "Position": [
-                11623.11,
-                59.04,
-                14658.91
+                11623.1103515625,
+                59.040000915527347,
+                14658.91015625
             ],
             "Orientation": [
                 145.0,
@@ -106,20 +136,25 @@
         },
         {
             "Id": 3,
-            "Name": "TraderPlusSign",
+            "Name": "SurvivorM_Peter",
             "GivenName": "John",
             "Role": "Clothes Trader",
             "Position": [
-                11596.55,
-                58.74,
-                14674.54
+                11596.5498046875,
+                58.7400016784668,
+                14674.5400390625
             ],
             "Orientation": [
-                -120.0,
+                65.0,
                 0.0,
                 0.0
             ],
-            "Clothes": []
+            "Clothes": [
+                "ManSuit_DarkGrey",
+                "DressShoes_Black",
+                "SlacksPants_Black",
+                "SportGlasses_Black"
+            ]
         },
         {
             "Id": 4,
@@ -127,12 +162,29 @@
             "GivenName": "Pablo",
             "Role": "Car Trader",
             "Position": [
-                11617.35,
-                58.74,
-                14686.95
+                11617.349609375,
+                58.7400016784668,
+                14686.9501953125
             ],
             "Orientation": [
                 54.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "Id": -2,
+            "Name": "TraderPlus_BANK_ATM",
+            "GivenName": "ATM",
+            "Role": "ATM",
+            "Position": [
+                11623.0,
+                57.90999984741211,
+                14676.0
+            ],
+            "Orientation": [
+                -37.0,
                 0.0,
                 0.0
             ],
@@ -141,11 +193,37 @@
     ],
     "TraderObjects": [
         {
+            "ObjectName": "bldr_Misc_CrashBarrier",
+            "Position": [
+                11636.0,
+                58.0,
+                14646.0
+            ],
+            "Orientation": [
+                -33.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "ObjectName": "bldr_Misc_CrashBarrier",
+            "Position": [
+                11631.0,
+                58.099998474121097,
+                14653.0
+            ],
+            "Orientation": [
+                147.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
             "ObjectName": "bldr_Misc_RoadBarrier",
             "Position": [
-                11537.20,
+                11537.2001953125,
                 59.0,
-                14726.09
+                14726.08984375
             ],
             "Orientation": [
                 55.0,
@@ -156,9 +234,9 @@
         {
             "ObjectName": "bldr_Wall_Barricade1_10",
             "Position": [
-                11590.54,
-                58.22,
-                14760.67
+                11590.5400390625,
+                58.220001220703128,
+                14760.669921875
             ],
             "Orientation": [
                 144.0,

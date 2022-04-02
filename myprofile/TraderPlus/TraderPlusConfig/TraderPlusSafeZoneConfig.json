@@ -1,5 +1,5 @@
 {
-    "Version": "2.0",
+    "Version": "2.1",
     "IsHideOutActive": 0,
     "EnableAfkDisconnect": 0,
     "KickAfterDelay": 0,
@@ -24,5 +24,14 @@
         "76561198036774377"
     ],
     "BlackListedItemInStash": [
+<<<<<<< Updated upstream
+=======
+        "Apple",
+        "Plum",
+        "Plier",
+        "Apple",
+        "Plum",
+        "Plier"
+>>>>>>> Stashed changes
     ]
 }
