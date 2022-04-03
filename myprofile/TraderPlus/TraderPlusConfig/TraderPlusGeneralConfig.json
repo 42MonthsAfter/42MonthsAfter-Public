@@ -236,6 +236,34 @@
                 "NBCBootsYellow",
                 "SurgicalMask"
             ]
+        },
+        {
+            "Id": 8,
+            "Name": "SurvivorM_Rolf",
+            "GivenName": "Teddy",
+            "Role": "Black Market Trader",
+            "Position": [
+                13447,
+                13.2151,
+                9737.66
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "MVS_Combat_Vest_Heavy_Black",
+                "MVS_Pack_Black",
+                "MVS_Belt_Black",
+                "MVS_CombatShirt_Multicam_Black",
+                "MVS_CombatPants_Black",
+                "TacticalGoggles",
+                "MilitaryBoots_Redpunk",
+                "TacticalGloves_Black",
+                "MilitaryBoots_Redpunk",
+                "BalaclavaMask_Blackskull"
+            ]
         }
     ],
     "TraderObjects": []

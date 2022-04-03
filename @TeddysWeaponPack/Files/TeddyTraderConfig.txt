@@ -3,768 +3,763 @@
 	
 	
 	<Category> TeddyWeaponPack:Pistols
-		TWP_ArexZero,					W,   	600,	0 	// 9x19
-		TWP_ArexZero_mag_18Rnd,			M,		100,	0
-		TWP_Beretta92FS,				W,   	600,	0	// 9x19
-		TWP_Beretta92FSDesert,			W,   	600,	0
-		TWP_BerettaGoldenFlower,		W,   	600,	0	// 9x19
-		TWP_Beretta92FS_mag_15Rnd,		M,		100,	0
-		TWP_BerettaDEBurton,			W,   	1000,	0	// 44Mag
-		TWP_BerettaDEBlack,				W,   	1000,	0	// 44Mag
-		TWP_BerettaDE_mag_15Rnd,		M,		250,	0
-		TWP_BerettaPX4,					W,   	600,	0	// 9x19
-		TWP_BerettaPX4_mag_17Rnd,		M,		100,	0
-		TWP_BerettaSwordCutlass,		W,   	600,	0	// 9x19
-		TWP_BerettaSwordCutlass_mag_20Rnd,		M,		100,	0
-		TWP_Colt1911Gold,				W,   	600,	0	// 45ACP
-		TWP_Colt1911Gold_mag_7Rnd,		M,		100,	0
-		TWP_Colt1911Holy,				W,   	600,	0	// 45ACP
-		TWP_Colt1911Holy_mag_7Rnd,		M,		100,	0
-		TWP_Colt1911Stainless,			W,   	600,	0	// 45ACP
-		TWP_Colt1911Stainless_mag_7Rnd,	M,		100,	0
-		TWP_1911_WilsonCombat,			W,   	600,	0	// 45ACP
-		TWP_1911_WilsonCombat_mag_7Rnd,	M,		100,	0
-		TWP_CZ75M,						W,   	600,	0	// 9x19
-		TWP_CZ75M_mag_20Rnd,			M,		100,	0
-		TWP_DesertEagle,				W,   	2500,	0	// 50AE
-		TWP_DesertEagleSky,				W,   	2500,	0	// 50AE
-		TWP_DesertEagle_mag_7Rnd,		M,		500,	0
-		TWP_DesertEagleFalcon,			W,   	2200,	0	// 44Mag
-		TWP_DesertEagleFalcon_mag_7Rnd,	M,		400,	0
-		TWP_FN57Pink,					W,   	600,	0	// 5.7x28
-		TWP_FN57Pink_mag_15Rnd,			M,		100,	0
-		TWP_FN57Toxic,					W,   	600,	0	// 5.7x28
-		TWP_FN57Toxic_mag_15Rnd,		M,		100,	0
-		TWP_FNS9,						W,   	600,	0	// 9x19
-		TWP_FNS9_mag_18Rnd,				M,		100,	0
-		TWP_Glock18Egyptian,			W,   	600,	0	// 9x19
-		TWP_Glock18Egyptian_mag_17Rnd,	M,		100,	0
-		TWP_Glock18Honor,				W,   	600,	0	// 9x19
-		TWP_Glock18Honor_mag_17Rnd,		M,		100,	0
-		TWP_Glock18Jungle,				W,   	600,	0	// 9x19	
-		TWP_Glock18Jungle_mag_17Rnd,	M,		100,	0
-		TWP_Glock18Rebel,				W,   	600,	0	// 9x19
-		TWP_Glock18Rebel_mag_17Rnd,		M,		100,	0
-		TWP_Glock18Weasel,				W,   	600,	0	// 9x19
-		TWP_Glock18Weasel_mag_17Rnd,	M,		100,	0
-		TWP_Glock18Wolf,				W,   	600,	0	// 9x19
-		TWP_Glock18Wolf_mag_17Rnd,		M,		100,	0
-		TWP_Glock19M,					W,   	600,	0	// 9x19
-		TWP_Glock19M_mag_15Rnd,			M,		100,	0
-		TWP_Glock42,					W,   	600,	0	//380ACP
-		TWP_Glock42_mag_12Rnd,			M,		100,	0
-		TWP_Glock42_mag_50Rnd,			M,		300,	0
-		TWP_GlockZapper,				W,		600,	0	// 9x19
-		TWP_GlockZapper_mag_15Rnd,		M,		100,	0
-		TWP_HK47,						W,		600,	0	// 9x19
-		TWP_HK47_mag_15Rnd,				M,		100,	0
-		TWP_HK47Tan,					W,		600,	0	// 9x19
-		TWP_HK47Tan_mag_15Rnd,			M,		100,	0
-		TWP_LugerP08,					W,		600,	0	// 9x19
-		TWP_LugerP08_mag_8Rnd,			M,		100,	0
-		TWP_MK23Socom,					W,		600,	0	// 45ACP
-		TWP_MK23Socom_mag_12Rnd,		M,		100,	0
-		TWP_MP40,						W,		600,	0	// 40SW
-		TWP_MP40_mag_15Rnd,				M,		100,	0
-		TWP_MP443,						W,		600,	0	// 9x19
-		TWP_MP443_mag_18Rnd,			M,		100,	0
-		TWP_P8,							W,		600,	0	// 9x19
-		TWP_P8_mag_15Rnd,				M,		100,	0
-		TWP_P2000BlueGirl,				W,		600,	0	// 9x19
-		TWP_P2000BlueGirl_mag_16Rnd,	M,		100,	0
-		TWP_P2000Protector,				W,		600,	0	// 9x19
-		TWP_P2000Protector_mag_16Rnd,	M,		100,	0
-		TWP_P2000Renegade,				W,		600,	0	// 9x19
-		TWP_P2000Renegade_mag_16Rnd,	M,		100,	0
-		TWP_P2000Toxic,					W,		600,	0	// 9x19
-		TWP_P2000Toxic_mag_16Rnd,		M,		100,	0
-		TWP_SigSauerP226,				W,		600,	0	// 357
-		TWP_SigSauerP226_mag_12Rnd,		M,		100,	0
-		TWP_SigSauerP229,				W,		600,	0	// 9x19
-		TWP_SigSauerP229_mag_13Rnd,		M,		100,	0
-		TWP_SigSauerP250,				W,		600,	0	// 45ACP
-		TWP_SigSauerP250_mag_10Rnd,		M,		100,	0
-		TWP_SigSauerP250Colored,		W,		600,	0	// 45ACP
-		TWP_SigSauerP250Colored_mag_10Rnd, M,		100,	0
-		TWP_SigSauerP250Patrician,		W,		600,	0	// 45ACP
-		TWP_SigSauerP250Patrician_mag_10Rnd, M,		100,	0
-		TWP_SigSauerP250PeaCock,		W,		600,	0	// 45ACP
-		TWP_SigSauerP250PeaCock_mag_10Rnd, M,		100,	0
-		TWP_SigSauerP250Wingshot,		W,		600,	0	// 45ACP
-		TWP_SigSauerP250Wingshot_mag_10Rnd, M,		100,	0
-		TWP_SP1Vektor,					W,		600,	0	// 9x19
-		TWP_SP1Vektor_mag_15Rnd, 		M,		100,	0
-		TWP_SR1Gyrza,					W,		600,	0	//380ACP
-		TWP_SR1Gyrza_mag_18Rnd, 		M,		100,	0
-		TWP_Tokarev,					W,		600,	0	//380ACP
-		TWP_Tokarev_mag_8Rnd,			M,		100,	0
-		TWP_USPChromatic,				W,		600,	0	// 9x19	
-		TWP_USPChromatic_mag_15Rnd,		M,		100,	0
-		TWP_USPPsychodelic,				W,		600,	0	// 9x19
-		TWP_USPPsychodelic_mag_15Rnd,	M,		100,	0
-		TWP_WaltherP99,					W,		600,	0	// 9x19
-		TWP_WaltherP99_mag_15Rnd,		M,		100,	0
-		TWP_WaltherQ5,					W,		600,	0	// 9x19
-		TWP_WaltherQ5_mag_15Rnd,		M,		100,	0	
-		TWP_Glock17,					W,		600,	0	// 9x19
-		TWP_Glock17_mag_19Rnd,			M,		100,	0
-		TWP_WaltherPPK,					W,		600,	0	// 380ACP
-		TWP_WaltherPPK_mag_8Rnd,		M,		100,	0
-		TWP_BerettaSamuraiEdge,			W,		600,	0	// 9x19
-		TWP_BerettaSamuraiEdge_mag_18Rnd,		M,		100,	0
-		TWP_ColtPython,					W,		600,	0	// 357
-		TWP_MagnumCompetitor,			W,		600,	0	// 500SW
-		TWP_Taurus,						W,		600,	0	// 500SW
-		
-	<Category> TeddyWeaponPack:Sub Machine Guns
-		TWP_AEK919,						W,		2000,	0	// 9x19
-		TWP_AEK919_mag_20Rnd,			M,		700,	0
-		TWP_Auto9,						W,		2000,	0	// 9x19
-		TWP_Auto9_mag_25Rnd,			M,		700,	0
-		TWP_MP7,						W,		2000,	0	// 4.6x30
-		TWP_MP7Eagle,					W,		2000,	0	// 4.6x30
-		TWP_MP7Eagle_mag_30Rnd,			M,		700,	0
-		TWP_MP7_mag_30Rnd,				M,		700,	0
-		TWP_MP7_magCoupled_60Rnd,		M,		1000,	0
-		TWP_MP7_RoundMag_60Rnd,			M,		1000,	0
-		TWP_P90,						W,		2000,	0	// 5.7x28
-		TWP_P90_mag_50Rnd,				M,		1000,	0
-		TWP_P90Arctic,					W,		2000,	0	// 5.7x28
-		TWP_P90Arctic_mag_50Rnd,		M,		1000,	0
-		TWP_P90Colored,					W,		2000,	0	// 5.7x28
-		TWP_P90Colored_mag_50Rnd,		M,		1000,	0
-		TWP_P90Shallow_Grave,			W,		2000,	0	// 5.7x28
-		TWP_P90Shallow_Grave_mag_50Rnd,	M,		1000,	0
-		TWP_Uzi,						W,		2000,	0	//380ACP
-		TWP_Uzi_mag_20Rnd,				M,		700,	0
-		TWP_FMG9,						W,		2000,	0	// 9x19 
-		TWP_FMG9_mag_32Rnd,				M,		700,	0
-		TWP_SRGlock,					W,		2000,	0	// 9x19
-		TWP_SRGlock_mag_33Rnd,			M,		2000,	0
-		TWP_SR2,						W,		2000,	0	// 9x19
-		TWP_SR2_mag_20Rnd,				M,		2000,	0
-		TWP_SR3,						W,		2000,	0	// 9x39
-		TWP_SR3_mag_30Rnd,				M,		2000,	0
-		TWP_SRFrame,					*,		2000,	0
-		TWP_SST30,						W,		2000,	0	// 9x19
-		TWP_SST30Orange,				W,		2000,	0	// 9x19
-		TWP_SST30Halloween,				W,		2000,	0	// 9x19
-		TWP_SST30_mag_35Rnd,			M,		700,	0
-		TWP_SST30Halloween_mag_35Rnd,	M,		700,	0
-		TWP_SST30Silenced,				W,		2000,	0	// 9x19
-		TWP_SST30Silenced_mag_35Rnd,	M,		700,	0
-		TWP_Tec9,						W,		2000,	0	// 9x19
-		TWP_Tec9_mag_50Rnd,				M,		700,	0
-		TWP_UMP,						W,		2500,	0	// 45ACP
-		TWP_UMP_mag_35Rnd,				M,		1000,	0
-		TWP_UMPPrimalSaber,				W,		2500,	0	// 45ACP
-		TWP_UMPPrimalSaber_mag_35Rnd,	M,		1000,	0
-		TWP_MPX,						W,		2500,	0	// 9x19
-		TWP_MPX_mag_30Rnd,				M,		1000,	0
-		TWP_MP5Silenced,				W,		2500,	0	// 9x19
-		TWP_MP5Silenced_mag_30Rnd,		M,		1000,	0
-		TWP_PP19Vityaz,					W,		2500,	0	// 9x19
-		TWP_PP19Vityaz_mag_30Rnd,		M,		1000,	0
-		TWP_CX4Storm,					W,		100,	0	// 40SW
-		TWP_CX4Storm_mag_30Rnd,			M,		100,	0
-		TWP_KacPDW,						W,		100,	0	// 6x35
-		TWP_KacPDW_mag_30Rnd,			M,		100,	0
-		TWP_Spectre,					W,		100,	0	// 40SW
-		TWP_Spectre_mag_30Rnd,			M,		100,	0
-		TWP_Mac10,						W,		2500,	0	// 45ACP
-		TWP_Mac10_mag_32Rnd,			M,		1000,	0
-		TWP_Kriss,						W,		2500,	0	// 45ACP
-		TWP_Kriss_mag_33Rnd,			M,		1000,	0
-		
-		
-	<Category> TeddyWeaponPack:Melee
-		TWP_NailedBat,					W,		7500,	0
-		TWP_SawBat,						W,		7500,	0
-		TWP_Mjolnir,					W,		7500,	0
-		TWP_Rose,						W,		7500,	0
-		TWP_Kukri,						W,		7500,	0
-		TWP_Kukri_Gradient,				W,		7500,	0
-		TWP_Kukri_Sakura,				W,		7500,	0
-		TWP_Kukri_Engraved,				W,		7500,	0
-		TWP_SmithWesson_Knife_Green,	W,		7500,	0
-		TWP_SmithWesson_Knife_Black,	W,		7500,	0
-		TWP_HolyMackerel,				W,		7500,	0
-		TWP_NinjaSword,					W,		7500,	0
-		TWP_Axe,						W,		7500,	0
-		TWP_FirefighterAxe,				W,		7500,	0
-		TWP_SledgeHammer,				W,		7500,	0
-		TWP_FlySwatter_Red,				W,		7500,	0
-		TWP_FlySwatter_Grey,			W,		7500,	0
-		TWP_FlySwatter_Green,			W,		7500,	0
-		TWP_Machete_Black,				W,		7500,	0
-		TWP_Machete_Camouflage,			W,		7500,	0
-		TWP_Machete_USA,				W,		7500,	0
-		TWP_Machete_Brazil,				W,		7500,	0
-		TWP_HorseStick,					W,		7500,	0
-		
-	<Category> TeddyWeaponPack:Sniper Rifles
-		TWP_Airbow,						W,		5000,	0	//Arrow
-		TWP_AmericanRifle,				W,		5000,	0	//308.win
-		TWP_AmericanRifle_mag_5Rnd,		M,		2000,	0
-		TWP_Anzio,						W,		5000,	0	//20x102
-		TWP_Anzio_mag_3Rnd,				M,		2000,	0
-		TWP_Arisaka,					W,		5000,	0	//762x54
-		TWP_ASW338,						W,		5000,	0	//308.win
-		TWP_ASW338_mag_5Rnd,			M,		2000,	0
-		TWP_AWMBlack,					W,		5000,	0	//308.win
-		TWP_AWMCustom,					W,		5000,	0
-		TWP_AWMDesert,					W,		5000,	0	//308.win
-		TWP_AWMGreen,					W,		5000,	0
-		TWP_AWMGreenTan,				W,		5000,	0	//308.win
-		TWP_AWM_mag_5Rnd,				M,		2000,	0
-		TWP_BarrettM82,					W,		5000,	0	//50BMG
-		TWP_BarrettM82_mag_10Rnd,		M,		2000,	0
-		TWP_BarrettM82Desert,			W,		5000,	0	//50BMG
-		TWP_BarrettM82Snow,				W,		5000,	0	//50BMG
-		TWP_FRF2,						W,		5000,	0	//308.win
-		TWP_FRF2_mag_5Rnd,				M,		2000,	0
-		TWP_G43,						W,		5000,	0	//762x54
-		TWP_G43_mag_10Rnd,				M,		2000,	0
-		TWP_Kar98,						W,		5000,	0	// 762x54
-		TWP_L96A1,						W,		5000,	0	//308.win
-		TWP_L96A1_mag_5Rnd,				M,		2000,	0	
-		TWP_M1Carbine,					W,		5000,	0 	//30Carbine
-		TWP_M1Carbine_mag_15Rnd,		M,		2000,	0
-		TWP_M1Garand,					W,		5000,	0	// 30-06
-		TWP_M14,						W,		5000,	0 	//308Win
-		TWP_M14_mag_20Rnd,				M,		2000,	0 	
-		TWP_M110,						W,		5000,	0 	//308Win
-		TWP_M110_mag_20Rnd,				M,		2000,	0
-		TWP_M200,						W,		5000,	0	//408 Chey
-		TWP_M200_mag_7Rnd,				M,		2000,	0
-		TWP_M200Old,					W,		5000,	0	//408 Chey
-		TWP_M200Old_mag_7Rnd,			M,		2000,	0
-		TWP_M24BrownTan,				W,		5000,	0	//308.win
-		TWP_M24GreenTan,				W,		5000,	0	//308.win
-		TWP_M24GreenTan2,				W,		5000,	0	//308.win
-		TWP_M24Snow,					W,		5000,	0	//308.win
-		TWP_M24Wood,					W,		5000,	0	//308.win
-		TWP_M24_mag_4Rnd,				M,		2000,	0	
-		TWP_M40A5,						W,		5000,	0	//308.win
-		TWP_M40A5_mag_5Rnd,				M,		2000,	0
-		TWP_MosinNagant,				W,		5000,	0	//762x54
-		TWP_PSG1,						W,		5000,	0	//308Win
-		TWP_PSG1_mag_5Rnd,				M,		2000,	0
-		TWP_R700Mod,					W,		5000,	0	// 300WinMag
-		TWP_R700_mag_10Rnd,				M,		2000,	0
-		TWP_Remington700,				W,		5000,	0	//308.win
-		TWP_RemingtonMSR,				W,		5000,	0	//308.win
-		TWP_RemingtonMSR_mag_5Rnd,		M,		2000,	0
-		TWP_Sako75,						W,		5000,	0	//308.win
-		TWP_SG550S,						W,		5000,	0	//556x45
-		TWP_SSG69,						W,		5000,	0	//308.win
-		TWP_SSG69_mag_5Rnd,				M,		2000,	0
-		TWP_SV98NovaPriam,				W,		5000,	0	//308.win
-		TWP_SV98NovaPriam_mag_5Rnd,		M,		2000,	0
-		TWP_SVDDragunov,				W,		5000,	0	// 762x54	
-		TWP_SVDDragunovTan,				W,		5000,	0	// 762x54
-		TWP_SVDDragunovBrownTan,		W,		5000,	0	// 762x54
-		TWP_SVDDragunovGreyTan,			W,		5000,	0	// 762x54
-		TWP_Dragunov_mag_10Rnd,			M,		2000,	0
-		TWP_SVT38,						W,		5000,	0	// 762x54
-		TWP_SVT38_mag_10Rnd,			M,		2000,	0	
-		TWP_Winchester1873,				W,		5000,	0	// 357
-		TWP_WinchesterRifle,			W,		5000,	0	// 357
-		TWP_McMillanCS5,				W,		5000,	0	// 308.win
-		TWP_VSSK,						W,		5000,	0	// 50bmg
-		TWP_VSSK_mag_5Rnd,				M,		2000,	0
-		TWP_Marlin,						W,		5000,	0	// 357
-		TWP_FRF2BlackDragon,			W,		5000,	0	//308.win
-		TWP_FRF2BlackDragon_mag_10Rnd,	M,		2000,	0
-		TWP_Beowulf,					W,		5000,	0	//50BMG
-		TWP_Beowulf_mag_10Rnd,			M,		2000,	0
-		TWP_AX50,						W,		5000,	0	//50BMG
-		TWP_AX50_mag_10Rnd,				M,		2000,	0
-		TWP_M107,						W,		5000,	0	//50BMG
-		TWP_M107_mag_15Rnd,				M,		2000,	0
-		TWP_Dragunov,					W,		5000,	0	//762x39
-		TWP_Dragunov_mag_8Rnd,			M,		2000,	0
-		TWP_M200Sand,					W,		5000,	0	//408CheyTac
-		TWP_M200Sand_mag_7Rnd,			M,		2000,	0
-		TWP_SKS,						W,		5000,	0	//762x39
-		TWP_SKS_mag_20Rnd,				M,		2000,	0
-		TWP_MosinNagant_Wrapped,		W,		5000,	0	//762x54
-		TWP_T5000,						W,		5000,	0	//300WinMag
-		TWP_T5000_mag_10Rnd,			M,		2000,	0
-		TWP_Tac21,						W,		5000,	0	//300WinMag
-		TWP_Tac21_mag_8Rnd,				M,		2000,	0
-		TWP_DMR25,						W,		5000,	0	//308.win
-		TWP_DMR25_mag_20Rnd,			M,		2000,	0
-		TWP_M200Mod,					W,		5000,	0	//50BMG
-		TWP_M200Mod_mag_10Rnd,			M,		2000,	0
-		
-	
-	<Category> TeddyWeaponPack:Shotguns
-		TWP_AA12,					W,		3000,	0	//12ga
-		TWP_AA12_mag_32Rnd,			M,		1000,	0
-		TWP_AA12Dragon,				W,		3000,	0	//12ga
-		TWP_AA12Dragon_mag_32Rnd,	M,		1000,	0
-		TWP_AA12HellDragon,			W,		3000,	0	//12ga
-		TWP_AA12HellDragon_mag_32Rnd,	M,	1000,	0
-		TWP_BenelliLE,				W,		3000,	0	//12ga
-		TWP_SPAS,					W,		3000,	0	//12ga
-		TWP_SawedShotgun,			W,		3000,	0	//12ga
-		TWP_Remington870Tactical,	W,		3000,	0	//12ga
-		TWP_Mossberg590a1,			W,		3000,	0	//12ga
-		TWP_Mossberg500,			W,		3000,	0	//12ga
-		TWP_KSG,					W,		3000,	0	//12ga
-		TWP_Armsan,					W,		3000,	0	//12ga
-		TWP_ClassicShotgun,			W,		3000,	0	//12ga
-		TWP_BenelliM4,				W,		3000,	0	//12ga
-		TWP_BenelliM3,				W,		3000,	0	//12ga
-		TWP_ImprovisedShotgun,		W,		1000,	0	//12ga
-		TWP_IthacaM37,				W,		1000,	0	//12ga
-		TWP_DoubleBarrelShotgun,	W,		10000,	0	// 20x76
-		TWP_MP153,					W,		1000,	0	//12ga
-		TWP_MP153Black,				W,		1000,	0 	//12ga
-		TWP_M1912,					W,		1000,	0	//12ga
-		TWP_Komrad12,				W,		1000,	0	//12ga
-		TWP_Komrad12_mag_10Rnd,		M,		1000,	0
-		TWP_Toz34,					W,		1000,	0	//20x76
-		TWP_Spas15,					W,		1000,	0	//12ga
-		TWP_Spas15_mag_8Rnd,		M,		1000,	0
-		TWP_AA12Black,				W,		1000,	0	//20x76
-		TWP_AA12Black_mag_32Rnd,	M,		1000,	0
-		TWP_Fabarm_ST12,			M,		1000,	0	//12ga
-		
-	<Category> TeddyWeaponPack:Aussault Rifles
-		TWP_ACE23,					W,		8000,	0	//556x45
-		TWP_ACE23_mag_30Rnd,		M,		2500,	0
-		TWP_Ash12,					W,		8000,	0	//50BMG
-		TWP_Ash12_mag_10Rnd,		M,		2500,	0
-		TWP_ACR,					W,		8000,	0	//762x39
-		TWP_ACR_mag_30Rnd,			M,		2500,	0
-		TWP_ACWR,					W,		8000,	0	//762x39
-		TWP_ACWR_mag_30Rnd,			M,		2500,	0
-		TWP_AEK971,					W,		8000,	0	//545x39
-		TWP_AK9,					W,		8000,	0	//9x39
-		TWP_AK9_mag_30Rnd,			M,		2500,	0
-		TWP_AK12,					W,		8000,	0	//545x39
-		TWP_AK12Green,				W,		8000,	0	//545x39
-		TWP_AK12Tan,				W,		8000,	0	//545x39
-		TWP_AK12_mag_30Rnd,			M,		2500,	0
-		TWP_AK12Green_mag_30Rnd,	M,		2500,	0
-		TWP_AK12Tan_mag_30Rnd,		M,		2500,	0
-		TWP_AK47,					W,		8000,	0	//762x39
-		TWP_AK47_mag_30Rnd,			M,		2500,	0
-		TWP_AK47Blue,				W,		8000,	0	//762x39
-		TWP_AK47Blue_mag_35Rnd,		M,		2500,	0
-		TWP_AK47Boar,				W,		8000,	0	//762x39
-		TWP_AK47Boar_mag_30Rnd,		M,		2500,	0
-		TWP_AK47Dragon,				W,		8000,	0	//762x39
-		TWP_AK47Dragon_mag_30Rnd,	M,		2500,	0
-		TWP_AK47Spider,				W,		8000,	0	//762x39
-		TWP_AK47Spider_mag_30Rnd,	M,		2500,	0
-		TWP_AK47Tactical,			W,		8000,	0	//762x39
-		TWP_AK47Tactical_mag_45Rnd,	M,		2500,	0
-		TWP_AK47Wolf,				W,		8000,	0	//762x39
-		TWP_AK47Wolf_mag_30Rnd,		M,		2500,	0
-		TWP_AK47WhiteWolf,			W,		8000,	0	//762x39
-		TWP_AK47WhiteWolf_mag_30Rnd,		M,		2500,	0
-		TWP_AK103,					W,		8000,	0	//762x39
-		TWP_AK103_mag_30Rnd,		M,		2500,	0 
-		TWP_AK105,					W,		8000,	0	//545x39
-		TWP_AK105_mag_30Rnd,		M,		2500,	0
-		TWP_AMD,					W,		8000,	0	//762x39
-		TWP_AMD_mag_30Rnd,			M,		2500,	0
-		TWP_AMDSpaceship,			W,		8000,	0	//762x39
-		TWP_AMDSpaceship_mag_30Rnd,	M,		2500,	0
-		TWP_AN94,					W,		8000,	0	//545x39
-		TWP_AN94_mag_30Rnd,			M,		2500,	0
-		TWP_AR15,					W,		8000,	0	//556x45
-		TWP_AR15_mag_30Rnd,			M,		2500,	0
-		TWP_AR15_Cannabis,			W,		8000,	0	//556x45
-		TWP_AR15Cannabis_mag_30Rnd,	M,		2500,	0
-		TWP_AR70,					W,		8000,	0	//556x45
-		TWP_AR70_mag_30Rnd,			M,		2500,	0
-		TWP_ARX160,					W,		8000,	0	//556x45
-		TWP_ARX160_mag_30Rnd,		M,		2500,	0
-		TWP_ASR,					W,		8000,	0	//556x45
-		TWP_ASR_mag_40Rnd,			M,		2500,	0
-		TWP_ASVal,					W,		8000,	0	//762x39
-		TWP_ASVal_mag_30Rnd,		M,		2500,	0
-		TWP_TWP_SteyrAugA3,			W,		8000,	0	//556x45
-		TWP_SteyrAug_mag_45Rnd,		M,		2500,	0
-		TWP_CalifasNomad,			W,		8000,	0	//556x45
-		TWP_CalifasNomad_mag_40Rnd,	M,		2500,	0
-		TWP_CZ805,					W,		8000,	0	//556x45
-		TWP_CZ805_mag_30Rnd,		M,		2500,	0
-		TWP_CZScorpion,				W,		8000,	0	//9x19
-		TWP_CZScorpion_mag_30Rnd,	M,		2500,	0
-		TWP_Famas,					W,		8000,	0	//556x45
-		TWP_Famas_mag_35Rnd,		M,		2500,	0
-		TWP_FamasSpecialOps,		W,		8000,	0	//556x45
-		TWP_FamasSpecialOps_mag_40Rnd,		M,		2500,	0
-		TWP_FamasTan,				W,		8000,	0	//556x45
-		TWP_FamasTan_mag_35Rnd,		M,		2500,	0
-		TWP_FG42,					W,		8000,	0	//308.win
-		TWP_FG42_mag_25Rnd,			M,		2500,	0
-		TWP_FG42Old,				W,		8000,	0	//308.win
-		TWP_FG42Old_mag_25Rnd,		M,		2500,	0
-		TWP_FNF2000,				W,		8000,	0	//556x45
-		TWP_FNF2000Beige,			W,		8000,	0	//556x45
-		TWP_FNFNC,					W,		8000,	0	//556x45
-		TWP_FNFNC_mag_30Rnd,		M,		2500,	0
-		TWP_FNM29,					W,		8000,	0	//308.win
-		TWP_FNM29_mag_30Rnd,		M,		2500,	0
-		TWP_GalilSAR,				W,		8000,	0	//30Carbine
-		TWP_GalilSAR_mag_35Rnd,		M,		2500,	0
-		TWP_G56,					W,		8000,	0	//556x45
-		TWP_G56_mag_32Rnd,			M,		2500,	0
-		TWP_G3A3,					W,		8000,	0	//308.win
-		TWP_G3A3_mag_20Rnd,			M,		2500,	0
-		TWP_G36,					W,		8000,	0	//556x45
-		TWP_G36_mag_30Rnd,			M,		2500,	0
-		TWP_G36c,					W,		8000,	0	//556x45
-		TWP_G36c_mag_30Rnd,			M,		2500,	0
-		TWP_HK33,					W,		8000,	0	//556x45
-		TWP_HK33_mag_30Rnd,			M,		2500,	0
-		TWP_HK416,					W,		8000,	0	//556x45
-		TWP_HK416Blue,				W,		8000,	0	//556x45
-		TWP_HK416Desert,			W,		8000,	0	//556x45
-		TWP_HK416Forest,			W,		8000,	0	//556x45
-		TWP_HK416Jungle,			W,		8000,	0	//556x45
-		TWP_HK416Urban,				W,		8000,	0	//556x45
-		TWP_HK416Wood,				W,		8000,	0	//556x45
-		TWP_HK416_mag_40Rnd,		M,		2500,	0
-		TWP_HK417,					W,		8000,	0	//556x45
-		TWP_HK417_mag_30Rnd,		M,		2500,	0
-		TWP_HKCarabine,				W,		8000,	0	//556x45
-		TWP_HKCarabine_mag_30Rnd,	M,		2500,	0
-		TWP_HoneyBadger,			W,		8000,	0	//30-06
-		TWP_HoneyBadger_mag_40Rnd,	M,		2500,	0
-		TWP_HoneyBadgerBlueWhite,	W,		8000,	0
-		TWP_HoneyBadgerBW_mag_40Rnd, M,		2500, 	0
-		TWP_HoneyBadgerGold,		W,		8000,	0	//30-06
-		TWP_HoneyBadgerGold_mag_40Rnd,	M,		2500,	0
-		TWP_IA2,					W,		8000,	0	//556x45
-		TWP_IA2_mag_30Rnd,			M,		2500,	0
-		TWP_K2C,					W,		8000,	0	//556x45
-		TWP_K2C_mag_30Rnd,			M,		2500,	0
-		TWP_LR300,					W,		8000,	0	//556x45
-		TWP_LR300Camo,				W,		8000,	0	//556x45
-		TWP_LR300_mag_30Rnd,		M,		2500,	0
-		TWP_M4A1Black,				W,		8000,	0
-		TWP_M4V5,					W,		8000,	0	//556x45
-		TWP_M4V5_mag_30Rnd,			M,		2500,	0
-		TWP_M16,					W,		8000,	0	//556x45
-		TWP_M16A1Black,				W,		8000,	0	//556x45
-		TWP_M16A1Wood,				W,		8000,	0	//556x45
-		TWP_M16A1_mag_20Rnd,		M,		2500,	0
-		TWP_M16A2,					W,		8000,	0	//556x45
-		TWP_M16_mag_20Rnd,			M,		2500,	0
-		TWP_M16A3,					W,		8000,	0	//556x45
-		TWP_M16A4_handle,			*,		500,	0
-		TWP_M16A4,					W,		8000,	0	//556x45
-		TWP_M16A4_mag_30Rnd,		M,		2500,	0
-		TWP_M134,					W,		8000,	0	//308Win
-		TWP_M134_mag_500Rnd,		M,		2500,	0
-		TWP_M134_mag_750Rnd,		M,		2500,	0
-		TWP_M60,					W,		8000,	0	//308.win
-		TWP_M60_mag_200Rnd,			M,		2500,	0
-		TWP_M249,					W,		8000,	0	//556x45
-		TWP_M249_mag_200Rnd,		M,		2500,	0
-		TWP_MK14,					W,		8000,	0	//308.win
-		TWP_MK14_mag_30Rnd,			M,		2500,	0
-		TWP_MK18,					W,		8000,	0	//556x45											
-		TWP_MK18_mag_100Rnd,		M,		2500,	0
-		TWP_MSBS_GrotBGold,			W,		8000,	0	//556x45
-		TWP_MSBS_GrotBGold_mag_30Rnd,	M,		2500,	0
-		TWP_MSBS_GrotC,				W,		8000,	0	//556x45
-		TWP_MSBS_GrotC_mag_30Rnd,	M,		2500,	0
-		TWP_OTSGrosa,				W,		8000,	0	//762x39
-		TWP_OTSGrosa_mag_30Rnd,		M,		2500,	0
-		TWP_ParaSA58,				W,		8000,	0	//308.win
-		TWP_ParaSA58_mag_20Rnd,		M,		2500,	0
-		TWP_PindadSS2,				W,		8000,	0	//556x45
-		TWP_PindadSS2_mag_30Rnd,	M,		2500,	0
-		TWP_PP19Bison,				W,		8000,	0	//9x19
-		TWP_PP19Bison_mag_64Rnd,	M,		2500,	0
-		TWP_PPSH,					W,		8000,	0	//45ACP
-		TWP_PPSH_mag_50Rnd,			M,		2500,	0
-		TWP_PKM,					W,		8000,	0	//762x54
-		TWP_PKM_mag_100Rnd,			M,		2500,	0
-		TWP_QBZ03,					W,		8000,	0	//556x45
-		TWP_QBZ03_mag_30Rnd,		M,		2500,	0
-		TWP_RemingtonR5,			W,		8000,	0	//556x45
-		TWP_RemingtonR5_mag_40Rnd,	M,		2500,	0
-		TWP_RK62,					W,		8000,	0	//762x39
-		TWP_RK62_mag_30Rnd,			M,		2500,	0
-		TWP_Ruger556,				W,		8000,	0	//556x45
-		TWP_Ruger556_MagPul,		W,		8000,	0	//556x45
-		TWP_Ruger556_mag_30Rnd,		M,		2500,	0
-		TWP_RPK16,					W,		8000,	0	//762x39
-		TWP_RPK16_mag_100Rnd,		M,		2500,	0
-		TWP_RPK16Green,				W,		8000,	0	//762x39
-		TWP_RPK16Green_mag_100Rnd,	M,		2500,	0
-		TWP_RPK16Tan,				W,		8000,	0	//762x39
-		TWP_RPK16Tan_mag_100Rnd,	M,		2500,	0
-		TWP_ScarL,					W,		8000,	0	//556x45
-		TWP_ScarL_mag_30Rnd,		M,		2500,	0
-		TWP_ScarH,					W,		8000,	0	//308.win
-		TWP_ScarH_mag_30Rnd,		M,		2500,	0
-		TWP_ScarDragon,				W,		8000,	0	//308.win
-		TWP_ScarDragon_mag_50Rnd,	M,		2500,	0
-		TWP_ScarLKBlue,				W,		8000,	0	//762x39
-		TWP_ScarLKBlueCamo,			W,		8000,	0	//762x39
-		TWP_ScarLKGreen,			W,		8000,	0	//762x39
-		TWP_ScarLKGreenCamo,		W,		8000,	0	//762x39
-		TWP_ScarLKTan,				W,		8000,	0	//762x39
-		TWP_ScarLK_mag_30Rnd,		M,		2500,	0
-		TWP_SteyrAug_Olive,			W,		8000,	0	//556x45
-		TWP_SteyrAug_Tan,			W,		8000,	0	//556x45
-		TWP_SteyrAug_Black,			W,		8000,	0	//556x45
-		TWP_SteyrAug_mag_45Rnd,		M,		2500,	0
-		TWP_STG44,					W,		8000,	0	//9x19
-		TWP_STG44_mag_30Rnd,		M,		2500,	0
-		TWP_SG550,					W,		8000,	0	//556x45
-		TWP_SG550_mag_30Rnd,		M,		2500,	0
-		TWP_SG553,					W,		8000,	0	//556x45
-		TWP_SG553_mag_30Rnd,		M,		2500,	0
-		TWP_SR47,					W,		8000,	0	//7.62x39
-		TWP_SR47_mag_30Rnd,			M,		2500,	0
-		TWP_StenGun,				W,		8000,	0	//9x19
-		TWP_StenGun_mag_32Rnd,		M,		2500,	0
-		TWP_Sterling,				W,		8000,	0	//9x19
-		TWP_Sterling_mag_34Rnd,		M,		2500,	0
-		TWP_STG58,					W,		8000,	0	//308.win
-		TWP_STG58_mag_20Rnd,		M,		2500,	0
-		TWP_Stoner63,				W,		8000,	0	//556x45
-		TWP_Stoner63_mag_30Rnd,		M,		2500,	0
-		TWP_Tar21,					W,		8000,	0	//556x45
-		TWP_Tar21_mag_30Rnd,		M,		2500,	0
-		TWP_Thompson,				W,		8000,	0	//45ACP
-		TWP_Thompson_mag_50Rnd,		M,		2500,	0
-		TWP_ThompsonMK2,			W,		8000,	0	//45ACP
-		TWP_ThompsonMK2_mag_50Rnd,	M,		2500,	0
-		TWP_Type64,					W,		8000,	0	//308.win
-		TWP_Type64_mag_20Rnd,		M,		2500,	0
-		TWP_Type89,					W,		8000,	0	//556x45
-		TWP_Type89_mag_30Rnd,		M,		2500,	0
-		TWP_XM8,					W,		8000,	0	//556x45
-		TWP_XM8_mag_30Rnd,			M,		2500,	0
-		TWP_MiniGun,				W,		8000,	0	//308Win
-		TWP_MiniGun_mag_300Rnd,		M,		2500,	0
-		TWP_G36x,					W,		8000,	0	//556x45
-		TWP_G36x_mag_40Rnd,			M,		2500,	0
-		TWP_M4A1,					W,		8000,	0	//556x45
-		TWP_M4A1_mag_35Rnd,			M,		2500,	0
-		TWP_L85A2,					W,		8000,	0	//556x45
-		TWP_L85A2_mag_30Rnd,		M,		2500,	0
-		TWP_SG556,					W,		8000,	0	//556x45
-		TWP_SG556_mag_30Rnd,		M,		2500,	0
-		TWP_MG42,					W,		8000,	0	//792x57
-		TWP_MG42_mag_150Rnd,		M,		2500,	0
-		TWP_CalifasNomad,			W,		8000,	0	//556x45
-		TWP_CalifasNomad_mag_40Rnd,	M,		2500,	0
-		TWP_AK107,					W,		8000,	0	//545x39
-		TWP_AK107_mag_30Rnd,		M,		2500,	0
-		TWP_AK107Camouflage,		W,		8000,	0	//545x39
-		TWP_AK107Camouflage_mag_30Rnd,	M,		2500,	0
-		TWP_FNFAL,					W,		8000,	0	//308Win
-		TWP_FNFAL_mag_25Rnd,		M,		2500,	0
-		TWP_MAB38,					W,		8000,	0	//9x19
-		TWP_MAB38_mag_40Rnd,		M,		2500,	0
-		TWP_Browning1928,			W,		8000,	0	//792x57
-		TWP_Browning1928_mag_20Rnd,	M,		2500,	0
-		TWP_PKP,					W,		8000,	0	//762x54
-		TWP_PKP_mag_200Rnd,			M,		2500,	0
-		TWP_MK14,					W,		8000,	0	//308Win
-		TWP_MK14Sand,				W,		8000,	0	//308Win
-		TWP_MK14_mag_20Rnd,			M,		2500,	0
-		TWP_AKS74U,					W,		8000,	0
-		TWP_Vepr_Sok94,				W,		8000,	0
-		TWP_Vepr_Sok94_mag_10Rnd,	M,		2500,	0
-		TWP_AR15_USA,				W,		8000,	0	//556x45
-		TWP_AR15USA_mag_30Rnd,		M,		2500,	0
-		TWP_AR15_Aztec,				W,		8000,	0	//556x45
-		TWP_AR15Aztec_mag_30Rnd,	M,		2500,	0
-		TWP_AR15_Urban,				W,		8000,	0	//556x45
-		TWP_AR15Urban_mag_30Rnd,	M,		2500,	0
-		TWP_AR15Snow,				W,		8000,	0	//556x45
-		TWP_AR15Snow_mag_30Rnd,		M,		2500,	0
-		TWP_AR15Skull,				W,		8000,	0	//556x45
-		TWP_AR15Skull_mag_30Rnd,	M,		2500,	0
-		TWP_Bushmaster_M17SMod,		W,		8000,	0	// 300WinMag
-		TWP_Bushmaster_M17S_mag_30Rnd,	M,		2500,	0
-		TWP_LAR,					W,		8000,	0	//308Win
-		TWP_LAR_mag_20Rnd,			M,		2500,	0
-		TWP_ARX160Black,			W,		8000,	0	//556x45
-		TWP_ARX160_mag_30Rnd,		M,		2500,	0
-		
-		
-	<Category> TeddyWeaponPack:Bayonets
-		TWP_BoarBayonet,			*,		1500,	0
-		TWP_WolfBayonet,			*,		1500,	0
-		TWP_WhiteWolfBayonet,		*,		1500,	0
-		TWP_M16_Bayonet,			*,		1500,	0
-		TWP_Kar98_Bayonet,			*,		1500,	0
-		TWP_Arisaka_Bayonet			*,		1500,   0
-		
-	<Category> TeddyWeaponPack:Ammo
-		TWP_AmmoBox_20x76_10rnd,	*,		200,	0
-		TWP_AmmoBox_50BMG_10rnd,	*,		200,	0
-		TWP_AmmoBox_3006_20Rnd,		*,		200,	0
-		TWP_AmmoBox_792x57_20Rnd,	*,		200,	0
-		TWP_AmmoBox_44mag_30Rnd,	*,		300,	0
-		TWP_AmmoBox_50AE_20Rnd,		*,		200,	0
-		TWP_AmmoBox_40SW_30Rnd,		*,		300,	0
-		TWP_AmmoBox_46x30_30Rnd,	*,		300,	0
-		TWP_AmmoBox_57x28_30Rnd,	*,		300,	0
-		TWP_AmmoBox_762x25_30Rnd,	*,		300,	0
-		TWP_Ammobox_408Cheytac_10Rnd,	*,	300,	0
-		TWP_Ammobox_6x35_20Rnd,		*,		300,	0
-		TWP_AmmoBox_30Carbine_30Rnd,	*,	300,	0
-		TWP_AmmoBox_300WinMag_20Rnd,	*,	300,	0
-		TWP_AmmoBox_20x102mm_10Rnd,		*,	300,	0
-		TWP_Ammo_30Carbine,			1,		20,		0
-		TWP_Ammo_300WinMag,			1,		20,		0
-		TWP_Ammo_20x102mm,			1,		20,		0
-		TWP_Ammo_20x76,				1,		20,		0
-		TWP_Ammo_50BMG,				1,		20,		0
-		TWP_Ammo_3006,				1,		10,		0
-		TWP_Ammo_792x57,			1,		10,		0
-		TWP_Ammo_44mag,				1,		10,		0
-		TWP_Ammo_50AE,				1,		10,		0
-		TWP_Ammo_40SW,				1,		10,		0
-		TWP_Ammo_46x30,				1,		10,		0
-		TWP_Ammo_57x28,				1,		10,		0
-		TWP_Ammo_Arrow,				1,		10,		0
-		TWP_Ammo_408Cheytac,		1,		10,		0
-		TWP_Ammo_762x25,			1,		10,		0
-		TWP_Ammo_6x35,				1,		10,		0
-		TWP_Ammo_500SW_Mag,			1,		10,		0
-	
-	<Category> TeddyWeaponPack:Lights
-		TWP_MK23Light,				*,		500,	0
-		TWP_GlockLight,				*,		500,	0
-		TWP_PistolLight,			*,		3000,	0
-		TWP_Weaponlight,			*,		5000,	0
-		
-	<Category> TeddyWeaponPack:Suppressors
-		TWP_G3A3_Suppressor,		*,		1500,	0
-		TWP_USPPsychodelic_Supressor,		*,		1000,	0
-		TWP_USPChromatic_Supressor,	*,		1000,	0
-		TWP_M200Old_Suppressor,		*,		1000,	0
-		TWP_BarrettM82_Suppressor,	*,		1000,	0
-		TWP_Ash12_Suppressor,		*,		1000,	0
-		TWP_AKSuppressor,			*,		1000,	0
-		TWP_M4Suppressor,			*,		1000,	0
-		TWP_PistolSuppressor,		*,		1000,	0
-		
-	<Category> TeddyWeaponPack:Optics		
-		TWP_M16A4_handle,			*,		2000,	0
-		TWP_Optic_Vlife,			*,		2000,	0
-		TWP_Optic_NCSTAR,			*,		2000,	0
-		TWP_Optic_Steyr,			*,		2000,	0
-		TWP_Optic_Camouflage,		*,		2000,	0
-		TWP_Optic_Snowy,			*,		2000,	0
-		TWP_Optic_FG42,				*,		2000,	0
-		TWP_TrijiconACOG,			*,		2000,	0
-		TWP_Optic_reddot,			*,		2000,	0
-		TWP_Optic_Redcross,			*,		2000,	0
-		TWP_Optic_Acog,				*,		2000,	0
-		TWP_LongRangeOptic_Tan,		*,		2000,	0
-		TWP_LongRangeOptic_Green,	*,		2000,	0
-		TWP_LongRangeOptic_Black,	*,		2000,	0
-		TWP_Optic_BlackDragon,		*,		2000,	0
-		TWP_OldRifle_Optic,			*,		2000,	0
-		TWP_OldRifle_Optic2,		*,		2000,	0
-		TWP_Optic_G3A3,				*,		2000,	0
-		TWP_M16A4_handle,			*,		2000,	0
-		TWP_Optic_AX50,				*,		2000,	0
-		TWP_Optic_Aimdot,			*,		2000,	0
-		
-	
-	<Category> TeddyWeaponPack:Attachments
-		TWP_Sling,					*,		1000,	0
-		TWP_MarlinHolster,			*,		1000,	0
-		TWP_AX50_Bttstck,			*,		1000,	0
-		
-	<Category> TeddyWeaponPack:Halloween
-		TWP_Coffin,					M,		15000,	0
-		TWP_WitchHat,				*,		2000,	0
-		TWP_Scythe,					W,		7500,	0
-		TWP_BloodyMachete,			W,		7500,	0
-		TWP_JasonMachete,			W,		7500,	0
-		TWP_PumpkinHead,			*,		1200,	0
-		TWP_JasonMask,				*,		1200,	0
-		TWP_PNade,					1,		3000,	0
-		TWP_ScaryPNade,				1,		3000,	0
-		TWP_GhostBackpack_Angry,	*,		130,	0
-		TWP_GhostBackpack_Vampire,	*,		130,	0
-		TWP_GhostBackpack_Scared,	*,		130,	0
-		TWP_MiniReaper,				*,		130,	0
-		TWP_Crow,					*,		130,	0
-		
-	<Category> TeddyWeaponPack:Covid 
-		TWP_CharminBox,				*,		2000,	0
-		TWP_Scottex_SuperSoft,		*,		2000,	0
-		TWP_Scottex_Soft,			*,		2000,	0
-		TWP_Covid19Head_Red,		*,		1200,	0
-		TWP_Covid19Head_green,		*,		1200,	0
-		TWP_Covid19Head_orange,		*,		1200,	0
-		TWP_Covid19Head_yellow,		*,		1200,	0
-		TWP_Desinfectant,			*,		5000,	0
-		TWP_ToiletRoll,				2,		3000,	0
-		TWP_SurgicalMask,			*,		1500,	0
-		
-	
-	<Category> TeddyWeaponPack:Grenades
-		TWP_JackintheBox,				1,		2000,	0
-		TWP_Stielhandgranate,			1,		2000,	0
-		TWP_HolyGrenade,				1,		2000,	0
-		TWP_MK2_Grenade,				1,		2000,	0
-		TWP_Zarya3_StunGrenade,			1,		2000,	0
-		TWP_M69,						1,		2000,	0
-		TWP_M26,						1,		2000,	0
-		TWP_T13_Beano,					1,		2000,	0
-		
-	<Category> TeddyWeaponPack:Cosmetics
-		TWP_Cosmetic_Beaver,		*,		1000,	0
-		TWP_Cosmetic_BodyMale,		*,		1000,	0
-		TWP_Cosmetic_BodyFemale,	*,		1000,	0
-		TWP_Cosmetic_Cobra,			*,		1000,	0
-		TWP_Cosmetic_DeadFace,		*,		1000,	0
-		TWP_Cosmetic_DemonSkull,	*,		1000,	0
-		TWP_Cosmetic_Dice,			*,		1000,	0
-		TWP_Cosmetic_Dino,			*,		1000,	0
-		TWP_Cosmetic_Heart,			*,		1000,	0
-		TWP_Cosmetic_Mushroom,		*,		1000,	0
-		TWP_Cosmetic_Neversoft,		*,		1000,	0
-		TWP_Cosmetic_Orion,			*,		1000,	0
-		TWP_Cosmetic_Peacekeeper,	*,		1000,	0
-		TWP_Cosmetic_PX,			*,		1000,	0
-		TWP_Cosmetic_Flag,			*,		1000,	0
-		TWP_Cosmetic_Ronnie,		*,		1000,	0
-		TWP_Cosmetic_Sandwich,		*,		1000,	0
-		TWP_Cosmetic_Scorpion,		*,		1000,	0
-		TWP_Cosmetic_CactusJack,	*,		1000,	0
-		TWP_Cosmetic_ShockSentry,	*,		1000,	0
-		TWP_Cosmetic_Smuggypuss,	*,		1000,	0
-		TWP_Cosmetic_Snowman,		*,		1000,	0
-		TWP_Cosmetic_TeaBag,		*,		1000,	0
-		TWP_Cosmetic_TeddyBear,		*,		1000,	0
-		TWP_Cosmetic_Tiki,			*,		1000,	0
-		TWP_Cosmetic_Trashcan,		*,		1000,	0
-		TWP_Cosmetic_Turbo,			*,		1000,	0
-		TWP_Cosmetic_Zombiehead,	*,		1000,	0
-		TWP_Cosmetic_Knife,			*,		1000,	0
-		TWP_Cosmetic_Raven,			*,		1000,	0
-		TWP_Cosmetic_HeartPizza,	*,		1000,	0
-		TWP_Cosmetic_GoldenGloves,	*,		1000,	0
-		TWP_Cosmetic_Fossil,		*,		1000,	0
-		TWP_Cosmetic_HandGun,		*,		1000,	0
-		TWP_Cosmetic_DogTag,		*,		1000,	0
-		TWP_Cosmetic_CowBoyBoot,	*,		1000,	0
-		TWP_Cosmetic_BurgerTown,	*,		1000,	0
-		TWP_Cosmetic_BentoBox,		*,		1000,	0
-		TWP_Cosmetic_BearTrap,		*,		1000,	0
-		TWP_Cosmetic_Bacon,			*,		1000,	0
-		TWP_Cosmetic_Anchor,		*,		1000,	0
-		TWP_Cosmetic_50Caliber,		*,		1000,	0
+		"TWP_ArexZero,									1,      -1,     -1,     10,     0.5",
+		"TWP_ArexZero_mag_18Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_Beretta92FS,								1,      -1,     -1,     10,     0.5",
+		"TWP_Beretta92FSDesert,							1,      -1,     -1,     10,     0.5",
+		"TWP_BerettaGoldenFlower,						1,      -1,     -1,     10,     0.5",
+		"TWP_Beretta92FS_mag_15Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_BerettaDEBurton,							1,      -1,     -1,     10,     0.5",
+		"TWP_BerettaDEBlack,							1,      -1,     -1,     10,     0.5",
+		"TWP_BerettaDE_mag_15Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_BerettaPX4,								1,      -1,     -1,     10,     0.5",
+		"TWP_BerettaPX4_mag_17Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_BerettaSwordCutlass,						1,      -1,     -1,     10,     0.5",
+		"TWP_BerettaSwordCutlass_mag_20Rnd,				1,      -1,     -1,     10,     0.5",
+		"TWP_Colt1911Gold,								1,      -1,     -1,     10,     0.5",
+		"TWP_Colt1911Gold_mag_7Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_Colt1911Holy,								1,      -1,     -1,     10,     0.5",
+		"TWP_Colt1911Holy_mag_7Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_Colt1911Stainless,							1,      -1,     -1,     10,     0.5",
+		"TWP_Colt1911Stainless_mag_7Rnd,				1,      -1,     -1,     10,     0.5",
+		"TWP_1911_WilsonCombat,							1,      -1,     -1,     10,     0.5",
+		"TWP_1911_WilsonCombat_mag_7Rnd,				1,      -1,     -1,     10,     0.5",
+		"TWP_CZ75M,										1,      -1,     -1,     10,     0.5",
+		"TWP_CZ75M_mag_20Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_DesertEagle,								1,      -1,     -1,     10,     0.5",
+		"TWP_DesertEagleSky,							1,      -1,     -1,     10,     0.5",
+		"TWP_DesertEagle_mag_7Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_DesertEagleFalcon,							1,      -1,     -1,     10,     0.5",
+		"TWP_DesertEagleFalcon_mag_7Rnd,				1,      -1,     -1,     10,     0.5",
+		"TWP_FN57Pink,									1,      -1,     -1,     10,     0.5",
+		"TWP_FN57Pink_mag_15Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_FN57Toxic,									1,      -1,     -1,     10,     0.5",
+		"TWP_FN57Toxic_mag_15Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_FNS9,										1,      -1,     -1,     10,     0.5",
+		"TWP_FNS9_mag_18Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Glock18Egyptian,							1,      -1,     -1,     10,     0.5",
+		"TWP_Glock18Egyptian_mag_17Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_Glock18Honor,								1,      -1,     -1,     10,     0.5",
+		"TWP_Glock18Honor_mag_17Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_Glock18Jungle,								1,      -1,     -1,     10,     0.5",
+		"TWP_Glock18Jungle_mag_17Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_Glock18Rebel,								1,      -1,     -1,     10,     0.5",
+		"TWP_Glock18Rebel_mag_17Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_Glock18Weasel,								1,      -1,     -1,     10,     0.5",
+		"TWP_Glock18Weasel_mag_17Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_Glock18Wolf,								1,      -1,     -1,     10,     0.5",
+		"TWP_Glock18Wolf_mag_17Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_Glock19M,									1,      -1,     -1,     10,     0.5",
+		"TWP_Glock19M_mag_15Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_Glock42,									1,      -1,     -1,     10,     0.5",
+		"TWP_Glock42_mag_12Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Glock42_mag_50Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_GlockZapper,								1,      -1,     -1,     10,     0.5",
+		"TWP_GlockZapper_mag_15Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_HK47,										1,      -1,     -1,     10,     0.5",
+		"TWP_HK47_mag_15Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_HK47Tan,									1,      -1,     -1,     10,     0.5",
+		"TWP_HK47Tan_mag_15Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_LugerP08,									1,      -1,     -1,     10,     0.5",
+		"TWP_LugerP08_mag_8Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_MK23Socom,									1,      -1,     -1,     10,     0.5",
+		"TWP_MK23Socom_mag_12Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_MP40,										1,      -1,     -1,     10,     0.5",
+		"TWP_MP40_mag_15Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_MP443,										1,      -1,     -1,     10,     0.5",
+		"TWP_MP443_mag_18Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_P8,										1,      -1,     -1,     10,     0.5",
+		"TWP_P8_mag_15Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_P2000BlueGirl,								1,      -1,     -1,     10,     0.5",
+		"TWP_P2000BlueGirl_mag_16Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_P2000Protector,							1,      -1,     -1,     10,     0.5",
+		"TWP_P2000Protector_mag_16Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_P2000Renegade,								1,      -1,     -1,     10,     0.5",
+		"TWP_P2000Renegade_mag_16Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_P2000Toxic,								1,      -1,     -1,     10,     0.5",
+		"TWP_P2000Toxic_mag_16Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_SigSauerP226,								1,      -1,     -1,     10,     0.5",
+		"TWP_SigSauerP226_mag_12Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_SigSauerP229,								1,      -1,     -1,     10,     0.5",
+		"TWP_SigSauerP229_mag_13Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_SigSauerP250,								1,      -1,     -1,     10,     0.5",
+		"TWP_SigSauerP250_mag_10Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_SigSauerP250Colored,						1,      -1,     -1,     10,     0.5",
+		"TWP_SigSauerP250Colored_mag_10Rnd, 			1,      -1,     -1,     10,     0.5",
+		"TWP_SigSauerP250Patrician,						1,      -1,     -1,     10,     0.5",
+		"TWP_SigSauerP250Patrician_mag_10Rnd, 			1,      -1,     -1,     10,     0.5",
+		"TWP_SigSauerP250PeaCock,						1,      -1,     -1,     10,     0.5",
+		"TWP_SigSauerP250PeaCock_mag_10Rnd, 			1,      -1,     -1,     10,     0.5",
+		"TWP_SigSauerP250Wingshot,						1,      -1,     -1,     10,     0.5",
+		"TWP_SigSauerP250Wingshot_mag_10Rnd, 			1,      -1,     -1,     10,     0.5",
+		"TWP_SP1Vektor,									1,      -1,     -1,     10,     0.5",
+		"TWP_SP1Vektor_mag_15Rnd, 						1,      -1,     -1,     10,     0.5",
+		"TWP_SR1Gyrza,									1,      -1,     -1,     10,     0.5",
+		"TWP_SR1Gyrza_mag_18Rnd, 						1,      -1,     -1,     10,     0.5",
+		"TWP_Tokarev,									1,      -1,     -1,     10,     0.5",
+		"TWP_Tokarev_mag_8Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_USPChromatic,								1,      -1,     -1,     10,     0.5",
+		"TWP_USPChromatic_mag_15Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_USPPsychodelic,							1,      -1,     -1,     10,     0.5",
+		"TWP_USPPsychodelic_mag_15Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_WaltherP99,								1,      -1,     -1,     10,     0.5",
+		"TWP_WaltherP99_mag_15Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_WaltherQ5,									1,      -1,     -1,     10,     0.5",
+		"TWP_WaltherQ5_mag_15Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_Glock17,									1,      -1,     -1,     10,     0.5",
+		"TWP_Glock17_mag_19Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_WaltherPPK,								1,      -1,     -1,     10,     0.5",
+		"TWP_WaltherPPK_mag_8Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_BerettaSamuraiEdge,						1,      -1,     -1,     10,     0.5",
+		"TWP_BerettaSamuraiEdge_mag_18Rnd,				1,      -1,     -1,     10,     0.5",
+		"TWP_ColtPython,								1,      -1,     -1,     10,     0.5",
+		"TWP_MagnumCompetitor,							1,      -1,     -1,     10,     0.5",
+		"TWP_Taurus,									1,      -1,     -1,     10,     0.5",
+		"
+	<Cat"egory> TeddyWeaponPack:Sub Machine Guns
+		"TWP_AEK919,									1,      -1,     -1,     10,     0.5",
+		"TWP_AEK919_mag_20Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Auto9,										1,      -1,     -1,     10,     0.5",
+		"TWP_Auto9_mag_25Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_MP7,										1,      -1,     -1,     10,     0.5",
+		"TWP_MP7Eagle,									1,      -1,     -1,     10,     0.5",
+		"TWP_MP7Eagle_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_MP7_mag_30Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_MP7_magCoupled_60Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_MP7_RoundMag_60Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_P90,										1,      -1,     -1,     10,     0.5",
+		"TWP_P90_mag_50Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_P90Arctic,									1,      -1,     -1,     10,     0.5",
+		"TWP_P90Arctic_mag_50Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_P90Colored,								1,      -1,     -1,     10,     0.5",
+		"TWP_P90Colored_mag_50Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_P90Shallow_Grave,							1,      -1,     -1,     10,     0.5",
+		"TWP_P90Shallow_Grave_mag_50Rnd,				1,      -1,     -1,     10,     0.5",
+		"TWP_Uzi,										1,      -1,     -1,     10,     0.5",
+		"TWP_Uzi_mag_20Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_FMG9,										1,      -1,     -1,     10,     0.5",
+		"TWP_FMG9_mag_32Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_SRGlock,									1,      -1,     -1,     10,     0.5",
+		"TWP_SRGlock_mag_33Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_SR2,										1,      -1,     -1,     10,     0.5",
+		"TWP_SR2_mag_20Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_SR3,										1,      -1,     -1,     10,     0.5",
+		"TWP_SR3_mag_30Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_SRFrame,									1,      -1,     -1,     10,     0.5",
+		"TWP_SST30,										1,      -1,     -1,     10,     0.5",
+		"TWP_SST30Orange,								1,      -1,     -1,     10,     0.5",
+		"TWP_SST30Halloween,							1,      -1,     -1,     10,     0.5",
+		"TWP_SST30_mag_35Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_SST30Halloween_mag_35Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_SST30Silenced,								1,      -1,     -1,     10,     0.5",
+		"TWP_SST30Silenced_mag_35Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_Tec9,										1,      -1,     -1,     10,     0.5",
+		"TWP_Tec9_mag_50Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_UMP,										1,      -1,     -1,     10,     0.5",
+		"TWP_UMP_mag_35Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_UMPPrimalSaber,							1,      -1,     -1,     10,     0.5",
+		"TWP_UMPPrimalSaber_mag_35Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_MPX,										1,      -1,     -1,     10,     0.5",
+		"TWP_MPX_mag_30Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_MP5Silenced,								1,      -1,     -1,     10,     0.5",
+		"TWP_MP5Silenced_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_PP19Vityaz,								1,      -1,     -1,     10,     0.5",
+		"TWP_PP19Vityaz_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_CX4Storm,									1,      -1,     -1,     10,     0.5",
+		"TWP_CX4Storm_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_KacPDW,									1,      -1,     -1,     10,     0.5",
+		"TWP_KacPDW_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Spectre,									1,      -1,     -1,     10,     0.5",
+		"TWP_Spectre_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Mac10,										1,      -1,     -1,     10,     0.5",
+		"TWP_Mac10_mag_32Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Kriss,										1,      -1,     -1,     10,     0.5",
+		"TWP_Kriss_mag_33Rnd,							1,      -1,     -1,     10,     0.5",
+
+	<Cat"egory> TeddyWeaponPack:Melee
+		"TWP_NailedBat,									1,      -1,     -1,     10,     0.5",
+		"TWP_SawBat,									1,      -1,     -1,     10,     0.5",
+		"TWP_Mjolnir,									1,      -1,     -1,     10,     0.5",
+		"TWP_Rose,										1,      -1,     -1,     10,     0.5",
+		"TWP_Kukri,										1,      -1,     -1,     10,     0.5",
+		"TWP_Kukri_Gradient,							1,      -1,     -1,     10,     0.5",
+		"TWP_Kukri_Sakura,								1,      -1,     -1,     10,     0.5",
+		"TWP_Kukri_Engraved,							1,      -1,     -1,     10,     0.5",
+		"TWP_SmithWesson_Knife_Green,					1,      -1,     -1,     10,     0.5",
+		"TWP_SmithWesson_Knife_Black,					1,      -1,     -1,     10,     0.5",
+		"TWP_HolyMackerel,								1,      -1,     -1,     10,     0.5",
+		"TWP_NinjaSword,								1,      -1,     -1,     10,     0.5",
+		"TWP_Axe,										1,      -1,     -1,     10,     0.5",
+		"TWP_FirefighterAxe,							1,      -1,     -1,     10,     0.5",
+		"TWP_SledgeHammer,								1,      -1,     -1,     10,     0.5",
+		"TWP_FlySwatter_Red,							1,      -1,     -1,     10,     0.5",
+		"TWP_FlySwatter_Grey,							1,      -1,     -1,     10,     0.5",
+		"TWP_FlySwatter_Green,							1,      -1,     -1,     10,     0.5",
+		"TWP_Machete_Black,								1,      -1,     -1,     10,     0.5",
+		"TWP_Machete_Camouflage,						1,      -1,     -1,     10,     0.5",
+		"TWP_Machete_USA,								1,      -1,     -1,     10,     0.5",
+		"TWP_Machete_Brazil,							1,      -1,     -1,     10,     0.5",
+		"TWP_HorseStick,								1,      -1,     -1,     10,     0.5",
+
+	<Cat"egory> TeddyWeaponPack:Sniper Rifles
+		"TWP_Airbow,									1,      -1,     -1,     10,     0.5",
+		"TWP_AmericanRifle,								1,      -1,     -1,     10,     0.5",
+		"TWP_AmericanRifle_mag_5Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_Anzio,										1,      -1,     -1,     10,     0.5",
+		"TWP_Anzio_mag_3Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Arisaka,									1,      -1,     -1,     10,     0.5",
+		"TWP_ASW338,									1,      -1,     -1,     10,     0.5",
+		"TWP_ASW338_mag_5Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_AWMBlack,									1,      -1,     -1,     10,     0.5",
+		"TWP_AWMCustom,									1,      -1,     -1,     10,     0.5",
+		"TWP_AWMDesert,									1,      -1,     -1,     10,     0.5",
+		"TWP_AWMGreen,									1,      -1,     -1,     10,     0.5",
+		"TWP_AWMGreenTan,								1,      -1,     -1,     10,     0.5",
+		"TWP_AWM_mag_5Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_BarrettM82,								1,      -1,     -1,     10,     0.5",
+		"TWP_BarrettM82_mag_10Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_BarrettM82Desert,							1,      -1,     -1,     10,     0.5",
+		"TWP_BarrettM82Snow,							1,      -1,     -1,     10,     0.5",
+		"TWP_FRF2,										1,      -1,     -1,     10,     0.5",
+		"TWP_FRF2_mag_5Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_G43,										1,      -1,     -1,     10,     0.5",
+		"TWP_G43_mag_10Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_Kar98,										1,      -1,     -1,     10,     0.5",
+		"TWP_L96A1,										1,      -1,     -1,     10,     0.5",
+		"TWP_L96A1_mag_5Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_M1Carbine,									1,      -1,     -1,     10,     0.5",
+		"TWP_M1Carbine_mag_15Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_M1Garand,									1,      -1,     -1,     10,     0.5",
+		"TWP_M14,										1,      -1,     -1,     10,     0.5",
+		"TWP_M14_mag_20Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_M110,										1,      -1,     -1,     10,     0.5",
+		"TWP_M110_mag_20Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_M200,										1,      -1,     -1,     10,     0.5",
+		"TWP_M200_mag_7Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_M200Old,									1,      -1,     -1,     10,     0.5",
+		"TWP_M200Old_mag_7Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_M24BrownTan,								1,      -1,     -1,     10,     0.5",
+		"TWP_M24GreenTan,								1,      -1,     -1,     10,     0.5",
+		"TWP_M24GreenTan2,								1,      -1,     -1,     10,     0.5",
+		"TWP_M24Snow,									1,      -1,     -1,     10,     0.5",
+		"TWP_M24Wood,									1,      -1,     -1,     10,     0.5",
+		"TWP_M24_mag_4Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_M40A5,										1,      -1,     -1,     10,     0.5",
+		"TWP_M40A5_mag_5Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_MosinNagant,								1,      -1,     -1,     10,     0.5",
+		"TWP_PSG1,										1,      -1,     -1,     10,     0.5",
+		"TWP_PSG1_mag_5Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_R700Mod,									1,      -1,     -1,     10,     0.5",
+		"TWP_R700_mag_10Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Remington700,								1,      -1,     -1,     10,     0.5",
+		"TWP_RemingtonMSR,								1,      -1,     -1,     10,     0.5",
+		"TWP_RemingtonMSR_mag_5Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_Sako75,									1,      -1,     -1,     10,     0.5",
+		"TWP_SG550S,									1,      -1,     -1,     10,     0.5",
+		"TWP_SSG69,										1,      -1,     -1,     10,     0.5",
+		"TWP_SSG69_mag_5Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_SV98NovaPriam,								1,      -1,     -1,     10,     0.5",
+		"TWP_SV98NovaPriam_mag_5Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_SVDDragunov,								1,      -1,     -1,     10,     0.5",
+		"TWP_SVDDragunovTan,							1,      -1,     -1,     10,     0.5",
+		"TWP_SVDDragunovBrownTan,						1,      -1,     -1,     10,     0.5",
+		"TWP_SVDDragunovGreyTan,						1,      -1,     -1,     10,     0.5",
+		"TWP_Dragunov_mag_10Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_SVT38,										1,      -1,     -1,     10,     0.5",
+		"TWP_SVT38_mag_10Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Winchester1873,							1,      -1,     -1,     10,     0.5",
+		"TWP_WinchesterRifle,							1,      -1,     -1,     10,     0.5",
+		"TWP_McMillanCS5,								1,      -1,     -1,     10,     0.5",
+		"TWP_VSSK,										1,      -1,     -1,     10,     0.5",
+		"TWP_VSSK_mag_5Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_Marlin,									1,      -1,     -1,     10,     0.5",
+		"TWP_FRF2BlackDragon,							1,      -1,     -1,     10,     0.5",
+		"TWP_FRF2BlackDragon_mag_10Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_Beowulf,									1,      -1,     -1,     10,     0.5",
+		"TWP_Beowulf_mag_10Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_AX50,										1,      -1,     -1,     10,     0.5",
+		"TWP_AX50_mag_10Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_M107,										1,      -1,     -1,     10,     0.5",
+		"TWP_M107_mag_15Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Dragunov,									1,      -1,     -1,     10,     0.5",
+		"TWP_Dragunov_mag_8Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_M200Sand,									1,      -1,     -1,     10,     0.5",
+		"TWP_M200Sand_mag_7Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_SKS,										1,      -1,     -1,     10,     0.5",
+		"TWP_SKS_mag_20Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_MosinNagant_Wrapped,						1,      -1,     -1,     10,     0.5",
+		"TWP_T5000,										1,      -1,     -1,     10,     0.5",
+		"TWP_T5000_mag_10Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Tac21,										1,      -1,     -1,     10,     0.5",
+		"TWP_Tac21_mag_8Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_DMR25,										1,      -1,     -1,     10,     0.5",
+		"TWP_DMR25_mag_20Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_M200Mod,									1,      -1,     -1,     10,     0.5",
+		"TWP_M200Mod_mag_10Rnd,							1,      -1,     -1,     10,     0.5",
+
+	<Cat"egory> TeddyWeaponPack:Shotguns
+		"TWP_AA12,										1,      -1,     -1,     10,     0.5",
+		"TWP_AA12_mag_32Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_AA12Dragon,								1,      -1,     -1,     10,     0.5",
+		"TWP_AA12Dragon_mag_32Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AA12HellDragon,							1,      -1,     -1,     10,     0.5",
+		"TWP_AA12HellDragon_mag_32Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_BenelliLE,									1,      -1,     -1,     10,     0.5",
+		"TWP_SPAS,										1,      -1,     -1,     10,     0.5",
+		"TWP_SawedShotgun,								1,      -1,     -1,     10,     0.5",
+		"TWP_Remington870Tactical,						1,      -1,     -1,     10,     0.5",
+		"TWP_Mossberg590a1,								1,      -1,     -1,     10,     0.5",
+		"TWP_Mossberg500,								1,      -1,     -1,     10,     0.5",
+		"TWP_KSG,										1,      -1,     -1,     10,     0.5",
+		"TWP_Armsan,									1,      -1,     -1,     10,     0.5",
+		"TWP_ClassicShotgun,							1,      -1,     -1,     10,     0.5",
+		"TWP_BenelliM4,									1,      -1,     -1,     10,     0.5",
+		"TWP_BenelliM3,									1,      -1,     -1,     10,     0.5",
+		"TWP_ImprovisedShotgun,							1,      -1,     -1,     10,     0.5",
+		"TWP_IthacaM37,									1,      -1,     -1,     10,     0.5",
+		"TWP_DoubleBarrelShotgun,						1,      -1,     -1,     10,     0.5",
+		"TWP_MP153,										1,      -1,     -1,     10,     0.5",
+		"TWP_MP153Black,								1,      -1,     -1,     10,     0.5",
+		"TWP_M1912,										1,      -1,     -1,     10,     0.5",
+		"TWP_Komrad12,									1,      -1,     -1,     10,     0.5",
+		"TWP_Komrad12_mag_10Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_Toz34,										1,      -1,     -1,     10,     0.5",
+		"TWP_Spas15,									1,      -1,     -1,     10,     0.5",
+		"TWP_Spas15_mag_8Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_AA12Black,									1,      -1,     -1,     10,     0.5",
+		"TWP_AA12Black_mag_32Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_Fabarm_ST12,								1,      -1,     -1,     10,     0.5",
+
+	<Cat"egory> TeddyWeaponPack:Aussault Rifles
+		"TWP_ACE23,										1,      -1,     -1,     10,     0.5",
+		"TWP_ACE23_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Ash12,										1,      -1,     -1,     10,     0.5",
+		"TWP_Ash12_mag_10Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_ACR,										1,      -1,     -1,     10,     0.5",
+		"TWP_ACR_mag_30Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_ACWR,										1,      -1,     -1,     10,     0.5",
+		"TWP_ACWR_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_AEK971,									1,      -1,     -1,     10,     0.5",
+		"TWP_AK9,										1,      -1,     -1,     10,     0.5",
+		"TWP_AK9_mag_30Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_AK12,										1,      -1,     -1,     10,     0.5",
+		"TWP_AK12Green,									1,      -1,     -1,     10,     0.5",
+		"TWP_AK12Tan,									1,      -1,     -1,     10,     0.5",
+		"TWP_AK12_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_AK12Green_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AK12Tan_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_AK47,										1,      -1,     -1,     10,     0.5",
+		"TWP_AK47_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_AK47Blue,									1,      -1,     -1,     10,     0.5",
+		"TWP_AK47Blue_mag_35Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AK47Boar,									1,      -1,     -1,     10,     0.5",
+		"TWP_AK47Boar_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AK47Dragon,								1,      -1,     -1,     10,     0.5",
+		"TWP_AK47Dragon_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AK47Spider,								1,      -1,     -1,     10,     0.5",
+		"TWP_AK47Spider_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AK47Tactical,								1,      -1,     -1,     10,     0.5",
+		"TWP_AK47Tactical_mag_45Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_AK47Wolf,									1,      -1,     -1,     10,     0.5",
+		"TWP_AK47Wolf_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AK47WhiteWolf,								1,      -1,     -1,     10,     0.5",
+		"TWP_AK47WhiteWolf_mag_30Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_AK103,										1,      -1,     -1,     10,     0.5",
+		"TWP_AK103_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_AK105,										1,      -1,     -1,     10,     0.5",
+		"TWP_AK105_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_AMD,										1,      -1,     -1,     10,     0.5",
+		"TWP_AMD_mag_30Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_AMDSpaceship,								1,      -1,     -1,     10,     0.5",
+		"TWP_AMDSpaceship_mag_30Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_AN94,										1,      -1,     -1,     10,     0.5",
+		"TWP_AN94_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_AR15,										1,      -1,     -1,     10,     0.5",
+		"TWP_AR15_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_AR15_Cannabis,								1,      -1,     -1,     10,     0.5",
+		"TWP_AR15Cannabis_mag_30Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_AR70,										1,      -1,     -1,     10,     0.5",
+		"TWP_AR70_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_ARX160,									1,      -1,     -1,     10,     0.5",
+		"TWP_ARX160_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_ASR,										1,      -1,     -1,     10,     0.5",
+		"TWP_ASR_mag_40Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_ASVal,										1,      -1,     -1,     10,     0.5",
+		"TWP_ASVal_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_TWP_SteyrAugA3,							1,      -1,     -1,     10,     0.5",
+		"TWP_SteyrAug_mag_45Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_CalifasNomad,								1,      -1,     -1,     10,     0.5",
+		"TWP_CalifasNomad_mag_40Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_CZ805,										1,      -1,     -1,     10,     0.5",
+		"TWP_CZ805_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_CZScorpion,								1,      -1,     -1,     10,     0.5",
+		"TWP_CZScorpion_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_Famas,										1,      -1,     -1,     10,     0.5",
+		"TWP_Famas_mag_35Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_FamasSpecialOps,							1,      -1,     -1,     10,     0.5",
+		"TWP_FamasSpecialOps_mag_40Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_FamasTan,									1,      -1,     -1,     10,     0.5",
+		"TWP_FamasTan_mag_35Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_FG42,										1,      -1,     -1,     10,     0.5",
+		"TWP_FG42_mag_25Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_FG42Old,									1,      -1,     -1,     10,     0.5",
+		"TWP_FG42Old_mag_25Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_FNF2000,									1,      -1,     -1,     10,     0.5",
+		"TWP_FNF2000Beige,								1,      -1,     -1,     10,     0.5",
+		"TWP_FNFNC,										1,      -1,     -1,     10,     0.5",
+		"TWP_FNFNC_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_FNM29,										1,      -1,     -1,     10,     0.5",
+		"TWP_FNM29_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_GalilSAR,									1,      -1,     -1,     10,     0.5",
+		"TWP_GalilSAR_mag_35Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_G56,										1,      -1,     -1,     10,     0.5",
+		"TWP_G56_mag_32Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_G3A3,										1,      -1,     -1,     10,     0.5",
+		"TWP_G3A3_mag_20Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_G36,										1,      -1,     -1,     10,     0.5",
+		"TWP_G36_mag_30Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_G36c,										1,      -1,     -1,     10,     0.5",
+		"TWP_G36c_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_HK33,										1,      -1,     -1,     10,     0.5",
+		"TWP_HK33_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_HK416,										1,      -1,     -1,     10,     0.5",
+		"TWP_HK416Blue,									1,      -1,     -1,     10,     0.5",
+		"TWP_HK416Desert,								1,      -1,     -1,     10,     0.5",
+		"TWP_HK416Forest,								1,      -1,     -1,     10,     0.5",
+		"TWP_HK416Jungle,								1,      -1,     -1,     10,     0.5",
+		"TWP_HK416Urban,								1,      -1,     -1,     10,     0.5",
+		"TWP_HK416Wood,									1,      -1,     -1,     10,     0.5",
+		"TWP_HK416_mag_40Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_HK417,										1,      -1,     -1,     10,     0.5",
+		"TWP_HK417_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_HKCarabine,								1,      -1,     -1,     10,     0.5",
+		"TWP_HKCarabine_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_HoneyBadger,								1,      -1,     -1,     10,     0.5",
+		"TWP_HoneyBadger_mag_40Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_HoneyBadgerBlueWhite,						1,      -1,     -1,     10,     0.5",
+		"TWP_HoneyBadgerBW_mag_40Rnd,			 		1,      -1,     -1,     10,     0.5",
+		"TWP_HoneyBadgerGold,							1,      -1,     -1,     10,     0.5",
+		"TWP_HoneyBadgerGold_mag_40Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_IA2,										1,      -1,     -1,     10,     0.5",
+		"TWP_IA2_mag_30Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_K2C,										1,      -1,     -1,     10,     0.5",
+		"TWP_K2C_mag_30Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_LR300,										1,      -1,     -1,     10,     0.5",
+		"TWP_LR300Camo,									1,      -1,     -1,     10,     0.5",
+		"TWP_LR300_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_M4A1Black,									1,      -1,     -1,     10,     0.5",
+		"TWP_M4V5,										1,      -1,     -1,     10,     0.5",
+		"TWP_M4V5_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_M16,										1,      -1,     -1,     10,     0.5",
+		"TWP_M16A1Black,								1,      -1,     -1,     10,     0.5",
+		"TWP_M16A1Wood,									1,      -1,     -1,     10,     0.5",
+		"TWP_M16A1_mag_20Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_M16A2,										1,      -1,     -1,     10,     0.5",
+		"TWP_M16_mag_20Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_M16A3,										1,      -1,     -1,     10,     0.5",
+		"TWP_M16A4_handle,								1,      -1,     -1,     10,     0.5",
+		"TWP_M16A4,										1,      -1,     -1,     10,     0.5",
+		"TWP_M16A4_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_M134,										1,      -1,     -1,     10,     0.5",
+		"TWP_M134_mag_500Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_M134_mag_750Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_M60,										1,      -1,     -1,     10,     0.5",
+		"TWP_M60_mag_200Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_M249,										1,      -1,     -1,     10,     0.5",
+		"TWP_M249_mag_200Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_MK14,										1,      -1,     -1,     10,     0.5",
+		"TWP_MK14_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_MK18,										1,      -1,     -1,     10,     0.5",								
+		"TWP_MK18_mag_100Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_MSBS_GrotBGold,							1,      -1,     -1,     10,     0.5",
+		"TWP_MSBS_GrotBGold_mag_30Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_MSBS_GrotC,								1,      -1,     -1,     10,     0.5",
+		"TWP_MSBS_GrotC_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_OTSGrosa,									1,      -1,     -1,     10,     0.5",
+		"TWP_OTSGrosa_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_ParaSA58,									1,      -1,     -1,     10,     0.5",
+		"TWP_ParaSA58_mag_20Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_PindadSS2,									1,      -1,     -1,     10,     0.5",
+		"TWP_PindadSS2_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_PP19Bison,									1,      -1,     -1,     10,     0.5",
+		"TWP_PP19Bison_mag_64Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_PPSH,										1,      -1,     -1,     10,     0.5",
+		"TWP_PPSH_mag_50Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_PKM,										1,      -1,     -1,     10,     0.5",
+		"TWP_PKM_mag_100Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_QBZ03,										1,      -1,     -1,     10,     0.5",
+		"TWP_QBZ03_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_RemingtonR5,								1,      -1,     -1,     10,     0.5",
+		"TWP_RemingtonR5_mag_40Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_RK62,										1,      -1,     -1,     10,     0.5",
+		"TWP_RK62_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Ruger556,									1,      -1,     -1,     10,     0.5",
+		"TWP_Ruger556_MagPul,							1,      -1,     -1,     10,     0.5",
+		"TWP_Ruger556_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_RPK16,										1,      -1,     -1,     10,     0.5",
+		"TWP_RPK16_mag_100Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_RPK16Green,								1,      -1,     -1,     10,     0.5",
+		"TWP_RPK16Green_mag_100Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_RPK16Tan,									1,      -1,     -1,     10,     0.5",
+		"TWP_RPK16Tan_mag_100Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_ScarL,										1,      -1,     -1,     10,     0.5",
+		"TWP_ScarL_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_ScarH,										1,      -1,     -1,     10,     0.5",
+		"TWP_ScarH_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_ScarDragon,								1,      -1,     -1,     10,     0.5",
+		"TWP_ScarDragon_mag_50Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_ScarLKBlue,								1,      -1,     -1,     10,     0.5",
+		"TWP_ScarLKBlueCamo,							1,      -1,     -1,     10,     0.5",
+		"TWP_ScarLKGreen,								1,      -1,     -1,     10,     0.5",
+		"TWP_ScarLKGreenCamo,							1,      -1,     -1,     10,     0.5",
+		"TWP_ScarLKTan,									1,      -1,     -1,     10,     0.5",
+		"TWP_ScarLK_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_SteyrAug_Olive,							1,      -1,     -1,     10,     0.5",
+		"TWP_SteyrAug_Tan,								1,      -1,     -1,     10,     0.5",
+		"TWP_SteyrAug_Black,							1,      -1,     -1,     10,     0.5",
+		"TWP_SteyrAug_mag_45Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_STG44,										1,      -1,     -1,     10,     0.5",
+		"TWP_STG44_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_SG550,										1,      -1,     -1,     10,     0.5",
+		"TWP_SG550_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_SG553,										1,      -1,     -1,     10,     0.5",
+		"TWP_SG553_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_SR47,										1,      -1,     -1,     10,     0.5",
+		"TWP_SR47_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_StenGun,									1,      -1,     -1,     10,     0.5",
+		"TWP_StenGun_mag_32Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Sterling,									1,      -1,     -1,     10,     0.5",
+		"TWP_Sterling_mag_34Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_STG58,										1,      -1,     -1,     10,     0.5",
+		"TWP_STG58_mag_20Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Stoner63,									1,      -1,     -1,     10,     0.5",
+		"TWP_Stoner63_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_Tar21,										1,      -1,     -1,     10,     0.5",
+		"TWP_Tar21_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Thompson,									1,      -1,     -1,     10,     0.5",
+		"TWP_Thompson_mag_50Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_ThompsonMK2,								1,      -1,     -1,     10,     0.5",
+		"TWP_ThompsonMK2_mag_50Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_Type64,									1,      -1,     -1,     10,     0.5",
+		"TWP_Type64_mag_20Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Type89,									1,      -1,     -1,     10,     0.5",
+		"TWP_Type89_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_XM8,										1,      -1,     -1,     10,     0.5",
+		"TWP_XM8_mag_30Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_MiniGun,									1,      -1,     -1,     10,     0.5",
+		"TWP_MiniGun_mag_300Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_G36x,										1,      -1,     -1,     10,     0.5",
+		"TWP_G36x_mag_40Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_M4A1,										1,      -1,     -1,     10,     0.5",
+		"TWP_M4A1_mag_35Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_L85A2,										1,      -1,     -1,     10,     0.5",
+		"TWP_L85A2_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_SG556,										1,      -1,     -1,     10,     0.5",
+		"TWP_SG556_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_MG42,										1,      -1,     -1,     10,     0.5",
+		"TWP_MG42_mag_150Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_CalifasNomad,								1,      -1,     -1,     10,     0.5",
+		"TWP_CalifasNomad_mag_40Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_AK107,										1,      -1,     -1,     10,     0.5",
+		"TWP_AK107_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_AK107Camouflage,							1,      -1,     -1,     10,     0.5",
+		"TWP_AK107Camouflage_mag_30Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_FNFAL,										1,      -1,     -1,     10,     0.5",
+		"TWP_FNFAL_mag_25Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_MAB38,										1,      -1,     -1,     10,     0.5",
+		"TWP_MAB38_mag_40Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_Browning1928,								1,      -1,     -1,     10,     0.5",
+		"TWP_Browning1928_mag_20Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_PKP,										1,      -1,     -1,     10,     0.5",
+		"TWP_PKP_mag_200Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_MK14,										1,      -1,     -1,     10,     0.5",
+		"TWP_MK14Sand,									1,      -1,     -1,     10,     0.5",
+		"TWP_MK14_mag_20Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_AKS74U,									1,      -1,     -1,     10,     0.5",
+		"TWP_Vepr_Sok94,								1,      -1,     -1,     10,     0.5",
+		"TWP_Vepr_Sok94_mag_10Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AR15_USA,									1,      -1,     -1,     10,     0.5",
+		"TWP_AR15USA_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+		"TWP_AR15_Aztec,								1,      -1,     -1,     10,     0.5",
+		"TWP_AR15Aztec_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AR15_Urban,								1,      -1,     -1,     10,     0.5",
+		"TWP_AR15Urban_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AR15Snow,									1,      -1,     -1,     10,     0.5",
+		"TWP_AR15Snow_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AR15Skull,									1,      -1,     -1,     10,     0.5",
+		"TWP_AR15Skull_mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_Bushmaster_M17SMod,						1,      -1,     -1,     10,     0.5",
+		"TWP_Bushmaster_M17S_mag_30Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_LAR,										1,      -1,     -1,     10,     0.5",
+		"TWP_LAR_mag_20Rnd,								1,      -1,     -1,     10,     0.5",
+		"TWP_ARX160Black,								1,      -1,     -1,     10,     0.5",
+		"TWP_ARX160_mag_30Rnd,							1,      -1,     -1,     10,     0.5",
+
+	<Cat"egory> TeddyWeaponPack:Bayonets
+		"TWP_BoarBayonet,								1,      -1,     -1,     10,     0.5",
+		"TWP_WolfBayonet,								1,      -1,     -1,     10,     0.5",
+		"TWP_WhiteWolfBayonet,							1,      -1,     -1,     10,     0.5",
+		"TWP_M16_Bayonet,								1,      -1,     -1,     10,     0.5",
+		"TWP_Kar98_Bayonet,								1,      -1,     -1,     10,     0.5",
+		"TWP_Arisaka_Bayonet							1,      -1,     -1,     10,     0.5",
+
+	<Cat"egory> TeddyWeaponPack:Ammo
+		"TWP_AmmoBox_20x76_10rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AmmoBox_50BMG_10rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AmmoBox_3006_20Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AmmoBox_792x57_20Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AmmoBox_44mag_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AmmoBox_50AE_20Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AmmoBox_40SW_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AmmoBox_46x30_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AmmoBox_57x28_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AmmoBox_762x25_30Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_Ammobox_408Cheytac_10Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_Ammobox_6x35_20Rnd,						1,      -1,     -1,     10,     0.5",
+		"TWP_AmmoBox_30Carbine_30Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_AmmoBox_300WinMag_20Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_AmmoBox_20x102mm_10Rnd,					1,      -1,     -1,     10,     0.5",
+		"TWP_Ammo_30Carbine,							1,      -1,     -1,     10,     0.5",
+		"TWP_Ammo_300WinMag,							1,      -1,     -1,     10,     0.5",
+		"TWP_Ammo_20x102mm,								1,      -1,     -1,     10,     0.5",
+		"TWP_Ammo_20x76,								1,      -1,     -1,     10,     0.5",
+		"TWP_Ammo_50BMG,								1,      -1,     -1,     10,     0.5",
+		"TWP_Ammo_3006,									1,      -1,     -1,     10,     0.5",
+		"TWP_Ammo_792x57,								1,      -1,     -1,     10,     0.5",
+		"TWP_Ammo_44mag,								1,      -1,     -1,     10,     0.5",
+		"TWP_Ammo_50AE,									1,      -1,     -1,     10,     0.5",
+		"TWP_Ammo_40SW,									1,      -1,     -1,     10,     0.5",
+		"TWP_Ammo_46x30,								1,      -1,     -1,     10,     0.5",
+		"TWP_Ammo_57x28,								1,      -1,     -1,     10,     0.5",
+		"TWP_Ammo_Arrow,								1,      -1,     -1,     10,     0.5",
+		"TWP_Ammo_408Cheytac,							1,      -1,     -1,     10,     0.5",
+		"TWP_Ammo_762x25,								1,      -1,     -1,     10,     0.5",
+		"TWP_Ammo_6x35,									1,      -1,     -1,     10,     0.5",
+		"TWP_Ammo_500SW_Mag,							1,      -1,     -1,     10,     0.5",
+
+	<Cat"egory> TeddyWeaponPack:Lights
+		"TWP_MK23Light,									1,      -1,     -1,     10,     0.5",
+		"TWP_GlockLight,								1,      -1,     -1,     10,     0.5",
+		"TWP_PistolLight,								1,      -1,     -1,     10,     0.5",
+		"TWP_Weaponlight,								1,      -1,     -1,     10,     0.5",
+
+	<Cat"egory> TeddyWeaponPack:Suppressors
+		"TWP_G3A3_Suppressor,							1,      -1,     -1,     10,     0.5",
+		"TWP_USPPsychodelic_Supressor,					1,      -1,     -1,     10,     0.5",
+		"TWP_USPChromatic_Supressor,					1,      -1,     -1,     10,     0.5",
+		"TWP_M200Old_Suppressor,						1,      -1,     -1,     10,     0.5",
+		"TWP_BarrettM82_Suppressor,						1,      -1,     -1,     10,     0.5",
+		"TWP_Ash12_Suppressor,							1,      -1,     -1,     10,     0.5",
+		"TWP_AKSuppressor,								1,      -1,     -1,     10,     0.5",
+		"TWP_M4Suppressor,								1,      -1,     -1,     10,     0.5",
+		"TWP_PistolSuppressor,							1,      -1,     -1,     10,     0.5",
+
+	<Cat"egory> TeddyWeaponPack:Optics		
+		"TWP_M16A4_handle,								1,      -1,     -1,     10,     0.5",
+		"TWP_Optic_Vlife,								1,      -1,     -1,     10,     0.5",
+		"TWP_Optic_NCSTAR,								1,      -1,     -1,     10,     0.5",
+		"TWP_Optic_Steyr,								1,      -1,     -1,     10,     0.5",
+		"TWP_Optic_Camouflage,							1,      -1,     -1,     10,     0.5",
+		"TWP_Optic_Snowy,								1,      -1,     -1,     10,     0.5",
+		"TWP_Optic_FG42,								1,      -1,     -1,     10,     0.5",
+		"TWP_TrijiconACOG,								1,      -1,     -1,     10,     0.5",
+		"TWP_Optic_reddot,								1,      -1,     -1,     10,     0.5",
+		"TWP_Optic_Redcross,							1,      -1,     -1,     10,     0.5",
+		"TWP_Optic_Acog,								1,      -1,     -1,     10,     0.5",
+		"TWP_LongRangeOptic_Tan,						1,      -1,     -1,     10,     0.5",
+		"TWP_LongRangeOptic_Green,						1,      -1,     -1,     10,     0.5",
+		"TWP_LongRangeOptic_Black,						1,      -1,     -1,     10,     0.5",
+		"TWP_Optic_BlackDragon,							1,      -1,     -1,     10,     0.5",
+		"TWP_OldRifle_Optic,							1,      -1,     -1,     10,     0.5",
+		"TWP_OldRifle_Optic2,							1,      -1,     -1,     10,     0.5",
+		"TWP_Optic_G3A3,								1,      -1,     -1,     10,     0.5",
+		"TWP_M16A4_handle,								1,      -1,     -1,     10,     0.5",
+		"TWP_Optic_AX50,								1,      -1,     -1,     10,     0.5",
+		"TWP_Optic_Aimdot,								1,      -1,     -1,     10,     0.5",
+
+	<Cat"egory> TeddyWeaponPack:Attachments
+		"TWP_Sling,										1,      -1,     -1,     10,     0.5",
+		"TWP_MarlinHolster,								1,      -1,     -1,     10,     0.5",
+		"TWP_AX50_Bttstck,								1,      -1,     -1,     10,     0.5",
+
+	<Cat"egory> TeddyWeaponPack:Halloween
+		"TWP_Coffin,									1,      -1,     -1,     10,     0.5",
+		"TWP_WitchHat,									1,      -1,     -1,     10,     0.5",
+		"TWP_Scythe,									1,      -1,     -1,     10,     0.5",
+		"TWP_BloodyMachete,								1,      -1,     -1,     10,     0.5",
+		"TWP_JasonMachete,								1,      -1,     -1,     10,     0.5",
+		"TWP_PumpkinHead,								1,      -1,     -1,     10,     0.5",
+		"TWP_JasonMask,									1,      -1,     -1,     10,     0.5",
+		"TWP_PNade,										1,      -1,     -1,     10,     0.5",
+		"TWP_ScaryPNade,								1,      -1,     -1,     10,     0.5",
+		"TWP_GhostBackpack_Angry,						1,      -1,     -1,     10,     0.5",
+		"TWP_GhostBackpack_Vampire,						1,      -1,     -1,     10,     0.5",
+		"TWP_GhostBackpack_Scared,						1,      -1,     -1,     10,     0.5",
+		"TWP_MiniReaper,								1,      -1,     -1,     10,     0.5",
+		"TWP_Crow,										1,      -1,     -1,     10,     0.5",
+
+	<Cat"egory> TeddyWeaponPack:Covid 
+		"TWP_CharminBox,								1,      -1,     -1,     10,     0.5",
+		"TWP_Scottex_SuperSoft,							1,      -1,     -1,     10,     0.5",
+		"TWP_Scottex_Soft,								1,      -1,     -1,     10,     0.5",
+		"TWP_Covid19Head_Red,							1,      -1,     -1,     10,     0.5",
+		"TWP_Covid19Head_green,							1,      -1,     -1,     10,     0.5",
+		"TWP_Covid19Head_orange,						1,      -1,     -1,     10,     0.5",
+		"TWP_Covid19Head_yellow,						1,      -1,     -1,     10,     0.5",
+		"TWP_Desinfectant,								1,      -1,     -1,     10,     0.5",
+		"TWP_ToiletRoll,								1,      -1,     -1,     10,     0.5",
+		"TWP_SurgicalMask,								1,      -1,     -1,     10,     0.5",
+
+	<Cat"egory> TeddyWeaponPack:Grenades
+		"TWP_JackintheBox,								1,      -1,     -1,     10,     0.5",
+		"TWP_Stielhandgranate,							1,      -1,     -1,     10,     0.5",
+		"TWP_HolyGrenade,								1,      -1,     -1,     10,     0.5",
+		"TWP_MK2_Grenade,								1,      -1,     -1,     10,     0.5",
+		"TWP_Zarya3_StunGrenade,						1,      -1,     -1,     10,     0.5",
+		"TWP_M69,										1,      -1,     -1,     10,     0.5",
+		"TWP_M26,										1,      -1,     -1,     10,     0.5",
+		"TWP_T13_Beano,									1,      -1,     -1,     10,     0.5",
+
+	<Cat"egory> TeddyWeaponPack:Cosmetics
+		"TWP_Cosmetic_Beaver,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_BodyMale,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_BodyFemale,						1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Cobra,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_DeadFace,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_DemonSkull,						1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Dice,								1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Dino,								1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Heart,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Mushroom,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Neversoft,						1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Orion,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Peacekeeper,						1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_PX,								1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Flag,								1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Ronnie,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Sandwich,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Scorpion,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_CactusJack,						1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_ShockSentry,						1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Smuggypuss,						1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Snowman,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_TeaBag,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_TeddyBear,						1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Tiki,								1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Trashcan,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Turbo,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Zombiehead,						1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Knife,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Raven,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_HeartPizza,						1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_GoldenGloves,						1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Fossil,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_HandGun,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_DogTag,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_CowBoyBoot,						1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_BurgerTown,						1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_BentoBox,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_BearTrap,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Bacon,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_Anchor,							1,      -1,     -1,     10,     0.5",
+		"TWP_Cosmetic_50Caliber,						1,      -1,     -1,     10,     0.5",

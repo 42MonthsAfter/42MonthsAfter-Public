@@ -1,5 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <eventposdef>
+  <event name="Sky_Jeep">
+    <pos x="1089.56" z="15048.2" a="16" />
+    <pos x="6083.28" z="14902.6" a="6.2" />
+    <pos x="9993.2" z="11057.4" a="22.4" />
+  </event>
+  <event name="Sky_Jeep_Black">
+    <pos x="9124.4" z="9622.71" a="13.5" />
+    <pos x="3695.68" z="6241.03" a="32.9" />
+    <pos x="8764.46" z="3781.45" a="45.9" />
+  </event>
+  <event name="Sky_Jeep_Blue">
+    <pos x="7236.15" z="2658.12" a="42.3" />
+    <pos x="2589.97" z="3639.35" a="22.9" />
+    <pos x="1667.24" z="8974.42" a="9.8" />
+  </event>
+  <event name="Sky_Jeep_Green">
+    <pos x="4287.17" z="7971.56" a="31.2" />
+    <pos x="9426.14" z="12839.1" a="23.8" />
+    <pos x="7078.23" z="9043.86" a="5.8" />
+  </event>
+  <event name="Sky_Jeep_Red">
+    <pos x="10379" z="4397.56" a="8.8" />
+    <pos x="5430.67" z="3757.47" a="74.5" />
+    <pos x="3520.29" z="5298.37" a="12.4" />
+  </event>
+  <event name="Sky_Jeep_White">
+    <pos x="10695" z="7968.82" a="33.9" />
+    <pos x="13706.64" z="9876.52" a="13.6" />
+    <pos x="8928.56" z="9820.27" a="22.4" />
+  </event>
+  <event name="Sky_Jeep_Yellow">
+    <pos x="7499.26" z="3623.96" a="33.9" />
+    <pos x="5495.5" z="8448.24" a="16.4" />
+    <pos x="5273.4" z="12425.3" a="5.2" />
+  </event>
   <event name="VehicleCivilianSedan">
     <pos x="6977.063" z="1930.387" a="355.8747" />
     <pos x="10146.64" z="10834.52" a="246.4799" />

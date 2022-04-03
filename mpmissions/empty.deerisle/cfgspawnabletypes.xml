@@ -2,7 +2,147 @@
 
 <spawnabletypes>
 	<damage min="0.3" max="0.7" />
-		<type name="CrSk_Land_Rover_Defender_110">
+	<type name="Sky_Jeep_Yellow">
+		<attachments chance="1.00">
+			<item name="Jeep_Door_1_1_yellow" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Jeep_Door_2_1_yellow" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="Sky_Jeep_White">
+		<attachments chance="1.00">
+			<item name="Jeep_Door_1_1_white" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Jeep_Door_2_1_white" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="Sky_Jeep_Red">
+		<attachments chance="1.00">
+			<item name="Jeep_Door_1_1_red" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Jeep_Door_2_1_red" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="Sky_Jeep_Green">
+		<attachments chance="1.00">
+			<item name="Jeep_Door_1_1_green" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Jeep_Door_2_1_green" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="Sky_Jeep_Blue">
+		<attachments chance="1.00">
+			<item name="Jeep_Door_1_1_blue" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Jeep_Door_2_1_blue" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="Sky_Jeep_Black">
+		<attachments chance="1.00">
+			<item name="Jeep_Door_1_1_black" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Jeep_Door_2_1_black" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+	</type>
+		<type name="Sky_Jeep">
+		<attachments chance="1.00">
+			<item name="Jeep_Door_1_1" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Jeep_Door_2_1" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JeepWheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="CrSk_Land_Rover_Defender_110">
 		<attachments chance="1.00">
 			<item name="Defender110_koleso" chance="0.60" />
 		</attachments>
@@ -1695,7 +1835,6 @@
 		</attachments>
 	</type>
 	<!--START OF ZOMBIES  -->
-	<!-- -----------------------------NBC------------------------------ -->
 	<type name="ZmbM_NBC_Grey">
 		<cargo preset="ContaminatedCargo" />
 		<cargo chance="0.03">
@@ -1708,7 +1847,6 @@
 			<item name="AntiChemInjector" chance="1.0" />
 		</cargo>
 	</type>
-	<!-- -----------------------------ARMY----------------------------- -->
 	<type name="ZmbM_PatrolNormal_Autumn">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
@@ -1758,8 +1896,6 @@
 		<attachments preset="HeavyArmorArmy" />
 		<attachments preset="HeavyHelmetArmy" />
 	</type>
-	
-	<!-- -----------------------------City----------------------------- -->
 	<type name="ZmbF_Clerk_Normal_Blue">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
@@ -2175,7 +2311,6 @@
 		<attachments preset="hatsCitySkate" />
 		<attachments preset="bagsCity" />
 	</type>
-	<!-- -----------------------------Industrial----------------------------- -->
 	<type name="ZmbF_BlueCollarFat_Blue">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsIndustrial" />
@@ -2384,12 +2519,10 @@
 		<attachments preset="bagsIndustrial" />
 		<attachments preset="vestsIndustrial" />
 	</type>
-	<!-- -----------------------------FireFighter----------------------------- -->
 	<type name="ZmbM_FirefighterNormal">
 		<cargo preset="toolsCity" />
 		<attachments preset="hatsFirefighter" />
 	</type>
-	<!-- -----------------------------Medic----------------------------- -->
 	<type name="ZmbF_DoctorSkinny">
 		<cargo preset="toolsMedic" />
 		<attachments preset="hatsMedic" />
@@ -2428,7 +2561,6 @@
 	<type name="ZmbM_PatientSkinny">
 		<cargo preset="toolsMedic" />
 	</type>
-	<!-- -----------------------------Police----------------------------- -->
 	<type name="ZmbF_PoliceWomanNormal">
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
@@ -2456,7 +2588,6 @@
 		<attachments preset="hatsPolice" />
 		<attachments preset="vestsPolice" />
 	</type>
-	<!-- -----------------------------Prisoner----------------------------- -->
 	<type name="ZmbM_PrisonerSkinny">
 		<cargo chance="0.10">
 			<item name="Rope" chance="0.14" />
@@ -2464,11 +2595,9 @@
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsPrisoner" />
 	</type>
-	<!-- -----------------------------Religious----------------------------- -->
 	<type name="ZmbM_priestPopSkinny">
 		<cargo preset="foodHermit" />
 	</type>
-	<!-- -----------------------------Solitude----------------------------- -->
 	<type name="ZmbF_HikerSkinny_Blue">
 		<cargo preset="foodHermit" />
 		<cargo preset="toolsHermit" />
@@ -2576,7 +2705,6 @@
 		<attachments preset="bagsHunter" />
 		<attachments preset="vestsHunter" />
 	</type>
-	<!-- -----------------------------Village----------------------------- -->
 	<type name="ZmbF_MilkMaidOld_Beige">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
@@ -3079,7 +3207,6 @@
 			<item name="M4_Suppressor" chance="0.25" />
 		</attachments>
 	</type>
-<!-- FUTURE
 	<type name="AugSteyr">
 		<attachments chance="0.10">
 			<item name="M4_Suppressor" chance="1.00" />
@@ -4528,7 +4655,6 @@
 			<item name="Truck_01_Door_2_1_Orange" chance="0.50" />
 		</attachments>
 	</type>
-<!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
 			<item name="V3SWheel" chance="0.60" />
