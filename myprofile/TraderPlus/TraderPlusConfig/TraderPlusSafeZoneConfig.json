@@ -1,5 +1,5 @@
 {
-    "Version": "2.1",
+    "Version": "2.2",
     "IsHideOutActive": 0,
     "EnableAfkDisconnect": 0,
     "KickAfterDelay": 0,
@@ -24,5 +24,8 @@
         "76561198036774377"
     ],
     "BlackListedItemInStash": [
+        "Apple",
+        "Plum",
+        "Plier"
     ]
 }
