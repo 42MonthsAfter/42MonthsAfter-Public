@@ -155,9 +155,6 @@ class CustomMission: MissionServer
 		light.GetInventory().CreateAttachment("Battery9V");							
 		ItemBase melee = player.GetInventory().CreateInInventory(meleeArray.GetRandomElement());			// Melee
 				
-		player.SetQuickBarEntityShortcut(gun, 0, true);
-		player.SetQuickBarEntityShortcut(melee, 1, true);
-		return gun;
 	}
 	
 // Moderator
