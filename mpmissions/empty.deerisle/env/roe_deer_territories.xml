@@ -35,4 +35,7 @@
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10157.4" z="2520.36" r="90"/>
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10343.4" z="2758.28" r="150"/>
     </territory>
+    <territory color="HollerPeaks">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5899" z="5862" r="127.5"/>
+    </territory>
 </territory-type>

@@ -50,4 +50,8 @@
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="13216" z="2096" r="300"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="14184" z="1400" r="300"/>
     </territory>
+    <territory color="HollerPeaks">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6037" z="5692" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5696" z="4765" r="100"/>
+    </territory>
 </territory-type>
