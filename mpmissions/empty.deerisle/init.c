@@ -152,9 +152,13 @@ class CustomMission: MissionServer
 		ItemBase rags = player.GetInventory().CreateInInventory("BandageDressing");
 		rags.SetQuantity(4);
 		ItemBase light = player.GetInventory().CreateInInventory("maglite_mung");
-		light.GetInventory().CreateAttachment("Battery9V");							
-		ItemBase melee = player.GetInventory().CreateInInventory(meleeArray.GetRandomElement());			// Melee
+		light.GetInventory().CreateAttachment("Battery9V");			
+		EntityAI gun = player.GetInventory().CreateInInventory("TWP_WinchesterRifle");					
+		ItemBase melee = player.GetInventory().CreateInInventory(meleeArray.GetRandomElement());		
 				
+		player.SetQuickBarEntityShortcut(gun, 0, true);
+		player.SetQuickBarEntityShortcut(melee, 1, true);
+		return gun;
 	}
 	
 // Moderator
