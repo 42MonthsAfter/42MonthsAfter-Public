@@ -45,7 +45,7 @@
 		<Fist_Fighting   Bleeding_Chance_If_Fist_Fighting_Without_Gloves 			= "0.025"	/>	<!-- [0.0 to 1.0] -->
 		<Fist_Fighting	 Player_Dammage_If_Fist_Fighting_Without_Gloves				= "0.5"		/>  <!-- [Decimal 0.0 to 100.0] (Max player health is 100.0 hp) -->
 		<Fist_Fighting	 Player_Health_Limite_To_Take_Dammage_From_Fist_Fighting	= "80.0"	/>	<!-- [Decimal 0.0 to 100.0] -->
-        <Special_Mask_To_Hide_From_Zombies	List = ""		/>	<!-- no spaces, use comma between each mask -->
+        <Special_Mask_To_Hide_From_Zombies	List = "MassCatEars"		/>	<!-- no spaces, use comma between each mask -->
 		<Multi_Hits_On_Heavy_Attack			Radius 					= "1.5"	/>	<!-- [Decimal 0.0 to infinite] (0.0 => Disable the feature / too higth value can cause performance problems) --> 
 		<Multi_Hits_On_Heavy_Attack			Dammage_Ratio 			= "0.5"	/>	<!-- [Decimal 0.0 to 1.0] -->  
 		<Multi_Hits_On_Heavy_Attack			Min_Dammage_To_Activate	= "15"	/>	<!-- [Decimal 0.0 to infinite] -->  
