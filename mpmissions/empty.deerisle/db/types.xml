@@ -73867,10 +73867,10 @@
 		    <value name="Tier17"/>
     </type>
 	<type name="MassHeli_MRE9">
-        <nominal>7</nominal>
-        <lifetime>7200</lifetime>
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -73895,10 +73895,10 @@
 		    <value name="Tier17"/>
     </type>
 	<type name="MassHeli_MRE10">
-        <nominal>7</nominal>
-        <lifetime>7200</lifetime>
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -73923,10 +73923,10 @@
 		    <value name="Tier17"/>
     </type>
 	<type name="MassHeli_MRE4">
-        <nominal>7</nominal>
-        <lifetime>7200</lifetime>
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -73951,14 +73951,14 @@
 		    <value name="Tier17"/>
     </type>
 	<type name="MassMRE4">
-        <nominal>3</nominal>
-        <lifetime>7200</lifetime>
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Hunting"/>
@@ -73981,14 +73981,14 @@
 		    <value name="Tier17"/>
     </type>
 	<type name="MassMRE9">
-        <nominal>3</nominal>
-        <lifetime>7200</lifetime>
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Hunting"/>
@@ -74011,14 +74011,14 @@
 		    <value name="Tier17"/>
     </type>
 	<type name="MassMRE10">
-        <nominal>3</nominal>
-        <lifetime>7200</lifetime>
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Hunting"/>
@@ -74742,10 +74742,10 @@
 		    <value name="Tier17"/>
     </type>
 	<type name="MassHeli_MRE9Old">
-        <nominal>7</nominal>
-        <lifetime>7200</lifetime>
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -74770,14 +74770,14 @@
 		    <value name="Tier17"/>
     </type>
 	<type name="MassMRE9Old">
-        <nominal>3</nominal>
-        <lifetime>7200</lifetime>
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Hunting"/>
