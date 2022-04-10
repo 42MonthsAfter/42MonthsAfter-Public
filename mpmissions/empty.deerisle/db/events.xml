@@ -40,9 +40,9 @@
         </children>
     </event>
     <event name="AmbientBear">
-        <nominal>6</nominal>
-        <min>2</min>
-        <max>10</max>
+        <nominal>12</nominal>
+        <min>4</min>
+        <max>16</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -74,9 +74,9 @@
         </children>
     </event>	
     <event name="AmbientCow">
-        <nominal>8</nominal>
-        <min>2</min>
-        <max>12</max>
+        <nominal>14</nominal>
+        <min>8</min>
+        <max>18</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -96,9 +96,9 @@
         </children>
     </event>
     <event name="AmbientDeer">
-        <nominal>12</nominal>
-        <min>6</min>
-        <max>16</max>
+        <nominal>24</nominal>
+        <min>14</min>
+        <max>30</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -114,9 +114,9 @@
         </children>
     </event>
     <event name="AmbientGoat">
-        <nominal>6</nominal>
-        <min>2</min>
-        <max>12</max>
+        <nominal>16</nominal>
+        <min>8</min>
+        <max>22</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -134,9 +134,9 @@
         </children>
     </event>
     <event name="AmbientPig">
-        <nominal>6</nominal>
-        <min>4</min>
-        <max>10</max>
+        <nominal>16</nominal>
+        <min>8</min>
+        <max>20</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -151,9 +151,9 @@
         </children>
     </event>
     <event name="AmbientRoeDeer">
-        <nominal>4</nominal>
-        <min>2</min>
-        <max>8</max>
+        <nominal>24</nominal>
+        <min>12</min>
+        <max>28</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -169,9 +169,9 @@
         </children>
     </event>
     <event name="AmbientSheep">
-        <nominal>6</nominal>
-        <min>2</min>
-        <max>8</max>
+        <nominal>16</nominal>
+        <min>12</min>
+        <max>18</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -187,9 +187,9 @@
         </children>
     </event>
     <event name="AmbientWildBoar">
-        <nominal>6</nominal>
-        <min>4</min>
-        <max>8</max>
+        <nominal>16</nominal>
+        <min>8</min>
+        <max>18</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -204,8 +204,8 @@
         </children>
     </event>
     <event name="AnimalWolf">
-        <nominal>16</nominal>
-        <min>8</min>
+        <nominal>18</nominal>
+        <min>12</min>
         <max>24</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -218,14 +218,14 @@
         <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="6" min="2" type="Animal_CanisLupus_Grey"/>
-            <child lootmax="0" lootmin="0" max="4" min="0" type="Animal_CanisLupus_White"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_CanisLupus_White"/>
         </children>
     </event>
     <event name="InfectedArmy">
-        <nominal>50</nominal>
-        <min>25</min>
+        <nominal>100</nominal>
+        <min>50</min>
         <max>250</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
@@ -245,10 +245,10 @@
         </children>
     </event>
     <event name="InfectedArmyHard">
-        <nominal>70</nominal>
-        <min>25</min>
+        <nominal>100</nominal>
+        <min>50</min>
         <max>250</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
@@ -270,10 +270,10 @@
         </children>
     </event>
     <event name="InfectedCity">
-        <nominal>50</nominal>
-        <min>25</min>
+        <nominal>100</nominal>
+        <min>50</min>
         <max>250</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
@@ -338,10 +338,10 @@
         </children>
     </event>    
     <event name="InfectedFirefighter">
-        <nominal>50</nominal>
-        <min>25</min>
+        <nominal>100</nominal>
+        <min>50</min>
         <max>100</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
@@ -356,10 +356,10 @@
         </children>
     </event>
     <event name="InfectedIndustrial">
-        <nominal>50</nominal>
-        <min>25</min>
+        <nominal>100</nominal>
+        <min>50</min>
         <max>100</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
@@ -398,10 +398,10 @@
         </children>
     </event>
     <event name="InfectedMedic">
-        <nominal>50</nominal>
-        <min>25</min>
+        <nominal>100</nominal>
+        <min>50</min>
         <max>100</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
@@ -427,10 +427,10 @@
         </children>
     </event>
     <event name="InfectedNBC">
-        <nominal>50</nominal>
-        <min>25</min>
+        <nominal>100</nominal>
+        <min>50</min>
         <max>250</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
@@ -444,10 +444,10 @@
         </children>
     </event>
     <event name="InfectedNBCYellow">
-        <nominal>50</nominal>
-        <min>25</min>
+        <nominal>100</nominal>
+        <min>50</min>
         <max>250</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
@@ -461,10 +461,10 @@
         </children>
     </event>
     <event name="InfectedPolice">
-        <nominal>50</nominal>
-        <min>25</min>
+        <nominal>100</nominal>
+        <min>50</min>
         <max>100</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
@@ -481,10 +481,10 @@
         </children>
     </event>
     <event name="InfectedPoliceHard">
-        <nominal>50</nominal>
-        <min>25</min>
+        <nominal>100</nominal>
+        <min>50</min>
         <max>100</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
@@ -499,8 +499,8 @@
         </children>
     </event>
     <event name="InfectedPrisoner">
-        <nominal>50</nominal>
-        <min>25</min>
+        <nominal>100</nominal>
+        <min>50</min>
         <max>100</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
@@ -516,10 +516,10 @@
         </children>
     </event>
     <event name="InfectedReligious">
-        <nominal>50</nominal>
-        <min>25</min>
+        <nominal>100</nominal>
+        <min>50</min>
         <max>100</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
@@ -533,10 +533,10 @@
         </children>
     </event>
     <event name="InfectedSolitude">
-        <nominal>50</nominal>
-        <min>25</min>
+        <nominal>100</nominal>
+        <min>50</min>
         <max>100</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
@@ -568,10 +568,10 @@
         </children>
     </event>
     <event name="InfectedVillage">
-        <nominal>50</nominal>
-        <min>25</min>
+        <nominal>100</nominal>
+        <min>50</min>
         <max>100</max>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
