@@ -1,9 +1,12 @@
 {
-    "Version": "2.2",
+    "Version": "2.3",
     "ConvertTraderConfigToTraderPlus": 0,
     "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
     "UseGarageToTradeCar": 0,
     "DisableHeightFailSafeForReceiptDeployment": 0,
+    "HideInsuranceBtn": 0,
+    "HideGarageBtn": 0,
+    "HideLicenceBtn": 0,
     "EnableShowAllPrices": 0,
     "EnableShowAllCheckBox": 1,
     "IsReceiptTraderOnly": 0,

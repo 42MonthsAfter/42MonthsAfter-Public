@@ -1,5 +1,3 @@
-#include "$CurrentDir:mpmissions/empty.deerisle/eAI/AI_init.c"
-
 void main()
 {
 	//INIT WEATHER BEFORE ECONOMY INIT------------------------
@@ -39,8 +37,6 @@ void main()
 			}
 		}
 	}
-	
-	InitDynamicPatrols();
 }
 
 class CustomMission: MissionServer
