@@ -115,16 +115,16 @@
 				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}
 		},
-		{ 	"AreaName": "PortLandWrreckedShip", 
+        { 	"AreaName": "Area42", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
-				"Pos": [ 5631, 2, 13966 ],
-				"Radius": 100,
-				"PosHeight": 5,
-				"NegHeight": 5,
-				"InnerRingCount": 2,
-				"InnerPartDist": 50,
+				"Pos": [ 13405, 13, 9878 ],
+				"Radius": 603,
+				"PosHeight": 40,
+				"NegHeight": 10,
+				"InnerRingCount": 3,
+				"InnerPartDist": 100,
 				"OuterRingToggle": 1, 
 				"OuterPartDist": 40, 
 				"OuterOffset": 0, 
