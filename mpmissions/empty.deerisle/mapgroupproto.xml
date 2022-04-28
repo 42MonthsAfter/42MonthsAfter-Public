@@ -15759,7 +15759,7 @@
 				</container>
 		</group>		
 		<group name="Land_jmc_ruinecolumn_loot" lootmax="3">
-                	<usage name="Military" />
+            <usage name="Military" />
 			<usage name="Temple" />   
 	                <container name="lootFloor" lootmax="3">
         	                <category name="tools" />
@@ -15773,7 +15773,7 @@
 								<point pos="0.392042 0.439246 0.519333" range="0.5" height="1.5" /> 
 								<point pos="0.392042 0.439246 0.519333" range="0.5" height="1.5" /> 
                 	</container>
-	        </group>		
+	    </group>		
 		<group name="Land_jmc_ruinecolumn_loot_center" lootmax="1">
 			<usage name="TempleCore" />   
 	            <container name="lootFloor" lootmax="1">

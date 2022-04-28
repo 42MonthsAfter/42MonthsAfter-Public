@@ -924,7 +924,7 @@
         <category name="clothes"/>
         <usage name="Military"/>
     </type>
-	<type name="kivaarimag">
+	<type name="Mass_Mag_Kivaari_10Rnd">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>21600</restock>
@@ -937,7 +937,7 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-	<type name="Ammo_338">
+	<type name="Ammo_338Mass">
         <nominal>10</nominal>
         <lifetime>10800</lifetime>
         <restock>21600</restock>
@@ -977,7 +977,7 @@
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
-	<type name="AmmoBox_338">
+	<type name="AmmoBox_338Mass">
         <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -1044,7 +1044,7 @@
         <usage name="Military"/>
 		<usage name="Hunting"/>
     </type>
-	<type name="Massm300mag">
+	<type name="Mass_Mag_M300_7Rnd">
         <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -1735,7 +1735,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-	<type name="Mass308STANAG">
+	<type name="Mass_Mag_M417_20Rnd">
         <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>14400</restock>
@@ -1784,7 +1784,7 @@
 		<value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-	<type name="Massppshdrum">
+	<type name="Mass_Mag_PPSh_71RndDrum">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>14400</restock>
@@ -1801,7 +1801,7 @@
 		<value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-	<type name="Massppshbox">
+	<type name="Mass_Mag_PPSh_30Rnd">
         <nominal>15</nominal>
         <lifetime>7200</lifetime>
         <restock>14400</restock>
@@ -1842,7 +1842,7 @@
         <lifetime>21600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="MassSVTmag">
+	<type name="Mass_Mag_SVT_10Rnd">
         <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>14400</restock>
@@ -2081,7 +2081,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-	<type name="Mass9x39Palm">
+	<type name="Mass_Mag_9x39Palm_30Rnd">
         <nominal>4</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
@@ -2341,7 +2341,7 @@
 		<usage name="Military"/>
         <value name="Tier4"/>
     </type>
-	<type name="MassG18Mag">
+	<type name="Mass_Mag_G18_30Rnd">
         <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -2939,15 +2939,15 @@
         <lifetime>5600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="MassStevens301SuperShort">
+	<type name="MassStevens301SuperShortNew">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="MassStevens301SuperShort_green">
+	<type name="MassStevens301SuperShortNew_green">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="MassStevens301SuperShort_tan">
+	<type name="MassStevens301SuperShortNew_tan">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
@@ -3409,7 +3409,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-	<type name="Mass357M1911Mag">
+	<type name="Mass_Mag_Coonan_7Rnd">
         <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -3736,7 +3736,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
 		<usage name="Military"/>
     </type>
-	<type name="Mass338M24Mag">
+	<type name="Mass_Mag_M24_5Rnd">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>43200</restock>
@@ -4198,4 +4198,81 @@
         <tag name="shelves"/>
         <usage name="Medic"/>
 		<usage name="Military"/>
+    </type>
+	<type name="Mass_MP40">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="Mass_Mag_MP40_30Rnd">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>14400</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="Mass_SVU">
+        <nominal>2</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="Mass_CamonetGhillie_East">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Mass_CamonetGhillie_Nato">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Mass_CamonetGhillie_Winter">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="MassBandageDressingWrapper">
+        <nominal>20</nominal>
+        <lifetime>21600</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="shelves"/>
+        <usage name="Medic"/>
+		<usage name="Military"/>
+    </type>
+	<type name="MassBandageDressing">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
