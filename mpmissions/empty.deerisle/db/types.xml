@@ -99971,4 +99971,3280 @@
 		    <value name="Tier16"/>
 		    <value name="Tier17"/>
     </type>
+<!-- Base Building Plus -->
+  <type name="BBP_T1_WallKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_WallKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_WallKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_Wall_HalfKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_Wall_HalfKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_Wall_HalfKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_WindowKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_WindowKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_DoorKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_DoorKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_DoorKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_GateKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_GateKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_GateKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_RoofKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_RoofKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_RoofKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_FloorKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_FloorKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_FloorKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_Floor_HatchKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_Floor_HatchKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_StairKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_RampKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_Ramp_WideKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_Wall">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_Wall">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_Wall">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_Wall_Half">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_Wall_Half">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_Wall_Half">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_Window">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_Window">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_Door">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_Door">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_Door">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_Gate">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_Gate">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_Gate">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_Roof">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_Roof">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_Roof">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_Floor">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_Floor">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_Floor">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_Floor_Hatch">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_Floor_Hatch">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_Stair">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_Ramp">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_Ramp_Wide">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Cement">
+    <nominal>10</nominal>
+    <lifetime>3600</lifetime>
+    <restock>600</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Concrete_Brick_Pile">
+    <nominal>15</nominal>
+    <lifetime>3600</lifetime>
+    <restock>600</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Cement_Mixer">
+    <nominal>4</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Tape_Measure">
+    <nominal>10</nominal>
+    <lifetime>3600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Blueprint">
+    <nominal>10</nominal>
+    <lifetime>3600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Workbench">
+    <nominal>4</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Xmas_Tree">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Town" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Police" />
+    <usage name="Medic" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Sun_Shade">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Painting_1">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Town" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Police" />
+    <usage name="Medic" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Painting_2">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Town" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Police" />
+    <usage name="Medic" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Wood_Storage">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_MagnetBox">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="shelves" />
+    <usage name="Town" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Old_Lamp">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="shelves" />
+    <usage name="Town" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Police" />
+    <usage name="Medic" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Floor_Lamp">
+    <nominal>4</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Town" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Police" />
+    <usage name="Medic" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Land_Claim_FlagKit">
+    <nominal>5</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Land_Claim_Pole">
+    <nominal>4</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Land_Claim_Flag">
+    <nominal>4</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Admin_Land_Claim_Flag">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Mortar_Mix">
+    <nominal>10</nominal>
+    <lifetime>3600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Golf">
+    <nominal>10</nominal>
+    <lifetime>3600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Town" />
+    <usage name="Office" />
+    <usage name="School" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Gang_Plug">
+    <nominal>6</nominal>
+    <lifetime>3600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Town" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Police" />
+    <usage name="Medic" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Solar_PanelKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Town" />
+    <usage name="Office" />
+    <usage name="School" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Solar">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Carpet">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Town" />
+    <usage name="Office" />
+    <usage name="School" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Wallpaper">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Town" />
+    <usage name="Office" />
+    <usage name="School" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_Door_HalfKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_Door_Half">
+    <nominal>4</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_FoundationKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_Foundation">
+    <nominal>4</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_FoundationKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_Foundation">
+    <nominal>4</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_FoundationKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_Foundation">
+    <nominal>4</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_PillarKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Pillar">
+    <nominal>4</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_BedKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Town" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Bed">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Bedding">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Town" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Step_LadderKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Step_Ladder">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_WindowKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_Window">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_StairKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_Stair">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Plaster">
+    <nominal>6</nominal>
+    <lifetime>3600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Town" />
+    <usage name="Office" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Bucket">
+    <nominal>4</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Town" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_WellKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Well">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_Roof_HatchKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T1_Roof_Hatch">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_Roof_HatchKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_Roof_Hatch">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_Roof_HatchKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T3_Roof_Hatch">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_StairKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_T2_Stair">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Wheelbarrow">
+    <nominal>3</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_SofaKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Town" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Sofa">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Toilet">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Town" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Dance_FloorKit">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="floor" />
+    <usage name="Town" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Dance_Floor">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_XmasLights_9v">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="shelves" />
+    <usage name="Town" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_XmasLights_Solar">
+    <nominal>1</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="shelves" />
+    <usage name="Town" />
+    <usage name="Industrial" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_Cement_Mixer_Static">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
+  <type name="BBP_XmasLights_String">
+    <nominal>4</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>
+		    <value name="Tier11"/>
+		    <value name="Tier12"/>
+		    <value name="Tier13"/>
+		    <value name="Tier14"/>
+		    <value name="Tier15"/>
+		    <value name="Tier16"/>
+		    <value name="Tier17"/>
+  </type>
 </types>

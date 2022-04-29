@@ -1,0 +1,331 @@
+{
+	"m_Version":	9,
+	"DisplayName":	"Base Buidling Plus_Base Building",
+	"Icon":	"Nails",
+	"Color":	"FFFFFF",
+	"InitStockPercent":	100,
+	"Items":[
+
+		{
+			 "ClassName": "BBP_Pillar_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Ramp_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Roof_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Hanger_Roof_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Slope_Roof_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Slope_Wall_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Stair_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Triangle_Floor_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Triangle_Roof_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Window_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Wall_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Door_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Floor_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Blueprint",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Roof_Hatch_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_BuildPermit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Workbench",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Step_Ladder_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Workbench_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Floor_Hatch_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Foundation_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Gate_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		},
+
+		{
+			 "ClassName": "BBP_Half_Wall_Kit",
+			 "MaxPriceThreshold": 0,
+			 "MinPriceThreshold": 0,
+			 "SellPricePercent": 10,
+			 "MaxStockThreshold": 1,
+			 "MinStockThreshold": 1,
+			 "QuantityPercent": -1,
+			 "SpawnAttachments": [],
+			 "Variants": [
+				
+			]
+		}
+	]
+}

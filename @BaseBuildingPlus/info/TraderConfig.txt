@@ -1,0 +1,29 @@
+	<Category> BBPItemPack
+		BBP_Wall_Kit,        							*,		200,		10
+		BBP_Door_Kit,        							*,		200,		10
+		BBP_Floor_Kit,       				 			*,		200,		10
+		BBP_Roof_Hatch_Kit,    							*,		200,		10
+		BBP_Floor_Hatch_Kit,    						*,		200,		10
+		BBP_Foundation_Kit,        						*,		200,		10
+		BBP_Gate_Kit,        							*,		200,		10
+		BBP_SGate_Kit,        							*,		200,		10
+		BBP_Half_Wall_Kit,        						*,		200,		10
+		BBP_Pillar_Kit,        							*,		200,		10
+		BBP_Ramp_Kit,        							*,		200,		10
+		BBP_Roof_Kit,        							*,		200,		10
+		BBP_Hanger_Roof_Kit,    						*,		200,		10
+		BBP_Slope_Roof_Kit,       	 					*,		200,		10
+		BBP_Slope_Wall_Kit,        						*,		200,		10
+		BBP_Stair_Kit,        							*,		200,		10
+		BBP_Triangle_Floor_Kit,    						*,		200,		10
+		BBP_Triangle_Roof_Kit,    						*,		200,		10
+		BBP_Window_Kit,        							*,		200,		10
+		// BBP_BuildPermit,        						*,		200,		100 // No longer required
+		// BBP_TapeMeasure,        						*,		200,		100 // No longer required
+		BBP_Blueprint,        							*,		200,		100
+		BBP_Workbench_Kit,								*,		300,		150
+		BBP_Step_Ladder_Kit,    						*,		200,		100
+		BBP_Concrete_Brick_Pile,    					*,		800,		400
+		BBP_Cement,										*,		2000,		1000
+		BBP_Mortar_Mix,									*,		200,		100
+		BBP_Cement_Mixer_Kit,        					*,		10000,		5000
