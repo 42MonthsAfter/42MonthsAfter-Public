@@ -1,0 +1,11 @@
+name = "Better Inspect";
+picture = "BetterInspect/gui/images/logo.edds";
+logo = "BetterInspect/gui/images/logo.edds";
+logoSmall = "BetterInspect/gui/images/logo.edds";
+logoOver = "BetterInspect/gui/images/logo.edds";
+tooltip = "Better Inspect - By LBmaster";
+overview = "LBmasters Better Inspect Mod";
+action = "https://www.paypal.me/lbmaster?locale.x=de_DE";
+author = "LBmaster";
+authorID = "76561198141097113";
+version = "1.0";

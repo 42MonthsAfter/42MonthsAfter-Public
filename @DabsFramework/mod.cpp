@@ -1,0 +1,11 @@
+name = "$STR_DF_NAME";
+picture = "DabsFramework/gui/images/dabs_framework_logo.edds";
+logo = "DabsFramework/gui/images/dabs_framework_logo.edds";
+logoSmall = "DabsFramework/gui/images/dabs_framework_logo.edds";
+logoOver = "DabsFramework/gui/images/dabs_framework_logo.edds";
+tooltip = "$STR_DF_TOOLTIP";
+overview = "$STR_DF_DESCRIPTION";
+action = "https://dab.dev";
+author = "$STR_DF_AUTHOR";
+authorID = "76561198247958888";
+version = "1.0";

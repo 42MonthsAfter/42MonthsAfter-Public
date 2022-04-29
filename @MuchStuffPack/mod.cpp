@@ -1,0 +1,10 @@
+name = "MuchStuffPack";
+picture = "MuchStuffPack/MSP_Scripts/modlogo.edds";
+logoSmall = "MuchStuffPack/MSP_Scripts/modlogo.edds";
+logo = "MuchStuffPack/MSP_Scripts/modlogo.edds";
+logoOver = "MuchStuffPack/MSP_Scripts/modlogo.edds";
+action = "https://steamcommunity.com/sharedfiles/filedetails/?id=1991570984";
+tooltip = "";
+overview = "MuchStuffPack is a collection of melee weapons, furniture items, retextures and much more. For support join discord.gg/willowglade";
+author = "Helkhiana";
+hidePicture = 0;

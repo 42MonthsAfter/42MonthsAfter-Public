@@ -1,0 +1,44 @@
+{
+    "VehicleMustHaveLock": 1,
+    "SaveVehicleCargo": 0,
+    "SaveVehicleHealth": 1,
+    "SaveVehicleFuel": 1,
+    "ParkInCost": 100,
+    "ParkOutCost": 100,
+    "PayWithBankAccount": 0,
+    "WhitelistedObjects": [],
+    "NPCs": [
+        {
+            "ClassName": "TraderPlusSign",
+            "Position": [
+                3723.840087890625,
+                402.0119934082031,
+                5990.0400390625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "ParkingPosition": [
+                3719.7099609375,
+                402.0119934082031,
+                5994.85009765625
+            ],
+            "ParkingOrientation": [
+                -42.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": []
+        }
+    ],
+    "ParkingNotAvailable": "The park area is not available!",
+    "NotEnoughMoney": "You don't have enough money",
+    "NotRightToPark": "You don't have the right to park in this vehicle!",
+    "CarHasMember": "The car still have member inside!",
+    "ParkInFail": "The car was not able to be park in correctly",
+    "ParkInSuccess": "The car was successfully parked",
+    "ParkOutFail": "The car was not able to spawn!",
+    "ParkOutSuccess": "The car was able to spawn!"
+}
