@@ -1,9 +1,9 @@
 {
     "RaidTimeInSeconds": 10.0,
     "CanAttach": "true",
-    "CanRaid": "false",
-    "DeleteLockOnRaid": "false",
-    "ToolDamageOnRaid": 100,
+    "CanRaid": "true",
+    "DeleteLockOnRaid": "true",
+    "ToolDamageOnRaid": 360,
     "RaidTools": [
         "Hacksaw"
     ]

@@ -1165,7 +1165,7 @@
 	
 	<!-- Military -->
 	<type name="ZmbM_usSoldier_Heavy_Woodland">						
-        <Health_Points				Day="300" 	Night="300"/> 	<!-- Strong Lvl 4 -->
+        <Health_Points				Day="150"	Night="150"/> 	<!-- Strong Lvl 4 -->
         <Resistance_to_Bullets		Day="0.5" 	Night="0.5"/> 	
         <Resistance_to_Melees		Day="0.5" 	Night="0.5"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1192,7 +1192,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="5"		Night="5"/>
     </type>	
 	<type name="ZmbM_usSoldier_Officer_Desert">						
-        <Health_Points				Day="300" 	Night="300"/> 	<!-- Strong Lvl 4 -->
+        <Health_Points				Day="150"	Night="150"/> 	<!-- Strong Lvl 4 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1219,7 +1219,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="3"		Night="3"/>
     </type>	
 	<type name="ZmbM_usSoldier_normal_Base">					
-        <Health_Points				Day="200"	Night="200"/> 	<!-- Strong Lvl 3 -->
+        <Health_Points				Day="150"	Night="150"/> 	<!-- Strong Lvl 3 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1246,7 +1246,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="5"		Night="5"/>
     </type>
 	<type name="ZmbM_PatrolNormal_Base">						
-        <Health_Points				Day="200"	Night="200"/> 	<!-- Strong Lvl 3 -->
+        <Health_Points				Day="150"	Night="150"/> 	<!-- Strong Lvl 3 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1273,7 +1273,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="5"		Night="5"/>
     </type>
 	<type name="ZmbM_SoldierNormal_Base">						
-        <Health_Points				Day="300" 	Night="300"/> 	<!-- Strong Lvl 4 -->
+        <Health_Points				Day="150"	Night="150"/> 	<!-- Strong Lvl 4 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 	
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 	
@@ -1410,7 +1410,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="5"		Night="5"/>
     </type>
 	<type name="ZmbM_DoctorFat_Base">
-        <Health_Points				Day="200"	Night="200"/> 	<!-- Strong Lvl 3 -->
+        <Health_Points				Day="150"	Night="150"/> 	<!-- Strong Lvl 3 -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/> 
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/> 
@@ -1437,7 +1437,7 @@
  		<Numb_Of_Hit_To_Break_Doors	Day="3"		Night="3"/>
     </type>
 	<type name="ZmbM_Santa">	 					<!-- ! More Dangerous at NIGHT ! -->
-        <Health_Points				Day="350" 	Night="350"/> 	<!--  Very Strong Lvl BadSanta  -->
+        <Health_Points				Day="150"	Night="150"/> 	<!--  Very Strong Lvl BadSanta  -->
         <Resistance_to_Bullets		Day="0.5" 	Night="0.5"/>
         <Resistance_to_Melees		Day="0.5" 	Night="0.5"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -1499,7 +1499,7 @@
 	<!-- Or use vanilla zombies to remplace masters and night creatures in the Pvz_TheDarkHorde_ZombiesList.c file -->
 
 	<type name="ZmbM_DH_Master_Day">
-        <Health_Points				Day="400" 	Night="400"/> 	<!--  Strong Lvl 5  -->
+        <Health_Points				Day="150"	Night="150"/> 	<!--  Strong Lvl 5  -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -1527,7 +1527,7 @@
     </type>
 
 	<type name="ZmbM_DH_Master_Night">							<!--  This class is use if go through walls option of Dark Horde mod is Activated  -->
-        <Health_Points				Day="400" 	Night="400"/> 	<!--  Strong Lvl 5  -->
+        <Health_Points				Day="150"	Night="150"/> 	<!--  Strong Lvl 5  -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
@@ -1555,7 +1555,7 @@
     </type>
 	
 	<type name="ZmbM_DH_Master_Night_NotThroughWalls">			<!--  This class is use if go through walls option of Dark Horde mod is Deactivated  -->
-        <Health_Points				Day="400" 	Night="400"/> 	<!--  Strong Lvl 5  -->
+        <Health_Points				Day="150"	Night="150"/> 	<!--  Strong Lvl 5  -->
         <Resistance_to_Bullets		Day="1.0" 	Night="1.0"/>
         <Resistance_to_Melees		Day="1.0" 	Night="1.0"/>
         <Resistance_to_HeavyAttack	Day="0.5" 	Night="0.5"/>
