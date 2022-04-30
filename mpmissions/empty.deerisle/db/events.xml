@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
+	<event name="SkyJeep">
+		<nominal>2</nominal>
+		<min>0</min>
+		<max>2</max>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<saferadius>500</saferadius>
+		<distanceradius>500</distanceradius>
+		<cleanupradius>200</cleanupradius>a
+		<flags deletable="0" init_random="0" remove_damaged="1"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="Sky_Jeep"/>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="Sky_Jeep_Black"/>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="Sky_Jeep_Blue"/>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="Sky_Jeep_Green"/>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="Sky_Jeep_Red"/>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="Sky_Jeep_Yellow"/>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="Sky_Jeep_White"/>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="Jeep_Cheroke_1984_byBlizzM"/>
+		</children>
+	</event>
 	<event name="LandRoverDefender">
 		<nominal>2</nominal>
 		<min>0</min>
