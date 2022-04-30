@@ -1,0 +1,10 @@
+name = "TraderPlus";
+author = "TheDmitri";
+version = "0.1.0";
+overview = "TraderPlus Mod (SP/MP)"; 	// description
+action = "https://dmitridayzmodding.jimdosite.com";		// link
+tooltip = "TraderPlus";
+picture = "TraderPlus/images/TraderPlusLogo.edds";			// picture in expanded description
+logoSmall = "TraderPlus/images/TraderPlusLogo.edds";	// icon next to mod name when description is not expanded
+logo = "TraderPlus/images/TraderPlusLogo.edds";				// logo below game menu
+logoOver = "TraderPlus/images/TraderPlusLogo.edds";							// over

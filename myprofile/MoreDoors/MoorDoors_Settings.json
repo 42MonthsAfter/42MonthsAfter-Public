@@ -1,0 +1,17 @@
+{
+    "CanDestroyMoreDoor": 1,
+    "CanCutComboLock": 1,
+    "CanCraftDoorKits": 1,
+    "MoreDoorRaidTools": [
+        "Sledgehammer",
+        "FirefighterAxe",
+        "WoodAxe"
+    ],
+    "MoreDoorShantyDestroyTime": 1800,
+    "MoreDoorDestroyTime": 3600,
+    "MoreDoorMetalDestroyTime": 7200,
+    "MoreDoorBarricadeDestroyTime": 1800,
+    "MoreDoorMetalBarricadeDestroyTime": 7200,
+    "MoreDoorDismantleTime": 25,
+    "MoreDoorToolDamage": 100
+}
