@@ -56,6 +56,7 @@
                 "Melee & Blades",
                 "Weapon Care",
                 "Ammo",
+                "Teddy's Ammo",
                 "Money Exchange"
             ],
             "LicencesRequired": [],
@@ -64,12 +65,7 @@
         {
             "Id": 5,
             "Categories": [
-                "Shoes",
-                "Gloves",
-                "Head Wear",
                 "Bags",
-                "Tops",
-                "Pants",
                 "Gear",
                 "Patches & Armbands",
                 "Survival",
@@ -110,6 +106,7 @@
                 "Teddy's Assualt Rifles",
                 "Teddy's Bayonets",
                 "Teddy's Ammo",
+                "Ammo",
                 "Teddy's Lights",
                 "Teddy's Suppressors",
                 "Teddy's Optics",
@@ -126,6 +123,26 @@
                 "MVS Vests",
                 "MVS Helmets",
                 "MVS Bags",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 9,
+            "Categories": [
+                "Stash Food",
+                "Stash Medical",
+                "Stash Tools & BB+",
+                "Stash Electronics",
+                "Stash Gear",
+                "Stash Survival",
+                "Stash Weapons",
+                "Stash Magazines",
+                "Stash Ammo",
+                "Stash Gun Parts",
+                "Stash Weed",
+                "Stash Auto Parts",
                 "Money Exchange"
             ],
             "LicencesRequired": [],
