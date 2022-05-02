@@ -1,6 +1,6 @@
 {
-    "BBP_DisableCraftVanillaFence": 1,
-    "BBP_DisableCraftVanillaWatchtower": 1,
+    "BBP_DisableCraftVanillaFence": 0,
+    "BBP_DisableCraftVanillaWatchtower": 0,
     "BBP_BaseBuildAnywhere": 1,
     "BBP_FlagBuildAnywhere": 1,
     "BBP_TentBuildAnywhere": 1,
@@ -11,7 +11,7 @@
     "BBP_CanRaiseAndLowerHologram": 1,
     "BBP_HologramHasCollision": 0,
     "BBP_InventoryToggle": 0,
-    "BBP_HideKitWhilePlacing": 0,
+    "BBP_HideKitWhilePlacing": 1,
     "BBP_BarbedWireRemoveOutside": 1,
     "BBP_CanAttachFlashlights": 1,
     "BBP_CanAttachXmaslights": 1,
