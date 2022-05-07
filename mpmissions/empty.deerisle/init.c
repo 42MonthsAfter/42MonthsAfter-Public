@@ -299,16 +299,16 @@ class CustomMission: MissionServer
 		ref TStringArray hatArray = {"BaseballCap_Black","BaseballCap_Camo","BoonieHat_Black","BoonieHat_DPM","Slouch_Hat_Brown","BeanieHat_Blue","BeanieHat_Brown","Msp_Slouchie_Black","Msp_Slouchie_Red","ZmijovkaCap_Red","ZmijovkaCap_Green","RadarCap_Blue","Ushanka_Blue","strawhat_mung","jesterhat_mung"};
 		ref TStringArray topArray = {"Hoodie_Red","Hoodie_Grey","Hoodie_Green","TrackSuitJacket_Black","JumpsuitJacket_Gray","Raincoat_Red","HikingJacket_Blue","WoolCoat_GreyCheck","WoolCoat_Green","QuiltedJacket_Yellow","QuiltedJacket_Grey","Winter_Parka_Green","BomberJacket_Brown","DenimJacket","ParamedicJacket_Crimson","FirefighterJacket_Beige"};
 		ref TStringArray pantsArray = {"Adidas_Leggings","TrackSuitPants_Red","TrackSuitPants_Green","ShortJeans_Red","Kneepads_Jeans_Base","Skinny_Jeans_Blue","Jeans_Brown","Jeans_Green","CanvasPantsMidi_Grey","Breeches_Blue","Breeches_Black"};	
-		ref TStringArray vestArray  = {"HuntingVest","ReflexVest","bikervest_mung","UKAssVest_Khaki"};	
+		ref TStringArray vestArray  = {""};	
 		ref TStringArray glassesArray = {""};
-		ref TStringArray shoesArray = {"AthleticShoes_Blue","JoggingShoes_Blue","Sneakers_Gray","High_Knee_Sneakers_Black","HikingBootsLow_Grey","WorkingBoots_Brown","JungleBoots_Black","MilitaryBoots_Bluerock","CombatBoots_Beige"};	
-		ref TStringArray maskArray = {"SurgicalMask","Balaclava3Holes_Beige","BalaclavaMask_Pink","BalaclavaMask_Blackskull","Balaclava3Holes_Green","BalaclavaMask_Blue"};	
-		ref TStringArray glovesArray = {"LeatherGloves_Beige","LeatherGloves_Black","SurgicalGloves_White","Fingerless_Gloves","Fingerless_Gloves_Wool","WorkingGloves_Yellow","WorkingGloves_Brown"};		
+		ref TStringArray shoesArray = {"AthleticShoes_Blue","JoggingShoes_Blue","Sneakers_Gray","HikingBootsLow_Grey","WorkingBoots_Brown","JungleBoots_Black","MilitaryBoots_Bluerock","CombatBoots_Beige"};	
+		ref TStringArray maskArray = {""};	
+		ref TStringArray glovesArray = {""};		
 		ref TStringArray foodArray = {"Pate","BrisketSpread","Pajka","Zagorky","ZagorkyChocolate","ZagorkyPeanuts","Lunchmeat","CatFoodCan","DogFoodCan"};
-		ref TStringArray drinkArray = {"WaterBottle","SodaCan_Cola","SodaCan_Pipsi","SodaCan_Spite","SodaCan_Fronta","SodaCan_Kvass","Canteen"};
-		ref TStringArray backpackArray = {"simplebackpack_blue_mung","simplebackpack_redpink_mung","Canvas_Backpack_Base","Canvas_Backpack_White","TaloonBag_Orange","TaloonBag_Blue","MountainBag_Orange","MountainBag_Blue","bag_6B38_camo_mung","bag_6B38_black_mung"};
-		ref TStringArray knifeArray  = {"HuntingKnife","bowieknife_mung"};
-		ref TStringArray meleeArray = {"Pipe","cricket_bat_mung","BaseballBat","Msp_BeanBasher","CrudeMachete","NailedBaseballBat","Broom"};
+		ref TStringArray drinkArray = {"WaterBottle","SodaCan_Cola","SodaCan_Pipsi","SodaCan_Spite","SodaCan_Fronta","SodaCan_Kvass"};
+		ref TStringArray backpackArray = {"simplebackpack_blue_mung","simplebackpack_redpink_mung","Canvas_Backpack_Base","Canvas_Backpack_White"};
+		ref TStringArray knifeArray  = {""};
+		ref TStringArray meleeArray = {""};
 
 		player.GetInventory().CreateInInventory(hatArray.GetRandomElement());
 		player.GetInventory().CreateInInventory(topArray.GetRandomElement());
