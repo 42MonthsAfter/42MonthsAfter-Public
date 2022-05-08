@@ -95,8 +95,8 @@ class CustomMission: MissionServer
 		// Example with Bohemia UID: 	adminMembers.Insert( "JCmXrrt43efttyhfewew7tRLMUCOE6roH2O8SklBB1o=" );
 		// Example with Steam64 ID: 	adminMembers.Insert( "76561198040948171" );
 				
-		// ADMIN MEMBERS: Can be Steam64 ID or Bohemia UID
-		adminMembers.Insert( "76561198036774377" ); // Bunker
+		// ADMIN MEMBERS: Can be Steam64 ID or Bohemia UID 76561198036774377
+		adminMembers.Insert( "ReplaceWithUniqueID" ); // Bunker
 
 		// MODERATOR MEMBERS = Free Folk : Can be Steam64 ID or Bohemia UID
 		modMembers.Insert( "ReplaceWithUniqueID" ); // Moderators Name
