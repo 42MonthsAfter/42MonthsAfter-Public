@@ -106,4 +106,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="ModTypes/ZeroyFishingZ">
 		<file name="types.xml" type="types" />
 	</ce>
+	<ce folder="ModTypes/Windstride">
+		<file name="types.xml" type="types" />
+	</ce>
 </economycore>
