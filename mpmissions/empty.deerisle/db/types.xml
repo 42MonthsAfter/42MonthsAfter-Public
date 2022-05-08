@@ -6911,7 +6911,7 @@
   </type>
   <type name="Bonfire">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3600</lifetime>
     <restock>900</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -9445,7 +9445,7 @@
   </type>
   <type name="ChristmasTree_Green">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3600</lifetime>
     <restock>900</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -9472,7 +9472,7 @@
   </type>
   <type name="ChristmasTree">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3600</lifetime>
     <restock>900</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -11563,7 +11563,7 @@
   </type>
   <type name="DallasMask">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3600</lifetime>
     <restock>900</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -19914,7 +19914,7 @@
   </type>
   <type name="HoxtonMask">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3600</lifetime>
     <restock>900</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -30339,7 +30339,7 @@
   </type>
   <type name="PumpkinHelmet">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3600</lifetime>
     <restock>900</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -31907,7 +31907,7 @@
   </type>
   <type name="SantasSleigh">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3600</lifetime>
     <restock>900</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -33113,7 +33113,7 @@
   </type>
   <type name="Sedan_02_Grey">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>1800</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -33320,7 +33320,7 @@
   </type>
   <type name="Sedan_02_Red">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>1800</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -35514,7 +35514,7 @@
   </type>
   <type name="Splint_Applied">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>180</lifetime>
     <restock>900</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -37720,7 +37720,7 @@
   </type>
   <type name="TransitBus">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3600</lifetime>
     <restock>1800</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -38108,7 +38108,7 @@
   </type>
   <type name="Truck_01_Covered">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>1800</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -39717,7 +39717,7 @@
   </type>
   <type name="WolfMask">
     <nominal>0</nominal>
-    <lifetime>3</lifetime>
+    <lifetime>3600</lifetime>
     <restock>900</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
