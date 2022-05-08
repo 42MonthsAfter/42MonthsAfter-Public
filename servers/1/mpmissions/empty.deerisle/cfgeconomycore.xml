@@ -34,4 +34,76 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
+	<ce folder="ModTypes/42MonthsAfter">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/AirdropUpgraded">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/BaseBuildingPlus">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/Breachingcharge">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/BuildAnywherev3">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/CodBuilderItemseLock">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/BuildingFortifications">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/CannabisPlus">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/CarCover">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/CodeLock">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/FlipTransport">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/FOXWEAPONS">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/IRPLandRoverDefender110">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/JeepCherokee1984">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/KingoftheHill">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/MassManyItemOverhaul">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/MuchStuffPack">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/MunghardsItempack">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/Notes">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/RepairMyCar">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/SkyJeep">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/TeddysWeaponPack">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/TraderPlus">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/ZeroyFishingZ">
+		<file name="types.xml" type="types" />
+	</ce>
 </economycore>

@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+<!-- Cannabis Plus -->
+ 	<type name="CP_Plant_CannabisSkunk">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="CP_CannabisSkunk">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisSeedsSkunk">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisSeedsPackSkunk">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisBagSkunk">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisBrickSkunk">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CigarettePack_CannabisSkunk">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>1</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_JointSkunk">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+ 	<type name="CP_Plant_CannabisBlue">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="CP_CannabisBlue">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisSeedsBlue">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisSeedsPackBlue">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisBagBlue">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisBrickBlue">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CigarettePack_CannabisBlue">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>1</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_JointBlue">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+ 	<type name="CP_Plant_CannabisKush">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="CP_CannabisKush">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisSeedsKush">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisSeedsPackKush">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisBagKush">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisBrickKush">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CigarettePack_CannabisKush">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>1</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_JointKush">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+ 	<type name="CP_Plant_CannabisStardawg">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="CP_CannabisStardawg">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisSeedsStardawg">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisSeedsPackStardawg">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisBagStardawg">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisBrickStardawg">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CigarettePack_CannabisStardawg">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>1</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_JointStardawg">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+ 	<type name="CP_Plant_Tobacco">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="CP_Tobacco">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_TobaccoSeeds">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+ 	<type name="CP_TobaccoSeedsPack">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CigarettePack_Empty">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CigarettePack_Chernamorka">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>1</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CigarettePack_Merkur">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>1</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CigarettePack_Partyzanka">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>1</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_Cigarette">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_RollingPapers">
+        <nominal>20</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>10</min>
+        <quantmin>1</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+ 	<type name="CP_Plant_CannabisFuture">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="CP_CannabisFuture">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisSeedsFuture">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisSeedsPackFuture">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisBagFuture">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisBrickFuture">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CigarettePack_CannabisFuture">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>1</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_JointFuture">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+ 	<type name="CP_Plant_CannabisS1">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="CP_CannabisS1">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisSeedsS1">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisSeedsPackS1">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisBagS1">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisBrickS1">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CigarettePack_CannabisS1">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>1</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_JointS1">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+     	<type name="CP_Plant_CannabisNomad">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="CP_CannabisNomad">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisSeedsNomad">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisSeedsPackNomad">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisBagNomad">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisBrickNomad">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CigarettePack_CannabisNomad">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>1</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_JointNomad">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+  	<type name="CP_Plant_CannabisBlackFrost">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="CP_CannabisBlackFrost">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisSeedsBlackFrost">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisSeedsPackBlackFrost">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <usage name="Farm"/>
+        <usage name="Hunting"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisBagBlackFrost">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CannabisBrickBlackFrost">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_CigarettePack_CannabisBlackFrost">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>1</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_JointBlackFrost">
+        <nominal>10</nominal>
+        <lifetime>1800</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+    <type name="CP_Relief_Balm">
+        <nominal>20</nominal>
+        <lifetime>2700</lifetime>
+        <restock>900</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <usage name="Medic"/>
+        <tag name="shelves"/>
+        <value name="Tier1" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Tier7" />
+        <value name="Tier9" />
+        <value name="Tier10" />
+        <value name="Tier11" />
+        <value name="Tier13" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier17" />
+    </type>
+</types>
