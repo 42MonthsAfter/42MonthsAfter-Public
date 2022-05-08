@@ -298,7 +298,7 @@ class CustomMission: MissionServer
 	{
 		ref TStringArray hatArray = {"BaseballCap_Black","BaseballCap_Camo","BoonieHat_Black","BoonieHat_DPM","Slouch_Hat_Brown","BeanieHat_Blue","BeanieHat_Brown","Msp_Slouchie_Black","Msp_Slouchie_Red","ZmijovkaCap_Red","ZmijovkaCap_Green","RadarCap_Blue","Ushanka_Blue","strawhat_mung","jesterhat_mung"};
 		ref TStringArray topArray = {"Hoodie_Red","Hoodie_Grey","Hoodie_Green","TrackSuitJacket_Black","JumpsuitJacket_Gray","Raincoat_Red","HikingJacket_Blue","WoolCoat_GreyCheck","WoolCoat_Green","QuiltedJacket_Yellow","QuiltedJacket_Grey","Winter_Parka_Green","BomberJacket_Brown","DenimJacket","ParamedicJacket_Crimson","FirefighterJacket_Beige"};
-		ref TStringArray pantsArray = {"Adidas_Leggings","TrackSuitPants_Red","TrackSuitPants_Green","ShortJeans_Red","Kneepads_Jeans_Base","Skinny_Jeans_Blue","Jeans_Brown","Jeans_Green","CanvasPantsMidi_Grey","Breeches_Blue","Breeches_Black"};	
+		ref TStringArray pantsArray = {"Adidas_Leggings","TrackSuitPants_Red","TrackSuitPants_Green","ShortJeans_Red","Jeans_Brown","Jeans_Green","CanvasPantsMidi_Grey","Breeches_Blue","Breeches_Black"};	
 		ref TStringArray vestArray  = {""};	
 		ref TStringArray glassesArray = {""};
 		ref TStringArray shoesArray = {"AthleticShoes_Blue","JoggingShoes_Blue","Sneakers_Gray","HikingBootsLow_Grey","WorkingBoots_Brown","JungleBoots_Black","MilitaryBoots_Bluerock","CombatBoots_Beige"};	
@@ -322,10 +322,6 @@ class CustomMission: MissionServer
 		player.GetInventory().CreateInInventory(drinkArray.GetRandomElement());
 		player.GetInventory().CreateInInventory(backpackArray.GetRandomElement());
 		player.GetInventory().CreateInInventory(knifeArray.GetRandomElement());
-		player.GetInventory().CreateInInventory("Armband_White");
-		player.GetInventory().CreateInInventory("Matchbox");
-		player.GetInventory().CreateInInventory("SAK_Mung");
-		player.GetInventory().CreateInInventory("TraderPlus_Wallet");
 		ItemBase rags = player.GetInventory().CreateInInventory("Rag");
 		rags.SetQuantity(4);
 		ItemBase light = player.GetInventory().CreateInInventory("Flashlight");
