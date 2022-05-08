@@ -1,0 +1,26 @@
+"InstallScript"
+{
+	"Run Process"
+	{
+		"4.5.2"
+		{
+			"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\CommonRedist\\.NET\\4.5.2"
+			"process 1"		"%INSTALLDIR%\\_CommonRedist\\DotNet\\4.5.2\\noop.cmd"
+			"nocleanup"		"1"
+			"requirement_os"
+			{
+				"OSType"		"Windows XP"
+			}
+		}
+		"4.5.2"
+		{
+			"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\CommonRedist\\.NET\\4.5.2"
+			"process 1"		"%INSTALLDIR%\\_CommonRedist\\DotNet\\4.5.2\\Microsoft .NET Framework 4.5.2.cmd"
+			"nocleanup"		"1"
+		}
+	}
+}
+"kvsignatures"
+{
+	"InstallScript"		"6daf31c0bd617de607f064e7d41a32549c067aa954c3bbe80e0ef4d5237accf05b79cc99e0e0b44ec28359ba99e8dd65cff7ec5a5c0cde7bcfa9e28397c82160012bc38be38941eb75d3f6125e5a0beb4e6f259a0944a49ec3b4317c50634b6aa29808f8bbe9d31d7a7336d5d3d7e1b61a56452a909d5e271f65ca995a9cc79a"
+}

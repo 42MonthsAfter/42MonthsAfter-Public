@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="FOX_AKS74UN">
+		<attachments chance="1.00">
+			<item name="FOX_AK_Bttstck_Metal_Folding" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_AKS74U_hndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_AKS74U_Compensator" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Mag_AK74_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_AKS74N">
+		<attachments chance="1.00">
+			<item name="FOX_AK_Bttstck_Metal_Folding" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_AK74_Compensator" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="FOX_AK_wood_hndgrd" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Mag_AK74_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_AK74M">
+		<attachments chance="1.00">
+			<item name="FOX_AK_Bttstck_Polimer_Folding" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_AK74_Compensator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_AK_polimer_hndgrd" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Mag_AK74_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_AKMN">
+		<attachments chance="1.00">
+			<item name="FOX_AK_Bttstck_Wood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_AKMN_Compensator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_AK_wood_hndgrd" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+	</type>		
+	<type name="FOX_AN94">
+		<attachments chance="1.00">
+			<item name="FOX_AN94_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_AN94_Compensator" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Mag_AK74_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_SLR_AR15">
+		<attachments chance="1.00">
+			<item name="FOX_SLR_AR15_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_SLR_AR15_hndgrd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_KOMRAD">
+		<attachments chance="1.00">
+			<item name="FOX_KOMRAD_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_KOMRAD_hndgrd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_ACR">
+		<attachments chance="1.00">
+			<item name="FOX_ACR_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_ACR_hndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_Mag_HB_30rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_ACR_TAN">
+		<attachments chance="1.00">
+			<item name="FOX_ACR_Bttstck_Tan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_ACR_hndgrd_Tan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_Mag_HB_30rnd_brown" chance="1.00" />
+		</attachments>
+	</type>		
+	<type name="FOX_SR47">
+		<attachments chance="1.00">
+			<item name="FOX_SR47_hndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_SR47_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_SR47_TAN">
+		<attachments chance="1.00">
+			<item name="FOX_SR47_hndgrd_tan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_SR47_Bttstck_tan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+	</type>	
+	<type name="FOX_UZI">
+		<attachments chance="1.00">
+			<item name="FOX_UZI_Bttstck_wood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_Mag_UZI_32Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_EVO">
+		<attachments chance="1.00">
+			<item name="FOX_EVO_hndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_EVO_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_Mag_EVO" chance="1.00" />
+		</attachments>
+	</type>		
+	<type name="FOX_SKS_TAC">
+		<attachments chance="1.00">
+			<item name="M4_CQBBttstck" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="FOX_Mag_SKS_TAC" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_SR1">
+		<attachments chance="1.00">
+			<item name="FOX_Mag_SR1" chance="1.00" />
+		</attachments>
+	</type>	
+	<type name="FOX_CZ361">
+		<attachments chance="1.00">
+			<item name="FOX_Mag_CZ361" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_MP153">
+		<attachments chance="1.00">
+			<item name="FOX_MP153_Bttstck" chance="1.00" />
+		</attachments>
+	</type>		
+	<type name="FOX_AK_ALPHA">
+		<attachments chance="1.00">
+			<item name="FOX_AK_ALPHA_hndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_AK_ALPHA_Bttstck" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="FOX_mag_AK_ALPHA" chance="1.00" />
+		</attachments>		
+	</type>	
+	<type name="FOX_AK_ALPHA_GREEN">
+		<attachments chance="1.00">
+			<item name="FOX_AK_ALPHA_hndgrd_green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_AK_ALPHA_Bttstck_green" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="FOX_mag_AK_ALPHA" chance="1.00" />
+		</attachments>		
+	</type>
+	<type name="FOX_AK_ALPHA_TAN">
+		<attachments chance="1.00">
+			<item name="FOX_AK_ALPHA_hndgrd_tan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_AK_ALPHA_Bttstck_tan" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="FOX_mag_AK_ALPHA" chance="1.00" />
+		</attachments>		
+	</type>
+	<type name="FOX_AK_ALPHA_SNOW">
+		<attachments chance="1.00">
+			<item name="FOX_AK_ALPHA_hndgrd_snow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_AK_ALPHA_Bttstck_snow" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="FOX_mag_AK_ALPHA" chance="1.00" />
+		</attachments>		
+	</type>	
+	<type name="FOX_HK416A7">
+		<attachments chance="1.00">
+			<item name="FOX_HK416A7_hndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_HK416A7_Bttstck" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_30Rnd" chance="1.00" />
+		</attachments>		
+	</type>	
+	<type name="FOX_HK416A7_CAMO_AUTUMN">
+		<attachments chance="1.00">
+			<item name="FOX_HK416A7_hndgrd_atn" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_HK416A7_Bttstck_camo_atn" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_30Rnd" chance="1.00" />
+		</attachments>		
+	</type>
+	<type name="FOX_HK416A7_CAMO_SUMMER">
+		<attachments chance="1.00">
+			<item name="FOX_HK416A7_hndgrd_smr" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_HK416A7_Bttstck_camo_smr" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_30Rnd" chance="1.00" />
+		</attachments>		
+	</type>	
+	<type name="FOX_M16A3">
+		<attachments chance="0.30">
+			<item name="FOX_M16A3_hndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="FOX_M16A3_RIShndgrd" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_30Rnd" chance="0.50" />
+		</attachments>		
+	</type>	
+	<type name="FOX_HK416D_CQB">
+		<attachments chance="1.00">
+			<item name="FOX_HK416D_hndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_HK416D_Bttstck" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_30Rnd" chance="0.50" />
+		</attachments>
+	</type>		
+	<type name="FOX_HK416D_CQB_SAND">
+		<attachments chance="1.00">
+			<item name="FOX_HK416D_hndgrd_sand" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_HK416D_Bttstck_sand" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_30Rnd" chance="0.50" />
+		</attachments>
+	</type>		
+	<type name="FOX_HK416D_CQB_OLIVE">
+		<attachments chance="1.00">
+			<item name="FOX_HK416D_hndgrd_olive" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_HK416D_Bttstck_olive" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_30Rnd" chance="0.50" />
+		</attachments>			
+	</type>
+	<type name="FOX_HK416D">
+		<attachments chance="1.00">
+			<item name="FOX_HK416D_hndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_HK416D_Bttstck" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_30Rnd" chance="0.50" />
+		</attachments>		
+	</type>
+	<type name="FOX_HK416D_SAND">
+		<attachments chance="1.00">
+			<item name="FOX_HK416D_hndgrd_sand" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_HK416D_Bttstck_sand" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_30Rnd" chance="0.50" />
+		</attachments>		
+	</type>
+	<type name="FOX_HK416D_OLIVE">
+		<attachments chance="1.00">
+			<item name="FOX_HK416D_hndgrd_olive" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_HK416D_Bttstck_olive" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_30Rnd" chance="0.50" />
+		</attachments>		
+	</type>	
+	<type name="FOX_HK417">
+		<attachments chance="1.00">
+			<item name="FOX_HK417_hndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_HK417_Bttstck" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="FOX_Mag_HK417_20rnd" chance="0.50" />
+		</attachments>		
+	</type>
+	<type name="FOX_HK417_BROWN">
+		<attachments chance="1.00">
+			<item name="FOX_HK417_hndgrd_tan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_HK417_Bttstck_tan" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="FOX_Mag_HK417_20rnd_Brown" chance="0.50" />
+		</attachments>		
+	</type>
+	<type name="FOX_HK417_OLIVE">
+		<attachments chance="1.00">
+			<item name="FOX_HK417_hndgrd_olive" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_HK417_Bttstck_olive" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="FOX_Mag_HK417_20rnd_Olive" chance="0.50" />
+		</attachments>		
+	</type>
+	<type name="FOX_HONEY_BADGER">
+		<attachments chance="1.00">
+			<item name="FOX_HB_Suppressor" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="FOX_HB_hndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_HB_Bttstck" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="FOX_Mag_HB_30rnd" chance="0.50" />
+		</attachments>		
+	</type>
+	<type name="FOX_HONEY_BADGER_OLIVE">
+		<attachments chance="1.00">
+			<item name="FOX_HB_Suppressor" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="FOX_HB_hndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_HB_Bttstck" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="FOX_Mag_HB_30rnd_green" chance="0.50" />
+		</attachments>	
+	</type>
+	<type name="FOX_HONEY_BADGER_TAN">
+		<attachments chance="1.00">
+			<item name="FOX_HB_Suppressor" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="FOX_HB_hndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_HB_Bttstck" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="FOX_Mag_HB_30rnd_brown" chance="0.50" />
+		</attachments>	
+	</type>	
+	<type name="FOX_SVD">
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_SVD_hndgrd" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="PSO1Optic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_SVD_GREEN">
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_SVD_hndgrd_green" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="PSO1Optic" chance="1.00" />
+		</attachments>
+	</type>	
+	<type name="FOX_SVDM">
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_SVDS_hndgrd" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="PSO1Optic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_SVDM_CAMO">
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_SVDS_hndgrd_camo" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="PSO1Optic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_SVDM_CAMO_WINTER">
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_SVDS_hndgrd_camo_wnr" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="PSO1Optic" chance="1.00" />
+		</attachments>
+	</type>	
+	<type name="FOX_SVDS">
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_SVDK_Bttstck" chance="1.00" />
+		</attachments>			
+		<attachments chance="1.00">
+			<item name="FOX_SVDS_hndgrd" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="PSO1Optic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_SVDS_GREEN">
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_SVDK_Bttstck" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="FOX_SVDS_hndgrd_green" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="PSO1Optic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_SVDK">
+		<attachments chance="1.00">
+			<item name="FOX_Mag_SVDK_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_SVDK_Bttstck" chance="1.00" />
+		</attachments>			
+		<attachments chance="1.00">
+			<item name="FOX_SVDS_hndgrd" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="PSO1Optic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_SVDK_GREEN">
+		<attachments chance="1.00">
+			<item name="FOX_Mag_SVDK_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_SVDK_Bttstck" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="FOX_SVDS_hndgrd_green" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="PSO1Optic" chance="1.00" />
+		</attachments>
+	</type>		
+	<type name="FOX_VSS">
+		<attachments chance="1.00">
+			<item name="FOX_VSS_Suppressor" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="PSO11Optic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="Mag_VSS_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_VSS_GREEN">
+		<attachments chance="1.00">
+			<item name="FOX_VSS_Suppressor" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="PSO11Optic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="Mag_VSS_10Rnd" chance="1.00" />
+		</attachments>
+	</type>		
+	<type name="FOX_ASVAL">
+		<attachments chance="1.00">
+			<item name="FOX_VSS_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_ASVAL_Bttstck" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="PSO11Optic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_Mag_ASVAL_20Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_ASVAL_CAMO">
+		<attachments chance="1.00">
+			<item name="FOX_VSS_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_ASVAL_Bttstck" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="PSO11Optic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_Mag_ASVAL_20Rnd_camo" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_ASVAL_CAMO_WINTER">
+		<attachments chance="1.00">
+			<item name="FOX_VSS_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_ASVAL_Bttstck" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="PSO11Optic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_Mag_ASVAL_20Rnd_winter" chance="1.00" />
+		</attachments>
+	</type>	
+	<type name="FOX_FNFAL">
+		<attachments chance="1.00">
+			<item name="FOX_FNFAL_hndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_FNFAL_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_Mag_FAL_10rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_FNFAL_PARA">
+		<attachments chance="1.00">
+			<item name="FOX_FNFAL_hndgrd_para" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_FNFAL_BttstckPara" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_Mag_FAL_20rnd" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="FOX_FNFAL_TAC">
+		<attachments chance="1.00">
+			<item name="FOX_FNFAL_hndgrd_rail" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_FNFAL_BttstckPolimer" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_Mag_FAL_30rnd" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="FOX_FRF2">
+		<attachments chance="1.00">
+			<item name="FOX_Mag_FRF2" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="0.30" />
+		</attachments>		
+	</type>
+	<type name="FOX_SSG69">
+		<attachments chance="1.00">
+			<item name="FOX_Mag_SSG69" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="0.30" />
+		</attachments>		
+	</type>
+	<type name="FOX_SSG69_POLIMER">
+		<attachments chance="1.00">
+			<item name="FOX_Mag_SSG69" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="0.30" />
+		</attachments>		
+	</type>
+	<type name="FOX_SSG69_POLIMER_GREEN">
+		<attachments chance="1.00">
+			<item name="FOX_Mag_SSG69" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="0.30" />
+		</attachments>		
+	</type>	
+	<type name="FOX_APS">
+		<attachments chance="1.00">
+			<item name="FOX_Mag_APS" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_PM">
+		<attachments chance="1.00">
+			<item name="FOX_Mag_PM" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_MP443">
+		<attachments chance="1.00">
+			<item name="FOX_Mag_MP443" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_FN57">
+		<attachments chance="1.00">
+			<item name="FOX_Mag_FN57_20Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FOX_SR25">
+		<attachments chance="1.00">
+			<item name="FOX_SR25_hndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_Mag_SR25_20rnd" chance="0.50" />
+		</attachments>		
+	</type>
+	<type name="FOX_SR25_TAN">
+		<attachments chance="1.00">
+			<item name="FOX_SR25_hndgrd_Tan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_Mag_SR25_20rnd" chance="0.50" />
+		</attachments>		
+	</type>
+	<type name="FOX_SR25_GREEN">
+		<attachments chance="1.00">
+			<item name="FOX_SR25_hndgrd_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FOX_Mag_SR25_20rnd" chance="0.50" />
+		</attachments>		
+	</type>	
+</spawnabletypes>

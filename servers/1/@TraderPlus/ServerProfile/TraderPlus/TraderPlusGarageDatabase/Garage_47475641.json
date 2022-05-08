@@ -1,0 +1,556 @@
+{
+    "OwnerName": "Dmitri",
+    "OwnerID": "47475641",
+    "ParkingPosition": [
+        11612.20703125,
+        57.90999984741211,
+        14693.2568359375
+    ],
+    "ParkingOrientation": [
+        -33.7625846862793,
+        0.000008328365765919444,
+        -0.000005567482276092051
+    ],
+    "Vehicles": [
+        {
+            "VehicleName": "OffroadHatchback",
+            "VehicleID": -1,
+            "EngineHealth": 1000.0,
+            "FuelAmmount": 42.0,
+            "ItemsInCargo": [
+                {
+                    "ItemName": "SparkPlug",
+                    "Amount": 1,
+                    "Health": 20.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "Amount": 50,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CarRadiator",
+                    "Amount": 1,
+                    "Health": 250.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "Amount": 1,
+                    "Health": 10.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "Amount": 1,
+                    "Health": 10.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackDoors_CoDriver",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackDoors_Driver",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackHood",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackTrunk",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                }
+            ]
+        },
+        {
+            "VehicleName": "Hatchback_02",
+            "VehicleID": -1,
+            "EngineHealth": 1000.0,
+            "FuelAmmount": 55.0,
+            "ItemsInCargo": [
+                {
+                    "ItemName": "SparkPlug",
+                    "Amount": 1,
+                    "Health": 20.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "Amount": 50,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CarRadiator",
+                    "Amount": 1,
+                    "Health": 250.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "Amount": 1,
+                    "Health": 10.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "Amount": 1,
+                    "Health": 10.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "Hatchback_02_Door_1_1",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "Hatchback_02_Door_1_2",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "Hatchback_02_Door_2_1",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "Hatchback_02_Door_2_2",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "Hatchback_02_Hood",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "Hatchback_02_Trunk",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "Hatchback_02_Wheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "Hatchback_02_Wheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "Hatchback_02_Wheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "Hatchback_02_Wheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                }
+            ]
+        },
+        {
+            "VehicleName": "OffroadHatchback",
+            "VehicleID": 10101998,
+            "EngineHealth": 1000.0,
+            "FuelAmmount": 0.0,
+            "ItemsInCargo": [
+                {
+                    "ItemName": "SparkPlug",
+                    "Amount": 1,
+                    "Health": 20.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "Amount": 50,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CarRadiator",
+                    "Amount": 1,
+                    "Health": 250.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "Amount": 1,
+                    "Health": 10.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "Amount": 1,
+                    "Health": 10.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackDoors_CoDriver",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackDoors_Driver",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackHood",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackTrunk",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                }
+            ]
+        },
+        {
+            "VehicleName": "OffroadHatchback",
+            "VehicleID": 522665551,
+            "EngineHealth": 1000.0,
+            "FuelAmmount": 41.997703552246097,
+            "ItemsInCargo": [
+                {
+                    "ItemName": "SparkPlug",
+                    "Amount": 1,
+                    "Health": 20.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "Amount": 49,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CarRadiator",
+                    "Amount": 1,
+                    "Health": 250.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "Amount": 1,
+                    "Health": 10.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "Amount": 1,
+                    "Health": 10.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackDoors_CoDriver",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackDoors_Driver",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackHood",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackTrunk",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                }
+            ]
+        },
+        {
+            "VehicleName": "OffroadHatchback",
+            "VehicleID": 1767166633,
+            "EngineHealth": 1000.0,
+            "FuelAmmount": 41.997920989990237,
+            "ItemsInCargo": [
+                {
+                    "ItemName": "SparkPlug",
+                    "Amount": 1,
+                    "Health": 20.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "Amount": 49,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CarRadiator",
+                    "Amount": 1,
+                    "Health": 250.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "Amount": 1,
+                    "Health": 10.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "Amount": 1,
+                    "Health": 10.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackDoors_CoDriver",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackDoors_Driver",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackHood",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackTrunk",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HatchbackWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                }
+            ]
+        },
+        {
+            "VehicleName": "CivilianSedan",
+            "VehicleID": -1,
+            "EngineHealth": 1000.0,
+            "FuelAmmount": 54.99869155883789,
+            "ItemsInCargo": [
+                {
+                    "ItemName": "SparkPlug",
+                    "Amount": 1,
+                    "Health": 20.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "Amount": 49,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CarRadiator",
+                    "Amount": 1,
+                    "Health": 250.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "Amount": 1,
+                    "Health": 10.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "Amount": 1,
+                    "Health": 10.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CivSedanDoors_Driver",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CivSedanDoors_CoDriver",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CivSedanDoors_BackLeft",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CivSedanDoors_BackRight",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CivSedanHood",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CivSedanTrunk",
+                    "Amount": 1,
+                    "Health": 500.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CivSedanWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CivSedanWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CivSedanWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                },
+                {
+                    "ItemName": "CivSedanWheel",
+                    "Amount": 1,
+                    "Health": 200.0,
+                    "ExtraData": -1
+                }
+            ]
+        }
+    ]
+}
