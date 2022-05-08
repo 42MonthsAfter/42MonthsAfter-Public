@@ -6129,10 +6129,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Bear_Beige">
-    <nominal>30</nominal>
+    <nominal>1</nominal>
     <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>20</min>
+    <restock>3600</restock>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6159,10 +6159,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Bear_Dark">
-    <nominal>30</nominal>
+    <nominal>1</nominal>
     <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>20</min>
+    <restock>3600</restock>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6189,10 +6189,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Bear_Pink">
-    <nominal>30</nominal>
+    <nominal>1</nominal>
     <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>20</min>
+    <restock>3600</restock>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6219,10 +6219,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Bear_White">
-    <nominal>30</nominal>
+    <nominal>1</nominal>
     <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>20</min>
+    <restock>3600</restock>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
