@@ -1,0 +1,39 @@
+{
+    "KillRewardWEAPONBOX": [
+        {
+            "BoxNumber": 1,
+            "Box": "WoodenCrate",
+            "BoxWeapon": "M4A1",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "M4_MPBttstck_Black",
+            "BoxWeaponHandguard": "M4_RISHndgrd_Black",
+            "BoxWeaponsuppressor": "",
+            "BoxWeaponSight": "ACOGOptic",
+            "BoxWeaponMagazin": "Mag_STANAG_30Rnd",
+            "BoxMagazinQuantity": 5,
+            "BoxBonus": [
+                "WeaponCleaningKit",
+                "WeaponCleaningKit",
+                "WeaponCleaningKit"
+            ]
+        },
+        {
+            "BoxNumber": 2,
+            "Box": "WoodenCrate",
+            "BoxWeapon": "M4A1",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "M4_MPBttstck_Black",
+            "BoxWeaponHandguard": "M4_RISHndgrd_Black",
+            "BoxWeaponsuppressor": "",
+            "BoxWeaponSight": "ACOGOptic",
+            "BoxWeaponMagazin": "Mag_STANAG_30Rnd",
+            "BoxMagazinQuantity": 5,
+            "BoxBonus": [
+                "WeaponCleaningKit",
+                "WeaponCleaningKit",
+                "WeaponCleaningKit"
+            ]
+        }
+    ],
+    "version": 9
+}
