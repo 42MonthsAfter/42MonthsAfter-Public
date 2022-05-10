@@ -2,16 +2,28 @@
     "PlayerID": "76561198157174770",
     "PlayerName": "[TWH] Sparky",
     "PlayerNotlisted": 0,
-    "KRPlayerPoints": 1035,
+    "KRPlayerPoints": 1640,
     "PlayerDeaths": 0,
     "Stats": [
         {
             "Name": "ZombieKill",
-            "Stat": 103
+            "Stat": 160
         },
         {
             "Name": "HindKills",
             "Stat": 1
+        },
+        {
+            "Name": "StagKills",
+            "Stat": 3
+        },
+        {
+            "Name": "RoosterKills",
+            "Stat": 1
+        },
+        {
+            "Name": "Wild_BoarKills",
+            "Stat": 3
         }
     ]
 }

@@ -2,12 +2,12 @@
     "PlayerID": "76561198034611550",
     "PlayerName": "Sarge",
     "PlayerNotlisted": 0,
-    "KRPlayerPoints": 2085,
+    "KRPlayerPoints": 2820,
     "PlayerDeaths": 1,
     "Stats": [
         {
             "Name": "ZombieKill",
-            "Stat": 243
+            "Stat": 315
         },
         {
             "Name": "PlayerSucide",
@@ -32,6 +32,14 @@
         {
             "Name": "WolfKills",
             "Stat": 2
+        },
+        {
+            "Name": "Wild_BoarKills",
+            "Stat": 2
+        },
+        {
+            "Name": "HindKills",
+            "Stat": 1
         }
     ]
 }
