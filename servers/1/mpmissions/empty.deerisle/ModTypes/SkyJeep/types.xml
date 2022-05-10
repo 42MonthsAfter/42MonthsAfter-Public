@@ -2,7 +2,7 @@
 <types>
 <!-- Sky Jeep -->
 <type name="Sky_Jeep">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>3600</restock>
         <min>0</min>
@@ -12,7 +12,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 <type name="Sky_Jeep_Black">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>3600</restock>
         <min>0</min>
@@ -22,7 +22,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 <type name="Sky_Jeep_Blue">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>3600</restock>
         <min>0</min>
@@ -32,7 +32,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 <type name="Sky_Jeep_Green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>3600</restock>
         <min>0</min>
@@ -42,7 +42,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="Sky_Jeep_Red">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>3600</restock>
         <min>0</min>
@@ -52,7 +52,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="Sky_Jeep_White">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>3600</restock>
         <min>0</min>
@@ -62,7 +62,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="Sky_Jeep_Yellow">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>3600</restock>
         <min>0</min>
