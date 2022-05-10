@@ -2,11 +2,11 @@
     "useSmokey": 1,
     "smokeyStartHour": 22,
     "smokeyEndHour": 5,
-    "smokeySpawnChance": 15,
+    "smokeySpawnChance": 33,
     "smokeyLivetime": 300000.0,
     "smokeyCooldown": 36000000.0,
     "attackRange": 250.0,
-    "smokeyTeleportPlayerChance": 25,
+    "smokeyTeleportPlayerChance": 100,
     "smokeyPlayerTeleportlocations": [
         [
             16037.900390625,
