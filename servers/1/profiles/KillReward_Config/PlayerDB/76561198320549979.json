@@ -2,7 +2,20 @@
     "PlayerID": "76561198320549979",
     "PlayerName": "JONNY",
     "PlayerNotlisted": 0,
-    "KRPlayerPoints": 0,
-    "PlayerDeaths": 0,
-    "Stats": []
+    "KRPlayerPoints": 205,
+    "PlayerDeaths": 1,
+    "Stats": [
+        {
+            "Name": "ZombieKill",
+            "Stat": 0
+        },
+        {
+            "Name": "HenKills",
+            "Stat": 0
+        },
+        {
+            "Name": "PlayerSucide",
+            "Stat": 0
+        }
+    ]
 }

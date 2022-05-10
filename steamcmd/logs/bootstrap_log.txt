@@ -1,569 +1,380 @@
 
 
-[2022-05-09 22:04:05] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:04:05] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:04:05] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:04:05] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:04:05] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:04:05] Checking for update on startup
-[2022-05-09 22:04:05] Checking for available updates...
-[2022-05-09 22:04:05] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:04:05] Manifest download: send request
-[2022-05-09 22:04:05] Manifest download: waiting for download to finish
-[2022-05-09 22:04:05] Manifest download: finished
-[2022-05-09 22:04:05] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:04:05] Nothing to do
-[2022-05-09 22:04:05] Verifying installation...
-[2022-05-09 22:04:05] Performing checksum verification of executable files
-[2022-05-09 22:04:05] Verification complete
-[2022-05-09 22:04:14] Shutdown
+[2022-05-10 11:20:59] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:20:59] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:20:59] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:20:59] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:20:59] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:20:59] Checking for update on startup
+[2022-05-10 11:20:59] Checking for available updates...
+[2022-05-10 11:20:59] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:21:00] Manifest download: send request
+[2022-05-10 11:21:00] Manifest download: waiting for download to finish
+[2022-05-10 11:21:00] Manifest download: finished
+[2022-05-10 11:21:00] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:21:00] Nothing to do
+[2022-05-10 11:21:00] Verifying installation...
+[2022-05-10 11:21:00] Performing checksum verification of executable files
+[2022-05-10 11:21:00] Verification complete
+[2022-05-10 11:21:08] Shutdown
 
 
-[2022-05-09 22:04:14] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:04:14] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:04:14] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:04:14] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:04:14] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:04:14] Checking for update on startup
-[2022-05-09 22:04:14] Checking for available updates...
-[2022-05-09 22:04:14] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:04:14] Manifest download: send request
-[2022-05-09 22:04:14] Manifest download: waiting for download to finish
-[2022-05-09 22:04:14] Manifest download: finished
-[2022-05-09 22:04:14] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:04:14] Nothing to do
-[2022-05-09 22:04:14] Verifying installation...
-[2022-05-09 22:04:14] Performing checksum verification of executable files
-[2022-05-09 22:04:14] Verification complete
-[2022-05-09 22:04:22] Shutdown
+[2022-05-10 11:21:08] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:21:08] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:21:08] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:21:08] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:21:08] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:21:08] Checking for update on startup
+[2022-05-10 11:21:08] Checking for available updates...
+[2022-05-10 11:21:08] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:21:08] Manifest download: send request
+[2022-05-10 11:21:08] Manifest download: waiting for download to finish
+[2022-05-10 11:21:09] Manifest download: finished
+[2022-05-10 11:21:09] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:21:09] Nothing to do
+[2022-05-10 11:21:09] Verifying installation...
+[2022-05-10 11:21:09] Performing checksum verification of executable files
+[2022-05-10 11:21:09] Verification complete
+[2022-05-10 11:21:15] Shutdown
 
 
-[2022-05-09 22:04:22] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:04:23] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:04:23] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:04:23] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:04:23] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:04:23] Checking for update on startup
-[2022-05-09 22:04:23] Checking for available updates...
-[2022-05-09 22:04:23] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:04:23] Manifest download: send request
-[2022-05-09 22:04:23] Manifest download: waiting for download to finish
-[2022-05-09 22:04:23] Manifest download: finished
-[2022-05-09 22:04:23] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:04:23] Nothing to do
-[2022-05-09 22:04:23] Verifying installation...
-[2022-05-09 22:04:23] Performing checksum verification of executable files
-[2022-05-09 22:04:23] Verification complete
-[2022-05-09 22:04:31] Shutdown
+[2022-05-10 11:30:31] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:30:31] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:30:31] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:30:31] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:30:31] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:30:31] Checking for update on startup
+[2022-05-10 11:30:31] Checking for available updates...
+[2022-05-10 11:30:31] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:30:31] Manifest download: send request
+[2022-05-10 11:30:32] Manifest download: waiting for download to finish
+[2022-05-10 11:30:32] Manifest download: finished
+[2022-05-10 11:30:32] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:30:32] Nothing to do
+[2022-05-10 11:30:32] Verifying installation...
+[2022-05-10 11:30:32] Performing checksum verification of executable files
+[2022-05-10 11:30:32] Verification complete
+[2022-05-10 11:30:38] Shutdown
 
 
-[2022-05-09 22:04:31] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:04:31] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:04:31] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:04:31] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:04:31] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:04:31] Checking for update on startup
-[2022-05-09 22:04:31] Checking for available updates...
-[2022-05-09 22:04:31] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:04:31] Manifest download: send request
-[2022-05-09 22:04:32] Manifest download: waiting for download to finish
-[2022-05-09 22:04:32] Manifest download: finished
-[2022-05-09 22:04:32] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:04:32] Nothing to do
-[2022-05-09 22:04:32] Verifying installation...
-[2022-05-09 22:04:32] Performing checksum verification of executable files
-[2022-05-09 22:04:32] Verification complete
-[2022-05-09 22:04:37] Shutdown
+[2022-05-10 11:30:38] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:30:38] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:30:38] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:30:38] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:30:38] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:30:38] Checking for update on startup
+[2022-05-10 11:30:38] Checking for available updates...
+[2022-05-10 11:30:38] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:30:38] Manifest download: send request
+[2022-05-10 11:30:38] Manifest download: waiting for download to finish
+[2022-05-10 11:30:39] Manifest download: finished
+[2022-05-10 11:30:39] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:30:39] Nothing to do
+[2022-05-10 11:30:39] Verifying installation...
+[2022-05-10 11:30:39] Performing checksum verification of executable files
+[2022-05-10 11:30:39] Verification complete
+[2022-05-10 11:30:41] Shutdown
 
 
-[2022-05-09 22:07:25] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:07:25] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:07:25] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:07:25] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:07:25] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:07:25] Checking for update on startup
-[2022-05-09 22:07:25] Checking for available updates...
-[2022-05-09 22:07:25] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:07:26] Manifest download: send request
-[2022-05-09 22:07:26] Manifest download: waiting for download to finish
-[2022-05-09 22:07:26] Manifest download: finished
-[2022-05-09 22:07:26] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:07:26] Nothing to do
-[2022-05-09 22:07:26] Verifying installation...
-[2022-05-09 22:07:26] Performing checksum verification of executable files
-[2022-05-09 22:07:26] Verification complete
-[2022-05-09 22:07:35] Shutdown
+[2022-05-10 11:30:41] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:30:41] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:30:41] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:30:41] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:30:41] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:30:41] Checking for update on startup
+[2022-05-10 11:30:41] Checking for available updates...
+[2022-05-10 11:30:41] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:30:41] Manifest download: send request
+[2022-05-10 11:30:41] Manifest download: waiting for download to finish
+[2022-05-10 11:30:41] Manifest download: finished
+[2022-05-10 11:30:41] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:30:41] Nothing to do
+[2022-05-10 11:30:41] Verifying installation...
+[2022-05-10 11:30:41] Performing checksum verification of executable files
+[2022-05-10 11:30:41] Verification complete
+[2022-05-10 11:30:50] Shutdown
 
 
-[2022-05-09 22:07:35] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:07:35] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:07:35] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:07:35] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:07:35] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:07:35] Checking for update on startup
-[2022-05-09 22:07:35] Checking for available updates...
-[2022-05-09 22:07:35] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:07:35] Manifest download: send request
-[2022-05-09 22:07:36] Manifest download: waiting for download to finish
-[2022-05-09 22:07:36] Manifest download: finished
-[2022-05-09 22:07:36] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:07:36] Nothing to do
-[2022-05-09 22:07:36] Verifying installation...
-[2022-05-09 22:07:36] Performing checksum verification of executable files
-[2022-05-09 22:07:36] Verification complete
-[2022-05-09 22:07:38] Shutdown
+[2022-05-10 11:30:50] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:30:50] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:30:50] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:30:50] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:30:50] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:30:50] Checking for update on startup
+[2022-05-10 11:30:50] Checking for available updates...
+[2022-05-10 11:30:50] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:30:50] Manifest download: send request
+[2022-05-10 11:30:50] Manifest download: waiting for download to finish
+[2022-05-10 11:30:50] Manifest download: finished
+[2022-05-10 11:30:50] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:30:50] Nothing to do
+[2022-05-10 11:30:50] Verifying installation...
+[2022-05-10 11:30:50] Performing checksum verification of executable files
+[2022-05-10 11:30:50] Verification complete
+[2022-05-10 11:30:58] Shutdown
 
 
-[2022-05-09 22:07:38] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:07:38] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:07:38] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:07:38] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:07:38] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:07:38] Checking for update on startup
-[2022-05-09 22:07:38] Checking for available updates...
-[2022-05-09 22:07:38] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:07:38] Manifest download: send request
-[2022-05-09 22:07:38] Manifest download: waiting for download to finish
-[2022-05-09 22:07:39] Manifest download: finished
-[2022-05-09 22:07:39] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:07:39] Nothing to do
-[2022-05-09 22:07:39] Verifying installation...
-[2022-05-09 22:07:39] Performing checksum verification of executable files
-[2022-05-09 22:07:39] Verification complete
-[2022-05-09 22:07:48] Shutdown
+[2022-05-10 11:30:59] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:30:59] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:30:59] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:30:59] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:30:59] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:30:59] Checking for update on startup
+[2022-05-10 11:30:59] Checking for available updates...
+[2022-05-10 11:30:59] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:30:59] Manifest download: send request
+[2022-05-10 11:30:59] Manifest download: waiting for download to finish
+[2022-05-10 11:30:59] Manifest download: finished
+[2022-05-10 11:30:59] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:30:59] Nothing to do
+[2022-05-10 11:30:59] Verifying installation...
+[2022-05-10 11:30:59] Performing checksum verification of executable files
+[2022-05-10 11:30:59] Verification complete
+[2022-05-10 11:31:06] Shutdown
 
 
-[2022-05-09 22:07:48] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:07:48] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:07:48] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:07:48] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:07:48] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:07:48] Checking for update on startup
-[2022-05-09 22:07:48] Checking for available updates...
-[2022-05-09 22:07:48] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:07:48] Manifest download: send request
-[2022-05-09 22:07:48] Manifest download: waiting for download to finish
-[2022-05-09 22:07:49] Manifest download: finished
-[2022-05-09 22:07:49] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:07:49] Nothing to do
-[2022-05-09 22:07:49] Verifying installation...
-[2022-05-09 22:07:49] Performing checksum verification of executable files
-[2022-05-09 22:07:49] Verification complete
-[2022-05-09 22:07:56] Shutdown
+[2022-05-10 11:31:06] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:31:06] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:31:06] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:31:06] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:31:06] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:31:06] Checking for update on startup
+[2022-05-10 11:31:06] Checking for available updates...
+[2022-05-10 11:31:06] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:31:06] Manifest download: send request
+[2022-05-10 11:31:07] Manifest download: waiting for download to finish
+[2022-05-10 11:31:07] Manifest download: finished
+[2022-05-10 11:31:07] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:31:07] Nothing to do
+[2022-05-10 11:31:07] Verifying installation...
+[2022-05-10 11:31:07] Performing checksum verification of executable files
+[2022-05-10 11:31:07] Verification complete
+[2022-05-10 11:31:13] Shutdown
 
 
-[2022-05-09 22:07:56] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:07:56] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:07:56] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:07:56] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:07:56] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:07:56] Checking for update on startup
-[2022-05-09 22:07:56] Checking for available updates...
-[2022-05-09 22:07:56] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:07:56] Manifest download: send request
-[2022-05-09 22:07:56] Manifest download: waiting for download to finish
-[2022-05-09 22:07:56] Manifest download: finished
-[2022-05-09 22:07:56] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:07:56] Nothing to do
-[2022-05-09 22:07:56] Verifying installation...
-[2022-05-09 22:07:56] Performing checksum verification of executable files
-[2022-05-09 22:07:57] Verification complete
-[2022-05-09 22:08:05] Shutdown
+[2022-05-10 11:40:33] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:40:33] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:40:33] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:40:33] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:40:33] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:40:33] Checking for update on startup
+[2022-05-10 11:40:33] Checking for available updates...
+[2022-05-10 11:40:33] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:40:33] Manifest download: send request
+[2022-05-10 11:40:33] Manifest download: waiting for download to finish
+[2022-05-10 11:40:34] Manifest download: finished
+[2022-05-10 11:40:34] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:40:34] Nothing to do
+[2022-05-10 11:40:34] Verifying installation...
+[2022-05-10 11:40:34] Performing checksum verification of executable files
+[2022-05-10 11:40:34] Verification complete
+[2022-05-10 11:40:40] Shutdown
 
 
-[2022-05-09 22:08:05] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:08:05] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:08:05] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:08:05] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:08:05] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:08:05] Checking for update on startup
-[2022-05-09 22:08:05] Checking for available updates...
-[2022-05-09 22:08:05] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:08:05] Manifest download: send request
-[2022-05-09 22:08:05] Manifest download: waiting for download to finish
-[2022-05-09 22:08:05] Manifest download: finished
-[2022-05-09 22:08:05] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:08:05] Nothing to do
-[2022-05-09 22:08:05] Verifying installation...
-[2022-05-09 22:08:05] Performing checksum verification of executable files
-[2022-05-09 22:08:05] Verification complete
-[2022-05-09 22:08:11] Shutdown
+[2022-05-10 11:40:40] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:40:40] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:40:40] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:40:40] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:40:40] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:40:40] Checking for update on startup
+[2022-05-10 11:40:40] Checking for available updates...
+[2022-05-10 11:40:40] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:40:40] Manifest download: send request
+[2022-05-10 11:40:40] Manifest download: waiting for download to finish
+[2022-05-10 11:40:40] Manifest download: finished
+[2022-05-10 11:40:40] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:40:40] Nothing to do
+[2022-05-10 11:40:40] Verifying installation...
+[2022-05-10 11:40:40] Performing checksum verification of executable files
+[2022-05-10 11:40:40] Verification complete
+[2022-05-10 11:40:42] Shutdown
 
 
-[2022-05-09 22:09:14] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:09:14] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:09:14] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:09:14] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:09:14] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:09:14] Checking for update on startup
-[2022-05-09 22:09:14] Checking for available updates...
-[2022-05-09 22:09:14] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:09:14] Manifest download: send request
-[2022-05-09 22:09:15] Manifest download: waiting for download to finish
-[2022-05-09 22:09:15] Manifest download: finished
-[2022-05-09 22:09:15] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:09:15] Nothing to do
-[2022-05-09 22:09:15] Verifying installation...
-[2022-05-09 22:09:15] Performing checksum verification of executable files
-[2022-05-09 22:09:15] Verification complete
-[2022-05-09 22:09:16] Shutdown
+[2022-05-10 11:40:43] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:40:43] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:40:43] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:40:43] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:40:43] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:40:43] Checking for update on startup
+[2022-05-10 11:40:43] Checking for available updates...
+[2022-05-10 11:40:43] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:40:43] Manifest download: send request
+[2022-05-10 11:40:43] Manifest download: waiting for download to finish
+[2022-05-10 11:40:43] Manifest download: finished
+[2022-05-10 11:40:43] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:40:43] Nothing to do
+[2022-05-10 11:40:43] Verifying installation...
+[2022-05-10 11:40:43] Performing checksum verification of executable files
+[2022-05-10 11:40:43] Verification complete
+[2022-05-10 11:40:51] Shutdown
 
 
-[2022-05-09 22:09:18] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:09:18] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:09:18] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:09:18] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:09:18] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:09:18] Checking for update on startup
-[2022-05-09 22:09:18] Checking for available updates...
-[2022-05-09 22:09:18] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:09:18] Manifest download: send request
-[2022-05-09 22:09:18] Manifest download: waiting for download to finish
-[2022-05-09 22:09:18] Manifest download: finished
-[2022-05-09 22:09:18] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:09:18] Nothing to do
-[2022-05-09 22:09:18] Verifying installation...
-[2022-05-09 22:09:18] Performing checksum verification of executable files
-[2022-05-09 22:09:18] Verification complete
-[2022-05-09 22:09:20] Shutdown
+[2022-05-10 11:40:51] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:40:51] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:40:51] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:40:51] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:40:51] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:40:51] Checking for update on startup
+[2022-05-10 11:40:51] Checking for available updates...
+[2022-05-10 11:40:51] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:40:51] Manifest download: send request
+[2022-05-10 11:40:52] Manifest download: waiting for download to finish
+[2022-05-10 11:40:52] Manifest download: finished
+[2022-05-10 11:40:52] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:40:52] Nothing to do
+[2022-05-10 11:40:52] Verifying installation...
+[2022-05-10 11:40:52] Performing checksum verification of executable files
+[2022-05-10 11:40:52] Verification complete
+[2022-05-10 11:41:00] Shutdown
 
 
-[2022-05-09 22:09:25] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:09:25] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:09:25] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:09:25] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:09:25] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:09:25] Checking for update on startup
-[2022-05-09 22:09:25] Checking for available updates...
-[2022-05-09 22:09:25] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:09:25] Manifest download: send request
-[2022-05-09 22:09:25] Manifest download: waiting for download to finish
-[2022-05-09 22:09:25] Manifest download: finished
-[2022-05-09 22:09:25] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:09:25] Nothing to do
-[2022-05-09 22:09:25] Verifying installation...
-[2022-05-09 22:09:25] Performing checksum verification of executable files
-[2022-05-09 22:09:25] Verification complete
-[2022-05-09 22:09:31] Shutdown
+[2022-05-10 11:41:00] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:41:00] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:41:00] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:41:00] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:41:00] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:41:00] Checking for update on startup
+[2022-05-10 11:41:00] Checking for available updates...
+[2022-05-10 11:41:00] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:41:00] Manifest download: send request
+[2022-05-10 11:41:00] Manifest download: waiting for download to finish
+[2022-05-10 11:41:01] Manifest download: finished
+[2022-05-10 11:41:01] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:41:01] Nothing to do
+[2022-05-10 11:41:01] Verifying installation...
+[2022-05-10 11:41:01] Performing checksum verification of executable files
+[2022-05-10 11:41:01] Verification complete
+[2022-05-10 11:41:08] Shutdown
 
 
-[2022-05-09 22:09:31] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:09:31] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:09:31] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:09:31] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:09:31] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:09:31] Checking for update on startup
-[2022-05-09 22:09:31] Checking for available updates...
-[2022-05-09 22:09:31] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:09:32] Manifest download: send request
-[2022-05-09 22:09:32] Manifest download: waiting for download to finish
-[2022-05-09 22:09:32] Manifest download: finished
-[2022-05-09 22:09:32] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:09:32] Nothing to do
-[2022-05-09 22:09:32] Verifying installation...
-[2022-05-09 22:09:32] Performing checksum verification of executable files
-[2022-05-09 22:09:32] Verification complete
-[2022-05-09 22:09:34] Shutdown
+[2022-05-10 11:41:08] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:41:08] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:41:08] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:41:08] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:41:08] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:41:08] Checking for update on startup
+[2022-05-10 11:41:08] Checking for available updates...
+[2022-05-10 11:41:08] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:41:08] Manifest download: send request
+[2022-05-10 11:41:08] Manifest download: waiting for download to finish
+[2022-05-10 11:41:09] Manifest download: finished
+[2022-05-10 11:41:09] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:41:09] Nothing to do
+[2022-05-10 11:41:09] Verifying installation...
+[2022-05-10 11:41:09] Performing checksum verification of executable files
+[2022-05-10 11:41:09] Verification complete
+[2022-05-10 11:41:16] Shutdown
 
 
-[2022-05-09 22:09:37] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:09:37] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:09:37] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:09:37] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:09:37] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:09:37] Checking for update on startup
-[2022-05-09 22:09:37] Checking for available updates...
-[2022-05-09 22:09:37] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:09:37] Manifest download: send request
-[2022-05-09 22:09:37] Manifest download: waiting for download to finish
-[2022-05-09 22:09:38] Manifest download: finished
-[2022-05-09 22:09:38] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:09:38] Nothing to do
-[2022-05-09 22:09:38] Verifying installation...
-[2022-05-09 22:09:38] Performing checksum verification of executable files
-[2022-05-09 22:09:38] Verification complete
-[2022-05-09 22:09:46] Shutdown
+[2022-05-10 11:50:33] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:50:34] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:50:34] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:50:34] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:50:34] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:50:34] Checking for update on startup
+[2022-05-10 11:50:34] Checking for available updates...
+[2022-05-10 11:50:34] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:50:34] Manifest download: send request
+[2022-05-10 11:50:34] Manifest download: waiting for download to finish
+[2022-05-10 11:50:34] Manifest download: finished
+[2022-05-10 11:50:34] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:50:34] Nothing to do
+[2022-05-10 11:50:34] Verifying installation...
+[2022-05-10 11:50:34] Performing checksum verification of executable files
+[2022-05-10 11:50:34] Verification complete
+[2022-05-10 11:50:40] Shutdown
 
 
-[2022-05-09 22:09:46] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:09:46] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:09:46] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:09:46] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:09:46] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:09:46] Checking for update on startup
-[2022-05-09 22:09:46] Checking for available updates...
-[2022-05-09 22:09:46] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:09:46] Manifest download: send request
-[2022-05-09 22:09:46] Manifest download: waiting for download to finish
-[2022-05-09 22:09:46] Manifest download: finished
-[2022-05-09 22:09:46] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:09:46] Nothing to do
-[2022-05-09 22:09:46] Verifying installation...
-[2022-05-09 22:09:46] Performing checksum verification of executable files
-[2022-05-09 22:09:46] Verification complete
-[2022-05-09 22:09:55] Shutdown
+[2022-05-10 11:50:40] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:50:40] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:50:40] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:50:40] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:50:40] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:50:40] Checking for update on startup
+[2022-05-10 11:50:40] Checking for available updates...
+[2022-05-10 11:50:40] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:50:40] Manifest download: send request
+[2022-05-10 11:50:41] Manifest download: waiting for download to finish
+[2022-05-10 11:50:41] Manifest download: finished
+[2022-05-10 11:50:41] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:50:41] Nothing to do
+[2022-05-10 11:50:41] Verifying installation...
+[2022-05-10 11:50:41] Performing checksum verification of executable files
+[2022-05-10 11:50:41] Verification complete
+[2022-05-10 11:50:43] Shutdown
 
 
-[2022-05-09 22:09:55] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:09:55] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:09:55] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:09:55] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:09:55] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:09:55] Checking for update on startup
-[2022-05-09 22:09:55] Checking for available updates...
-[2022-05-09 22:09:55] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:09:55] Manifest download: send request
-[2022-05-09 22:09:55] Manifest download: waiting for download to finish
-[2022-05-09 22:09:55] Manifest download: finished
-[2022-05-09 22:09:55] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:09:55] Nothing to do
-[2022-05-09 22:09:55] Verifying installation...
-[2022-05-09 22:09:55] Performing checksum verification of executable files
-[2022-05-09 22:09:55] Verification complete
-[2022-05-09 22:10:03] Shutdown
+[2022-05-10 11:50:43] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:50:43] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:50:43] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:50:43] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:50:43] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:50:43] Checking for update on startup
+[2022-05-10 11:50:43] Checking for available updates...
+[2022-05-10 11:50:43] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:50:43] Manifest download: send request
+[2022-05-10 11:50:43] Manifest download: waiting for download to finish
+[2022-05-10 11:50:44] Manifest download: finished
+[2022-05-10 11:50:44] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:50:44] Nothing to do
+[2022-05-10 11:50:44] Verifying installation...
+[2022-05-10 11:50:44] Performing checksum verification of executable files
+[2022-05-10 11:50:44] Verification complete
+[2022-05-10 11:50:51] Shutdown
 
 
-[2022-05-09 22:10:03] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:10:03] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:10:03] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:10:03] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:10:03] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:10:03] Checking for update on startup
-[2022-05-09 22:10:03] Checking for available updates...
-[2022-05-09 22:10:03] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:10:04] Manifest download: send request
-[2022-05-09 22:10:04] Manifest download: waiting for download to finish
-[2022-05-09 22:10:04] Manifest download: finished
-[2022-05-09 22:10:04] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:10:04] Nothing to do
-[2022-05-09 22:10:04] Verifying installation...
-[2022-05-09 22:10:04] Performing checksum verification of executable files
-[2022-05-09 22:10:04] Verification complete
-[2022-05-09 22:10:10] Shutdown
+[2022-05-10 11:50:51] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:50:51] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:50:51] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:50:51] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:50:51] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:50:51] Checking for update on startup
+[2022-05-10 11:50:51] Checking for available updates...
+[2022-05-10 11:50:51] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:50:51] Manifest download: send request
+[2022-05-10 11:50:51] Manifest download: waiting for download to finish
+[2022-05-10 11:50:51] Manifest download: finished
+[2022-05-10 11:50:51] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:50:51] Nothing to do
+[2022-05-10 11:50:51] Verifying installation...
+[2022-05-10 11:50:51] Performing checksum verification of executable files
+[2022-05-10 11:50:52] Verification complete
+[2022-05-10 11:51:00] Shutdown
 
 
-[2022-05-09 22:19:26] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:19:26] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:19:26] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:19:26] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:19:26] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:19:26] Checking for update on startup
-[2022-05-09 22:19:26] Checking for available updates...
-[2022-05-09 22:19:26] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:19:26] Manifest download: send request
-[2022-05-09 22:19:27] Manifest download: waiting for download to finish
-[2022-05-09 22:19:27] Manifest download: finished
-[2022-05-09 22:19:27] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:19:27] Nothing to do
-[2022-05-09 22:19:27] Verifying installation...
-[2022-05-09 22:19:27] Performing checksum verification of executable files
-[2022-05-09 22:19:27] Verification complete
-[2022-05-09 22:19:33] Shutdown
+[2022-05-10 11:51:00] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:51:00] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:51:00] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:51:00] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:51:00] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:51:00] Checking for update on startup
+[2022-05-10 11:51:00] Checking for available updates...
+[2022-05-10 11:51:00] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:51:00] Manifest download: send request
+[2022-05-10 11:51:00] Manifest download: waiting for download to finish
+[2022-05-10 11:51:00] Manifest download: finished
+[2022-05-10 11:51:00] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:51:00] Nothing to do
+[2022-05-10 11:51:00] Verifying installation...
+[2022-05-10 11:51:00] Performing checksum verification of executable files
+[2022-05-10 11:51:00] Verification complete
+[2022-05-10 11:51:07] Shutdown
 
 
-[2022-05-09 22:19:33] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:19:33] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:19:33] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:19:33] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:19:33] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:19:33] Checking for update on startup
-[2022-05-09 22:19:33] Checking for available updates...
-[2022-05-09 22:19:33] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:19:33] Manifest download: send request
-[2022-05-09 22:19:33] Manifest download: waiting for download to finish
-[2022-05-09 22:19:34] Manifest download: finished
-[2022-05-09 22:19:34] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:19:34] Nothing to do
-[2022-05-09 22:19:34] Verifying installation...
-[2022-05-09 22:19:34] Performing checksum verification of executable files
-[2022-05-09 22:19:34] Verification complete
-[2022-05-09 22:19:36] Shutdown
-
-
-[2022-05-09 22:19:36] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:19:36] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:19:36] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:19:36] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:19:36] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:19:36] Checking for update on startup
-[2022-05-09 22:19:36] Checking for available updates...
-[2022-05-09 22:19:36] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:19:36] Manifest download: send request
-[2022-05-09 22:19:36] Manifest download: waiting for download to finish
-[2022-05-09 22:19:36] Manifest download: finished
-[2022-05-09 22:19:36] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:19:36] Nothing to do
-[2022-05-09 22:19:36] Verifying installation...
-[2022-05-09 22:19:36] Performing checksum verification of executable files
-[2022-05-09 22:19:37] Verification complete
-[2022-05-09 22:19:45] Shutdown
-
-
-[2022-05-09 22:19:45] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:19:45] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:19:45] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:19:45] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:19:45] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:19:45] Checking for update on startup
-[2022-05-09 22:19:45] Checking for available updates...
-[2022-05-09 22:19:45] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:19:45] Manifest download: send request
-[2022-05-09 22:19:45] Manifest download: waiting for download to finish
-[2022-05-09 22:19:45] Manifest download: finished
-[2022-05-09 22:19:45] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:19:45] Nothing to do
-[2022-05-09 22:19:45] Verifying installation...
-[2022-05-09 22:19:45] Performing checksum verification of executable files
-[2022-05-09 22:19:45] Verification complete
-[2022-05-09 22:19:54] Shutdown
-
-
-[2022-05-09 22:19:54] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:19:54] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:19:54] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:19:54] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:19:54] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:19:54] Checking for update on startup
-[2022-05-09 22:19:54] Checking for available updates...
-[2022-05-09 22:19:54] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:19:54] Manifest download: send request
-[2022-05-09 22:19:54] Manifest download: waiting for download to finish
-[2022-05-09 22:19:54] Manifest download: finished
-[2022-05-09 22:19:54] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:19:54] Nothing to do
-[2022-05-09 22:19:54] Verifying installation...
-[2022-05-09 22:19:54] Performing checksum verification of executable files
-[2022-05-09 22:19:54] Verification complete
-[2022-05-09 22:20:02] Shutdown
-
-
-[2022-05-09 22:20:02] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:20:03] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:20:03] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:20:03] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:20:03] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:20:03] Checking for update on startup
-[2022-05-09 22:20:03] Checking for available updates...
-[2022-05-09 22:20:03] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:20:03] Manifest download: send request
-[2022-05-09 22:20:03] Manifest download: waiting for download to finish
-[2022-05-09 22:20:03] Manifest download: finished
-[2022-05-09 22:20:03] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:20:03] Nothing to do
-[2022-05-09 22:20:03] Verifying installation...
-[2022-05-09 22:20:03] Performing checksum verification of executable files
-[2022-05-09 22:20:03] Verification complete
-[2022-05-09 22:20:10] Shutdown
-
-
-[2022-05-09 22:29:28] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:29:28] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:29:28] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:29:28] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:29:28] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:29:28] Checking for update on startup
-[2022-05-09 22:29:28] Checking for available updates...
-[2022-05-09 22:29:28] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:29:29] Manifest download: send request
-[2022-05-09 22:29:29] Manifest download: waiting for download to finish
-[2022-05-09 22:29:29] Manifest download: finished
-[2022-05-09 22:29:29] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:29:29] Nothing to do
-[2022-05-09 22:29:29] Verifying installation...
-[2022-05-09 22:29:29] Performing checksum verification of executable files
-[2022-05-09 22:29:29] Verification complete
-[2022-05-09 22:29:36] Shutdown
-
-
-[2022-05-09 22:29:36] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:29:36] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:29:36] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:29:36] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:29:36] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:29:36] Checking for update on startup
-[2022-05-09 22:29:36] Checking for available updates...
-[2022-05-09 22:29:36] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:29:36] Manifest download: send request
-[2022-05-09 22:29:37] Manifest download: waiting for download to finish
-[2022-05-09 22:29:37] Manifest download: finished
-[2022-05-09 22:29:37] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:29:37] Nothing to do
-[2022-05-09 22:29:37] Verifying installation...
-[2022-05-09 22:29:37] Performing checksum verification of executable files
-[2022-05-09 22:29:37] Verification complete
-[2022-05-09 22:29:39] Shutdown
-
-
-[2022-05-09 22:29:39] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:29:39] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:29:39] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:29:39] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:29:39] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:29:39] Checking for update on startup
-[2022-05-09 22:29:39] Checking for available updates...
-[2022-05-09 22:29:39] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:29:39] Manifest download: send request
-[2022-05-09 22:29:39] Manifest download: waiting for download to finish
-[2022-05-09 22:29:40] Manifest download: finished
-[2022-05-09 22:29:40] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:29:40] Nothing to do
-[2022-05-09 22:29:40] Verifying installation...
-[2022-05-09 22:29:40] Performing checksum verification of executable files
-[2022-05-09 22:29:40] Verification complete
-[2022-05-09 22:29:48] Shutdown
-
-
-[2022-05-09 22:29:48] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:29:48] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:29:48] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:29:48] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:29:48] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:29:48] Checking for update on startup
-[2022-05-09 22:29:48] Checking for available updates...
-[2022-05-09 22:29:48] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:29:48] Manifest download: send request
-[2022-05-09 22:29:48] Manifest download: waiting for download to finish
-[2022-05-09 22:29:49] Manifest download: finished
-[2022-05-09 22:29:49] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:29:49] Nothing to do
-[2022-05-09 22:29:49] Verifying installation...
-[2022-05-09 22:29:49] Performing checksum verification of executable files
-[2022-05-09 22:29:49] Verification complete
-[2022-05-09 22:29:57] Shutdown
-
-
-[2022-05-09 22:29:57] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:29:57] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:29:57] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:29:57] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:29:57] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:29:57] Checking for update on startup
-[2022-05-09 22:29:57] Checking for available updates...
-[2022-05-09 22:29:57] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:29:57] Manifest download: send request
-[2022-05-09 22:29:57] Manifest download: waiting for download to finish
-[2022-05-09 22:29:57] Manifest download: finished
-[2022-05-09 22:29:57] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:29:57] Nothing to do
-[2022-05-09 22:29:57] Verifying installation...
-[2022-05-09 22:29:57] Performing checksum verification of executable files
-[2022-05-09 22:29:58] Verification complete
-[2022-05-09 22:30:06] Shutdown
-
-
-[2022-05-09 22:30:06] Startup - updater built Mar 23 2022 15:53:19
-[2022-05-09 22:30:06] Using the following download hosts for Public, Realm steamglobal
-[2022-05-09 22:30:06] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:30:06] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
-[2022-05-09 22:30:06] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
-[2022-05-09 22:30:06] Checking for update on startup
-[2022-05-09 22:30:06] Checking for available updates...
-[2022-05-09 22:30:06] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
-[2022-05-09 22:30:06] Manifest download: send request
-[2022-05-09 22:30:06] Manifest download: waiting for download to finish
-[2022-05-09 22:30:06] Manifest download: finished
-[2022-05-09 22:30:06] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
-[2022-05-09 22:30:06] Nothing to do
-[2022-05-09 22:30:06] Verifying installation...
-[2022-05-09 22:30:06] Performing checksum verification of executable files
-[2022-05-09 22:30:06] Verification complete
+[2022-05-10 11:51:07] Startup - updater built Mar 23 2022 15:53:19
+[2022-05-10 11:51:08] Using the following download hosts for Public, Realm steamglobal
+[2022-05-10 11:51:08] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:51:08] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-10 11:51:08] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-10 11:51:08] Checking for update on startup
+[2022-05-10 11:51:08] Checking for available updates...
+[2022-05-10 11:51:08] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
+[2022-05-10 11:51:08] Manifest download: send request
+[2022-05-10 11:51:08] Manifest download: waiting for download to finish
+[2022-05-10 11:51:08] Manifest download: finished
+[2022-05-10 11:51:08] Download skipped: /client/steam_cmd_win32 version 1648077083, installed version 1648077083, existing pending version 0
+[2022-05-10 11:51:08] Nothing to do
+[2022-05-10 11:51:08] Verifying installation...
+[2022-05-10 11:51:08] Performing checksum verification of executable files
+[2022-05-10 11:51:08] Verification complete
+[2022-05-10 11:51:15] Shutdown
