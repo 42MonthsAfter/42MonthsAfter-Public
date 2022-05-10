@@ -917,6 +917,14 @@
             <btn name="kN" />
         </btn>
     </input>
+    <input name="UAKillRewardPanel">
+        <btn name="kJ" />
+    </input>
+    <input name="UALBMOpenLeaderboard">
+        <btn name="kB">
+            <event name="hold" />
+        </btn>
+    </input>
     <input name="UALBMUndergroundAdd">
         <btn name="kT" />
     </input>
