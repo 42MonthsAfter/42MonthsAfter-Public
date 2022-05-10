@@ -867,3 +867,24 @@
 [2022-05-10 06:00:21] [1,3] RecvMsgClientLogOnResponse() : [A:1:846017545:20246] 'OK'
 [2022-05-10 06:00:22] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f006:102::a2fe:c325]:80 ([2602:801:f006:102::a2fe:c325]:80)) - TIMEOUT
 [2022-05-10 06:00:22] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / [2602:801:f002:101::a2fe:c007]:27019) - SUCCESS
+[2022-05-10 12:00:00] [3,3] LogOff()
+[2022-05-10 12:00:00] [2,3] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2022-05-10 12:00:00] [2,3] Log session ended
+
+
+[2022-05-10 12:00:22] Log session started
+[2022-05-10 12:00:22] [0,0] SetSteamID( [A:1:0:0] )
+[2022-05-10 12:00:23] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2022-05-10 12:00:23] GetCMListForConnect -- got 11 Netfilter CMs and 69 WebSocket CMs
+[2022-05-10 12:00:23] GetCMListForConnect -- DC 'ord1' count: 20
+[2022-05-10 12:00:23] GetCMListForConnect -- DC 'iad1' count: 20
+[2022-05-10 12:00:23] GetCMListForConnect -- DC 'atl1' count: 20
+[2022-05-10 12:00:23] GetCMListForConnect -- DC 'sea1' count: 11
+[2022-05-10 12:00:23] GetCMListForConnect -- DC 'dfw1' count: 9
+[2022-05-10 12:00:23] [0,0] CM Directory list says 86% of connections should be websockets, we rolled 88 - using UDP as default.
+[2022-05-10 12:00:23] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.74:27017, UDP)
+[2022-05-10 12:00:23] [1,2] ConnectionCompleted() (162.254.193.74:27017, UDP) local address (0.0.0.0:8766)
+[2022-05-10 12:00:23] [1,2] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2022-05-10 12:00:23] [1,2] RecvMsgClientLogOnResponse() : [A:1:1558654981:20248] 'OK'
+[2022-05-10 12:00:25] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f006:100::a2fe:c315]:80 ([2602:801:f006:100::a2fe:c315]:80)) - TIMEOUT
+[2022-05-10 12:00:25] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / [2602:801:f002:102::a2fe:c024]:27019) - SUCCESS
