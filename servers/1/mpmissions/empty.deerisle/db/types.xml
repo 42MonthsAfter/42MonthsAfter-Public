@@ -13788,7 +13788,7 @@
   </type>
   <type name="FishNetTrap">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>10800</lifetime>
     <restock>900</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -13816,7 +13816,7 @@
   </type>
   <type name="FishingRod">
     <nominal>40</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>10800</lifetime>
     <restock>900</restock>
     <min>20</min>
     <quantmin>-1</quantmin>
@@ -20407,7 +20407,7 @@
   </type>
   <type name="ImprovisedFishingRod">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>10800</lifetime>
     <restock>900</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -34907,7 +34907,7 @@
   </type>
   <type name="SmallFishTrap">
     <nominal>0</nominal>
-    <lifetime>1800</lifetime>
+    <lifetime>10800</lifetime>
     <restock>900</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
