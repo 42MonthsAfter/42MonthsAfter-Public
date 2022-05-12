@@ -2,7 +2,7 @@
     "PlayerID": "76561199013191843",
     "PlayerName": "Skif",
     "PlayerNotlisted": 0,
-    "KRPlayerPoints": 3245,
+    "KRPlayerPoints": 3395,
     "PlayerDeaths": 0,
     "Stats": [
         {
@@ -11,7 +11,7 @@
         },
         {
             "Name": "ZombieKill",
-            "Stat": 321
+            "Stat": 336
         },
         {
             "Name": "PigKills",
@@ -32,6 +32,10 @@
         {
             "Name": "HindKills",
             "Stat": 1
+        },
+        {
+            "Name": "longest_survivor_hit",
+            "Stat": 0
         }
     ]
 }
