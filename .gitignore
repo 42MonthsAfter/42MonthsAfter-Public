@@ -11,27 +11,27 @@
 /mpmissions/empty.deerisle/storage_1/backup/*
 /mpmissions/empty.deerisle/storage_1/data/*
 /mpmissions/empty.deerisle/storage_1/*
-/myprofile/@Logging/*
-/myprofile/CannabisPlus/ConfigBackup/*
-/myprofile/CodeLock/Logs/*
-/myprofile/CommunityOnlineTools/Logs/*
-/myprofile/DataCache/*
-/myprofile/Notes/*
-/myprofile/BattlEye/*
-/myprofile/PermissionsFramework/*
-/myprofile/TraderPlus/TraderPlusDatabase/*
-/myprofile/TraderPlus/TraderPlusBankDatabase/*
-/myprofile/TraderPlus/TraderPlusLogs/*
-/myprofile/Users/*
+/profiles/@Logging/*
+/profiles/CannabisPlus/ConfigBackup/*
+/profiles/CodeLock/Logs/*
+/profiles/CommunityOnlineTools/Logs/*
+/profiles/DataCache/*
+/profiles/Notes/*
+/profiles/BattlEye/*
+/profiles/PermissionsFramework/*
+/profiles/TraderPlus/TraderPlusDatabase/*
+/profiles/TraderPlus/TraderPlusBankDatabase/*
+/profiles/TraderPlus/TraderPlusLogs/*
+/profiles/Users/*
 /logs/*
 \mpmissions\empty.deerisle\storage_1\*
 config/config.vdf
-myprofile/CarCover/CarCover.log
-myprofile/DataCache/cache.ch
-myprofile/CarCover/CarCover.log
-myprofile/CarCover/CarCover.log
+profiles/CarCover/CarCover.log
+profiles/DataCache/cache.ch
+profiles/CarCover/CarCover.log
+profiles/CarCover/CarCover.log
 config/config.vdf
-myprofile/DataCache/cache.ch
+profiles/DataCache/cache.ch
 config/config.vdf
 gamelabs.cfg
 BEServer_x64.dll
@@ -46,7 +46,9 @@ mpmissions/dayzoffline.chiemsee/storage_1/players.db
 @EarPlugs/meta.cpp
 @EarPlugs/mod.cpp
 DayZServer_x64.exe
-myprofile/Airdrop/AirdropSettings_bakup_2022-01-13 @ 20-12-46.json
-myprofile/Airdrop/AirdropSettings_bakup_2022-01-13 @ 20-35-16.json
+profiles/Airdrop/AirdropSettings_bakup_2022-01-13 @ 20-12-46.json
+profiles/Airdrop/AirdropSettings_bakup_2022-01-13 @ 20-35-16.json
 mpmissions/empty.deerisle/areaflags.map
 @DeerIsle/meta.cpp
+/profile/BattlEye/*
+/profile/PermissionsFramework/*
