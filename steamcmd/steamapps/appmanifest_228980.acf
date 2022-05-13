@@ -7,11 +7,11 @@
 	"StateFlags"		"4"
 	"installdir"		"Steamworks Shared"
 	"LastUpdated"		"1652010178"
-	"UpdateResult"		"0"
 	"SizeOnDisk"		"112911874"
 	"StagingSize"		"0"
 	"buildid"		"8679698"
 	"LastOwner"		"0"
+	"UpdateResult"		"0"
 	"BytesToDownload"		"0"
 	"BytesDownloaded"		"0"
 	"BytesToStage"		"0"
@@ -47,5 +47,8 @@
 	"UserConfig"
 	{
 		"betakey"		"public"
+	}
+	"MountedConfig"
+	{
 	}
 }

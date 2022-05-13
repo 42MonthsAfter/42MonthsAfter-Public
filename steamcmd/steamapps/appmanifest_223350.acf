@@ -7,11 +7,11 @@
 	"StateFlags"		"4"
 	"installdir"		"DayZServer"
 	"LastUpdated"		"1652010178"
-	"UpdateResult"		"0"
 	"SizeOnDisk"		"2717977228"
 	"StagingSize"		"0"
 	"buildid"		"8648238"
 	"LastOwner"		"76561199112746320"
+	"UpdateResult"		"0"
 	"BytesToDownload"		"0"
 	"BytesDownloaded"		"0"
 	"BytesToStage"		"0"
@@ -43,5 +43,8 @@
 	"UserConfig"
 	{
 		"betakey"		"public"
+	}
+	"MountedConfig"
+	{
 	}
 }
