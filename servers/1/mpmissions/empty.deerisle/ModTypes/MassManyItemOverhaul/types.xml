@@ -2318,26 +2318,17 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
-		    <value name="Tier1"/>
-		    <value name="Tier2"/>
-		    <value name="Tier3"/>
-		    <value name="Tier4"/>
-		    <value name="Tier5"/>
-		    <value name="Tier6"/>
-		    <value name="Tier7"/>
-		    <value name="Tier8"/>
-		    <value name="Tier9"/>
-		    <value name="Tier10"/>
-		    <value name="Tier11"/>
-		    <value name="Tier12"/>
-		    <value name="Tier13"/>
-		    <value name="Tier14"/>
-		    <value name="Tier15"/>
-		    <value name="Tier16"/>
-		    <value name="Tier17"/>
+        <usage name="Military"/>		
+		<usage name="Crypt" />		
+		<usage name="TempleCore" />	
+		<usage name="PlantsA" />	
+		<usage name="PlantsB" />	
+		<usage name="PlantsC" />
+        <value name="Tier10" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier18" />
     </type>
 	<type name="MassB52">
         <nominal>3</nominal>
@@ -4000,31 +3991,23 @@
         <nominal>2</nominal>
         <lifetime>1800</lifetime>
         <restock>14400</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-		<value name="Tier3"/>
-		    <value name="Tier1"/>
-		    <value name="Tier2"/>
-		    <value name="Tier3"/>
-		    <value name="Tier4"/>
-		    <value name="Tier5"/>
-		    <value name="Tier6"/>
-		    <value name="Tier7"/>
-		    <value name="Tier8"/>
-		    <value name="Tier9"/>
-		    <value name="Tier10"/>
-		    <value name="Tier11"/>
-		    <value name="Tier12"/>
-		    <value name="Tier13"/>
-		    <value name="Tier14"/>
-		    <value name="Tier15"/>
-		    <value name="Tier16"/>
-		    <value name="Tier17"/>
+        <usage name="Military"/>		
+		<usage name="Crypt" />		
+		<usage name="TempleCore" />	
+		<usage name="PlantsA" />	
+		<usage name="PlantsB" />	
+		<usage name="PlantsC" />
+        <value name="Tier10" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier18" />
     </type>
 	<type name="Massmini14">
         <nominal>15</nominal>
@@ -6180,24 +6163,18 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<usage name="Military"/>
-		    <value name="Tier1"/>
-		    <value name="Tier2"/>
-		    <value name="Tier3"/>
-		    <value name="Tier4"/>
-		    <value name="Tier5"/>
-		    <value name="Tier6"/>
-		    <value name="Tier7"/>
-		    <value name="Tier8"/>
-		    <value name="Tier9"/>
-		    <value name="Tier10"/>
-		    <value name="Tier11"/>
-		    <value name="Tier12"/>
-		    <value name="Tier13"/>
-		    <value name="Tier14"/>
-		    <value name="Tier15"/>
-		    <value name="Tier16"/>
-		    <value name="Tier17"/>
+        <category name="weapons"/>
+        <usage name="Military"/>		
+		<usage name="Crypt" />		
+		<usage name="TempleCore" />	
+		<usage name="PlantsA" />	
+		<usage name="PlantsB" />	
+		<usage name="PlantsC" />
+        <value name="Tier10" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier18" />
     </type>
 	<type name="Massm300_camo">
         <nominal>1</nominal>
@@ -6208,24 +6185,18 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<usage name="Military"/>
-		    <value name="Tier1"/>
-		    <value name="Tier2"/>
-		    <value name="Tier3"/>
-		    <value name="Tier4"/>
-		    <value name="Tier5"/>
-		    <value name="Tier6"/>
-		    <value name="Tier7"/>
-		    <value name="Tier8"/>
-		    <value name="Tier9"/>
-		    <value name="Tier10"/>
-		    <value name="Tier11"/>
-		    <value name="Tier12"/>
-		    <value name="Tier13"/>
-		    <value name="Tier14"/>
-		    <value name="Tier15"/>
-		    <value name="Tier16"/>
-		    <value name="Tier17"/>
+        <category name="weapons"/>
+        <usage name="Military"/>		
+		<usage name="Crypt" />		
+		<usage name="TempleCore" />	
+		<usage name="PlantsA" />	
+		<usage name="PlantsB" />	
+		<usage name="PlantsC" />
+        <value name="Tier10" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier18" />
     </type>
 	<type name="MassKivaari">
         <nominal>1</nominal>
@@ -7107,91 +7078,70 @@
 		    <value name="Tier17"/>
     </type>
 	<type name="MassAR15DMR">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>1800</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-		    <value name="Tier1"/>
-		    <value name="Tier2"/>
-		    <value name="Tier3"/>
-		    <value name="Tier4"/>
-		    <value name="Tier5"/>
-		    <value name="Tier6"/>
-		    <value name="Tier7"/>
-		    <value name="Tier8"/>
-		    <value name="Tier9"/>
-		    <value name="Tier10"/>
-		    <value name="Tier11"/>
-		    <value name="Tier12"/>
-		    <value name="Tier13"/>
-		    <value name="Tier14"/>
-		    <value name="Tier15"/>
-		    <value name="Tier16"/>
-		    <value name="Tier17"/>
+        <usage name="Military"/>		
+		<usage name="Crypt" />		
+		<usage name="TempleCore" />	
+		<usage name="PlantsA" />	
+		<usage name="PlantsB" />	
+		<usage name="PlantsC" />
+        <value name="Tier10" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier18" />
     </type>
 	<type name="MassAR15DMR_Desert">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>1800</lifetime>
         <restock>1800</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-		    <value name="Tier1"/>
-		    <value name="Tier2"/>
-		    <value name="Tier3"/>
-		    <value name="Tier4"/>
-		    <value name="Tier5"/>
-		    <value name="Tier6"/>
-		    <value name="Tier7"/>
-		    <value name="Tier8"/>
-		    <value name="Tier9"/>
-		    <value name="Tier10"/>
-		    <value name="Tier11"/>
-		    <value name="Tier12"/>
-		    <value name="Tier13"/>
-		    <value name="Tier14"/>
-		    <value name="Tier15"/>
-		    <value name="Tier16"/>
-		    <value name="Tier17"/>
+        <usage name="Military"/>		
+		<usage name="Crypt" />		
+		<usage name="TempleCore" />	
+		<usage name="PlantsA" />	
+		<usage name="PlantsB" />	
+		<usage name="PlantsC" />
+        <value name="Tier10" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier18" />
     </type>
 	<type name="MassAR15AdjBttstck">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>1800</lifetime>
         <restock>900</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-		    <value name="Tier1"/>
-		    <value name="Tier2"/>
-		    <value name="Tier3"/>
-		    <value name="Tier4"/>
-		    <value name="Tier5"/>
-		    <value name="Tier6"/>
-		    <value name="Tier7"/>
-		    <value name="Tier8"/>
-		    <value name="Tier9"/>
-		    <value name="Tier10"/>
-		    <value name="Tier11"/>
-		    <value name="Tier12"/>
-		    <value name="Tier13"/>
-		    <value name="Tier14"/>
-		    <value name="Tier15"/>
-		    <value name="Tier16"/>
-		    <value name="Tier17"/>
+        <usage name="Military"/>		
+		<usage name="Crypt" />		
+		<usage name="TempleCore" />	
+		<usage name="PlantsA" />	
+		<usage name="PlantsB" />	
+		<usage name="PlantsC" />
+        <value name="Tier10" />
+        <value name="Tier14" />
+        <value name="Tier15" />
+        <value name="Tier16" />
+        <value name="Tier18" />
     </type>
 	<type name="MassStockSupport">
         <nominal>5</nominal>
