@@ -2,12 +2,12 @@
     "PlayerID": "76561198169903562",
     "PlayerName": "Jakestan",
     "PlayerNotlisted": 0,
-    "KRPlayerPoints": 4065,
+    "KRPlayerPoints": 4495,
     "PlayerDeaths": 0,
     "Stats": [
         {
             "Name": "ZombieKill",
-            "Stat": 393
+            "Stat": 425
         },
         {
             "Name": "HenKills",
@@ -15,7 +15,7 @@
         },
         {
             "Name": "RoosterKills",
-            "Stat": 1
+            "Stat": 2
         },
         {
             "Name": "StagKills",
@@ -27,7 +27,7 @@
         },
         {
             "Name": "BearKills",
-            "Stat": 3
+            "Stat": 4
         },
         {
             "Name": "WolfKills",
@@ -39,6 +39,10 @@
         },
         {
             "Name": "PigKills",
+            "Stat": 1
+        },
+        {
+            "Name": "PlayerKill",
             "Stat": 1
         }
     ]
