@@ -1,150 +1,322 @@
 {
     "Version": "2.3",
-    "IDs": [
+    "ConvertTraderConfigToTraderPlus": 0,
+    "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
+    "UseGarageToTradeCar": 0,
+    "DisableHeightFailSafeForReceiptDeployment": 0,
+    "HideInsuranceBtn": 0,
+    "HideGarageBtn": 0,
+    "HideLicenceBtn": 0,
+    "EnableShowAllPrices": 0,
+    "EnableShowAllCheckBox": 1,
+    "IsReceiptTraderOnly": 0,
+    "IsReceiptSaveLock": 0,
+    "IsReceiptSaveAttachment": 0,
+    "IsReceiptSaveCargo": 0,
+    "LockPickChance": 0.10000000894069672,
+    "LicenceKeyWord": "Licence",
+    "Licences": [
+        "Weapon Licence",
+        "Admin Licence"
+    ],
+    "AcceptedStates": {
+        "AcceptWorn": 1,
+        "AcceptDamaged": 0,
+        "AcceptBadlyDamaged": 0
+    },
+    "StoreOnlyToPristineState": 0,
+    "Currencies": [
+        {
+            "ClassName": "TraderPlus_Money_Dollar100,TraderPlus_Money_Euro100,TraderPlus_Money_Ruble100",
+            "Value": 100
+        },
+        {
+            "ClassName": "TraderPlus_Money_Dollar50,TraderPlus_Money_Euro50,TraderPlus_Money_Ruble50,CustomMoney50,CustomMoney50",
+            "Value": 50
+        },
+        {
+            "ClassName": "TraderPlus_Money_Dollar20,TraderPlus_Money_Euro20",
+            "Value": 20
+        },
+        {
+            "ClassName": "TraderPlus_Money_Dollar10,TraderPlus_Money_Euro10,TraderPlus_Money_Ruble10",
+            "Value": 10
+        },
+        {
+            "ClassName": "TraderPlus_Money_Dollar5,TraderPlus_Money_Euro5,TraderPlus_Money_Ruble5,TraderPlus_Money_Ruble5_Coin",
+            "Value": 5
+        },
+        {
+            "ClassName": "TraderPlus_Money_Dollar2,TraderPlus_Money_Ruble2_Coin,TraderPlus_Money_Euro2",
+            "Value": 2
+        },
+        {
+            "ClassName": "TraderPlus_Money_Dollar1,TraderPlus_Coin,TraderPlus_Money_Ruble1_Coin,TraderPlus_Money_Euro1",
+            "Value": 1
+        }
+    ],
+    "Traders": [
         {
             "Id": 0,
-            "Categories": [
-                "Beverages",
-                "Packaged Food",
-                "Fruit & Veg",
-                "Meat & Fish",
-                "Fungus",
-                "Pelts",
-                "Money Exchange"
+            "Name": "SurvivorF_Helga",
+            "GivenName": "Helga",
+            "Role": "Town Mum",
+            "Position": [
+                5632.7900390625,
+                29.280000686645509,
+                5394.2099609375
             ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
+            "Orientation": [
+                -65.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "Zeroy_fishing_Bandana_Camo",
+                "Blouse_White",
+                "Jeans_Green",
+                "AthleticShoes_Black"
+            ]
         },
         {
             "Id": 1,
-            "Categories": [
-                "Auto Parts",
-                "Money Exchange"
+            "Name": "SurvivorM_Jose",
+            "GivenName": "Jose",
+            "Role": "Grease Monkey",
+            "Position": [
+                5597.83984375,
+                28.799999237060548,
+                5352.10009765625
             ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "CowboyHat_black",
+                "RidersJacket_Black",
+                "CargoPants_Beige",
+                "CombatBoots_Brown"
+            ]
         },
         {
             "Id": 2,
-            "Categories": [
-                "Tools",
-                "Base Storage",
-                "Gardening",
-                "Base Building+",
-                "Base Decor",
-                "Money Exchange"
+            "Name": "SurvivorM_Taiki",
+            "GivenName": "Taiki",
+            "Role": "Handyman",
+            "Position": [
+                5634.10009765625,
+                29.280000686645509,
+                5391.39013671875
             ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
+            "Orientation": [
+                90.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "BaseballCap_Blue",
+                "Shirt_RedCheck",
+                "Jeans_Blue",
+                "WorkingBoots_Yellow"
+            ]
         },
         {
             "Id": 3,
-            "Categories": [
-                "That Good Good",
-                "Money Exchange"
+            "Name": "SurvivorF_Eva",
+            "GivenName": "Mary Jane",
+            "Role": "Pot Farmer",
+            "Position": [
+                5592.47998046875,
+                29.770000457763673,
+                5412.77001953125
             ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "bs_gratefuldead",
+                "Shirt_RedCheck",
+                "Skirt_White",
+                "victorian_glasses_blue_mung",
+                "joint_mung"
+            ]
         },
         {
             "Id": 4,
-            "Categories": [
-                "Vanilla Guns",
-                "Just Mags",
-                "Gun Parts",
-                "Fox Guns",
-                "Melee & Blades",
-                "Weapon Care",
-                "Ammo",
-                "Money Exchange"
+            "Name": "SurvivorM_Seth",
+            "GivenName": "Seth",
+            "Role": "Arms Dealer",
+            "Position": [
+                5620.43017578125,
+                29.100000381469728,
+                5418.64013671875
             ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
+            "Orientation": [
+                -90.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "rifleholster_camo_mung",
+                "TacticalShirt_Black",
+                "CargoPants_Grey",
+                "Zeroy_fishing_Wellies_Camo3",
+                "TacticalGloves_Black",
+                "SportGlasses_Green",
+                "MVS_Belt_OD",
+                "MVS_BoonieHat"
+            ]
         },
         {
             "Id": 5,
-            "Categories": [
-                "Bags",
-                "Gear",
-                "Patches & Armbands",
-                "Survival",
-                "Camping",
-                "Hunting & Fishing",
-                "Money Exchange"
+            "Name": "SurvivorM_Seth",
+            "GivenName": "Quinn",
+            "Role": "Gear Guy",
+            "Position": [
+                5614.22021484375,
+                29.049999237060548,
+                5417.919921875
             ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
+            "Orientation": [
+                90.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "TTsKOJacket_Camo",
+                "CargoPants_Black",
+                "Zeroy_fishing_Wellies_Camo2",
+                "DesignerGlasses"
+            ]
         },
         {
             "Id": 6,
-            "Categories": [
-                "Electronics",
-                "Money Exchange"
+            "Name": "SurvivorF_Eva",
+            "GivenName": "Eva",
+            "Role": "Tech Specialist",
+            "Position": [
+                5618.14990234375,
+                32.13999938964844,
+                5417.85986328125
             ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "Jeans_BlueDark",
+                "fannypack_pink_mung",
+                "bs_starbucks",
+                "Sneakers_Black",
+                "cigarette_mung",
+                "Msp_Slouchie_Red"
+            ]
         },
         {
             "Id": 7,
-            "Categories": [
-                "Medical",
-                "Protective Gear",
-                "Money Exchange"
+            "Name": "SurvivorM_Rolf",
+            "GivenName": "Rolph",
+            "Role": "Medic",
+            "Position": [
+                5580.41015625,
+                28.719999313354493,
+                5389.89013671875
             ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
+            "Orientation": [
+                115.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "ParamedicPants_Blue",
+                "ParamedicJacket_Crimson",
+                "NBCGlovesGray",
+                "NBCBootsYellow",
+                "SurgicalMask"
+            ]
         },
         {
             "Id": 8,
-            "Categories": [
-                "Teddy's Melee & Blades",
-                "Teddy's Pistols",
-                "Teddy's Machine Guns",
-                "Teddy's Sniper Rifles",
-                "Teddy's Shotguns",
-                "Teddy's Assualt Rifles",
-                "Teddy's Bayonets",
-                "Ammo",
-                "Teddy's Lights",
-                "Teddy's Suppressors",
-                "Teddy's Optics",
-                "Teddy's Attachments",
-                "Teddy's Halloween",
-                "Teddy's Covid",
-                "Teddy's Grenades",
-                "Teddy's Cosmetics",
-                "MVS Pants",
-                "MVS Tops",
-                "MVS Masks",
-                "MVS Hats",
-                "MVS Gear",
-                "MVS Vests",
-                "MVS Helmets",
-                "MVS Bags",
-                "Money Exchange"
+            "Name": "SurvivorM_Rolf",
+            "GivenName": "Teddy",
+            "Role": "Black Market Trader",
+            "Position": [
+                13447.0,
+                13.215100288391114,
+                9737.66015625
             ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "MVS_Combat_Vest_Heavy_Black",
+                "MVS_Pack_Black",
+                "MVS_Belt_Black",
+                "MVS_CombatShirt_Multicam_Black",
+                "MVS_CombatPants_Black",
+                "TacticalGoggles",
+                "MilitaryBoots_Redpunk",
+                "TacticalGloves_Black",
+                "MilitaryBoots_Redpunk",
+                "BalaclavaMask_Blackskull"
+            ]
         },
         {
             "Id": 9,
-            "Categories": [
-                "Stash Food",
-                "Stash Medical",
-                "Stash Tools & BB+",
-                "Stash Electronics",
-                "Stash Gear",
-                "Stash Survival",
-                "Stash Weapons",
-                "Stash Magazines",
-                "Stash Ammo",
-                "Stash Gun Parts",
-                "Stash Weed",
-                "Stash Auto Parts",
-                "Money Exchange"
+            "Name": "SurvivorM_Rolf",
+            "GivenName": "Burt",
+            "Role": "Quarter Master",
+            "Position": [
+                5456.82,
+                114.4,
+                5145.24
             ],
-            "LicencesRequired": [],
-            "CurrenciesAccepted": []
+            "Orientation": [
+                -90.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "Jeans_Grey",
+                "bs_meatloaf",
+                "Sneakers_White",
+                "DesignerGlasses",
+                "SurgicalGloves_LightBlue",
+                "joint_mung",
+                "MasscamoBooniehat"
+            ]
+        },
+        {
+            "Id": 10,
+            "Name": "SurvivorM_Rolf",
+            "GivenName": "Norton",
+            "Role": "Quarter Master",
+            "Position": [
+                3751.81,
+                17.78,
+                2563.27
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "CargoPants_Beige",
+                "bs_johndenver",
+                "HikingBootsLow_Black",
+                "AviatorGlasses",
+                "LeatherGloves_Beige",
+                "BaseballCap_Red"
+            ]
         }
-    ]
+    ],
+    "TraderObjects": []
 }
