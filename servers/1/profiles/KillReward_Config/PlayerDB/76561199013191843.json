@@ -2,39 +2,43 @@
     "PlayerID": "76561199013191843",
     "PlayerName": "Skif",
     "PlayerNotlisted": 0,
-    "KRPlayerPoints": 4565,
-    "PlayerDeaths": 0,
+    "KRPlayerPoints": 4385,
+    "PlayerDeaths": 1,
     "Stats": [
         {
             "Name": "BearKills",
-            "Stat": 1
+            "Stat": 0
         },
         {
             "Name": "ZombieKill",
-            "Stat": 453
+            "Stat": 0
         },
         {
             "Name": "PigKills",
-            "Stat": 2
+            "Stat": 0
         },
         {
             "Name": "StagKills",
-            "Stat": 1
+            "Stat": 0
         },
         {
             "Name": "DoeKills",
-            "Stat": 1
+            "Stat": 0
         },
         {
             "Name": "RoebuckKills",
-            "Stat": 1
+            "Stat": 0
         },
         {
             "Name": "HindKills",
-            "Stat": 1
+            "Stat": 0
         },
         {
             "Name": "longest_survivor_hit",
+            "Stat": 0
+        },
+        {
+            "Name": "PlayerSucide",
             "Stat": 0
         }
     ]
