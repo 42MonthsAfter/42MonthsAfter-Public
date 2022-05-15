@@ -9498,7 +9498,7 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_BackLeft">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>900</restock>
     <min>0</min>
@@ -9528,10 +9528,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_BackLeft_Black">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9558,10 +9558,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_BackLeft_BlackRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9588,10 +9588,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_BackLeft_WhiteRust">
-    <nominal>4</nominal>
+    <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>900</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9618,10 +9618,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_BackLeft_Wine">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9648,10 +9648,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_BackLeft_WineRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9678,10 +9678,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_BackRight">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9708,10 +9708,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_BackRight_Black">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9738,10 +9738,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_BackRight_BlackRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9768,10 +9768,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_BackRight_WhiteRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9798,10 +9798,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_BackRight_Wine">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9828,10 +9828,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_BackRight_WineRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9858,10 +9858,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_CoDriver">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9888,10 +9888,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_CoDriver_Black">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9918,10 +9918,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_CoDriver_BlackRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9948,10 +9948,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_CoDriver_WhiteRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -9978,10 +9978,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_CoDriver_Wine">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10008,10 +10008,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_CoDriver_WineRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10038,10 +10038,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_Driver">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10068,10 +10068,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_Driver_Black">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10098,10 +10098,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_Driver_BlackRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10128,10 +10128,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_Driver_WhiteRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10158,10 +10158,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_Driver_Wine">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10188,10 +10188,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanDoors_Driver_WineRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10218,10 +10218,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanHood">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10248,10 +10248,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanHood_Black">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10278,10 +10278,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanHood_BlackRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10308,10 +10308,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanHood_WhiteRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10338,10 +10338,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanHood_Wine">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10368,10 +10368,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanHood_WineRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10398,10 +10398,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanTrunk">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10428,10 +10428,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanTrunk_Black">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10458,10 +10458,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanTrunk_BlackRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10488,10 +10488,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanTrunk_WhiteRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10518,10 +10518,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanTrunk_Wine">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10548,10 +10548,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="CivSedanTrunk_WineRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -16867,10 +16867,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackDoors_CoDriver">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -16897,10 +16897,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackDoors_CoDriver_Blue">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -16927,10 +16927,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackDoors_CoDriver_BlueRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -16957,10 +16957,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackDoors_CoDriver_GreenRust">
-    <nominal>4</nominal>
+    <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>900</restock>
-    <min>2</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -16987,10 +16987,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackDoors_CoDriver_White">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17017,10 +17017,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackDoors_CoDriver_WhiteRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17047,10 +17047,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackDoors_Driver">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17077,10 +17077,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackDoors_Driver_Blue">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17107,10 +17107,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackDoors_Driver_BlueRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17137,10 +17137,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackDoors_Driver_GreenRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17167,10 +17167,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackDoors_Driver_White">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17197,10 +17197,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackDoors_Driver_WhiteRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17227,10 +17227,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackHood">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17257,10 +17257,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackHood_Blue">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17287,10 +17287,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackHood_BlueRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17317,10 +17317,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackHood_GreenRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17347,10 +17347,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackHood_White">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17377,10 +17377,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackHood_WhiteRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17407,10 +17407,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackTrunk">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17437,10 +17437,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackTrunk_Blue">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17467,10 +17467,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackTrunk_BlueRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17497,10 +17497,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackTrunk_GreenRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17527,10 +17527,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackTrunk_White">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17557,10 +17557,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackTrunk_WhiteRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17587,10 +17587,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="HatchbackWheel">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>1800</lifetime>
     <restock>900</restock>
-    <min>10</min>
+    <min>4</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17726,10 +17726,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_1_1">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17756,10 +17756,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_1_1_Black">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17786,10 +17786,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_1_1_BlackRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17816,10 +17816,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_1_1_Blue">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17846,10 +17846,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_1_1_BlueRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17876,10 +17876,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_1_1_RedRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17906,10 +17906,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_1_2">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17936,10 +17936,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_1_2_Black">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17966,10 +17966,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_1_2_BlackRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17996,10 +17996,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_1_2_Blue">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18026,10 +18026,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_1_2_BlueRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18056,10 +18056,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_1_2_RedRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18086,10 +18086,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_2_1">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18116,10 +18116,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_2_1_Black">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18146,10 +18146,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_2_1_BlackRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18176,7 +18176,7 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_2_1_Blue">
-    <nominal>0</nominal>
+    <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>900</restock>
     <min>0</min>
@@ -18206,10 +18206,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_2_1_BlueRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18236,10 +18236,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_2_1_RedRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18266,10 +18266,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_2_2">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18296,10 +18296,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_2_2_Black">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18326,10 +18326,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_2_2_BlackRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18356,10 +18356,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_2_2_Blue">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18386,10 +18386,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_2_2_BlueRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18416,10 +18416,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Door_2_2_RedRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18446,10 +18446,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Hood">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18476,10 +18476,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Hood_Black">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18506,10 +18506,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Hood_BlackRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18536,10 +18536,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Hood_Blue">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18566,10 +18566,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Hood_BlueRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18596,10 +18596,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Hood_RedRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18626,10 +18626,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Trunk">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18656,10 +18656,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Trunk_Black">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18686,10 +18686,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Trunk_BlackRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18716,10 +18716,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Trunk_Blue">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18746,10 +18746,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Trunk_BlueRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -18776,10 +18776,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Hatchback_02_Trunk_RedRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32317,10 +32317,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_1_1">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32347,10 +32347,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_1_1_Grey">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32377,10 +32377,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_1_1_GreyRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32407,10 +32407,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_1_1_Red">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32437,10 +32437,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_1_1_RedRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32467,10 +32467,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_1_1_YellowRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32497,10 +32497,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_1_2">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32527,10 +32527,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_1_2_Grey">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32557,10 +32557,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_1_2_GreyRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32587,10 +32587,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_1_2_Red">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32617,10 +32617,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_1_2_RedRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32647,10 +32647,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_1_2_YellowRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32677,10 +32677,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_2_1">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32707,10 +32707,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_2_1_Grey">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32737,10 +32737,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_2_1_GreyRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32767,10 +32767,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_2_1_Red">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32797,10 +32797,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_2_1_RedRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32827,10 +32827,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_2_1_YellowRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32857,10 +32857,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_2_2">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32887,10 +32887,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_2_2_Grey">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32917,10 +32917,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_2_2_GreyRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32947,10 +32947,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_2_2_Red">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -32977,10 +32977,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_2_2_RedRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -33007,10 +33007,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Door_2_2_YellowRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -33037,10 +33037,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Grey">
-    <nominal>0</nominal>
-    <lifetime>3888000</lifetime>
-    <restock>1800</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -33064,10 +33064,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Hood">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -33094,10 +33094,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Hood_Grey">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -33124,10 +33124,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Hood_GreyRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -33154,10 +33154,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Hood_Red">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -33184,10 +33184,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Hood_RedRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -33214,10 +33214,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Hood_YellowRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -33271,10 +33271,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Trunk">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -33301,10 +33301,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Trunk_Grey">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -33331,10 +33331,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Trunk_GreyRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -33361,10 +33361,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Trunk_Red">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>0</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -33391,10 +33391,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Trunk_RedRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -33421,10 +33421,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Sedan_02_Trunk_YellowRust">
-    <nominal>4</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>2</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -37762,10 +37762,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Door_1_1_BlueRust">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>6</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -37792,10 +37792,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Door_1_1_GreenRust">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>6</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -37822,10 +37822,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Door_1_1_OrangeRust">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>6</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -37852,10 +37852,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Door_2_1_BlueRust">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>6</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -37882,10 +37882,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Door_2_1_GreenRust">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>6</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -37912,10 +37912,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Door_2_1_OrangeRust">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>6</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -37942,10 +37942,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Hood_BlueRust">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>6</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -37972,10 +37972,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Hood_GreenRust">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>6</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -38002,10 +38002,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Hood_OrangeRust">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>6</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -38113,10 +38113,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Door_1_1">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>6</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -38143,10 +38143,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Door_1_1_Blue">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>6</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -38173,10 +38173,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Door_1_1_Orange">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>6</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -38203,10 +38203,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Door_2_1">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>6</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -38233,10 +38233,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Door_2_1_Blue">
-    <nominal>10</nominal>
+    <nominal>1</nominal>
     <lifetime>1800</lifetime>
     <restock>900</restock>
-    <min>6</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -38263,10 +38263,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Door_2_1_Orange">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>6</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -38293,10 +38293,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Hood">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>6</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -38323,10 +38323,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Hood_Blue">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>6</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -38353,10 +38353,10 @@
 	<value name="Tier17"/>
   </type>
   <type name="Truck_01_Hood_Orange">
-    <nominal>10</nominal>
-    <lifetime>1800</lifetime>
-    <restock>900</restock>
-    <min>6</min>
+	  <nominal>1</nominal>
+	  <lifetime>1800</lifetime>
+	  <restock>900</restock>
+	  <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
