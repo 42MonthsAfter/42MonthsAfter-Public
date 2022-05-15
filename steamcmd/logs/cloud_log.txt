@@ -1,623 +1,545 @@
 
 
-[2022-05-14 19:09:34] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:09:34] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:09:34] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:09:34] [AppID 7] Eval complete
-[2022-05-14 19:09:34] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:09:34] [AppID 7] Starting sync (down,)
-[2022-05-14 19:09:34] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:09:34] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:09:34] [AppID 7] Download complete in build list
-[2022-05-14 19:09:34] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:09:34] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:09:34] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:31:23] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 11:31:23] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:31:24] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 11:31:24] [AppID 7] Starting sync (eval,)
+[2022-05-15 11:31:24] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:31:24] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:31:24] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 11:31:24] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 11:31:24] [AppID 7] Eval complete
+[2022-05-15 11:31:24] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 11:31:24] [AppID 7] Starting sync (down,)
+[2022-05-15 11:31:25] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:31:25] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:31:25] [AppID 7] Download complete in build list
+[2022-05-15 11:31:25] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 11:31:25] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 11:31:25] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:09:40] [AppID 7] Starting sync (init,)
-[2022-05-14 19:09:40] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:09:40] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:09:40] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:09:41] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:09:41] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:09:41] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:09:41] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:09:41] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:09:41] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:09:41] [AppID 7] Eval complete
-[2022-05-14 19:09:41] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:09:41] [AppID 7] Starting sync (down,)
-[2022-05-14 19:09:41] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:09:41] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:09:41] [AppID 7] Download complete in build list
-[2022-05-14 19:09:41] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:09:41] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:09:41] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:31:32] [AppID 7] Starting sync (init,)
+[2022-05-15 11:31:32] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:31:32] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 11:31:32] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:31:33] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 11:31:33] [AppID 7] Starting sync (eval,)
+[2022-05-15 11:31:33] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:31:33] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:31:33] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 11:31:33] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 11:31:33] [AppID 7] Eval complete
+[2022-05-15 11:31:33] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 11:31:33] [AppID 7] Starting sync (down,)
+[2022-05-15 11:31:33] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:31:33] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:31:33] [AppID 7] Download complete in build list
+[2022-05-15 11:31:33] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 11:31:33] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 11:31:34] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:09:43] [AppID 7] Starting sync (init,)
-[2022-05-14 19:09:43] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:09:43] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:09:43] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:09:44] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:09:44] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:09:44] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:09:44] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:09:44] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:09:44] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:09:44] [AppID 7] Eval complete
-[2022-05-14 19:09:44] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:09:44] [AppID 7] Starting sync (down,)
-[2022-05-14 19:09:44] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:09:44] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:09:44] [AppID 7] Download complete in build list
-[2022-05-14 19:09:44] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:09:44] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:09:45] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:40:56] [AppID 7] Starting sync (init,)
+[2022-05-15 11:40:56] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:40:56] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 11:40:57] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:40:57] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 11:40:57] [AppID 7] Starting sync (eval,)
+[2022-05-15 11:40:57] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:40:58] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:40:58] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 11:40:58] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 11:40:58] [AppID 7] Eval complete
+[2022-05-15 11:40:58] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 11:40:58] [AppID 7] Starting sync (down,)
+[2022-05-15 11:40:58] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:40:58] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:40:58] [AppID 7] Download complete in build list
+[2022-05-15 11:40:58] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 11:40:58] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 11:40:58] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:09:52] [AppID 7] Starting sync (init,)
-[2022-05-14 19:09:52] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:09:52] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:09:52] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:09:53] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:09:53] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:09:53] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:09:53] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:09:53] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:09:53] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:09:53] [AppID 7] Eval complete
-[2022-05-14 19:09:53] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:09:53] [AppID 7] Starting sync (down,)
-[2022-05-14 19:09:53] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:09:53] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:09:53] [AppID 7] Download complete in build list
-[2022-05-14 19:09:53] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:09:53] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:09:53] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:41:03] [AppID 7] Starting sync (init,)
+[2022-05-15 11:41:03] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:41:03] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 11:41:03] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:41:04] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 11:41:04] [AppID 7] Starting sync (eval,)
+[2022-05-15 11:41:04] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:41:04] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:41:04] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 11:41:04] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 11:41:04] [AppID 7] Eval complete
+[2022-05-15 11:41:04] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 11:41:04] [AppID 7] Starting sync (down,)
+[2022-05-15 11:41:05] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:41:05] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:41:05] [AppID 7] Download complete in build list
+[2022-05-15 11:41:05] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 11:41:05] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 11:41:05] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:10:01] [AppID 7] Starting sync (init,)
-[2022-05-14 19:10:01] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:10:01] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:10:01] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:10:02] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:10:02] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:10:02] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:10:02] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:10:02] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:10:02] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:10:02] [AppID 7] Eval complete
-[2022-05-14 19:10:02] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:10:02] [AppID 7] Starting sync (down,)
-[2022-05-14 19:10:02] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:10:02] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:10:02] [AppID 7] Download complete in build list
-[2022-05-14 19:10:02] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:10:02] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:10:02] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:41:06] [AppID 7] Starting sync (init,)
+[2022-05-15 11:41:06] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:41:06] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 11:41:06] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:41:07] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 11:41:07] [AppID 7] Starting sync (eval,)
+[2022-05-15 11:41:07] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:41:07] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:41:07] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 11:41:07] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 11:41:07] [AppID 7] Eval complete
+[2022-05-15 11:41:07] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 11:41:07] [AppID 7] Starting sync (down,)
+[2022-05-15 11:41:08] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:41:08] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:41:08] [AppID 7] Download complete in build list
+[2022-05-15 11:41:08] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 11:41:08] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 11:41:08] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:10:10] [AppID 7] Starting sync (init,)
-[2022-05-14 19:10:10] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:10:10] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:10:10] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:10:10] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:10:10] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:10:10] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:10:11] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:10:11] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:10:11] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:10:11] [AppID 7] Eval complete
-[2022-05-14 19:10:11] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:10:11] [AppID 7] Starting sync (down,)
-[2022-05-14 19:10:11] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:10:11] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:10:11] [AppID 7] Download complete in build list
-[2022-05-14 19:10:11] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:10:11] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:10:11] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:41:16] [AppID 7] Starting sync (init,)
+[2022-05-15 11:41:16] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:41:16] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 11:41:16] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:41:17] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 11:41:17] [AppID 7] Starting sync (eval,)
+[2022-05-15 11:41:17] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:41:17] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:41:17] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 11:41:17] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 11:41:17] [AppID 7] Eval complete
+[2022-05-15 11:41:17] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 11:41:17] [AppID 7] Starting sync (down,)
+[2022-05-15 11:41:18] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:41:18] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:41:18] [AppID 7] Download complete in build list
+[2022-05-15 11:41:18] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 11:41:18] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 11:41:18] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:19:34] [AppID 7] Starting sync (init,)
-[2022-05-14 19:19:34] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:19:34] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:19:34] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:19:36] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:19:36] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:19:36] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:19:36] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:19:36] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:19:36] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:19:36] [AppID 7] Eval complete
-[2022-05-14 19:19:36] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:19:36] [AppID 7] Starting sync (down,)
-[2022-05-14 19:19:36] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:19:36] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:19:36] [AppID 7] Download complete in build list
-[2022-05-14 19:19:36] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:19:36] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:19:36] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:41:25] [AppID 7] Starting sync (init,)
+[2022-05-15 11:41:25] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:41:25] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 11:41:25] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:41:26] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 11:41:26] [AppID 7] Starting sync (eval,)
+[2022-05-15 11:41:26] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:41:26] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:41:26] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 11:41:26] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 11:41:26] [AppID 7] Eval complete
+[2022-05-15 11:41:26] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 11:41:26] [AppID 7] Starting sync (down,)
+[2022-05-15 11:41:26] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:41:26] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:41:26] [AppID 7] Download complete in build list
+[2022-05-15 11:41:26] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 11:41:26] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 11:41:26] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:19:42] [AppID 7] Starting sync (init,)
-[2022-05-14 19:19:42] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:19:42] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:19:42] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:19:43] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:19:43] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:19:43] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:19:43] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:19:43] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:19:43] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:19:43] [AppID 7] Eval complete
-[2022-05-14 19:19:43] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:19:43] [AppID 7] Starting sync (down,)
-[2022-05-14 19:19:43] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:19:43] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:19:43] [AppID 7] Download complete in build list
-[2022-05-14 19:19:43] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:19:43] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:19:43] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:41:34] [AppID 7] Starting sync (init,)
+[2022-05-15 11:41:34] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:41:34] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 11:41:34] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:41:35] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 11:41:35] [AppID 7] Starting sync (eval,)
+[2022-05-15 11:41:35] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:41:35] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:41:35] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 11:41:35] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 11:41:35] [AppID 7] Eval complete
+[2022-05-15 11:41:35] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 11:41:35] [AppID 7] Starting sync (down,)
+[2022-05-15 11:41:35] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:41:35] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:41:35] [AppID 7] Download complete in build list
+[2022-05-15 11:41:35] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 11:41:35] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 11:41:35] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:19:45] [AppID 7] Starting sync (init,)
-[2022-05-14 19:19:45] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:19:45] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:19:45] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:19:46] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:19:46] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:19:46] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:19:46] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:19:46] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:19:46] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:19:46] [AppID 7] Eval complete
-[2022-05-14 19:19:46] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:19:46] [AppID 7] Starting sync (down,)
-[2022-05-14 19:19:46] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:19:46] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:19:46] [AppID 7] Download complete in build list
-[2022-05-14 19:19:46] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:19:46] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:19:46] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:50:57] [AppID 7] Starting sync (init,)
+[2022-05-15 11:50:57] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:50:57] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 11:50:57] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:50:58] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 11:50:58] [AppID 7] Starting sync (eval,)
+[2022-05-15 11:50:58] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:50:58] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:50:58] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 11:50:58] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 11:50:58] [AppID 7] Eval complete
+[2022-05-15 11:50:58] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 11:50:58] [AppID 7] Starting sync (down,)
+[2022-05-15 11:50:58] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:50:58] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:50:58] [AppID 7] Download complete in build list
+[2022-05-15 11:50:58] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 11:50:58] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 11:50:59] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:19:54] [AppID 7] Starting sync (init,)
-[2022-05-14 19:19:54] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:19:54] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:19:54] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:19:55] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:19:55] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:19:55] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:19:55] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:19:55] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:19:55] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:19:55] [AppID 7] Eval complete
-[2022-05-14 19:19:55] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:19:55] [AppID 7] Starting sync (down,)
-[2022-05-14 19:19:55] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:19:55] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:19:55] [AppID 7] Download complete in build list
-[2022-05-14 19:19:55] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:19:55] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:19:55] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:51:05] [AppID 7] Starting sync (init,)
+[2022-05-15 11:51:05] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:51:05] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 11:51:05] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:51:06] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 11:51:06] [AppID 7] Starting sync (eval,)
+[2022-05-15 11:51:06] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:51:06] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:51:06] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 11:51:06] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 11:51:06] [AppID 7] Eval complete
+[2022-05-15 11:51:06] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 11:51:06] [AppID 7] Starting sync (down,)
+[2022-05-15 11:51:06] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:51:06] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:51:06] [AppID 7] Download complete in build list
+[2022-05-15 11:51:06] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 11:51:06] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 11:51:06] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:20:04] [AppID 7] Starting sync (init,)
-[2022-05-14 19:20:04] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:20:04] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:20:04] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:20:05] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:20:05] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:20:05] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:20:05] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:20:05] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:20:05] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:20:05] [AppID 7] Eval complete
-[2022-05-14 19:20:05] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:20:05] [AppID 7] Starting sync (down,)
-[2022-05-14 19:20:05] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:20:05] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:20:05] [AppID 7] Download complete in build list
-[2022-05-14 19:20:05] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:20:05] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:20:05] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:51:08] [AppID 7] Starting sync (init,)
+[2022-05-15 11:51:08] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:51:08] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 11:51:08] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:51:09] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 11:51:09] [AppID 7] Starting sync (eval,)
+[2022-05-15 11:51:09] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:51:09] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:51:09] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 11:51:09] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 11:51:09] [AppID 7] Eval complete
+[2022-05-15 11:51:09] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 11:51:09] [AppID 7] Starting sync (down,)
+[2022-05-15 11:51:09] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:51:09] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:51:09] [AppID 7] Download complete in build list
+[2022-05-15 11:51:09] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 11:51:09] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 11:51:09] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:20:12] [AppID 7] Starting sync (init,)
-[2022-05-14 19:20:12] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:20:12] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:20:12] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:20:13] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:20:13] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:20:13] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:20:13] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:20:13] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:20:13] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:20:13] [AppID 7] Eval complete
-[2022-05-14 19:20:13] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:20:13] [AppID 7] Starting sync (down,)
-[2022-05-14 19:20:14] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:20:14] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:20:14] [AppID 7] Download complete in build list
-[2022-05-14 19:20:14] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:20:14] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:20:14] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:51:16] [AppID 7] Starting sync (init,)
+[2022-05-15 11:51:16] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:51:16] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 11:51:16] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:51:17] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 11:51:17] [AppID 7] Starting sync (eval,)
+[2022-05-15 11:51:17] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:51:18] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:51:18] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 11:51:18] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 11:51:18] [AppID 7] Eval complete
+[2022-05-15 11:51:18] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 11:51:18] [AppID 7] Starting sync (down,)
+[2022-05-15 11:51:18] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:51:18] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:51:18] [AppID 7] Download complete in build list
+[2022-05-15 11:51:18] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 11:51:18] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 11:51:18] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:29:36] [AppID 7] Starting sync (init,)
-[2022-05-14 19:29:36] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:29:36] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:29:36] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:29:37] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:29:37] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:29:37] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:29:38] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:29:38] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:29:38] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:29:38] [AppID 7] Eval complete
-[2022-05-14 19:29:38] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:29:38] [AppID 7] Starting sync (down,)
-[2022-05-14 19:29:38] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:29:40] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:29:40] [AppID 7] Download complete in build list
-[2022-05-14 19:29:40] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:29:40] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:29:40] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:51:25] [AppID 7] Starting sync (init,)
+[2022-05-15 11:51:25] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:51:25] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 11:51:25] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:51:26] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 11:51:26] [AppID 7] Starting sync (eval,)
+[2022-05-15 11:51:26] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:51:27] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:51:27] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 11:51:27] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 11:51:27] [AppID 7] Eval complete
+[2022-05-15 11:51:27] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 11:51:27] [AppID 7] Starting sync (down,)
+[2022-05-15 11:51:27] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:51:27] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:51:27] [AppID 7] Download complete in build list
+[2022-05-15 11:51:27] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 11:51:27] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 11:51:27] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:29:45] [AppID 7] Starting sync (init,)
-[2022-05-14 19:29:45] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:29:45] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:29:45] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:29:46] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:29:46] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:29:46] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:29:46] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:29:46] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:29:46] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:29:46] [AppID 7] Eval complete
-[2022-05-14 19:29:46] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:29:46] [AppID 7] Starting sync (down,)
-[2022-05-14 19:29:46] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:29:47] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:29:47] [AppID 7] Download complete in build list
-[2022-05-14 19:29:47] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:29:47] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:29:47] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:51:34] [AppID 7] Starting sync (init,)
+[2022-05-15 11:51:34] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:51:34] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 11:51:34] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:51:35] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 11:51:35] [AppID 7] Starting sync (eval,)
+[2022-05-15 11:51:35] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 11:51:35] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:51:35] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 11:51:35] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 11:51:35] [AppID 7] Eval complete
+[2022-05-15 11:51:35] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 11:51:35] [AppID 7] Starting sync (down,)
+[2022-05-15 11:51:35] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 11:51:35] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 11:51:35] [AppID 7] Download complete in build list
+[2022-05-15 11:51:35] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 11:51:35] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 11:51:35] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:29:48] [AppID 7] Starting sync (init,)
-[2022-05-14 19:29:48] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:29:48] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:29:48] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:29:49] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:29:49] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:29:49] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:29:49] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:29:49] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:29:49] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:29:49] [AppID 7] Eval complete
-[2022-05-14 19:29:49] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:29:49] [AppID 7] Starting sync (down,)
-[2022-05-14 19:29:49] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:29:49] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:29:49] [AppID 7] Download complete in build list
-[2022-05-14 19:29:49] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:29:49] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:29:49] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:00:58] [AppID 7] Starting sync (init,)
+[2022-05-15 12:00:58] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:00:58] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 12:00:58] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:00:59] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 12:00:59] [AppID 7] Starting sync (eval,)
+[2022-05-15 12:00:59] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:00:59] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:00:59] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 12:00:59] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 12:00:59] [AppID 7] Eval complete
+[2022-05-15 12:00:59] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 12:00:59] [AppID 7] Starting sync (down,)
+[2022-05-15 12:00:59] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:00:59] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:00:59] [AppID 7] Download complete in build list
+[2022-05-15 12:00:59] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 12:00:59] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 12:00:59] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:29:57] [AppID 7] Starting sync (init,)
-[2022-05-14 19:29:57] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:29:57] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:29:57] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:29:58] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:29:58] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:29:58] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:29:59] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:29:59] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:29:59] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:29:59] [AppID 7] Eval complete
-[2022-05-14 19:29:59] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:29:59] [AppID 7] Starting sync (down,)
-[2022-05-14 19:29:59] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:29:59] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:29:59] [AppID 7] Download complete in build list
-[2022-05-14 19:29:59] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:29:59] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:29:59] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:01:05] [AppID 7] Starting sync (init,)
+[2022-05-15 12:01:05] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:01:05] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 12:01:05] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:01:06] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 12:01:06] [AppID 7] Starting sync (eval,)
+[2022-05-15 12:01:06] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:01:07] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:01:07] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 12:01:07] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 12:01:07] [AppID 7] Eval complete
+[2022-05-15 12:01:07] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 12:01:07] [AppID 7] Starting sync (down,)
+[2022-05-15 12:01:07] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:01:07] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:01:07] [AppID 7] Download complete in build list
+[2022-05-15 12:01:07] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 12:01:07] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 12:01:07] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:30:07] [AppID 7] Starting sync (init,)
-[2022-05-14 19:30:07] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:30:07] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:30:07] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:30:08] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:30:08] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:30:08] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:30:08] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:30:08] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:30:08] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:30:08] [AppID 7] Eval complete
-[2022-05-14 19:30:08] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:30:08] [AppID 7] Starting sync (down,)
-[2022-05-14 19:30:08] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:30:08] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:30:08] [AppID 7] Download complete in build list
-[2022-05-14 19:30:08] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:30:08] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:30:08] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:01:08] [AppID 7] Starting sync (init,)
+[2022-05-15 12:01:08] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:01:08] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 12:01:08] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:01:09] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 12:01:09] [AppID 7] Starting sync (eval,)
+[2022-05-15 12:01:09] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:01:09] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:01:09] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 12:01:09] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 12:01:09] [AppID 7] Eval complete
+[2022-05-15 12:01:09] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 12:01:09] [AppID 7] Starting sync (down,)
+[2022-05-15 12:01:09] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:01:10] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:01:10] [AppID 7] Download complete in build list
+[2022-05-15 12:01:10] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 12:01:10] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 12:01:10] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:30:16] [AppID 7] Starting sync (init,)
-[2022-05-14 19:30:16] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:30:16] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:30:16] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:30:18] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:30:18] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:30:18] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:30:18] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:30:18] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:30:18] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:30:18] [AppID 7] Eval complete
-[2022-05-14 19:30:18] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:30:18] [AppID 7] Starting sync (down,)
-[2022-05-14 19:30:18] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:30:18] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:30:18] [AppID 7] Download complete in build list
-[2022-05-14 19:30:18] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:30:18] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:30:18] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:01:17] [AppID 7] Starting sync (init,)
+[2022-05-15 12:01:17] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:01:17] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 12:01:17] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:01:18] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 12:01:18] [AppID 7] Starting sync (eval,)
+[2022-05-15 12:01:18] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:01:18] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:01:18] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 12:01:18] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 12:01:18] [AppID 7] Eval complete
+[2022-05-15 12:01:18] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 12:01:18] [AppID 7] Starting sync (down,)
+[2022-05-15 12:01:18] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:01:18] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:01:18] [AppID 7] Download complete in build list
+[2022-05-15 12:01:18] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 12:01:18] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 12:01:18] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:39:38] [AppID 7] Starting sync (init,)
-[2022-05-14 19:39:38] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:39:38] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:39:38] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:39:39] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:39:39] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:39:39] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:39:39] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:39:39] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:39:39] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:39:39] [AppID 7] Eval complete
-[2022-05-14 19:39:39] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:39:39] [AppID 7] Starting sync (down,)
-[2022-05-14 19:39:39] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:39:39] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:39:39] [AppID 7] Download complete in build list
-[2022-05-14 19:39:39] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:39:39] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:39:39] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:01:26] [AppID 7] Starting sync (init,)
+[2022-05-15 12:01:26] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:01:26] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 12:01:26] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:01:27] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 12:01:27] [AppID 7] Starting sync (eval,)
+[2022-05-15 12:01:27] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:01:27] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:01:27] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 12:01:27] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 12:01:27] [AppID 7] Eval complete
+[2022-05-15 12:01:27] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 12:01:27] [AppID 7] Starting sync (down,)
+[2022-05-15 12:01:27] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:01:27] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:01:27] [AppID 7] Download complete in build list
+[2022-05-15 12:01:27] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 12:01:27] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 12:01:27] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:39:45] [AppID 7] Starting sync (init,)
-[2022-05-14 19:39:45] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:39:45] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:39:45] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:39:46] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:39:46] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:39:46] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:39:46] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:39:46] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:39:46] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:39:46] [AppID 7] Eval complete
-[2022-05-14 19:39:46] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:39:46] [AppID 7] Starting sync (down,)
-[2022-05-14 19:39:46] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:39:46] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:39:46] [AppID 7] Download complete in build list
-[2022-05-14 19:39:46] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:39:46] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:39:46] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:01:35] [AppID 7] Starting sync (init,)
+[2022-05-15 12:01:35] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:01:35] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 12:01:35] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:01:36] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 12:01:36] [AppID 7] Starting sync (eval,)
+[2022-05-15 12:01:36] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:01:36] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:01:36] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 12:01:36] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 12:01:36] [AppID 7] Eval complete
+[2022-05-15 12:01:36] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 12:01:36] [AppID 7] Starting sync (down,)
+[2022-05-15 12:01:36] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:01:36] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:01:36] [AppID 7] Download complete in build list
+[2022-05-15 12:01:36] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 12:01:36] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 12:01:36] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:39:48] [AppID 7] Starting sync (init,)
-[2022-05-14 19:39:48] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:39:48] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:39:48] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:39:49] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:39:49] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:39:49] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:39:49] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:39:49] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:39:49] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:39:49] [AppID 7] Eval complete
-[2022-05-14 19:39:49] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:39:49] [AppID 7] Starting sync (down,)
-[2022-05-14 19:39:49] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:39:49] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:39:49] [AppID 7] Download complete in build list
-[2022-05-14 19:39:49] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:39:49] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:39:49] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:10:58] [AppID 7] Starting sync (init,)
+[2022-05-15 12:10:58] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:10:58] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 12:10:58] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:10:59] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 12:10:59] [AppID 7] Starting sync (eval,)
+[2022-05-15 12:10:59] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:10:59] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:10:59] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 12:10:59] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 12:10:59] [AppID 7] Eval complete
+[2022-05-15 12:10:59] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 12:10:59] [AppID 7] Starting sync (down,)
+[2022-05-15 12:10:59] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:11:00] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:11:00] [AppID 7] Download complete in build list
+[2022-05-15 12:11:00] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 12:11:00] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 12:11:00] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:39:57] [AppID 7] Starting sync (init,)
-[2022-05-14 19:39:57] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:39:57] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:39:57] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:39:58] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:39:58] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:39:58] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:39:58] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:39:58] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:39:58] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:39:58] [AppID 7] Eval complete
-[2022-05-14 19:39:58] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:39:58] [AppID 7] Starting sync (down,)
-[2022-05-14 19:39:58] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:39:58] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:39:58] [AppID 7] Download complete in build list
-[2022-05-14 19:39:58] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:39:58] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:39:58] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:11:06] [AppID 7] Starting sync (init,)
+[2022-05-15 12:11:06] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:11:06] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 12:11:06] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:11:07] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 12:11:07] [AppID 7] Starting sync (eval,)
+[2022-05-15 12:11:07] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:11:07] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:11:07] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 12:11:07] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 12:11:07] [AppID 7] Eval complete
+[2022-05-15 12:11:07] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 12:11:07] [AppID 7] Starting sync (down,)
+[2022-05-15 12:11:07] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:11:07] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:11:07] [AppID 7] Download complete in build list
+[2022-05-15 12:11:07] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 12:11:07] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 12:11:07] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:40:05] [AppID 7] Starting sync (init,)
-[2022-05-14 19:40:05] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:40:05] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:40:05] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:40:07] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:40:07] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:40:07] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:40:07] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:40:07] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:40:07] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:40:07] [AppID 7] Eval complete
-[2022-05-14 19:40:07] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:40:07] [AppID 7] Starting sync (down,)
-[2022-05-14 19:40:07] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:40:07] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:40:07] [AppID 7] Download complete in build list
-[2022-05-14 19:40:07] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:40:07] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:40:07] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:11:09] [AppID 7] Starting sync (init,)
+[2022-05-15 12:11:09] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:11:09] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 12:11:09] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:11:10] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 12:11:10] [AppID 7] Starting sync (eval,)
+[2022-05-15 12:11:10] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:11:10] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:11:10] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 12:11:10] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 12:11:10] [AppID 7] Eval complete
+[2022-05-15 12:11:10] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 12:11:10] [AppID 7] Starting sync (down,)
+[2022-05-15 12:11:10] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:11:10] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:11:10] [AppID 7] Download complete in build list
+[2022-05-15 12:11:10] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 12:11:10] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 12:11:10] [Roaming Config] PerformSyncCloud - all sync'd up
+[2022-05-15 12:11:10] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:40:14] [AppID 7] Starting sync (init,)
-[2022-05-14 19:40:14] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:40:14] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:40:14] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:40:15] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:40:15] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:40:15] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:40:15] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:40:15] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:40:15] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:40:15] [AppID 7] Eval complete
-[2022-05-14 19:40:15] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:40:15] [AppID 7] Starting sync (down,)
-[2022-05-14 19:40:15] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:40:16] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:40:16] [AppID 7] Download complete in build list
-[2022-05-14 19:40:16] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:40:16] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:40:16] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:11:18] [AppID 7] Starting sync (init,)
+[2022-05-15 12:11:18] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:11:18] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 12:11:18] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:11:19] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 12:11:19] [AppID 7] Starting sync (eval,)
+[2022-05-15 12:11:19] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:11:19] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:11:19] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 12:11:19] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 12:11:19] [AppID 7] Eval complete
+[2022-05-15 12:11:19] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 12:11:19] [AppID 7] Starting sync (down,)
+[2022-05-15 12:11:19] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:11:19] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:11:19] [AppID 7] Download complete in build list
+[2022-05-15 12:11:19] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 12:11:19] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 12:11:19] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:49:40] [AppID 7] Starting sync (init,)
-[2022-05-14 19:49:40] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:49:40] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:49:40] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:49:41] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:49:41] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:49:41] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:49:41] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:49:41] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:49:41] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:49:41] [AppID 7] Eval complete
-[2022-05-14 19:49:41] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:49:41] [AppID 7] Starting sync (down,)
-[2022-05-14 19:49:41] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:49:42] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:49:42] [AppID 7] Download complete in build list
-[2022-05-14 19:49:42] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:49:42] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:49:42] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:11:26] [AppID 7] Starting sync (init,)
+[2022-05-15 12:11:26] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:11:26] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 12:11:27] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:11:28] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 12:11:28] [AppID 7] Starting sync (eval,)
+[2022-05-15 12:11:28] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:11:28] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:11:28] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 12:11:28] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 12:11:28] [AppID 7] Eval complete
+[2022-05-15 12:11:28] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 12:11:28] [AppID 7] Starting sync (down,)
+[2022-05-15 12:11:28] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:11:28] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:11:28] [AppID 7] Download complete in build list
+[2022-05-15 12:11:28] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 12:11:28] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 12:11:28] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
 
 
-[2022-05-14 19:49:48] [AppID 7] Starting sync (init,)
-[2022-05-14 19:49:48] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:49:48] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:49:48] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:49:49] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:49:49] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:49:49] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:49:49] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:49:49] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:49:49] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:49:49] [AppID 7] Eval complete
-[2022-05-14 19:49:49] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:49:49] [AppID 7] Starting sync (down,)
-[2022-05-14 19:49:49] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:49:49] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:49:49] [AppID 7] Download complete in build list
-[2022-05-14 19:49:49] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:49:49] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:49:49] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-
-
-[2022-05-14 19:49:51] [AppID 7] Starting sync (init,)
-[2022-05-14 19:49:51] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:49:51] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:49:51] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:49:52] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:49:52] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:49:52] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:49:52] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:49:52] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:49:52] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:49:52] [AppID 7] Eval complete
-[2022-05-14 19:49:52] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:49:52] [AppID 7] Starting sync (down,)
-[2022-05-14 19:49:52] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:49:52] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:49:52] [AppID 7] Download complete in build list
-[2022-05-14 19:49:52] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:49:52] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:49:52] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-
-
-[2022-05-14 19:50:00] [AppID 7] Starting sync (init,)
-[2022-05-14 19:50:00] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:50:00] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:50:00] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:50:00] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:50:00] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:50:00] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:50:01] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:50:01] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:50:01] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:50:01] [AppID 7] Eval complete
-[2022-05-14 19:50:01] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:50:01] [AppID 7] Starting sync (down,)
-[2022-05-14 19:50:01] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:50:01] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:50:01] [AppID 7] Download complete in build list
-[2022-05-14 19:50:01] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:50:01] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:50:01] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-
-
-[2022-05-14 19:50:08] [AppID 7] Starting sync (init,)
-[2022-05-14 19:50:08] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:50:08] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:50:09] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:50:10] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:50:10] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:50:10] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:50:10] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:50:10] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:50:10] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:50:10] [AppID 7] Eval complete
-[2022-05-14 19:50:10] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:50:10] [AppID 7] Starting sync (down,)
-[2022-05-14 19:50:10] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:50:10] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:50:10] [AppID 7] Download complete in build list
-[2022-05-14 19:50:10] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:50:10] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:50:10] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-
-
-[2022-05-14 19:50:18] [AppID 7] Starting sync (init,)
-[2022-05-14 19:50:18] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:50:18] [U:1:1152480592] [AppID 7] Init cache request complete
-[2022-05-14 19:50:18] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:50:19] [Roaming Config] PerformSyncCloud - evaluating sync state
-[2022-05-14 19:50:19] [AppID 7] Starting sync (eval,)
-[2022-05-14 19:50:19] [AppID 7] AutoCloud checking local state for user 1152480592
-[2022-05-14 19:50:19] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:50:19] [AppID 7] File is in sync serverbrowser_hist.vdf
-[2022-05-14 19:50:19] [AppID 7] File is in sync sharedconfig.vdf
-[2022-05-14 19:50:19] [AppID 7] Eval complete
-[2022-05-14 19:50:19] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
-[2022-05-14 19:50:19] [AppID 7] Starting sync (down,)
-[2022-05-14 19:50:19] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
-[2022-05-14 19:50:19] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
-[2022-05-14 19:50:19] [AppID 7] Download complete in build list
-[2022-05-14 19:50:19] [AppID 7] Successfully synced to ChangeNumber 0
-[2022-05-14 19:50:19] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
-[2022-05-14 19:50:20] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:11:35] [AppID 7] Starting sync (init,)
+[2022-05-15 12:11:35] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:11:35] [U:1:1152480592] [AppID 7] Init cache request complete
+[2022-05-15 12:11:35] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:11:36] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2022-05-15 12:11:36] [AppID 7] Starting sync (eval,)
+[2022-05-15 12:11:36] [AppID 7] AutoCloud checking local state for user 1152480592
+[2022-05-15 12:11:37] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:11:37] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2022-05-15 12:11:37] [AppID 7] File is in sync sharedconfig.vdf
+[2022-05-15 12:11:37] [AppID 7] Eval complete
+[2022-05-15 12:11:37] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2022-05-15 12:11:37] [AppID 7] Starting sync (down,)
+[2022-05-15 12:11:37] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
+[2022-05-15 12:11:37] [AppID 7] Currently already synced to global change number '15596983993958523719', should be nothing to download
+[2022-05-15 12:11:37] [AppID 7] Download complete in build list
+[2022-05-15 12:11:37] [AppID 7] Successfully synced to ChangeNumber 0
+[2022-05-15 12:11:37] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2022-05-15 12:11:38] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'C:\Users\Admin\Documents\GitHub\42MonthsAfter-Prod\steamcmd/userdata/1152480592/7/remotecache.vdf'
