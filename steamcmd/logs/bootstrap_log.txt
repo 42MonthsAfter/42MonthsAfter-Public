@@ -1119,3 +1119,60 @@
 [2022-05-15 19:19:18] Performing checksum verification of executable files
 [2022-05-15 19:19:18] Verification complete
 [2022-05-15 19:19:26] Shutdown
+
+
+[2022-05-15 19:28:40] Startup - updater built May 13 2022 17:04:41
+[2022-05-15 19:28:40] Using the following download hosts for Public, Realm steamglobal
+[2022-05-15 19:28:40] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-15 19:28:40] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-15 19:28:40] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-15 19:28:40] Checking for update on startup
+[2022-05-15 19:28:40] Checking for available updates...
+[2022-05-15 19:28:40] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
+[2022-05-15 19:28:41] Manifest download: send request
+[2022-05-15 19:28:41] Manifest download: waiting for download to finish
+[2022-05-15 19:28:41] Manifest download: finished
+[2022-05-15 19:28:41] Download skipped: /client/steam_cmd_win32 version 1652487999, installed version 1652487999, existing pending version 0
+[2022-05-15 19:28:41] Nothing to do
+[2022-05-15 19:28:41] Verifying installation...
+[2022-05-15 19:28:41] Performing checksum verification of executable files
+[2022-05-15 19:28:41] Verification complete
+[2022-05-15 19:28:47] Shutdown
+
+
+[2022-05-15 19:28:47] Startup - updater built May 13 2022 17:04:41
+[2022-05-15 19:28:47] Using the following download hosts for Public, Realm steamglobal
+[2022-05-15 19:28:47] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-15 19:28:47] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-15 19:28:47] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-15 19:28:47] Checking for update on startup
+[2022-05-15 19:28:47] Checking for available updates...
+[2022-05-15 19:28:47] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
+[2022-05-15 19:28:48] Manifest download: send request
+[2022-05-15 19:28:48] Manifest download: waiting for download to finish
+[2022-05-15 19:28:48] Manifest download: finished
+[2022-05-15 19:28:48] Download skipped: /client/steam_cmd_win32 version 1652487999, installed version 1652487999, existing pending version 0
+[2022-05-15 19:28:48] Nothing to do
+[2022-05-15 19:28:48] Verifying installation...
+[2022-05-15 19:28:48] Performing checksum verification of executable files
+[2022-05-15 19:28:48] Verification complete
+[2022-05-15 19:28:50] Shutdown
+
+
+[2022-05-15 19:28:50] Startup - updater built May 13 2022 17:04:41
+[2022-05-15 19:28:50] Using the following download hosts for Public, Realm steamglobal
+[2022-05-15 19:28:50] 1. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-15 19:28:50] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-05-15 19:28:50] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-05-15 19:28:50] Checking for update on startup
+[2022-05-15 19:28:50] Checking for available updates...
+[2022-05-15 19:28:50] Downloading manifest: https://cdn.akamai.steamstatic.com/client/steam_cmd_win32
+[2022-05-15 19:28:50] Manifest download: send request
+[2022-05-15 19:28:51] Manifest download: waiting for download to finish
+[2022-05-15 19:28:51] Manifest download: finished
+[2022-05-15 19:28:51] Download skipped: /client/steam_cmd_win32 version 1652487999, installed version 1652487999, existing pending version 0
+[2022-05-15 19:28:51] Nothing to do
+[2022-05-15 19:28:51] Verifying installation...
+[2022-05-15 19:28:51] Performing checksum verification of executable files
+[2022-05-15 19:28:51] Verification complete
+[2022-05-15 19:28:59] Shutdown
