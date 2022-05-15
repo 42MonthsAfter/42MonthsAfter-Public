@@ -28,7 +28,7 @@
 	<value name="Tier14"/>
 	<value name="Tier15"/>
 	<value name="Tier16"/>
-	<value name="Tier17"/>
+	<value name="Tier17"/>f
   </type>
   <type name="ACOGOptic_6x">
     <nominal>3</nominal>
@@ -15141,7 +15141,7 @@
   </type>
   <type name="GardenPlotGreenhouse">
     <nominal>0</nominal>
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>900</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
@@ -15169,7 +15169,7 @@
   </type>
   <type name="GardenPlotPolytunnel">
     <nominal>0</nominal>
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>900</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
