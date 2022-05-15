@@ -293,6 +293,7 @@
                 "MasscamoBooniehat"
             ]
         },
+<<<<<<< Updated upstream
         {
             "Id": 10,
             "Name": "SurvivorM_Rolf",
@@ -318,5 +319,33 @@
             ]
         }
     ]
+=======
+      {
+        "Id": 10,
+        "Name": "SurvivorM_Rolf",
+        "GivenName": "Ralph",
+        "Role": "Quarter Master",
+        "Position": [
+          3751.81,
+          17.78,
+          2563.27
+        ],
+        "Orientation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Clothes": [
+          "CargoPants_Beige",
+          "bs_johndenver",
+          "HikingBootsLow_Black",
+          "AviatorGlasses",
+          "LeatherGloves_Beige",
+          "BaseballCap_Red"
+        ]
+      }
+    ],
+    "TraderObjects": []
+>>>>>>> Stashed changes
 }
 
