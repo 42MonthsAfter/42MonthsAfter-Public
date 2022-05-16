@@ -1,26 +1,28 @@
 {
-    "Version": "2.3",
+    "Version": "2.0",
     "IsHideOutActive": 0,
     "EnableAfkDisconnect": 0,
-    "KickAfterDelay": 0,
-    "MsgEnterZone": "Welcome! All can find safety here.",
-    "MsgExitZone": "Be safe out there!",
-    "MsgOnLeavingZone": "You're leaving The Holler in:",
+    "KickAfterDelay": 30,
+    "MsgEnterZone": "YOU HAVE ENTERED THE SAFEZONE!",
+    "MsgExitZone": "YOU HAVE LEFT THE SAFEZONE!",
+    "MsgOnLeavingZone": "LEAVING ZONE IN:",
     "MustRemoveArmband": "You must remove your armband in order to make your stash appear !",
     "SafeAreaLocation": [
         {
-            "SafeZoneStatut": "The Holler",
-            "X": 5638.0,
-            "Y": 5406.0,
-            "Radius": 70.0,
-            "Countdown": 10
+            "SafeZoneStatut": "Trader",
+            "X": 11595.0,
+            "Y": 14688.0,
+            "Radius": 200.0,
+            "Countdown": 30
         }
     ],
-    "CleanUpTimer": 300,
+    "CleanUpTimer": 1200,
     "ObjectsToDelete": [
+        "Paper"
     ],
     "SZSteamUIDs": [
-        "76561198036774377"
+        "76561198047475651",
+        "76561198047123456"
     ],
     "BlackListedItemInStash": [
         "Apple",

@@ -2480,3 +2480,9 @@
 [2022-05-15 19:52:15] [AppID 221100] CAPIJobStoreUserStats::BInit() - no stats found, aborting
 [2022-05-15 19:54:17] [AppID 221100] CAPIJobStoreUserStats::BInit() - no stats found, aborting
 [2022-05-15 19:54:32] [AppID 221100] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2022-05-15 19:59:05] [AppID 221100] Schema not found on disk
+[2022-05-15 19:59:05] [AppID 221100] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2022-05-15 19:59:05] [AppID 221100] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2022-05-15 20:00:18] [AppID 221100] CAPIJobStoreUserStats::BInit() - no stats found, aborting

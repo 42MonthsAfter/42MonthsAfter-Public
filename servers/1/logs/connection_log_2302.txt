@@ -2162,3 +2162,45 @@
 [2022-05-15 19:54:33] [3,3] LogOff()
 [2022-05-15 19:54:33] [2,3] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
 [2022-05-15 19:54:33] [2,3] Log session ended
+
+
+[2022-05-15 19:57:28] Log session started
+[2022-05-15 19:57:28] [0,0] SetSteamID( [A:1:0:0] )
+[2022-05-15 19:57:28] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2022-05-15 19:57:28] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f002:102::a2fe:c027]:80 ([2602:801:f002:102::a2fe:c027]:80)) - SUCCESS
+[2022-05-15 19:57:28] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f002:102::a2fe:c027]:80 ([2602:801:f002:102::a2fe:c027]:80)) - server indicated we are using ipv6, external address = '2001:558:600d:42:b992:c3ad:78a0:fb31'
+[2022-05-15 19:57:29] GetCMListForConnect -- got 12 Netfilter CMs and 68 WebSocket CMs
+[2022-05-15 19:57:29] GetCMListForConnect -- DC 'ord1' count: 20
+[2022-05-15 19:57:29] GetCMListForConnect -- DC 'iad1' count: 19
+[2022-05-15 19:57:29] GetCMListForConnect -- DC 'atl1' count: 20
+[2022-05-15 19:57:29] GetCMListForConnect -- DC 'sea1' count: 12
+[2022-05-15 19:57:29] GetCMListForConnect -- DC 'dfw1' count: 6
+[2022-05-15 19:57:29] GetCMListForConnect -- DC 'lax1' count: 3
+[2022-05-15 19:57:29] [0,0] CM Directory list says 85% of connections should be websockets, we rolled 81 - using WebSockets as default.
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27028) starting...
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27032) starting...
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:443) starting...
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-atl1.cm.steampowered.com:27030) starting...
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27032) results: 58.4596ms + load 31.0000
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-atl1.cm.steampowered.com:443) starting...
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27028) results: 61.7796ms + load 25.0000
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm3-iad1.cm.steampowered.com:27019) starting...
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:443) results: 60.2220ms + load 40.0000
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-atl1.cm.steampowered.com:27036) starting...
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-atl1.cm.steampowered.com:27030) results: 56.8000ms + load 26.0000
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-iad1.cm.steampowered.com:27023) starting...
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm3-iad1.cm.steampowered.com:27019) results: 55.4430ms + load 30.0000
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-iad1.cm.steampowered.com:443) starting...
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-iad1.cm.steampowered.com:27023) results: 56.7616ms + load 32.0000
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-sea1.cm.steampowered.com:27037) starting...
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-atl1.cm.steampowered.com:443) results: 46.6527ms + load 29.0000
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-atl1.cm.steampowered.com:27036) results: 47.9863ms + load 25.0000
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-iad1.cm.steampowered.com:443) results: 109.7628ms + load 38.0000
+[2022-05-15 19:57:29] [0,0] PingWebSocketCM() (cm2-sea1.cm.steampowered.com:27037) results: 103.9553ms + load 12.0000
+[2022-05-15 19:57:29] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-atl1.cm.steampowered.com:27036, WebSocket)
+[2022-05-15 19:57:29] [1,3] ConnectionCompleted() (162.254.199.181:27036, WebSocket) local address (73.103.116.251:56345)
+[2022-05-15 19:57:29] [1,3] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2022-05-15 19:57:29] [1,3] RecvMsgClientLogOnResponse() : [A:1:428138497:20292] 'OK'
+[2022-05-15 20:01:23] [3,3] LogOff()
+[2022-05-15 20:01:23] [2,3] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2022-05-15 20:01:23] [2,3] Log session ended
