@@ -2,12 +2,12 @@
     "PlayerID": "76561198083645394",
     "PlayerName": "s0ulska",
     "PlayerNotlisted": 0,
-    "KRPlayerPoints": 1715,
+    "KRPlayerPoints": 3100,
     "PlayerDeaths": 0,
     "Stats": [
         {
             "Name": "ZombieKill",
-            "Stat": 160
+            "Stat": 296
         },
         {
             "Name": "HindKills",
@@ -15,11 +15,19 @@
         },
         {
             "Name": "StagKills",
-            "Stat": 5
+            "Stat": 8
         },
         {
             "Name": "WolfKills",
             "Stat": 16
+        },
+        {
+            "Name": "DoeKills",
+            "Stat": 1
+        },
+        {
+            "Name": "BearKills",
+            "Stat": 1
         }
     ]
 }

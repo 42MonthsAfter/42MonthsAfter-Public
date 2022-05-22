@@ -1,0 +1,36 @@
+aww i found it
+// small window barricade
+
+"BF_WindowBarricade": "Tier1", // reported having this can destroy the whole thing
+"BF_WindowBarricade_base": "Tier1",  // reported having this can destroy the whole thing
+"BF_WindowBarricade_step_one": "Tier1",
+"BF_WindowBarricade_step_two": "Tier1",
+"BF_WindowBarricade_step_three": "Tier1",
+"BF_WindowBarricade_step_four": "Tier1"
+
+//Medium window barricade
+"BF_WindowBarricadeMed": "Tier1", // reported having this can destroy the whole thing
+"BF_WindowBarricadeMed_a_base": "Tier1",  // reported having this can destroy the whole thing
+"BF_WindowBarricadeMed_b_stage_one": "Tier1",
+"BF_WindowBarricadeMed_c_stage_two": "Tier1",
+"BF_WindowBarricadeMed_d_stage_three": "Tier1",
+"BF_WindowBarricadeMed_f_stage_four": "Tier1"
+
+//Door Barricade
+"BF_DoorBarricade": "Tier1",
+"BF_DoorBarricade_a_base": "Tier1",
+"BF_DoorBarricade_b_lower_frame": "Tier1",
+"BF_DoorBarricade_b_upper_frame": "Tier1",
+"BF_DoorBarricade_c_outer_lower_planks": "Tier1",
+"BF_DoorBarricade_c_outer_upper_planks": "Tier1",
+"BF_DoorBarricade_d_lower_outer_finalplanks": "Tier1",
+"BF_DoorBarricade_d_upper_outer_finalplanks": "Tier1",
+"BF_DoorBarricade_e_outer_lower_plate": "Tier1",
+"BF_DoorBarricade_e_outer_upper_plate": "Tier1",
+"BF_DoorBarricade_f_inner_lower_planks": "Tier1",
+"BF_DoorBarricade_f_inner_upper_planks": "Tier1",
+"BF_DoorBarricade_g_inner_lower_plate": "Tier1",
+"BF_DoorBarricade_g_inner_upper_plate": "Tier1",
+"BF_DoorBarricade_i_hindges": "Tier1",
+"BF_DoorBarricade_h_barricade_holders": "Tier1",
+"BF_DoorBarricade_h_middle_holder": "Tier1"
