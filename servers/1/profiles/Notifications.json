@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": "1",
+    "EnableBattlEye": 1,
+    "StopSpam": 1,
+    "BattlEyeIcon": "Notifications/gui/data/notifications.edds",
+    "BattlEyeHeading": "Server Message",
+    "BattlEyeKeywords": [
+        "Restart",
+        "Shutdown",
+        "[N]"
+    ]
+}

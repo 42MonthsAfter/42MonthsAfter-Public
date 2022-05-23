@@ -814,6 +814,9 @@
         <btn name="mWheelDown" />
         <btn name="kApostrophe" />
     </input>
+    <input name="UABetterInspect">
+        <btn name="kB" />
+    </input>
     <input name="UAEarPlugsToggleMute">
         <btn name="kN" />
     </input>
@@ -823,6 +826,7 @@
     <input name="UAEarPlugsDecreaseVol">
         <btn name="kMinus" />
     </input>
+    <input name="UAImmersivePlacing" />
     <input name="UACOTModuleToggleCOT">
         <btn name="kEnd" />
     </input>
@@ -952,6 +956,10 @@
     <input name="PvZ_InfomationPanel_ShowHidePvzInformationPanel_CZ">
         <btn name="kSpace" />
     </input>
+    <input name="PMOpenPartyMenu">
+        <btn name="kP" />
+    </input>
+    <input name="PMHideShowTrackers" />
     <input name="UAPVEZOpenAdminMenu" />
     <input name="UASchanaCompassToggle">
         <btn name="kH" />
@@ -970,6 +978,9 @@
     </input>
     <input name="DI_ToggleAutoRun">
         <btn name="kAdd" />
+    </input>
+    <input name="UAToggleNotifcationSound">
+        <btn name="kRBracket" />
     </input>
     <input name="UABBPRotate">
         <btn name="kUp" />
