@@ -965,6 +965,9 @@
     <input name="UACarLockToggle">
         <btn name="kU" />
     </input>
+    <input name="UAInputPlayCasinoGame">
+        <btn name="kF" />
+    </input>
     <input name="DI_ToggleAutoRun">
         <btn name="kAdd" />
     </input>

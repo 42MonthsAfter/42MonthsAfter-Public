@@ -1,0 +1,242 @@
+{
+    "luckyWheelSettings": {
+        "enabled": 1,
+        "gamePositions": [
+            {
+                "pos": [
+                    8349.44140625,
+                    293.18145751953127,
+                    5973.501953125
+                ],
+                "orientation": [
+                    97.00001525878906,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "gameObject": "Land_FuelStation_Feed",
+        "chipsBet": 50,
+        "minJackpot": 500,
+        "maxJackpot": 10000,
+        "wheelNumberConfigs": [
+            {
+                "number": 0,
+                "quote": 0.0
+            },
+            {
+                "number": 2,
+                "quote": 0.0
+            },
+            {
+                "number": 4,
+                "quote": 0.0
+            },
+            {
+                "number": 6,
+                "quote": 0.0
+            },
+            {
+                "number": 8,
+                "quote": 0.0
+            },
+            {
+                "number": 10,
+                "quote": 0.0
+            },
+            {
+                "number": 12,
+                "quote": 0.0
+            },
+            {
+                "number": 14,
+                "quote": 0.0
+            },
+            {
+                "number": 16,
+                "quote": 0.0
+            },
+            {
+                "number": 18,
+                "quote": 0.0
+            },
+            {
+                "number": 20,
+                "quote": 0.0
+            },
+            {
+                "number": 22,
+                "quote": 0.0
+            },
+            {
+                "number": 24,
+                "quote": 0.0
+            },
+            {
+                "number": 26,
+                "quote": 0.0
+            },
+            {
+                "number": 28,
+                "quote": 0.0
+            },
+            {
+                "number": 30,
+                "quote": 0.0
+            },
+            {
+                "number": 32,
+                "quote": 0.0
+            },
+            {
+                "number": 34,
+                "quote": 0.0
+            },
+            {
+                "number": 1,
+                "quote": 1.5
+            },
+            {
+                "number": 7,
+                "quote": 1.5
+            },
+            {
+                "number": 13,
+                "quote": 1.5
+            },
+            {
+                "number": 19,
+                "quote": 1.5
+            },
+            {
+                "number": 25,
+                "quote": 1.5
+            },
+            {
+                "number": 31,
+                "quote": 1.5
+            },
+            {
+                "number": 5,
+                "quote": 5.0
+            },
+            {
+                "number": 3,
+                "quote": 0.0
+            },
+            {
+                "number": 9,
+                "quote": 2.0
+            },
+            {
+                "number": 23,
+                "quote": 3.0
+            },
+            {
+                "number": 15,
+                "quote": 0.0
+            },
+            {
+                "number": 33,
+                "quote": 99.0
+            },
+            {
+                "number": 11,
+                "quote": 0.0
+            },
+            {
+                "number": 17,
+                "quote": 0.0
+            },
+            {
+                "number": 21,
+                "quote": 2.0
+            },
+            {
+                "number": 27,
+                "quote": 0.0
+            },
+            {
+                "number": 29,
+                "quote": 2.0
+            },
+            {
+                "number": 31,
+                "quote": 0.0
+            },
+            {
+                "number": 35,
+                "quote": 2.0
+            }
+        ]
+    },
+    "blackJackSettings": {
+        "enabled": 1,
+        "gamePositions": [
+            {
+                "pos": [
+                    8349.76953125,
+                    293.18145751953127,
+                    5976.001953125
+                ],
+                "orientation": [
+                    49.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "gameObject": "Land_FuelStation_Feed",
+        "minBet": 10,
+        "maxBet": 10000,
+        "winFactor": 1.5,
+        "winFactorBlackJack": 2.0
+    },
+    "diceSettings": {
+        "enabled": 1,
+        "gamePositions": [
+            {
+                "pos": [
+                    8345.30078125,
+                    293.18145751953127,
+                    5976.66650390625
+                ],
+                "orientation": [
+                    4.999999046325684,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "gameObject": "Land_FuelStation_Feed",
+        "minBet": 10,
+        "maxBet": 10000,
+        "diceWinFactor": 2
+    },
+    "ratRaceSettings": {
+        "enabled": 1,
+        "gamePositions": [
+            {
+                "pos": [
+                    8349.44140625,
+                    293.18145751953127,
+                    5971.501953125
+                ],
+                "orientation": [
+                    97.00001525878906,
+                    0.0,
+                    0.0
+                ]
+            }
+        ],
+        "gameObject": "Land_FuelStation_Feed",
+        "minBet": 10,
+        "maxBet": 10000,
+        "maxWinQouta": 5
+    },
+    "configVersion": 2,
+    "enablePlayLogs": 1,
+    "currencyValues": {
+        "CasinoChips": 1
+    }
+}
