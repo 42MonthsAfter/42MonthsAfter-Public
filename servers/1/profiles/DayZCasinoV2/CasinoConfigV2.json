@@ -15,7 +15,7 @@
                 ]
             }
         ],
-        "gameObject": "Land_FuelStation_Feed",
+        "gameObject": "bl_ArcadeMachine_Brown_SpinWin",
         "chipsBet": 50,
         "minJackpot": 500,
         "maxJackpot": 10000,
@@ -186,7 +186,7 @@
                 ]
             }
         ],
-        "gameObject": "Land_FuelStation_Feed",
+        "gameObject": "bl_ArcadeMachine_Green_BlackJack",
         "minBet": 10,
         "maxBet": 10000,
         "winFactor": 1.5,
@@ -208,7 +208,7 @@
                 ]
             }
         ],
-        "gameObject": "Land_FuelStation_Feed",
+        "gameObject": "bl_ArcadeMachine_Blue_DiceGame",
         "minBet": 10,
         "maxBet": 10000,
         "diceWinFactor": 2
@@ -229,7 +229,7 @@
                 ]
             }
         ],
-        "gameObject": "Land_FuelStation_Feed",
+        "gameObject": "bl_ArcadeMachine_Yellow_RatRace",
         "minBet": 10,
         "maxBet": 10000,
         "maxWinQouta": 5
