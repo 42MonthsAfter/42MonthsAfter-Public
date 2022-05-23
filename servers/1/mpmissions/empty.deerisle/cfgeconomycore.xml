@@ -109,4 +109,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="ModTypes/RubberBullets">
 		<file name="types.xml" type="types" />
 	</ce>
+	<ce folder="ModTypes/CallsForAll">
+		<file name="types.xml" type="types" />
+	</ce>
 </economycore>
