@@ -382,7 +382,7 @@
                 "maglite_mung,                                                 1,      -1,      1,     600,         0.5",
                 "Airam_mung,                                                   1,      -1,      1,     325,         0.5",
                 "RFSolarPanelKit,                                              1,      -1,      1,     2000,        0.5",
-                "TruckBattery,                                                 1,      -1,      1,     1000,        0.5",
+                "TruckBattery,                                                 1,      -1,     -1,     1000,        0.5",
                 "Spotlight,                                                    1,      -1,      1,     600,         0.5"
             ]
         },
@@ -3006,7 +3006,7 @@
                 "maglite_mung,                                                 1,      1000,      1,     1,        1",
                 "Airam_mung,                                                   1,      1000,      1,     1,        1",
                 "RFSolarPanelKit,                                              1,      1000,      1,     1,        1",
-                "TruckBattery,                                                 1,      1000,      1,     1,        1",
+                "TruckBattery,                                                 1,      1000,     -1,     1,        1",
                 "Spotlight,                                                    1,      1000,      1,     1,        1"
             ]
         },
@@ -4756,7 +4756,7 @@
             "Products": [
                 "CarRadiator,                                                   1,       1000,      1,      1,       1",
                 "CarBattery,                                                    1,       1000,      1,      1,       1",
-                "TruckBattery,                                                  1,       1000,      1,      1,       1",
+                "TruckBattery,                                                  1,       1000,     -1,      1,       1",
                 "SparkPlug,                                                     1,       1000,      1,      1,       1",
                 "HeadlightH7,                                                   1,       1000,      1,      1,       1",
                 "HeadlightH7_Box,                                               1,       1000,      1,      1,       1",
