@@ -1096,6 +1096,10 @@
                 "93x64_AmmoBox_20rnd,                                          1,      -1,      1,     400,          0.5",
                 "792x57FOX_AmmoBox_20rnd,                                      1,      -1,      1,     400,          0.5",
                 "9x21FOX_AmmoBox_25rnd,                                        1,      -1,      1,     460,          0.5",
+                "RubberBox_762x54_20Rnd,                                       1,      -1,      1,    200,           0.5",
+                "RubberBox_380ACP,                                             1,      -1,      1,    200,           0.5",
+                "RubberBox_45ACP,                                              1,      -1,      1,    200,           0.5",
+                "RubberBox_9x19,                                               1,      -1,      1,    200,           0.5",
                 "Ammo_12gaPellets,                                             1,      -1,      1,    -1,            3",
                 "Ammo_12gaRubberSlug,                                          1,      -1,      1,    -1,            3",
                 "Ammo_12gaSlug,                                                1,      -1,      1,    -1,            3",
@@ -1143,7 +1147,11 @@
                 "Ammo_Flare,                                                   1,      -1,      1,    -1,            10",
                 "Ammo_FlareBlue,                                               1,      -1,      1,    -1,            10",
                 "Ammo_FlareGreen,                                              1,      -1,      1,    -1,            10",
-                "Ammo_FlareRed,                                                1,      -1,      1,    -1,            10"
+                "Ammo_FlareRed,                                                1,      -1,      1,    -1,            10",
+                "Ammo_762x54Rubber,                                            1,      -1,      1,    -1,            10",
+                "Ammo_45ACPRubber,                                             1,      -1,      1,    -1,            10",
+                "Ammo_9x19Rubber,                                              1,      -1,      1,    -1,            10",
+                "Ammo_380Rubber,                                               1,      -1,      1,    -1,            10"
             ]
         },
         {
@@ -4429,7 +4437,15 @@
                 "AACBLK_AmmoBox_20rnd,                                         1,      1000,       1,     1,         1",
                 "93x64_AmmoBox_20rnd,                                          1,      1000,       1,     1,         1",
                 "792x57FOX_AmmoBox_20rnd,                                      1,      1000,       1,     1,         1",
-                "9x21FOX_AmmoBox_25rnd,                                        1,      1000,       1,     1,         1"
+                "9x21FOX_AmmoBox_25rnd,                                        1,      1000,       1,     1,         1",
+                "RubberBox_762x54_20Rnd,                                       1,      1000,       1,     1,         1",
+                "RubberBox_380ACP,                                             1,      1000,       1,     1,         1",
+                "RubberBox_45ACP,                                              1,      1000,       1,     1,         1",
+                "RubberBox_9x19,                                               1,      1000,       1,     1,         1",
+                "Ammo_762x54Rubber,                                            1,      1000,       1,     1,         1",
+                "Ammo_45ACPRubber,                                             1,      1000,       1,     1,         1",
+                "Ammo_9x19Rubber,                                              1,      1000,       1,     1,         1",
+                "Ammo_380Rubber,                                               1,      1000,       1,     1,         1"
             ]
         },
         {
