@@ -1,0 +1,11 @@
+name = "CarsForAll";
+picture = "BTR_byYuki/logo.paa";
+logo = "BTR_byYuki/logo.paa";
+logoSmall = "BTR_byYuki/logo.paa";
+logoOver = "BTR_byYuki/logo.paa";
+tooltip = "CarsForAll";
+overview = "Kekw";
+action = "http://steamcommunity.com/profiles/76561198120473237";
+author = "Yuki";
+authorID = "76561198120473237";
+version = "1";
