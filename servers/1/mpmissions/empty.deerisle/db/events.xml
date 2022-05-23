@@ -1,5 +1,134 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
+	<event name="BTR">
+		<nominal>1</nominal>
+		<min>0</min>
+		<max>1</max>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<saferadius>500</saferadius>
+		<distanceradius>500</distanceradius>
+		<cleanupradius>200</cleanupradius>a
+		<flags deletable="0" init_random="0" remove_damaged="1"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="BTR_Black"/>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="BTR"/>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="BTR_Green"/>
+		</children>
+	</event>
+	<event name="Gaz71">
+		<nominal>1</nominal>
+		<min>0</min>
+		<max>1</max>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<saferadius>500</saferadius>
+		<distanceradius>500</distanceradius>
+		<cleanupradius>200</cleanupradius>a
+		<flags deletable="0" init_random="0" remove_damaged="1"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="Gaz71"/>
+		</children>
+	</event>
+	<event name="EGER">
+		<nominal>1</nominal>
+		<min>0</min>
+		<max>1</max>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<saferadius>500</saferadius>
+		<distanceradius>500</distanceradius>
+		<cleanupradius>200</cleanupradius>a
+		<flags deletable="0" init_random="0" remove_damaged="1"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="EGER"/>
+		</children>
+	</event>
+	<event name="VAZ_2108">
+		<nominal>1</nominal>
+		<min>0</min>
+		<max>1</max>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<saferadius>500</saferadius>
+		<distanceradius>500</distanceradius>
+		<cleanupradius>200</cleanupradius>a
+		<flags deletable="0" init_random="0" remove_damaged="1"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="VAZ_2108"/>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="VAZ_2108_Blue"/>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="VAZ_2108_Green"/>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="VAZ_2108_Black"/>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="VAZ_2108_White"/>
+		</children>
+	</event>
+	<event name="Interceptor">
+		<nominal>1</nominal>
+		<min>0</min>
+		<max>1</max>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<saferadius>500</saferadius>
+		<distanceradius>500</distanceradius>
+		<cleanupradius>200</cleanupradius>a
+		<flags deletable="0" init_random="0" remove_damaged="1"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="Interceptor"/>
+		</children>
+	</event>
+	<event name="UAZ_3909">
+		<nominal>1</nominal>
+		<min>0</min>
+		<max>1</max>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<saferadius>500</saferadius>
+		<distanceradius>500</distanceradius>
+		<cleanupradius>200</cleanupradius>a
+		<flags deletable="0" init_random="0" remove_damaged="1"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="UAZ_3909"/>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="UAZ_3909_Blue"/>
+		</children>
+	</event>
+	<event name="UAZ469_offroad">
+		<nominal>1</nominal>
+		<min>0</min>
+		<max>1</max>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<saferadius>500</saferadius>
+		<distanceradius>500</distanceradius>
+		<cleanupradius>200</cleanupradius>a
+		<flags deletable="0" init_random="0" remove_damaged="1"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="UAZ469_offroad"/>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="UAZ469_offroad_Blue"/>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="UAZ469_offroad_Yellow"/>
+			<child lootmax="0" lootmin="0" max="15" min="10" type="UAZ469_offroad_Red"/>
+		</children>
+	</event>
 	<event name="SkyJeep">
 		<nominal>1</nominal>
 		<min>0</min>

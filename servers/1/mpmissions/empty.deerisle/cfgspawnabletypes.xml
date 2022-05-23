@@ -2,6 +2,352 @@
 
 <spawnabletypes>
 	<damage min="0.3" max="0.7" />
+	<type name="BTR_Black">
+		<attachments chance="1.00">
+			<item name="BTR_Doors_Driver_Black" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BTR_Doors_cargo1_Black" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BTR_Doors_hood1_Black" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BTR_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BTR_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BTR_Wheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="BTR">
+		<attachments chance="1.00">
+			<item name="BTR_Doors_hood2" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BTR_Doors_coDriver" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BTR_Doors_Driver" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BTR_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BTR_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BTR_Wheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="BTR_Green">
+		<attachments chance="1.00">
+			<item name="BTR_Doors_Driver_Green" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BTR_Doors_cargo1_Green" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BTR_Doors_hood2_Green" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BTR_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BTR_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BTR_Wheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="Gaz71">
+		<attachments chance="1.00">
+			<item name="Gaz71_Doors_Driver" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Gaz71_Doors_trunk" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Gaz71_Doors_hood" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Gaz71_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Gaz71_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Gaz71_Wheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="EGER">
+		<attachments chance="1.00">
+			<item name="EGER_Doors_Driver" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="EGER_Doors_coDriver" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="EGER_Doors_cargo2" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="EGER_Tent" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="EGER_Wheel_2" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="EGER_Wheel_2" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="EGER_Wheel_2" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="EGER_Wheel_2" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="VAZ_2108">
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Doors_Driver" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Doors_coDriver" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Doors_hood" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Wheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="Interceptor">
+		<attachments chance="1.00">
+			<item name="Interceptor_Doors_Driver" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Interceptor_Doors_hood" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Interceptor_Doors_hood" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Interceptor_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Interceptor_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Interceptor_Wheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="VAZ_2108_Blue">
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Doors_Driver_Blue" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Doors_coDriver_Blue" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Doors_trunk_Blue" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Wheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="VAZ_2108_Green">
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Doors_Driver_Green" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Doors_hood_Green" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Doors_coDriver_Green" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Wheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="VAZ_2108_Black">
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Doors_trunk_Black" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Doors_coDriver_Black" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Doors_Driver_Black" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Wheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="VAZ_2108_White">
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Doors_coDriver_White" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Doors_hood_White" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Doors_Driver_White" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VAZ_2108_Wheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="UAZ_3909">
+		<attachments chance="1.00">
+			<item name="UAZ_3909_Doors_Driver" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_3909_Doors_cargo1" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_3909_Doors_coDriver" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_3909_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_3909_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_3909_Wheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="UAZ_3909_Blue">
+		<attachments chance="1.00">
+			<item name="UAZ_3909_Doors_coDriver_Blue" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_3909_Doors_cargo1_Blue" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_3909_Doors_cargo3_Blue" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_3909_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_3909_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_3909_Wheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="UAZ469_offroad">
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Doors_Driver" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Doors_cargo1" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Doors_coDriver" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Wheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="UAZ469_offroad_Blue">
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Doors_Driver_Blue" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Doors_coDriver_Blue" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Doors_cargo2_Blue" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Wheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="UAZ469_offroad_Yellow">
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Doors_Driver_Yellow" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Doors_coDriver_Yellow" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Doors_cargo1_Yellow" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Wheel" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="UAZ469_offroad_Red">
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Doors_Driver_Red" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Doors_coDriver_Red" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Doors_cargo1_Red" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_offroad_Wheel" chance="0.40" />
+		</attachments>
+	</type>
 	<type name="Sky_Jeep_Yellow">
 		<attachments chance="1.00">
 			<item name="Jeep_Door_1_1_yellow" chance="0.60" />

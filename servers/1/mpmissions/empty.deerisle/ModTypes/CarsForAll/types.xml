@@ -2,37 +2,6 @@
 <types>
 <!-- Cars For All -->
 <types>
-    <type name="BTR">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	    <category name="vehiclesparts" />
-    	<tag name="floor" />
-    	<usage name="Industrial" />
-    	<usage name="Farm" />
-		<value name="Tier1"/>
-		<value name="Tier2"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
-		<value name="Tier5"/>
-		<value name="Tier6"/>
-		<value name="Tier7"/>
-		<value name="Tier8"/>
-		<value name="Tier9"/>
-		<value name="Tier10"/>
-		<value name="Tier11"/>
-		<value name="Tier12"/>
-		<value name="Tier13"/>
-		<value name="Tier14"/>
-		<value name="Tier15"/>
-		<value name="Tier16"/>
-		<value name="Tier17"/>
-    </type>
     <type name="BTR_Doors_Driver">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -1551,6 +1520,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
+    </type>
 	<type name="Interceptor">
 		<nominal>0</nominal>
 		<lifetime>38880000</lifetime>
@@ -1924,37 +1894,6 @@
 		<value name="Tier17"/>
 	</type>
 	<type name="EGER">
-		<nominal>0</nominal>
-		<lifetime>38880000</lifetime>
-		<restock>0</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	    <category name="vehiclesparts" />
-    	<tag name="floor" />
-    	<usage name="Industrial" />
-    	<usage name="Farm" />
-		<value name="Tier1"/>
-		<value name="Tier2"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
-		<value name="Tier5"/>
-		<value name="Tier6"/>
-		<value name="Tier7"/>
-		<value name="Tier8"/>
-		<value name="Tier9"/>
-		<value name="Tier10"/>
-		<value name="Tier11"/>
-		<value name="Tier12"/>
-		<value name="Tier13"/>
-		<value name="Tier14"/>
-		<value name="Tier15"/>
-		<value name="Tier16"/>
-		<value name="Tier17"/>
-	</type>
-	<type name="BTR">
 		<nominal>0</nominal>
 		<lifetime>38880000</lifetime>
 		<restock>0</restock>
