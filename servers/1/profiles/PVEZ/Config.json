@@ -40,7 +40,7 @@
         "Pardon_On_Death_From_Any_Source": 0
     },
     "MAP": {
-        "Show_Player_Marker": 0,
+        "Show_Player_Marker": 1,
         "Custom_Player_Marker_Text": "",
         "Zones_Border_Color": {
             "R": 255.0,
@@ -51,7 +51,7 @@
             "Show_Markers_On_Map": 1,
             "Update_Frequency": 300.0,
             "Custom_Lawbreaker_Label": "",
-            "Show_Name": 1,
+            "Show_Name": 0,
             "Lawbreakers_Can_See_Their_Own_Markers": 1,
             "Approximate_Location": 1,
             "Approximate_Location_Max_Offset": 400
