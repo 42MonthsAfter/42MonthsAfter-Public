@@ -32,7 +32,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="BTR_Doors_coDriver">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -63,7 +63,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="BTR_Doors_cargo1">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -94,7 +94,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="BTR_Doors_cargo2">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -125,69 +125,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
-    <type name="BTR_Doors_cargo3">
-        <nominal>1</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	    <category name="vehiclesparts" />
-    	<tag name="floor" />
-    	<usage name="Industrial" />
-    	<usage name="Farm" />
-		<value name="Tier1"/>
-		<value name="Tier2"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
-		<value name="Tier5"/>
-		<value name="Tier6"/>
-		<value name="Tier7"/>
-		<value name="Tier8"/>
-		<value name="Tier9"/>
-		<value name="Tier10"/>
-		<value name="Tier11"/>
-		<value name="Tier12"/>
-		<value name="Tier13"/>
-		<value name="Tier14"/>
-		<value name="Tier15"/>
-		<value name="Tier16"/>
-		<value name="Tier17"/>
-	</type>
-    <type name="BTR_Doors_hood1">
-        <nominal>1</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	    <category name="vehiclesparts" />
-    	<tag name="floor" />
-    	<usage name="Industrial" />
-    	<usage name="Farm" />
-		<value name="Tier1"/>
-		<value name="Tier2"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
-		<value name="Tier5"/>
-		<value name="Tier6"/>
-		<value name="Tier7"/>
-		<value name="Tier8"/>
-		<value name="Tier9"/>
-		<value name="Tier10"/>
-		<value name="Tier11"/>
-		<value name="Tier12"/>
-		<value name="Tier13"/>
-		<value name="Tier14"/>
-		<value name="Tier15"/>
-		<value name="Tier16"/>
-		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="BTR_Doors_hood2">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -218,7 +156,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="BTR_White">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -249,8 +187,8 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
-        <type name="BTR_Doors_Driver_White">
+    </type>
+    <type name="BTR_Doors_Driver_White">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -281,7 +219,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_coDriver_White">
+    <type name="BTR_Doors_coDriver_White">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -312,7 +250,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_cargo1_White">
+    <type name="BTR_Doors_cargo1_White">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -343,7 +281,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_cargo2_White">
+    <type name="BTR_Doors_cargo2_White">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -374,7 +312,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_cargo3_White">
+    <type name="BTR_Doors_cargo3_White">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -405,7 +343,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_hood1_White">
+    <type name="BTR_Doors_hood1_White">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -436,7 +374,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_hood2_White">
+    <type name="BTR_Doors_hood2_White">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -466,7 +404,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="BTR_Black">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -497,8 +435,8 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
-        <type name="BTR_Doors_Driver_Black">
+    </type>
+    <type name="BTR_Doors_Driver_Black">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -529,7 +467,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_coDriver_Black">
+    <type name="BTR_Doors_coDriver_Black">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -560,7 +498,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_cargo1_Black">
+    <type name="BTR_Doors_cargo1_Black">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -591,7 +529,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_cargo2_Black">
+    <type name="BTR_Doors_cargo2_Black">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -622,7 +560,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_cargo3_Black">
+    <type name="BTR_Doors_cargo3_Black">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -653,7 +591,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_hood1_Black">
+    <type name="BTR_Doors_hood1_Black">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -684,7 +622,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_hood2_Black">
+    <type name="BTR_Doors_hood2_Black">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -714,7 +652,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="BTR_Green">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -745,8 +683,8 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
-        <type name="BTR_Doors_Driver_Green">
+    </type>
+    <type name="BTR_Doors_Driver_Green">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -777,7 +715,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_coDriver_Green">
+    <type name="BTR_Doors_coDriver_Green">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -808,7 +746,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_cargo1_Green">
+    <type name="BTR_Doors_cargo1_Green">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -839,7 +777,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_cargo2_Green">
+    <type name="BTR_Doors_cargo2_Green">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -870,7 +808,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_cargo3_Green">
+    <type name="BTR_Doors_cargo3_Green">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -901,7 +839,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_hood1_Green">
+    <type name="BTR_Doors_hood1_Green">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -932,7 +870,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Doors_hood2_Green">
+    <type name="BTR_Doors_hood2_Green">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -963,7 +901,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="BTR_Wheel">
+    <type name="BTR_Wheel">
         <nominal>6</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -993,7 +931,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="Gaz71">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -1024,7 +962,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="Gaz71_Doors_Driver">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -1055,7 +993,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="Gaz71_Doors_coDriver">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -1086,7 +1024,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="Gaz71_Doors_trunk">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -1117,7 +1055,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="Gaz71_Doors_hood">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -1148,7 +1086,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="Gaz71_Wheel">
         <nominal>6</nominal>
         <lifetime>2700</lifetime>
@@ -1179,7 +1117,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="Gaz71_Wheel_Destroyed">
         <nominal>0</nominal>
         <lifetime>900</lifetime>
@@ -1210,7 +1148,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="EGER">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -1241,7 +1179,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="EGER_Doors_Driver">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -1272,7 +1210,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="EGER_Doors_coDriver">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -1303,7 +1241,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="EGER_Doors_cargo1">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -1334,7 +1272,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="EGER_Doors_cargo2">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -1365,7 +1303,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="EGER_Doors_hood">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -1396,7 +1334,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="EGER_Doors_trunk">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -1427,7 +1365,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
     <type name="EGER_Tent">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -1459,7 +1397,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="EGER_Wheel">
+    <type name="EGER_Wheel">
         <nominal>6</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -1490,7 +1428,7 @@
 		<value name="Tier16"/>
 		<value name="Tier17"/>
     </type>
-        <type name="EGER_Wheel_2">
+    <type name="EGER_Wheel_2">
         <nominal>6</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -1551,7 +1489,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108">
 		<nominal>0</nominal>
 		<lifetime>38880000</lifetime>
@@ -1582,7 +1520,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Blue">
 		<nominal>0</nominal>
 		<lifetime>38880000</lifetime>
@@ -1613,7 +1551,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Green">
 		<nominal>0</nominal>
 		<lifetime>38880000</lifetime>
@@ -1644,7 +1582,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Black">
 		<nominal>0</nominal>
 		<lifetime>38880000</lifetime>
@@ -1675,7 +1613,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_White">
 		<nominal>0</nominal>
 		<lifetime>38880000</lifetime>
@@ -1706,7 +1644,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ_3909">
 		<nominal>0</nominal>
 		<lifetime>38880000</lifetime>
@@ -1737,7 +1675,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ_3909_Blue">
 		<nominal>0</nominal>
 		<lifetime>38880000</lifetime>
@@ -1768,7 +1706,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad">
 		<nominal>0</nominal>
 		<lifetime>38880000</lifetime>
@@ -1799,7 +1737,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Blue">
 		<nominal>0</nominal>
 		<lifetime>38880000</lifetime>
@@ -1830,7 +1768,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Yellow">
 		<nominal>0</nominal>
 		<lifetime>38880000</lifetime>
@@ -1861,7 +1799,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Red">
 		<nominal>0</nominal>
 		<lifetime>38880000</lifetime>
@@ -1892,7 +1830,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="Gaz71">
 		<nominal>0</nominal>
 		<lifetime>38880000</lifetime>
@@ -1923,7 +1861,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="Interceptor_Wheel">
         <nominal>6</nominal>
         <lifetime>2700</lifetime>
@@ -1954,7 +1892,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="Interceptor_Doors_Driver">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -1985,7 +1923,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="Interceptor_Doors_coDriver">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2016,7 +1954,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="Interceptor_Doors_hood">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2047,7 +1985,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Wheel">
         <nominal>6</nominal>
         <lifetime>2700</lifetime>
@@ -2078,7 +2016,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_Driver">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2109,7 +2047,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_coDriver">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2140,7 +2078,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_hood">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2171,7 +2109,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_trunk">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2202,7 +2140,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_Driver_Blue">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2233,7 +2171,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_coDriver_Blue">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2264,7 +2202,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_hood_Blue">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2295,7 +2233,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_trunk_Blue">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2326,7 +2264,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_Driver_Green">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2357,7 +2295,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_coDriver_Green">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2388,7 +2326,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_hood_Green">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2419,7 +2357,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_trunk_Green">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2450,7 +2388,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_Driver_Black">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2481,7 +2419,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_coDriver_Black">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2512,7 +2450,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_hood_Black">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2543,7 +2481,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_trunk_Black">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2574,7 +2512,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_Driver_White">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2605,7 +2543,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_coDriver_White">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2636,7 +2574,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_hood_White">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2667,7 +2605,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="VAZ_2108_Doors_trunk_White">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2698,7 +2636,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ_3909_Wheel">
         <nominal>6</nominal>
         <lifetime>2700</lifetime>
@@ -2729,7 +2667,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ_3909_Doors_Driver">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2760,7 +2698,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ_3909_Doors_coDriver">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2791,7 +2729,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ_3909_Doors_cargo1">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2822,7 +2760,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ_3909_Doors_cargo2">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2853,7 +2791,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ_3909_Doors_cargo3">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2884,7 +2822,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ_3909_Doors_hood">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2915,7 +2853,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ_3909_Doors_Driver_Blue">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2946,7 +2884,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ_3909_Doors_coDriver_Blue">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -2977,7 +2915,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ_3909_Doors_cargo1_Blue">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3008,7 +2946,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ_3909_Doors_cargo2_Blue">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3039,7 +2977,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ_3909_Doors_cargo3_Blue">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3070,7 +3008,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Wheel">
         <nominal>6</nominal>
         <lifetime>2700</lifetime>
@@ -3101,7 +3039,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_Driver">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3132,7 +3070,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_coDriver">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3163,7 +3101,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_Driver_Blue">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3194,7 +3132,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_coDriver_Blue">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3225,7 +3163,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_Driver_Yellow">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3256,7 +3194,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_coDriver_Yellow">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3287,7 +3225,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_Driver_Red">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3318,7 +3256,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_coDriver_Red">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3349,7 +3287,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_cargo1">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3380,7 +3318,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_cargo2">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3411,7 +3349,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_cargo3">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3442,7 +3380,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_cargo1_Blue">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3473,7 +3411,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_cargo2_Blue">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3504,7 +3442,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_cargo3_Blue">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3535,7 +3473,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_cargo1_Yellow">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3566,7 +3504,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_cargo2_Yellow">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3597,7 +3535,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_cargo3_Yellow">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3628,7 +3566,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_cargo1_Red">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3659,7 +3597,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_cargo2_Red">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3690,7 +3628,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_cargo3_Red">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3721,7 +3659,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_hood">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3752,7 +3690,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_hood_Blue">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3783,7 +3721,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_hood_Yellow">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3814,7 +3752,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_hood_Red">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3845,7 +3783,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_trunk">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3876,7 +3814,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_trunk_Blue">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3907,7 +3845,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_trunk_Yellow">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3938,7 +3876,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="UAZ469_offroad_Doors_trunk_Red">
         <nominal>1</nominal>
         <lifetime>2700</lifetime>
@@ -3969,7 +3907,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="BTR">
 		<lifetime>3888000</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
@@ -3994,7 +3932,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="BTR_Black">
 		<lifetime>3888000</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
@@ -4019,7 +3957,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="BTR_Green">
 		<lifetime>3888000</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
@@ -4044,7 +3982,7 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
+    </type>
 	<type name="BTR_White">
 		<lifetime>3888000</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
@@ -4069,253 +4007,5 @@
 		<value name="Tier15"/>
 		<value name="Tier16"/>
 		<value name="Tier17"/>
-	</type>
-	<type name="BTR_Wheel">
-        <nominal>6</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	    <category name="vehiclesparts" />
-    	<tag name="floor" />
-    	<usage name="Industrial" />
-    	<usage name="Farm" />
-		<value name="Tier1"/>
-		<value name="Tier2"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
-		<value name="Tier5"/>
-		<value name="Tier6"/>
-		<value name="Tier7"/>
-		<value name="Tier8"/>
-		<value name="Tier9"/>
-		<value name="Tier10"/>
-		<value name="Tier11"/>
-		<value name="Tier12"/>
-		<value name="Tier13"/>
-		<value name="Tier14"/>
-		<value name="Tier15"/>
-		<value name="Tier16"/>
-		<value name="Tier17"/>
-	</type>
-	<type name="BTR_Doors_hood1">
-        <nominal>1</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	    <category name="vehiclesparts" />
-    	<tag name="floor" />
-    	<usage name="Industrial" />
-    	<usage name="Farm" />
-		<value name="Tier1"/>
-		<value name="Tier2"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
-		<value name="Tier5"/>
-		<value name="Tier6"/>
-		<value name="Tier7"/>
-		<value name="Tier8"/>
-		<value name="Tier9"/>
-		<value name="Tier10"/>
-		<value name="Tier11"/>
-		<value name="Tier12"/>
-		<value name="Tier13"/>
-		<value name="Tier14"/>
-		<value name="Tier15"/>
-		<value name="Tier16"/>
-		<value name="Tier17"/>
-	</type>
-	<type name="BTR_Doors_hood2">
-        <nominal>1</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	    <category name="vehiclesparts" />
-    	<tag name="floor" />
-    	<usage name="Industrial" />
-    	<usage name="Farm" />
-		<value name="Tier1"/>
-		<value name="Tier2"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
-		<value name="Tier5"/>
-		<value name="Tier6"/>
-		<value name="Tier7"/>
-		<value name="Tier8"/>
-		<value name="Tier9"/>
-		<value name="Tier10"/>
-		<value name="Tier11"/>
-		<value name="Tier12"/>
-		<value name="Tier13"/>
-		<value name="Tier14"/>
-		<value name="Tier15"/>
-		<value name="Tier16"/>
-		<value name="Tier17"/>
-	</type>
-	<type name="BTR_Doors_cargo1">
-        <nominal>1</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	    <category name="vehiclesparts" />
-    	<tag name="floor" />
-    	<usage name="Industrial" />
-    	<usage name="Farm" />
-		<value name="Tier1"/>
-		<value name="Tier2"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
-		<value name="Tier5"/>
-		<value name="Tier6"/>
-		<value name="Tier7"/>
-		<value name="Tier8"/>
-		<value name="Tier9"/>
-		<value name="Tier10"/>
-		<value name="Tier11"/>
-		<value name="Tier12"/>
-		<value name="Tier13"/>
-		<value name="Tier14"/>
-		<value name="Tier15"/>
-		<value name="Tier16"/>
-		<value name="Tier17"/>
-	</type>
-	<type name="BTR_Doors_cargo2">
-        <nominal>1</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	    <category name="vehiclesparts" />
-    	<tag name="floor" />
-    	<usage name="Industrial" />
-    	<usage name="Farm" />
-		<value name="Tier1"/>
-		<value name="Tier2"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
-		<value name="Tier5"/>
-		<value name="Tier6"/>
-		<value name="Tier7"/>
-		<value name="Tier8"/>
-		<value name="Tier9"/>
-		<value name="Tier10"/>
-		<value name="Tier11"/>
-		<value name="Tier12"/>
-		<value name="Tier13"/>
-		<value name="Tier14"/>
-		<value name="Tier15"/>
-		<value name="Tier16"/>
-		<value name="Tier17"/>
-	</type>
-	<type name="BTR_Doors_cargo3">
-        <nominal>1</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	    <category name="vehiclesparts" />
-    	<tag name="floor" />
-    	<usage name="Industrial" />
-    	<usage name="Farm" />
-		<value name="Tier1"/>
-		<value name="Tier2"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
-		<value name="Tier5"/>
-		<value name="Tier6"/>
-		<value name="Tier7"/>
-		<value name="Tier8"/>
-		<value name="Tier9"/>
-		<value name="Tier10"/>
-		<value name="Tier11"/>
-		<value name="Tier12"/>
-		<value name="Tier13"/>
-		<value name="Tier14"/>
-		<value name="Tier15"/>
-		<value name="Tier16"/>
-		<value name="Tier17"/>
-	</type>
-	<type name="BTR_Doors_Driver">
-        <nominal>1</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	    <category name="vehiclesparts" />
-    	<tag name="floor" />
-    	<usage name="Industrial" />
-    	<usage name="Farm" />
-		<value name="Tier1"/>
-		<value name="Tier2"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
-		<value name="Tier5"/>
-		<value name="Tier6"/>
-		<value name="Tier7"/>
-		<value name="Tier8"/>
-		<value name="Tier9"/>
-		<value name="Tier10"/>
-		<value name="Tier11"/>
-		<value name="Tier12"/>
-		<value name="Tier13"/>
-		<value name="Tier14"/>
-		<value name="Tier15"/>
-		<value name="Tier16"/>
-		<value name="Tier17"/>
-	</type>
-	<type name="BTR_Doors_coDriver">
-        <nominal>1</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	    <category name="vehiclesparts" />
-    	<tag name="floor" />
-    	<usage name="Industrial" />
-    	<usage name="Farm" />
-		<value name="Tier1"/>
-		<value name="Tier2"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
-		<value name="Tier5"/>
-		<value name="Tier6"/>
-		<value name="Tier7"/>
-		<value name="Tier8"/>
-		<value name="Tier9"/>
-		<value name="Tier10"/>
-		<value name="Tier11"/>
-		<value name="Tier12"/>
-		<value name="Tier13"/>
-		<value name="Tier14"/>
-		<value name="Tier15"/>
-		<value name="Tier16"/>
-		<value name="Tier17"/>
-	</type>
+    </type>
 </types>
