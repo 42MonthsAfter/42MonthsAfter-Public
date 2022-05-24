@@ -2,7 +2,7 @@
 
 <spawnabletypes>
 	<damage min="0.3" max="0.7" />
-		<type name="RFFSHeli_LittleBird">
+	<type name="RFFSHeli_LittleBird">
 		<attachments chance="1.00">
 			<item name="HeadlightH7" chance="0.10" />
 		</attachments>
