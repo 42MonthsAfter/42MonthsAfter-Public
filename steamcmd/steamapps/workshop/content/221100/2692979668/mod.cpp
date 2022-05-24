@@ -1,0 +1,11 @@
+name = "RedFalcon Flight System Heliz";
+picture = "RFFSHeli_Core/textures/RFFSHeli_icon.edds";
+logo = "RFFSHeli_Core/textures/RFFSHeli_icon.edds";
+logoSmall = "RFFSHeli_Core/textures/RFFSHeli_icon.edds";
+logoOver = "RFFSHeli_Core/textures/RFFSHeli_icon.edds";
+tooltip = "RFFS Heliz";
+overview = "This is the public release of RedFalcon Flight System - Heliz, a standalone helicopter system for DayZ. This mod is free for every to use, just install it on your server as you would any other mod.";
+action = "https://discord.io/redfalconmodz";
+author = "RedFalcon";
+authorID = "76561198100307085";
+version = "1.0.000000";

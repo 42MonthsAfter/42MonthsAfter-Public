@@ -1,0 +1,116 @@
+<CurrencyName> #tm_ruble							// Currency Name (Only used for the Text in the upper right Corner of the Trader Menu)
+	<Currency> MoneyRuble1, 	1					// Currency Classname, Currency Money Value
+	<Currency> MoneyRuble5, 	5
+	<Currency> MoneyRuble10, 	10
+	<Currency> MoneyRuble25, 	25
+	<Currency> MoneyRuble50, 	50
+	<Currency> MoneyRuble100, 	100
+
+<Trader> More MaskZ	
+	<Category>MoreMaskZ
+		RP_Alienmask,				*,	200, 100
+		RP_BlackBalaclava,			*,	200, 100
+		RP_AntlerMask,				*,  200, 100
+		RP_ClownMask,				*,  200, 100
+		RP_CyborgMask,				*,  200, 100
+		RP_deadguymask,				*,  200, 100
+		RP_DemonMask, 				*,  200, 100
+		RP_RedDemonMask,			*,  200, 100
+		RP_GingerMask,				*,  200, 100
+		RP_JapanMask,				*,  200, 100
+		RP_JesterMask,				*,  200, 100
+		RP_KnightMask,				*,  200, 100
+		RP_NiceSmileMask,			*,  200, 100
+		RP_MummyMask,				*,  200, 100
+		RP_MurderMask,				*,  200, 100
+		RP_StoneMask,				*,  200, 100
+		RP_WitchDoctorMask,			*,  200, 100
+		RP_DragonHelmBlack,			*,  200, 100
+		RP_DragonHelmLightGrey,		*,  200, 100
+		RP_DragonHelmGrey,			*,  200, 100
+		RP_DragonHelmBrown,			*,  200, 100
+		RP_HornedHelm,				*,  200, 100
+		RP_HornedHelmClosed,		*,  200, 100
+		RP_HornedMando,				*,  200, 100
+		RP_LuchodorHelm,			*,  200, 100
+		RP_OldManHead,				*,  200, 100
+		RP_ShameMask,				*,  200, 100
+		RP_StormHelm,				*,  200, 100
+		RP_HoodedMask,				*,  200, 100
+		RP_HoodedMaskBlack,			*,  200, 100
+		RP_SciFiHelmet,				*,  200, 100
+		RP_SciFiHelmetWhite,		*,  200, 100
+		RP_ScifiMonsterHead,		*,  200, 100
+		RP_ScifiMonsterHeadBlood,	*,  200, 100
+		RP_ScifiMonsterHeadGrey, 	*,  200, 100
+		RP_ScifiMonsterHeadBlack,	*,  200, 100
+		RP_ScifiMonsterHeadTan,		*,  200, 100
+		RP_HorrorBearHead,			*,  200, 100
+		RP_HorrorBurnedMask,		*,  200, 100
+		RP_HorrorClownMask,			*,  200, 100
+		RP_HorrorClownMaskLeather,	*,  200, 100
+		RP_HorrorDoctorMask,		*,  200, 100
+		RP_HorrorGasMask,			*,  200, 100
+		RP_HorrorGhostMask,			*,  200, 100
+		RP_HorrorPigMask,			*,  200, 100
+		RP_HorrorPigMaskBarbed,		*,  200, 100
+		RP_HorrorPigMaskOther,		*,  200, 100
+		RP_HorrorSatanMask,			*,  200, 100
+		RP_HorrorAmericanFlagMask,	*,  200, 100
+		RP_HorrorBritishFlagMask,	*,  200, 100
+		RP_HorrorLeatherMask,		*,  200, 100
+		RP_HorrorRussianFlagMask,	*,  200, 100
+		RP_HorrorSkeletonMask,		*,  200, 100
+		RP_HorrorSkinMask,			*,  200, 100
+		RP_HorrorSkullHead,			*,  200, 100
+		RP_HorrorSnowman,			*,  200, 100
+		RP_HorrorSnowmanTwo,		*,  200, 100
+		RP_TopHat,					*,	200, 100
+		RP_Triborg,					*,	200, 100
+		RP_JapanFoxMask,			*,	200, 100
+		RP_FawkesMask,				*,	200, 100
+		RP_HelaHelmet,				*,	200, 100
+		RP_HellRaiser,				*,	200, 100
+		RP_IronDude,				*,	200, 100
+		RP_JigMask,					*,	200, 100
+		RP_KitsuneMask,				*,	200, 100
+		RP_KitsuneMaskTwo,			*,	200, 100
+		RP_LMask,					*,	200, 100
+		RP_PaleMan,					*,	200, 100
+		RP_ApoMaskBlue,				*,	200, 100
+		RP_ApoMaskRed,				*,	200, 100
+		RP_ApoMaskYellow,			*,	200, 100
+		RP_ApoMaskOrange,			*,	200, 100
+		RP_SmallMask,				*,	200, 100
+		RP_SweetClown,				*,	200, 100
+		RP_UndeadHelm,				*,	200, 100
+		RP_CannaMaskPos,			*,	200, 100
+		RP_CannaMask,				*,	200, 100
+		RP_WeedManGP5_Mask,			*,	100, 50
+		RP_WeedManBeanie_Hat,		*,	100, 50
+		RP_Weedman_Plane_Shirt,		*,	100, 50
+		RP_WeedManWorking_Gloves,	*,	100, 50
+		RP_WeedManCargo_Pants,		*,	100, 50
+		RP_WeedManWorking_Boots,	*,	100, 50
+		
+		RP_BatmanJokerMask,			*,	200, 100
+		RP_AncientAnimalMask,		*,	200, 100
+		RP_DefeatMask,				*,	200, 100
+		RP_DishonoredMask,			*,	200, 100
+		RP_GreenGoblinHead,			*,	200, 100
+		RP_HannyaMask,				*,	200, 100
+		RP_HollowMask,				*,	200, 100
+		RP_JokerOneMask,			*,	200, 100
+		RP_OldMetalMask,			*,	200, 100
+		RP_PogoMask,				*,	200, 100
+		RP_SpidermanBag,			*,	200, 100
+		RP_WornOutJokerMask,		*,	200, 100
+		RP_MajoraMask,				*,	200, 100
+		RP_MoonHead,				*,	200, 100
+		RP_ShatteredMask,			*,	200, 100
+		RP_TrumpMask,				*,	200, 100
+		RP_VannyMask,				*,	200, 100
+		RP_HulkMask,				*,	200, 100
+		
+//<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
+<FileEnd>												// This has to be on the End of this File and is very importand!
