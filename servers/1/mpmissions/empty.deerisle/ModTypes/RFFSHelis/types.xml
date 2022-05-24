@@ -398,7 +398,7 @@
     </type>
     <type name="RFFSHeli_flight_case">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -408,7 +408,7 @@
     </type>	
     <type name="RFFSHeli_flight_case_red">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -418,7 +418,7 @@
     </type>	
     <type name="RFFSHeli_flight_case_blue">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -428,7 +428,7 @@
     </type>
     <type name="RFFSHeli_hydraulic_hoses">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -441,7 +441,7 @@
     </type>
     <type name="RFFSHeli_wiring_harness">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -454,7 +454,7 @@
     </type>
     <type name="RFFSHeli_igniter_plug">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -467,7 +467,7 @@
     </type>
     <type name="RFFSHeli_aviation_battery">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -480,7 +480,7 @@
     </type>
     <type name="RFFSHeli_aviation_toolbox">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -493,7 +493,7 @@
     </type>
     <type name="RFFSHeli_hydraulic_fluid">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -506,7 +506,7 @@
     </type>
     <type name="RFFSHeli_hoodie">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -519,7 +519,7 @@
     </type>
     <type name="RFFSHeli_hoodie_black">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -532,7 +532,7 @@
     </type>
     <type name="RFFSHeli_Flag_RedFalcon">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -545,7 +545,7 @@
     </type>
     <type name="RFFSHeli_batterycharger">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -558,7 +558,7 @@
     </type>
     <type name="RFFSHeli_PilotHelmet">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -571,7 +571,7 @@
     </type>
     <type name="RFFSHeli_PilotHelmet_Black">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -584,7 +584,7 @@
     </type>
     <type name="RFFSHeli_PilotHelmet_Desert">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -597,7 +597,7 @@
     </type>
     <type name="RFFSHeli_PilotGloves">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -610,7 +610,7 @@
     </type>
     <type name="RFFSHeli_PilotShirt">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -623,7 +623,7 @@
     </type>
     <type name="RFFSHeli_PilotPants">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -636,7 +636,7 @@
     </type>
     <type name="RFFSHeli_PilotVest">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
