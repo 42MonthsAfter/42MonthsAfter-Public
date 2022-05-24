@@ -1,0 +1,309 @@
+
+
+[2022-05-24 01:07:29] Log session started
+[2022-05-24 01:07:29] [0,0] SetSteamID( [A:1:0:0] )
+[2022-05-24 01:07:29] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2022-05-24 01:07:29] GetCMListForConnect -- got 7 Netfilter CMs and 73 WebSocket CMs
+[2022-05-24 01:07:29] GetCMListForConnect -- DC 'ord1' count: 20
+[2022-05-24 01:07:29] GetCMListForConnect -- DC 'iad1' count: 20
+[2022-05-24 01:07:29] GetCMListForConnect -- DC 'atl1' count: 17
+[2022-05-24 01:07:29] GetCMListForConnect -- DC 'sea1' count: 12
+[2022-05-24 01:07:29] GetCMListForConnect -- DC 'dfw1' count: 9
+[2022-05-24 01:07:29] GetCMListForConnect -- DC 'lax1' count: 2
+[2022-05-24 01:07:29] [0,0] CM Directory list says 91% of connections should be websockets, we rolled 19 - using WebSockets as default.
+[2022-05-24 01:07:29] [0,0] PingWebSocketCM() (cm1-ord1.cm.steampowered.com:27035) starting...
+[2022-05-24 01:07:29] [0,0] PingWebSocketCM() (cm1-ord1.cm.steampowered.com:27037) starting...
+[2022-05-24 01:07:29] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:443) starting...
+[2022-05-24 01:07:29] [0,0] PingWebSocketCM() (cm2-iad1.cm.steampowered.com:27022) starting...
+[2022-05-24 01:07:29] [0,0] PingWebSocketCM() (cm1-ord1.cm.steampowered.com:27037) results: 46.0949ms + load 24.0000
+[2022-05-24 01:07:29] [0,0] PingWebSocketCM() stopping early for good host (cm1-ord1.cm.steampowered.com:27037)
+[2022-05-24 01:07:29] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:443) results: 47.4482ms + load 23.0000
+[2022-05-24 01:07:29] [0,0] PingWebSocketCM() (cm1-ord1.cm.steampowered.com:27035) results: 44.9353ms + load 24.0000
+[2022-05-24 01:07:29] [0,0] PingWebSocketCM() (cm2-iad1.cm.steampowered.com:27022) results: 46.8281ms + load 25.0000
+[2022-05-24 01:07:29] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm1-ord1.cm.steampowered.com:27035, WebSocket)
+[2022-05-24 01:07:29] [1,3] ConnectionCompleted() (162.254.193.102:27035, WebSocket) local address (73.103.116.251:50815)
+[2022-05-24 01:07:29] [1,3] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2022-05-24 01:07:30] [1,3] RecvMsgClientLogOnResponse() : [A:1:1611309061:20351] 'OK'
+[2022-05-24 01:07:31] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f006:102::a2fe:c326]:80 ([2602:801:f006:102::a2fe:c326]:80)) - TIMEOUT
+[2022-05-24 01:07:31] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / [2602:801:f007:100::a2fe:c10d]:27019) - SUCCESS
+[2022-05-24 01:07:59] [3,3] LogOff()
+[2022-05-24 01:07:59] [2,3] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2022-05-24 01:07:59] [2,3] Log session ended
+
+
+[2022-05-24 01:09:02] Log session started
+[2022-05-24 01:09:02] [0,0] SetSteamID( [A:1:0:0] )
+[2022-05-24 01:09:02] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2022-05-24 01:09:02] GetCMListForConnect -- got 7 Netfilter CMs and 73 WebSocket CMs
+[2022-05-24 01:09:02] GetCMListForConnect -- DC 'ord1' count: 20
+[2022-05-24 01:09:02] GetCMListForConnect -- DC 'iad1' count: 20
+[2022-05-24 01:09:02] GetCMListForConnect -- DC 'atl1' count: 18
+[2022-05-24 01:09:02] GetCMListForConnect -- DC 'dfw1' count: 13
+[2022-05-24 01:09:02] GetCMListForConnect -- DC 'lax1' count: 2
+[2022-05-24 01:09:02] GetCMListForConnect -- DC 'sea1' count: 7
+[2022-05-24 01:09:02] [0,0] CM Directory list says 91% of connections should be websockets, we rolled 26 - using WebSockets as default.
+[2022-05-24 01:09:02] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27037) starting...
+[2022-05-24 01:09:02] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27033) starting...
+[2022-05-24 01:09:02] [0,0] PingWebSocketCM() (cm1-atl1.cm.steampowered.com:27037) starting...
+[2022-05-24 01:09:02] [0,0] PingWebSocketCM() (cm6-iad1.cm.steampowered.com:27030) starting...
+[2022-05-24 01:09:02] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27033) results: 49.7632ms + load 17.0000
+[2022-05-24 01:09:02] [0,0] PingWebSocketCM() stopping early for good host (cm2-ord1.cm.steampowered.com:27033)
+[2022-05-24 01:09:02] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27037) results: 51.0905ms + load 18.0000
+[2022-05-24 01:09:02] [0,0] PingWebSocketCM() (cm1-atl1.cm.steampowered.com:27037) results: 45.1751ms + load 25.0000
+[2022-05-24 01:09:02] [0,0] PingWebSocketCM() (cm6-iad1.cm.steampowered.com:27030) results: 46.5620ms + load 22.0000
+[2022-05-24 01:09:02] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-ord1.cm.steampowered.com:27033, WebSocket)
+[2022-05-24 01:09:02] [1,3] ConnectionCompleted() (162.254.193.74:27033, WebSocket) local address (73.103.116.251:50937)
+[2022-05-24 01:09:02] [1,3] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2022-05-24 01:09:02] [1,3] RecvMsgClientLogOnResponse() : [A:1:1612282885:20351] 'OK'
+[2022-05-24 01:09:04] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f002:102::a2fe:c02e]:80 ([2602:801:f002:102::a2fe:c02e]:80)) - TIMEOUT
+[2022-05-24 01:09:04] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / [2602:801:f002:102::a2fe:c025]:27019) - SUCCESS
+[2022-05-24 01:09:34] [3,3] LogOff()
+[2022-05-24 01:09:34] [2,3] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2022-05-24 01:09:34] [2,3] Log session ended
+
+
+[2022-05-24 01:10:50] Log session started
+[2022-05-24 01:10:50] [0,0] SetSteamID( [A:1:0:0] )
+[2022-05-24 01:10:50] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2022-05-24 01:10:50] GetCMListForConnect -- got 7 Netfilter CMs and 73 WebSocket CMs
+[2022-05-24 01:10:50] GetCMListForConnect -- DC 'ord1' count: 20
+[2022-05-24 01:10:50] GetCMListForConnect -- DC 'iad1' count: 20
+[2022-05-24 01:10:50] GetCMListForConnect -- DC 'atl1' count: 19
+[2022-05-24 01:10:50] GetCMListForConnect -- DC 'dfw1' count: 13
+[2022-05-24 01:10:50] GetCMListForConnect -- DC 'sea1' count: 7
+[2022-05-24 01:10:50] GetCMListForConnect -- DC 'lax1' count: 1
+[2022-05-24 01:10:50] [0,0] CM Directory list says 91% of connections should be websockets, we rolled 45 - using WebSockets as default.
+[2022-05-24 01:10:50] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27031) starting...
+[2022-05-24 01:10:50] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27026) starting...
+[2022-05-24 01:10:50] [0,0] PingWebSocketCM() (cm1-atl1.cm.steampowered.com:27031) starting...
+[2022-05-24 01:10:50] [0,0] PingWebSocketCM() (cm2-iad1.cm.steampowered.com:27022) starting...
+[2022-05-24 01:10:50] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27026) results: 52.4701ms + load 17.0000
+[2022-05-24 01:10:50] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27031) results: 53.8657ms + load 18.0000
+[2022-05-24 01:10:50] [0,0] PingWebSocketCM() stopping early for good host (cm2-ord1.cm.steampowered.com:27026)
+[2022-05-24 01:10:50] [0,0] PingWebSocketCM() (cm1-atl1.cm.steampowered.com:27031) results: 51.1412ms + load 26.0000
+[2022-05-24 01:10:50] [0,0] PingWebSocketCM() (cm2-iad1.cm.steampowered.com:27022) results: 49.7834ms + load 29.0000
+[2022-05-24 01:10:50] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-ord1.cm.steampowered.com:27026, WebSocket)
+[2022-05-24 01:10:50] [1,3] ConnectionCompleted() (162.254.193.74:27026, WebSocket) local address (73.103.116.251:51064)
+[2022-05-24 01:10:50] [1,3] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2022-05-24 01:10:50] [1,3] RecvMsgClientLogOnResponse() : [A:1:1613383681:20351] 'OK'
+[2022-05-24 01:10:52] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f002:101::a2fe:c00e]:80 ([2602:801:f002:101::a2fe:c00e]:80)) - TIMEOUT
+[2022-05-24 01:10:52] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / [2602:801:f008:102::a2fe:c7c8]:27019) - SUCCESS
+[2022-05-24 01:11:10] [3,3] LogOff()
+[2022-05-24 01:11:10] [2,3] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2022-05-24 01:11:10] [2,3] Log session ended
+
+
+[2022-05-24 01:11:22] Log session started
+[2022-05-24 01:11:22] [0,0] SetSteamID( [A:1:0:0] )
+[2022-05-24 01:11:22] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2022-05-24 01:11:23] GetCMListForConnect -- got 9 Netfilter CMs and 71 WebSocket CMs
+[2022-05-24 01:11:23] GetCMListForConnect -- DC 'ord1' count: 20
+[2022-05-24 01:11:23] GetCMListForConnect -- DC 'atl1' count: 19
+[2022-05-24 01:11:23] GetCMListForConnect -- DC 'iad1' count: 19
+[2022-05-24 01:11:23] GetCMListForConnect -- DC 'dfw1' count: 11
+[2022-05-24 01:11:23] GetCMListForConnect -- DC 'lax1' count: 1
+[2022-05-24 01:11:23] GetCMListForConnect -- DC 'sea1' count: 10
+[2022-05-24 01:11:23] [0,0] CM Directory list says 88% of connections should be websockets, we rolled 98 - using UDP as default.
+[2022-05-24 01:11:23] [1,2] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.74:27017, UDP)
+[2022-05-24 01:11:23] [1,2] ConnectionCompleted() (162.254.193.102:27018, UDP) local address (0.0.0.0:8766)
+[2022-05-24 01:11:23] [1,2] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2022-05-24 01:11:23] [1,2] RecvMsgClientLogOnResponse() : [A:1:1613719561:20351] 'OK'
+[2022-05-24 01:11:24] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f002:101::a2fe:c00e]:80 ([2602:801:f002:101::a2fe:c00e]:80)) - TIMEOUT
+
+
+[2022-05-24 01:12:04] Log session started
+[2022-05-24 01:12:04] [0,0] SetSteamID( [A:1:0:0] )
+[2022-05-24 01:12:04] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2022-05-24 01:12:04] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f007:101::a2fe:c125]:80 ([2602:801:f007:101::a2fe:c125]:80)) - SUCCESS
+[2022-05-24 01:12:04] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f007:101::a2fe:c125]:80 ([2602:801:f007:101::a2fe:c125]:80)) - server indicated we are using ipv6, external address = '2001:558:600d:42:b992:c3ad:78a0:fb31'
+[2022-05-24 01:12:04] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / [2602:801:f006:100::a2fe:c324]:27019) - SUCCESS
+[2022-05-24 01:12:04] GetCMListForConnect -- got 8 Netfilter CMs and 72 WebSocket CMs
+[2022-05-24 01:12:04] GetCMListForConnect -- DC 'ord1' count: 20
+[2022-05-24 01:12:04] GetCMListForConnect -- DC 'atl1' count: 19
+[2022-05-24 01:12:04] GetCMListForConnect -- DC 'iad1' count: 20
+[2022-05-24 01:12:04] GetCMListForConnect -- DC 'dfw1' count: 11
+[2022-05-24 01:12:04] GetCMListForConnect -- DC 'sea1' count: 8
+[2022-05-24 01:12:04] GetCMListForConnect -- DC 'lax1' count: 2
+[2022-05-24 01:12:04] [0,0] CM Directory list says 90% of connections should be websockets, we rolled 89 - using WebSockets as default.
+[2022-05-24 01:12:04] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:443) starting...
+[2022-05-24 01:12:04] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27032) starting...
+[2022-05-24 01:12:04] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27026) starting...
+[2022-05-24 01:12:04] [0,0] PingWebSocketCM() (cm1-atl1.cm.steampowered.com:27034) starting...
+[2022-05-24 01:12:05] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27026) results: 49.6898ms + load 19.0000
+[2022-05-24 01:12:05] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:443) results: 48.3982ms + load 23.0000
+[2022-05-24 01:12:05] [0,0] PingWebSocketCM() stopping early for good host (cm2-ord1.cm.steampowered.com:27026)
+[2022-05-24 01:12:05] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27032) results: 47.1986ms + load 19.0000
+[2022-05-24 01:12:05] [0,0] PingWebSocketCM() (cm1-atl1.cm.steampowered.com:27034) results: 46.0370ms + load 26.0000
+[2022-05-24 01:12:05] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-ord1.cm.steampowered.com:27032, WebSocket)
+[2022-05-24 01:12:05] [1,3] ConnectionCompleted() (162.254.193.74:27032, WebSocket) local address (73.103.116.251:51141)
+[2022-05-24 01:12:05] [1,3] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2022-05-24 01:12:05] [1,3] RecvMsgClientLogOnResponse() : [A:1:1614120961:20351] 'OK'
+[2022-05-24 01:12:39] [3,3] LogOff()
+[2022-05-24 01:12:39] [2,3] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2022-05-24 01:12:39] [2,3] Log session ended
+
+
+[2022-05-24 01:13:45] Log session started
+[2022-05-24 01:13:45] [0,0] SetSteamID( [A:1:0:0] )
+[2022-05-24 01:13:45] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f008:102::a2fe:c7c3]:80 ([2602:801:f008:102::a2fe:c7c3]:80)) - SUCCESS
+[2022-05-24 01:13:45] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f008:102::a2fe:c7c3]:80 ([2602:801:f008:102::a2fe:c7c3]:80)) - server indicated we are using ipv6, external address = '2001:558:600d:42:b992:c3ad:78a0:fb31'
+[2022-05-24 01:13:45] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / [2602:801:f002:101::a2fe:c006]:27019) - SUCCESS
+[2022-05-24 01:13:45] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2022-05-24 01:13:46] GetCMListForConnect -- got 7 Netfilter CMs and 73 WebSocket CMs
+[2022-05-24 01:13:46] GetCMListForConnect -- DC 'ord1' count: 20
+[2022-05-24 01:13:46] GetCMListForConnect -- DC 'iad1' count: 19
+[2022-05-24 01:13:46] GetCMListForConnect -- DC 'atl1' count: 19
+[2022-05-24 01:13:46] GetCMListForConnect -- DC 'sea1' count: 11
+[2022-05-24 01:13:46] GetCMListForConnect -- DC 'dfw1' count: 10
+[2022-05-24 01:13:46] GetCMListForConnect -- DC 'lax1' count: 1
+[2022-05-24 01:13:46] [0,0] CM Directory list says 91% of connections should be websockets, we rolled 58 - using WebSockets as default.
+[2022-05-24 01:13:46] [0,0] PingWebSocketCM() (cm1-ord1.cm.steampowered.com:27035) starting...
+[2022-05-24 01:13:46] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27019) starting...
+[2022-05-24 01:13:46] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:443) starting...
+[2022-05-24 01:13:46] [0,0] PingWebSocketCM() (cm5-iad1.cm.steampowered.com:27039) starting...
+[2022-05-24 01:13:46] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27019) results: 47.4434ms + load 18.0000
+[2022-05-24 01:13:46] [0,0] PingWebSocketCM() stopping early for good host (cm2-ord1.cm.steampowered.com:27019)
+[2022-05-24 01:13:46] [0,0] PingWebSocketCM() (cm1-ord1.cm.steampowered.com:27035) results: 46.1887ms + load 24.0000
+[2022-05-24 01:13:46] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:443) results: 44.9715ms + load 23.0000
+[2022-05-24 01:13:46] [0,0] PingWebSocketCM() (cm5-iad1.cm.steampowered.com:27039) results: 48.5432ms + load 21.0000
+[2022-05-24 01:13:46] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-ord1.cm.steampowered.com:27019, WebSocket)
+[2022-05-24 01:13:46] [1,3] ConnectionCompleted() (162.254.193.74:27019, WebSocket) local address (73.103.116.251:51286)
+[2022-05-24 01:13:46] [1,3] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2022-05-24 01:13:46] [1,3] RecvMsgClientLogOnResponse() : [A:1:1615176709:20351] 'OK'
+[2022-05-24 01:14:16] [3,3] LogOff()
+[2022-05-24 01:14:16] [2,3] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2022-05-24 01:14:16] [2,3] Log session ended
+
+
+[2022-05-24 01:15:43] Log session started
+[2022-05-24 01:15:43] [0,0] SetSteamID( [A:1:0:0] )
+[2022-05-24 01:15:43] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2022-05-24 01:15:43] GetCMListForConnect -- got 7 Netfilter CMs and 73 WebSocket CMs
+[2022-05-24 01:15:43] GetCMListForConnect -- DC 'ord1' count: 20
+[2022-05-24 01:15:43] GetCMListForConnect -- DC 'iad1' count: 20
+[2022-05-24 01:15:43] GetCMListForConnect -- DC 'atl1' count: 19
+[2022-05-24 01:15:43] GetCMListForConnect -- DC 'dfw1' count: 14
+[2022-05-24 01:15:43] GetCMListForConnect -- DC 'sea1' count: 7
+[2022-05-24 01:15:43] [0,0] CM Directory list says 91% of connections should be websockets, we rolled 14 - using WebSockets as default.
+[2022-05-24 01:15:43] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27032) starting...
+[2022-05-24 01:15:43] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27034) starting...
+[2022-05-24 01:15:43] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:443) starting...
+[2022-05-24 01:15:43] [0,0] PingWebSocketCM() (cm4-iad1.cm.steampowered.com:27024) starting...
+[2022-05-24 01:15:43] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27032) results: 52.4263ms + load 19.0000
+[2022-05-24 01:15:43] [0,0] PingWebSocketCM() stopping early for good host (cm2-ord1.cm.steampowered.com:27032)
+[2022-05-24 01:15:43] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:443) results: 50.2799ms + load 24.0000
+[2022-05-24 01:15:43] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27034) results: 48.1170ms + load 18.0000
+[2022-05-24 01:15:43] [0,0] PingWebSocketCM() (cm4-iad1.cm.steampowered.com:27024) results: 45.9995ms + load 26.0000
+[2022-05-24 01:15:43] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-ord1.cm.steampowered.com:27034, WebSocket)
+[2022-05-24 01:15:43] [1,3] ConnectionCompleted() (162.254.193.74:27034, WebSocket) local address (73.103.116.251:51456)
+[2022-05-24 01:15:43] [1,3] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2022-05-24 01:15:44] [1,3] RecvMsgClientLogOnResponse() : [A:1:1928733697:20351] 'OK'
+[2022-05-24 01:15:45] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f006:102::a2fe:c32a]:80 ([2602:801:f006:102::a2fe:c32a]:80)) - TIMEOUT
+[2022-05-24 01:15:45] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / [2602:801:f00b:101::cdc4:68f]:27019) - SUCCESS
+[2022-05-24 01:16:13] [3,3] LogOff()
+[2022-05-24 01:16:13] [2,3] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2022-05-24 01:16:13] [2,3] Log session ended
+
+
+[2022-05-24 01:17:35] Log session started
+[2022-05-24 01:17:35] [0,0] SetSteamID( [A:1:0:0] )
+[2022-05-24 01:17:35] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2022-05-24 01:17:35] GetCMListForConnect -- got 9 Netfilter CMs and 71 WebSocket CMs
+[2022-05-24 01:17:35] GetCMListForConnect -- DC 'ord1' count: 20
+[2022-05-24 01:17:35] GetCMListForConnect -- DC 'iad1' count: 20
+[2022-05-24 01:17:35] GetCMListForConnect -- DC 'atl1' count: 16
+[2022-05-24 01:17:35] GetCMListForConnect -- DC 'dfw1' count: 12
+[2022-05-24 01:17:35] GetCMListForConnect -- DC 'sea1' count: 10
+[2022-05-24 01:17:35] GetCMListForConnect -- DC 'lax1' count: 2
+[2022-05-24 01:17:35] [0,0] CM Directory list says 88% of connections should be websockets, we rolled 72 - using WebSockets as default.
+[2022-05-24 01:17:35] [0,0] PingWebSocketCM() (cm1-ord1.cm.steampowered.com:27022) starting...
+[2022-05-24 01:17:35] [0,0] PingWebSocketCM() (cm1-ord1.cm.steampowered.com:27033) starting...
+[2022-05-24 01:17:35] [0,0] PingWebSocketCM() (cm3-iad1.cm.steampowered.com:27025) starting...
+[2022-05-24 01:17:35] [0,0] PingWebSocketCM() (cm1-iad1.cm.steampowered.com:27021) starting...
+[2022-05-24 01:17:35] [0,0] PingWebSocketCM() (cm1-ord1.cm.steampowered.com:27033) results: 48.8558ms + load 38.0000
+[2022-05-24 01:17:35] [0,0] PingWebSocketCM() (cm2-dfw1.cm.steampowered.com:27033) starting...
+[2022-05-24 01:17:35] [0,0] PingWebSocketCM() (cm1-ord1.cm.steampowered.com:27022) results: 47.6285ms + load 37.0000
+[2022-05-24 01:17:35] [0,0] PingWebSocketCM() (cm1-iad1.cm.steampowered.com:443) starting...
+[2022-05-24 01:17:35] [0,0] PingWebSocketCM() (cm1-iad1.cm.steampowered.com:27021) results: 61.5189ms + load 27.0000
+[2022-05-24 01:17:35] [0,0] PingWebSocketCM() (cm3-iad1.cm.steampowered.com:27025) results: 62.9065ms + load 25.0000
+[2022-05-24 01:17:35] [0,0] PingWebSocketCM() (cm2-dfw1.cm.steampowered.com:27036) starting...
+[2022-05-24 01:17:35] [0,0] PingWebSocketCM() (cm1-atl1.cm.steampowered.com:27030) starting...
+[2022-05-24 01:17:35] [0,0] PingWebSocketCM() (cm1-iad1.cm.steampowered.com:443) results: 60.3087ms + load 30.0000
+[2022-05-24 01:17:35] [0,0] PingWebSocketCM() (cm1-atl1.cm.steampowered.com:27034) starting...
+[2022-05-24 01:17:36] [0,0] PingWebSocketCM() (cm1-atl1.cm.steampowered.com:27030) results: 66.2554ms + load 29.0000
+[2022-05-24 01:17:36] [0,0] PingWebSocketCM() stopping after 400.00ms timeout and using good enough host (cm1-ord1.cm.steampowered.com:27022)
+[2022-05-24 01:17:36] [0,0] PingWebSocketCM() (cm2-dfw1.cm.steampowered.com:27036) results: 113.4094ms + load 25.0000
+[2022-05-24 01:17:36] [0,0] PingWebSocketCM() (cm2-dfw1.cm.steampowered.com:27033) results: 112.1802ms + load 25.0000
+[2022-05-24 01:17:36] [0,0] PingWebSocketCM() (cm1-atl1.cm.steampowered.com:27034) results: 50.2651ms + load 29.0000
+[2022-05-24 01:17:36] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm1-atl1.cm.steampowered.com:27034, WebSocket)
+[2022-05-24 01:17:36] [1,3] ConnectionCompleted() (162.254.199.163:27034, WebSocket) local address (73.103.116.251:51590)
+[2022-05-24 01:17:36] [1,3] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2022-05-24 01:17:36] [1,3] RecvMsgClientLogOnResponse() : [A:1:1929914377:20351] 'OK'
+[2022-05-24 01:17:37] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f002:102::a2fe:c028]:80 ([2602:801:f002:102::a2fe:c028]:80)) - TIMEOUT
+[2022-05-24 01:17:37] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / [2602:801:f002:101::a2fe:c005]:27019) - SUCCESS
+[2022-05-24 01:18:21] [3,3] LogOff()
+[2022-05-24 01:18:21] [2,3] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2022-05-24 01:18:21] [2,3] Log session ended
+
+
+[2022-05-24 01:19:59] Log session started
+[2022-05-24 01:19:59] [0,0] SetSteamID( [A:1:0:0] )
+[2022-05-24 01:19:59] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2022-05-24 01:19:59] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f006:100::a2fe:c30e]:80 ([2602:801:f006:100::a2fe:c30e]:80)) - SUCCESS
+[2022-05-24 01:19:59] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f006:100::a2fe:c30e]:80 ([2602:801:f006:100::a2fe:c30e]:80)) - server indicated we are using ipv6, external address = '2001:558:600d:42:b992:c3ad:78a0:fb31'
+[2022-05-24 01:19:59] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / [2602:801:f002:101::a2fe:c005]:27019) - SUCCESS
+[2022-05-24 01:19:59] GetCMListForConnect -- got 7 Netfilter CMs and 73 WebSocket CMs
+[2022-05-24 01:19:59] GetCMListForConnect -- DC 'ord1' count: 20
+[2022-05-24 01:19:59] GetCMListForConnect -- DC 'iad1' count: 20
+[2022-05-24 01:19:59] GetCMListForConnect -- DC 'dfw1' count: 18
+[2022-05-24 01:19:59] GetCMListForConnect -- DC 'atl1' count: 19
+[2022-05-24 01:19:59] GetCMListForConnect -- DC 'sea1' count: 3
+[2022-05-24 01:19:59] [0,0] CM Directory list says 91% of connections should be websockets, we rolled 67 - using WebSockets as default.
+[2022-05-24 01:19:59] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27035) starting...
+[2022-05-24 01:19:59] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27022) starting...
+[2022-05-24 01:19:59] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:443) starting...
+[2022-05-24 01:19:59] [0,0] PingWebSocketCM() (cm3-iad1.cm.steampowered.com:27022) starting...
+[2022-05-24 01:19:59] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:443) results: 45.5297ms + load 24.0000
+[2022-05-24 01:19:59] [0,0] PingWebSocketCM() stopping early for good host (cm2-ord1.cm.steampowered.com:443)
+[2022-05-24 01:19:59] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27022) results: 44.2895ms + load 19.0000
+[2022-05-24 01:19:59] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27035) results: 43.0504ms + load 17.0000
+[2022-05-24 01:19:59] [0,0] PingWebSocketCM() (cm3-iad1.cm.steampowered.com:27022) results: 41.8846ms + load 25.0000
+[2022-05-24 01:19:59] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-ord1.cm.steampowered.com:27035, WebSocket)
+[2022-05-24 01:19:59] [1,3] ConnectionCompleted() (162.254.193.74:27035, WebSocket) local address (73.103.116.251:51761)
+[2022-05-24 01:19:59] [1,3] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2022-05-24 01:19:59] [1,3] RecvMsgClientLogOnResponse() : [A:1:1931463685:20351] 'OK'
+[2022-05-24 01:20:32] [3,3] LogOff()
+[2022-05-24 01:20:32] [2,3] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2022-05-24 01:20:32] [2,3] Log session ended
+
+
+[2022-05-24 01:22:39] Log session started
+[2022-05-24 01:22:39] [0,0] SetSteamID( [A:1:0:0] )
+[2022-05-24 01:22:39] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f008:100::a2fe:c787]:80 ([2602:801:f008:100::a2fe:c787]:80)) - SUCCESS
+[2022-05-24 01:22:39] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2602:801:f008:100::a2fe:c787]:80 ([2602:801:f008:100::a2fe:c787]:80)) - server indicated we are using ipv6, external address = '2001:558:600d:42:b992:c3ad:78a0:fb31'
+[2022-05-24 01:22:39] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / [2602:801:f002:101::a2fe:c007]:27019) - SUCCESS
+[2022-05-24 01:22:39] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2022-05-24 01:22:39] GetCMListForConnect -- got 6 Netfilter CMs and 74 WebSocket CMs
+[2022-05-24 01:22:39] GetCMListForConnect -- DC 'ord1' count: 20
+[2022-05-24 01:22:39] GetCMListForConnect -- DC 'atl1' count: 16
+[2022-05-24 01:22:39] GetCMListForConnect -- DC 'iad1' count: 20
+[2022-05-24 01:22:39] GetCMListForConnect -- DC 'dfw1' count: 13
+[2022-05-24 01:22:39] GetCMListForConnect -- DC 'sea1' count: 10
+[2022-05-24 01:22:39] GetCMListForConnect -- DC 'lax1' count: 1
+[2022-05-24 01:22:39] [0,0] CM Directory list says 92% of connections should be websockets, we rolled 90 - using WebSockets as default.
+[2022-05-24 01:22:39] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27021) starting...
+[2022-05-24 01:22:39] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27036) starting...
+[2022-05-24 01:22:39] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:443) starting...
+[2022-05-24 01:22:39] [0,0] PingWebSocketCM() (cm1-atl1.cm.steampowered.com:27037) starting...
+[2022-05-24 01:22:39] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27036) results: 42.1292ms + load 20.0000
+[2022-05-24 01:22:39] [0,0] PingWebSocketCM() stopping early for good host (cm2-ord1.cm.steampowered.com:27036)
+[2022-05-24 01:22:39] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:27021) results: 44.3616ms + load 18.0000
+[2022-05-24 01:22:39] [0,0] PingWebSocketCM() (cm2-ord1.cm.steampowered.com:443) results: 40.0445ms + load 23.0000
+[2022-05-24 01:22:39] [0,0] PingWebSocketCM() (cm1-atl1.cm.steampowered.com:27037) results: 100.4218ms + load 26.0000
+[2022-05-24 01:22:39] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-ord1.cm.steampowered.com:27036, WebSocket)
+[2022-05-24 01:22:39] [1,3] ConnectionCompleted() (162.254.193.74:27036, WebSocket) local address (73.103.116.251:51965)
+[2022-05-24 01:22:39] [1,3] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2022-05-24 01:22:40] [1,3] RecvMsgClientLogOnResponse() : [A:1:2112272389:20351] 'OK'
+[2022-05-24 01:23:14] [3,3] LogOff()
+[2022-05-24 01:23:14] [2,3] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2022-05-24 01:23:14] [2,3] Log session ended

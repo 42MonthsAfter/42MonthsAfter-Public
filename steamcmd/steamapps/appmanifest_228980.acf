@@ -6,7 +6,7 @@
 	"name"		"Steamworks Common Redistributables"
 	"StateFlags"		"4"
 	"installdir"		"Steamworks Shared"
-	"LastUpdated"		"1652010178"
+	"LastUpdated"		"1653367959"
 	"SizeOnDisk"		"112911874"
 	"StagingSize"		"0"
 	"buildid"		"8679698"
@@ -50,5 +50,6 @@
 	}
 	"MountedConfig"
 	{
+		"betakey"		"public"
 	}
 }

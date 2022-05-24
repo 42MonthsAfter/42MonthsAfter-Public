@@ -6,7 +6,7 @@
 	"name"		"DayZ Server"
 	"StateFlags"		"4"
 	"installdir"		"DayZServer"
-	"LastUpdated"		"1652010178"
+	"LastUpdated"		"1653367959"
 	"SizeOnDisk"		"2717977228"
 	"StagingSize"		"0"
 	"buildid"		"8648238"
@@ -46,5 +46,6 @@
 	}
 	"MountedConfig"
 	{
+		"betakey"		"public"
 	}
 }

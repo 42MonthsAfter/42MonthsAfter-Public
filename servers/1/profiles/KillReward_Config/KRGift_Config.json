@@ -1,0 +1,69 @@
+{
+    "KillRewardGIFT": {
+        "PlayerGift": 1,
+        "GiftLifetime": 5,
+        "Giftbox": [
+            "FS_GiftBox_Medium_1",
+            "FS_GiftBox_Medium_2",
+            "FS_GiftBox_Medium_3"
+        ],
+        "Giftdrink": [
+            "SodaCan_Cola",
+            "SodaCan_Kvass",
+            "SodaCan_Pipsi",
+            "SodaCan_Spite",
+            "Canteen",
+            "WaterBottle"
+        ],
+        "Gifteat": [
+            "BakedBeansCan",
+            "TacticalBaconCan",
+            "Apple",
+            "BoxCerealCrunchin",
+            "CaninaBerry",
+            "Canteen",
+            "GreenBellPepper",
+            "Pear",
+            "Plum",
+            "Potato",
+            "PowderedMilk",
+            "Pumpkin",
+            "Rice",
+            "SambucusBerry",
+            "SpaghettiCan_Opened",
+            "Tomato",
+            "TunaCan_Opened",
+            "Zucchini"
+        ],
+        "Gifttools": [
+            "Battery9V",
+            "CanOpener",
+            "ChernarusMap",
+            "Compass",
+            "Flashlight",
+            "Hacksaw",
+            "Hammer",
+            "Hatchet",
+            "HuntingKnife",
+            "LeatherSewingKit",
+            "Matchbox",
+            "Pickaxe",
+            "Rangefinder",
+            "Roadflare",
+            "Screwdriver",
+            "Whetstone"
+        ],
+        "Giftmedical": [
+            "BandageDressing",
+            "Epinephrine",
+            "Heatpack",
+            "Morphine",
+            "PainkillerTablets",
+            "PurificationTablets",
+            "Rag",
+            "TetracyclineAntibiotics",
+            "VitaminBottle"
+        ]
+    },
+    "version": 9
+}
