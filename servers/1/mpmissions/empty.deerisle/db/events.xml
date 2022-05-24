@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
+    <event name="VehicleHeliSpawn">
+        <nominal>2</nominal>
+        <min>1</min>
+        <max>3</max>
+        <lifetime>2700</lifetime>
+        <restock>1800</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_LittleBird"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_LittleBird_Camo"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_LittleBird_Desert"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bo105m"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bo105m_blackcamo"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_KA26"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429_Police"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429_Medic"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Mi2"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Mi2_Military"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Mi2_Hornet"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Apache"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Apache_Winter"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Apache_Desert"/>
+        </children>
+    </event>
 	<event name="BTR">
 		<nominal>1</nominal>
-		<min>0</min>
-		<max>1</max>
+		<min>1</min>
+		<max>2</max>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
 		<saferadius>500</saferadius>
@@ -21,8 +52,8 @@
 	</event>
 	<event name="Gaz71">
 		<nominal>1</nominal>
-		<min>0</min>
-		<max>1</max>
+		<min>1</min>
+		<max>2</max>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
 		<saferadius>500</saferadius>
@@ -38,8 +69,8 @@
 	</event>
 	<event name="EGER">
 		<nominal>1</nominal>
-		<min>0</min>
-		<max>1</max>
+		<min>1</min>
+		<max>2</max>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
 		<saferadius>500</saferadius>
@@ -55,8 +86,8 @@
 	</event>
 	<event name="VAZ_2108">
 		<nominal>1</nominal>
-		<min>0</min>
-		<max>1</max>
+		<min>1</min>
+		<max>2</max>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
 		<saferadius>500</saferadius>
@@ -76,8 +107,8 @@
 	</event>
 	<event name="Interceptor">
 		<nominal>1</nominal>
-		<min>0</min>
-		<max>1</max>
+		<min>1</min>
+		<max>2</max>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
 		<saferadius>500</saferadius>
@@ -93,8 +124,8 @@
 	</event>
 	<event name="UAZ_3909">
 		<nominal>1</nominal>
-		<min>0</min>
-		<max>1</max>
+		<min>1</min>
+		<max>2</max>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
 		<saferadius>500</saferadius>
@@ -111,8 +142,8 @@
 	</event>
 	<event name="UAZ469_offroad">
 		<nominal>1</nominal>
-		<min>0</min>
-		<max>1</max>
+		<min>1</min>
+		<max>2</max>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
 		<saferadius>500</saferadius>
@@ -131,8 +162,8 @@
 	</event>
 	<event name="SkyJeep">
 		<nominal>1</nominal>
-		<min>0</min>
-		<max>1</max>
+		<min>1</min>
+		<max>2</max>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
 		<saferadius>500</saferadius>
@@ -155,7 +186,7 @@
 	</event>
 	<event name="LandRoverDefender">
 		<nominal>2</nominal>
-		<min>0</min>
+		<min>1</min>
 		<max>2</max>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
