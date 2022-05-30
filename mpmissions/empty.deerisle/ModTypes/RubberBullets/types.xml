@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+<!-- Rubber Bullets -->
+	<type name="RubberBox_762x54_20Rnd">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+    </type>
+		<type name="RubberBox_380ACP">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Police"/>
+    </type>
+		<type name="RubberBox_45ACP">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+    </type>
+		<type name="RubberBox_9x19">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+    </type>
+		<type name="Ammo_762x54Rubber">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>35</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+    </type>
+		<type name="Ammo_45ACPRubber">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+    </type>
+		<type name="Ammo_9x19Rubber">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>50</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Police"/>
+    </type>
+		<type name="Ammo_380Rubber">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>20</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Town"/>
+    </type>
+</types>

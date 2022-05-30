@@ -1,0 +1,3576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+<!-- Cars For All -->
+    <type name="BTR_Doors_Driver">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_coDriver">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+    	<usage name="Farm" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_cargo1">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+    	<usage name="Farm" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_cargo2">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+    	<usage name="Farm" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_hood2">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+    	<usage name="Farm" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_Driver_White">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+    	<usage name="Farm" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_coDriver_White">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+    	<usage name="Farm" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_cargo1_White">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+    	<usage name="Farm" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_cargo2_White">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+    	<usage name="Farm" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_cargo3_White">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+    	<usage name="Farm" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_hood1_White">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_hood2_White">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_Driver_Black">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_coDriver_Black">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_cargo1_Black">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_cargo2_Black">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_cargo3_Black">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_hood1_Black">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_hood2_Black">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_Driver_Green">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_coDriver_Green">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_cargo1_Green">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_cargo2_Green">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_cargo3_Green">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_hood1_Green">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Doors_hood2_Green">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="BTR_Wheel">
+        <nominal>6</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="Gaz71">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Gaz71_Doors_Driver">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="Gaz71_Doors_coDriver">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="Gaz71_Doors_trunk">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="Gaz71_Doors_hood">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="Gaz71_Wheel">
+        <nominal>6</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="Gaz71_Wheel_Destroyed">
+        <nominal>0</nominal>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="EGER">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="EGER_Doors_Driver">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="EGER_Doors_coDriver">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="EGER_Doors_cargo1">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="EGER_Doors_cargo2">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="EGER_Doors_hood">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="EGER_Doors_trunk">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="EGER_Tent">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="EGER_Wheel">
+        <nominal>6</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+    <type name="EGER_Wheel_2">
+        <nominal>6</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="Interceptor">
+        <lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="VAZ_2108">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="VAZ_2108_Blue">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="VAZ_2108_Green">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="VAZ_2108_Black">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="VAZ_2108_White">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="UAZ_3909">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="UAZ_3909_Blue">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="UAZ469_offroad">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="UAZ469_offroad_Blue">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="UAZ469_offroad_Yellow">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="UAZ469_offroad_Red">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Interceptor_Wheel">
+        <nominal>6</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Town"/>>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="Interceptor_Doors_Driver">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+    	<usage name="Farm" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="Interceptor_Doors_coDriver">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+    	<usage name="Farm" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="Interceptor_Doors_hood">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Town"/>>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Wheel">
+        <nominal>6</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Town"/>>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_Driver">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Town"/>>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_coDriver">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Town"/>>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_hood">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Town"/>>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_trunk">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Town"/>>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_Driver_Blue">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Town"/>>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_coDriver_Blue">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_hood_Blue">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_trunk_Blue">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_Driver_Green">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_coDriver_Green">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_hood_Green">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_trunk_Green">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_Driver_Black">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_coDriver_Black">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_hood_Black">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_trunk_Black">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_Driver_White">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_coDriver_White">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_hood_White">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="VAZ_2108_Doors_trunk_White">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ_3909_Wheel">
+        <nominal>6</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ_3909_Doors_Driver">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ_3909_Doors_coDriver">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ_3909_Doors_cargo1">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ_3909_Doors_cargo2">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ_3909_Doors_cargo3">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ_3909_Doors_hood">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ_3909_Doors_Driver_Blue">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ_3909_Doors_coDriver_Blue">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ_3909_Doors_cargo1_Blue">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ_3909_Doors_cargo2_Blue">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ_3909_Doors_cargo3_Blue">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Wheel">
+        <nominal>6</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_Driver">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_coDriver">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_Driver_Blue">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_coDriver_Blue">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_Driver_Yellow">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_coDriver_Yellow">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_Driver_Red">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_coDriver_Red">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_cargo1">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_cargo2">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_cargo3">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_cargo1_Blue">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_cargo2_Blue">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_cargo3_Blue">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_cargo1_Yellow">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_cargo2_Yellow">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_cargo3_Yellow">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_cargo1_Red">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_cargo2_Red">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_cargo3_Red">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_hood">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_hood_Blue">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_hood_Yellow">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_hood_Red">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_trunk">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_trunk_Blue">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_trunk_Yellow">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="UAZ469_offroad_Doors_trunk_Red">
+        <nominal>1</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools" />
+    	<tag name="floor" />
+    	<usage name="Industrial" />
+    	<usage name="Farm" />
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="BTR">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="BTR_Black">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="BTR_Green">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="BTR_White">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+</types>

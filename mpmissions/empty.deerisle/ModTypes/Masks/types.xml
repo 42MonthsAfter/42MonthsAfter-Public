@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+<!-- Masks -->
+  <type name="RP_BatmanJokerMask">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+  <type name="RP_AncientAnimalMask">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+  <type name="RP_DefeatMask">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+  <type name="RP_DishonoredMask">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+  <type name="RP_GreenGoblinHead">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+  <type name="RP_HannyaMask">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+  <type name="RP_HollowMask">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+  <type name="RP_JokerOneMask">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+  <type name="RP_OldMetalMask">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+  <type name="RP_PogoMask">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+  <type name="RP_SpidermanBag">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+  <type name="RP_WornOutJokerMask">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+  <type name="RP_MajoraMask">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+  <type name="RP_MoonHead">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+  <type name="RP_ShatteredMask">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+  <type name="RP_TrumpMask">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+  <type name="RP_VannyMask">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+  <type name="RP_HulkMask">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>90</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier5"/>
+		<value name="Tier6"/>
+		<value name="Tier7"/>
+		<value name="Tier8"/>
+		<value name="Tier9"/>
+		<value name="Tier10"/>
+		<value name="Tier11"/>
+		<value name="Tier12"/>
+		<value name="Tier13"/>
+		<value name="Tier14"/>
+		<value name="Tier15"/>
+		<value name="Tier16"/>
+		<value name="Tier17"/>
+  </type>
+</types>

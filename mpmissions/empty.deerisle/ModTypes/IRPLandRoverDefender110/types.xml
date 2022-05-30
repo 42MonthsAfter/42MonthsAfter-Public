@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+<!-- Land Rover Mod -->
+	<type name="CrSk_Land_Rover_Defender_110">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+	<type name="CrSk_Land_Rover_Defender_110_Green">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+	<type name="CrSk_Land_Rover_Defender_110_UN">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+    <type name="Defender110_dver_1_1">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+    <type name="Defender110_dver_2_1">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+    <type name="Defender110_dver_1_2">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+    <type name="Defender110_dver_2_2">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+	<type name="Defender110_dver_1_1_Green">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+    <type name="Defender110_dver_2_1_Green">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+    <type name="Defender110_dver_1_2_Green">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+    <type name="Defender110_dver_2_2_Green">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+	<type name="Defender110_dver_1_1_UN">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+    <type name="Defender110_dver_2_1_UN">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+    <type name="Defender110_dver_1_2_UN">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+    <type name="Defender110_dver_2_2_UN">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+    <type name="Defender110_kapot">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+	<type name="Defender110_kapot_Green">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+	<type name="Defender110_kapot_UN">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+    <type name="Defender110_bagazhnik">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+	<type name="Defender110_bagazhnik_Green">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+	<type name="Defender110_bagazhnik_UN">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+    <type name="Defender110_koleso">
+		<nominal>10</nominal>
+		<lifetime>1800</lifetime>
+		<restock>900</restock>
+		<min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+		    <value name="Tier1"/>
+		    <value name="Tier2"/>
+		    <value name="Tier3"/>
+		    <value name="Tier4"/>
+		    <value name="Tier5"/>
+		    <value name="Tier6"/>
+		    <value name="Tier7"/>
+		    <value name="Tier8"/>
+		    <value name="Tier9"/>
+		    <value name="Tier10"/>		
+		    <value name="Tier11"/>		
+		    <value name="Tier12"/>		
+		    <value name="Tier13"/>		
+		    <value name="Tier14"/>		
+		    <value name="Tier15"/>	
+		    <value name="Tier16"/>	
+		    <value name="Tier17"/>
+    </type>
+    <type name="ProxyDefender110_koleso_destroyed">
+        <lifetime>1800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+</types>

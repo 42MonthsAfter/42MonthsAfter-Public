@@ -1,0 +1,975 @@
+{
+    "LastCapturePoint": -1,
+    "ConfigVersion": "1",
+    "Interval": 7200.0,
+    "StartDelay": 900.0,
+    "CaptureTime": 900.0,
+    "EmptyEventTimeOut": 1800.0,
+    "CleanUpTime": 200.0,
+    "PreStartDelay": 450.0,
+    "Hills": [
+        {
+            "Name": "Area 42",
+            "X": 13359.8,
+            "Y": 12.9225,
+            "Z": 9947.2,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Power Plant",
+            "X": 4637.22,
+            "Y": 20.57,
+            "Z": 7072.66,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "The Swamp",
+            "X": 3730.27,
+            "Y": 9.3625,
+            "Z": 8831.95,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Prison",
+            "X": 5525.97,
+            "Y": 34.84,
+            "Z": 684.657,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Airfield",
+            "X": 5522.7,
+            "Y": 74.1847,
+            "Z": 3812.82,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Crab Island",
+            "X": 900.97,
+            "Y": 36.6,
+            "Z": 11681.1,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Old Town",
+            "X": 1959.64,
+            "Y": 8.75,
+            "Z": 8749.4,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Paris Island",
+            "X": 2478.97,
+            "Y": 35.2,
+            "Z": 3355.91,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "The Crater",
+            "X": 12926.5,
+            "Y": 21.2,
+            "Z": 1373.91,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Alcatraz",
+            "X": 15784.3,
+            "Y": 39.8,
+            "Z": 4668.91,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        }
+    ],
+    "RewardPools": [
+        {
+            "Name": "First Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TWP_SRGlock",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_SRGlock_mag_33Rnd",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_SRGlock_mag_33Rnd",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_ACE23",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_ACE23_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_ACE23_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_ACE23_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Second Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TWP_Stoner63",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_Stoner63_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_Stoner63_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_Stoner63_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_DesertEagleFalcon",
+                    "ItemAttachments": [
+                        "TWP_Glock42_mag_12Rnd"
+                    ]
+                },
+                {
+                    "Item": "TWP_DesertEagleFalcon_mag_7Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_DesertEagleFalcon_mag_7Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Third Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TWP_AK107Camouflage",
+                    "ItemAttachments": [
+                        "TWP_TrijiconACOG"
+                    ]
+                },
+                {
+                    "Item": "TWP_AK107Camouflage_mag_30Rnd",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_AK107Camouflage_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_AK107Camouflage_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_BerettaPX4",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_BerettaPX4_mag_17Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_BerettaPX4_mag_17Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Fourth Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TWP_SG556",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_SG556_mag_30Rnd",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_SG556_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_SG556_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_1911_WilsonCombat",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_1911_WilsonCombat_mag_7Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_1911_WilsonCombat_mag_7Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Fifth Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "ScarLKGreenCamo",
+                    "ItemAttachments": [
+                        "TWP_TrijiconACOG"
+                    ]
+                },
+                {
+                    "Item": "TWP_P2000BlueGirl",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_ScarL_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_ScarL_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_ScarL_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_P2000BlueGirl_mag_16Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_P2000BlueGirl_mag_16Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_P2000BlueGirl_mag_16Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Sixth Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TWP_MK23Socom",
+                    "ItemAttachments": [
+                        "TWP_MK23Light"
+                    ]
+                },
+                {
+                    "Item": "TWP_MP443",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_MP443_mag_18Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_MP443_mag_18Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_MP443_mag_18Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_MK23Socom_mag_12Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_MK23Socom_mag_12Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_MK23Socom_mag_12Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Seventh Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TWP_Glock18Rebel",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "PlateTWP_ARX160BlackCarrierVest",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_ARX160_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_ARX160_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_ARX160_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_Glock18Rebel_mag_17Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_Glock18Rebel_mag_17Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_Glock18Rebel_mag_17Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Eigth Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TWP_P2000Toxic",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_FN57Toxic",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_FN57Toxic_mag_15Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_FN57Toxic_mag_15Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_FN57Toxic_mag_15Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_P2000Toxic_mag_16Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_P2000Toxic_mag_16Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_P2000Toxic_mag_16Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Ninth Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TWP_SP1Vektor",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_SG550",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_SP1Vektor_mag_15Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_SP1Vektor_mag_15Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_SP1Vektor_mag_15Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_SG550_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_SG550_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_SG550_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Tenth Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TWP_ScarDragon",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_WaltherP99",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_ScarDragon_mag_50Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_ScarDragon_mag_50Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_ScarDragon_mag_50Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_WaltherP99_mag_15Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_WaltherP99_mag_15Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Eleventh Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TWP_UMPPrimalSaber",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_AK47Spider",
+                    "ItemAttachments": [
+                        "TWP_SpiderBayonet"
+                    ]
+                },
+                {
+                    "Item": "TWP_UMPPrimalSaber_mag_35Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_UMPPrimalSaber_mag_35Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_UMPPrimalSaber_mag_35Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_AK47Spider_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_AK47Spider_mag_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Twelveth Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "LandMineTrap",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TWP_GlockZapper",
+                    "ItemAttachments": [
+                        "TWP_GlockZapper_mag_15Rnd"
+                    ]
+                },
+                {
+                    "Item": "TWP_GlockZapper_mag_15Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TWP_BenelliM3",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Thirteenth Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "NailBox",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "NailBox",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "NailBox",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NailBox",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NailBox",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "Hatchet",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Whetstone",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Whetstone",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "Clawhammer_mung",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Pliers",
+                    "ItemAttachments": []
+                }
+            ]
+        },
+        {
+            "Name": "Fourteenth Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "AMS_AntiSept",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "DisinfectantAlcohol",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "TetracyclineAntibiotics",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TetracyclineAntibiotics",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "IodineTincture",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "BandageDressing",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "BandageDressing",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "BandageDressing",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "AMS_GasMaskGP21_Filter",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "TetracyclineAntibiotics",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DisinfectantAlcohol",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "IodineTincture",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "VitaminBottle",
+                    "ItemAttachments": []
+                }
+            ]
+        },
+        {
+            "Name": "Fifteenth Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "NailBox",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "NailBox",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "Rope",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Rope",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "BarbedWire",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "BarbedWire",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "CodeLock",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "CodeLock",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "MetalWire",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "MetalWire",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "BBP_Mortar_Mix",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "BBP_Mortar_Mix",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "BBP_Cement",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "BBP_Cement",
+                    "ItemAttachments": []
+                }
+            ]
+        },
+        {
+            "Name": "Sixteenth Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "Screwdriver",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "Screwdriver",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "Pliers",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Pliers",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Hammer",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "Hammer",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "HandSaw",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "HandSaw",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "Hacksaw",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Hacksaw",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "SledgeHammer",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "SledgeHammer",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Shovel",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Shovel",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Pickaxe",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "WoodAxe",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Hatchet",
+                    "ItemAttachments": []
+                }
+            ]
+        },
+        {
+            "Name": "Seventeenth Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "SewingKit",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "SewingKit",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "SewingKit",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Whetstone",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Whetstone",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "Whetstone",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "LeatherSewingKit",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "LeatherSewingKit",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "LeatherSewingKit",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "WeaponCleaningKit",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "WeaponCleaningKit",
+                    "ItemAttachments": [
+                    ]
+                },
+                {
+                    "Item": "WeaponCleaningKit",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DuctTape",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DuctTape",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "DuctTape",
+                    "ItemAttachments": []
+                }
+            ]
+        }
+    ],
+    "ZombiesClassNames": [
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_Summer",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Woodland",
+        "ZmbM_usSoldier_normal_Desert"
+    ],
+    "FullMapCheckTimer": 5.0,
+    "EventTickTime": 1.0,
+    "Logging": 1
+}

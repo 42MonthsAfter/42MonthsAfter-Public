@@ -1,0 +1,56 @@
+{
+    "KillRewardWEAPONBOX": [
+        {
+            "BoxNumber": 1,
+            "Box": "Mass_WeaponCase",
+            "BoxWeapon": "AKS74U_Black",
+            "BoxWeaponBayonet": "AK_Bayonet",
+            "BoxWeaponButtstock": "AKS74U_Bttstck",
+            "BoxWeaponHandguard": "",
+            "BoxWeaponsuppressor": "AK_Suppressor",
+            "BoxWeaponSight": "",
+            "BoxWeaponMagazin": "Mag_AK74_45Rnd",
+            "BoxMagazinQuantity": 3,
+            "BoxBonus": [
+                "AmmoBox_545x39_20Rnd",
+                "AmmoBox_545x39_20Rnd",
+                "AmmoBox_545x39_20Rnd"
+            ]
+        },
+        {
+            "BoxNumber": 2,
+            "Box": "Mass_WeaponCase",
+            "BoxWeapon": "FOX_M16A3",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "",
+            "BoxWeaponHandguard": "FOX_M16A3_RIShndgrd",
+            "BoxWeaponsuppressor": "M4_Suppressor",
+            "BoxWeaponSight": "ACOGOptic",
+            "BoxWeaponMagazin": "Mag_CMAG_40Rnd",
+            "BoxMagazinQuantity": 3,
+            "BoxBonus": [
+                "AmmoBox_556x45_20Rnd",
+                "AmmoBox_556x45_20Rnd",
+                "AmmoBox_556x45_20Rnd"
+            ]
+        },
+        {
+            "BoxNumber": 3,
+            "Box": "Mass_WeaponCase",
+            "BoxWeapon": "FOX_FNFAL_TAC",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "FOX_FNFAL_BttstckPolimer",
+            "BoxWeaponHandguard": "FOX_FNFAL_hndgrd_para",
+            "BoxWeaponsuppressor": "FOX_308_Suppressor",
+            "BoxWeaponSight": "TWP_TrijiconACOG",
+            "BoxWeaponMagazin": "FOX_Mag_FAL_30rnd",
+            "BoxMagazinQuantity": 3,
+            "BoxBonus": [
+                "AmmoBox_308Win_20Rnd",
+                "AmmoBox_308Win_20Rnd",
+                "AmmoBox_308Win_20Rnd"
+            ]
+        }
+    ],
+    "version": 9
+}
