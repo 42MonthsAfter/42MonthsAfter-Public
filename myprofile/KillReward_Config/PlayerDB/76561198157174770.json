@@ -2,32 +2,52 @@
     "PlayerID": "76561198157174770",
     "PlayerName": "[TWH] Sparky",
     "PlayerNotlisted": 0,
-    "KRPlayerPoints": 3520,
-    "PlayerDeaths": 0,
+    "KRPlayerPoints": 4735,
+    "PlayerDeaths": 4,
     "Stats": [
         {
             "Name": "ZombieKill",
-            "Stat": 346
+            "Stat": 201
         },
         {
             "Name": "HindKills",
-            "Stat": 1
+            "Stat": 0
         },
         {
             "Name": "StagKills",
-            "Stat": 3
+            "Stat": 0
         },
         {
             "Name": "RoosterKills",
-            "Stat": 1
+            "Stat": 0
         },
         {
             "Name": "Wild_BoarKills",
-            "Stat": 3
+            "Stat": 0
         },
         {
             "Name": "WolfKills",
-            "Stat": 4
+            "Stat": 2
+        },
+        {
+            "Name": "PlayerSucide",
+            "Stat": 0
+        },
+        {
+            "Name": "longest_survivor_hit",
+            "Stat": 0
+        },
+        {
+            "Name": "PlayerKill",
+            "Stat": 0
+        },
+        {
+            "Name": "BearKills",
+            "Stat": 1
+        },
+        {
+            "Name": "EweKills",
+            "Stat": 1
         }
     ]
 }

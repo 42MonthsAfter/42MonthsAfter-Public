@@ -2,12 +2,16 @@
     "PlayerID": "76561199269321917",
     "PlayerName": "mod man",
     "PlayerNotlisted": 0,
-    "KRPlayerPoints": 240,
+    "KRPlayerPoints": 410,
     "PlayerDeaths": 0,
     "Stats": [
         {
             "Name": "ZombieKill",
-            "Stat": 24
+            "Stat": 41
+        },
+        {
+            "Name": "longest_survivor_hit",
+            "Stat": 1
         }
     ]
 }

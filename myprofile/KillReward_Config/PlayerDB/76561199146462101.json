@@ -2,12 +2,48 @@
     "PlayerID": "76561199146462101",
     "PlayerName": "Jager",
     "PlayerNotlisted": 0,
-    "KRPlayerPoints": 110,
-    "PlayerDeaths": 0,
+    "KRPlayerPoints": 3130,
+    "PlayerDeaths": 3,
     "Stats": [
         {
             "Name": "ZombieKill",
-            "Stat": 11
+            "Stat": 153
+        },
+        {
+            "Name": "PlayerSucide",
+            "Stat": 0
+        },
+        {
+            "Name": "WolfKills",
+            "Stat": 0
+        },
+        {
+            "Name": "BearKills",
+            "Stat": 0
+        },
+        {
+            "Name": "longest_survivor_hit",
+            "Stat": 0
+        },
+        {
+            "Name": "PlayerKill",
+            "Stat": 0
+        },
+        {
+            "Name": "StagKills",
+            "Stat": 1
+        },
+        {
+            "Name": "HindKills",
+            "Stat": 0
+        },
+        {
+            "Name": "PigKills",
+            "Stat": 0
+        },
+        {
+            "Name": "CowKills",
+            "Stat": 0
         }
     ]
 }

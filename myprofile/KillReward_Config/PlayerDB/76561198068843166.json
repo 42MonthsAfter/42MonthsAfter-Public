@@ -2,12 +2,16 @@
     "PlayerID": "76561198068843166",
     "PlayerName": "Twinkie",
     "PlayerNotlisted": 0,
-    "KRPlayerPoints": 5,
+    "KRPlayerPoints": 55,
     "PlayerDeaths": 0,
     "Stats": [
         {
             "Name": "BullKills",
             "Stat": 1
+        },
+        {
+            "Name": "ZombieKill",
+            "Stat": 5
         }
     ]
 }

@@ -6,7 +6,7 @@
 																											
 													<!-- Assault rifle -->
 	
-	<type name="TWP_AR60">
+	<type name="TWP_G36">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
@@ -19,21 +19,7 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-	<type name="TWP_AR60_mag_40Rnd">
-        <nominal>0</nominal>
-        <lifetime>10800</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>20</quantmin>
-        <quantmax>80</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	<type name="TWP_MP5_Custom">
+	<type name="TWP_AR15_SLR">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
@@ -46,21 +32,7 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-	<type name="TWP_MP5_Custom_mag_40Rnd">
-        <nominal>0</nominal>
-        <lifetime>10800</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>20</quantmin>
-        <quantmax>80</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	<type name="TWP_Howa_Type20">
+	<type name="TWP_SAR_109T">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
@@ -73,74 +45,7 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-	<type name="TWP_Howa_Type20_mag_30Rnd">
-        <nominal>0</nominal>
-        <lifetime>10800</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>20</quantmin>
-        <quantmax>80</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	<type name="TWP_RK95">
-        <nominal>0</nominal>
-        <lifetime>10800</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-	<type name="TWP_RK95_mag_30Rnd">
-        <nominal>0</nominal>
-        <lifetime>10800</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>20</quantmin>
-        <quantmax>80</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	<type name="TWP_SteyrAugA3_Black">
-        <nominal>0</nominal>
-        <lifetime>10800</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-	<type name="TWP_WaltherMPK">
-        <nominal>0</nominal>
-        <lifetime>10800</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-	<type name="TWP_WaltherMPK_mag_32Rnd">
+	<type name="TWP_SAR_109T_mag_75Rnd">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
@@ -159,7 +64,7 @@
 	
 												<!-- Sniper -->
 												
-	<type name="TWP_SV98">
+	<type name="TWP_PGM_Hecate">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -175,7 +80,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="TWP_SV98_mag_10Rnd">
+	<type name="TWP_PGM_mag_7Rnd">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -193,9 +98,9 @@
     </type>
 	
 	
-												<!-- Revolver -->
+												<!-- Crossbow -->
 												
-	<type name="TWP_KorthNighthawk">
+	<type name="TWP_Crossbow">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -207,22 +112,40 @@
         <category name="weapons"/>
         <usage name="Town"/>
     </type>
-	<type name="TWP_NRX_Magnum">
+	<type name="TWP_Optic_Crossbow">
         <nominal>0</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Town"/>
+        <tag name="floor"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="TWP_Quiver">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
     </type>
 	
 												<!-- Pistol -->
 												
-	<type name="TWP_Glock18">
+	<type name="TWP_GS_9mm">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -234,21 +157,7 @@
         <category name="weapons"/>
         <usage name="Town"/>
     </type>
-	<type name="TWP_Glock_mag_33Rnd">
-        <nominal>0</nominal>
-        <lifetime>10800</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>20</quantmin>
-        <quantmax>80</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	<type name="TWP_Glock_mag_50Rnd">
+	<type name="TWP_GS_9mm_mag_17Rnd">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
@@ -267,7 +176,7 @@
 	
 												<!-- Ammo -->
 												
-	<type name="TWP_Ammo_338Lapua_Magnum">
+	<type name="TWP_Crossbow_Arrow">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -281,7 +190,7 @@
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
-	<type name="TWP_AmmoBox_500SW_15Rnd">
+	<type name="TWP_AmmoBox_338Lapua_20Rnd">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
@@ -297,101 +206,5 @@
         <value name="Tier4"/>
     </type>
 	
-														<!-- Magazine -->
-														
-	<type name="Mag_CMAG_100Rnd">
-        <nominal>0</nominal>
-        <lifetime>10800</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>20</quantmin>
-        <quantmax>80</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
 	
-														<!-- Shotgun -->
-														
-	<type name="TWP_DoomShotgun">
-        <nominal>0</nominal>
-        <lifetime>10800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Police"/>
-    </type>
-	<type name="TWP_VR80">
-        <nominal>0</nominal>
-        <lifetime>10800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Police"/>
-    </type>
-	<type name="TWP_VR80_mag_10Rnd">
-        <nominal>0</nominal>
-        <lifetime>10800</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>20</quantmin>
-        <quantmax>80</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	<type name="TWP_VR80_mag_20Rnd">
-        <nominal>0</nominal>
-        <lifetime>10800</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>20</quantmin>
-        <quantmax>80</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
 	
-												<!-- Grenades -->
-												
-	<type name="TWP_WhoopeeCushion_Mine">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="explosives"/>
-        <usage name="Military"/>
-    </type>
-	<type name="TWP_TennisBall_Grenade">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="explosives"/>
-        <usage name="Military"/>
-    </type>
