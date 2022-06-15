@@ -267,6 +267,125 @@
                 "MilitaryBoots_Redpunk",
                 "BalaclavaMask_Blackskull"
             ]
+        },
+        {
+            "Id": 9,
+            "Name": "SurvivorM_Rolf",
+            "GivenName": "Burt",
+            "Role": "Quarter Master",
+            "Position": [
+                5456.81982421875,
+                114.4000015258789,
+                5145.240234375
+            ],
+            "Orientation": [
+                -90.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "Jeans_Grey",
+                "bs_meatloaf",
+                "Sneakers_White",
+                "DesignerGlasses",
+                "SurgicalGloves_LightBlue",
+                "joint_mung",
+                "MasscamoBooniehat"
+            ]
+        },
+        {
+            "Id": 10,
+            "Name": "SurvivorM_Rolf",
+            "GivenName": "Ralph",
+            "Role": "Quarter Master",
+            "Position": [
+                3751.81005859375,
+                17.780000686645509,
+                2563.27001953125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "CargoPants_Beige",
+                "bs_johndenver",
+                "HikingBootsLow_Black",
+                "AviatorGlasses",
+                "LeatherGloves_Beige",
+                "BaseballCap_Red"
+            ]
+        },
+        {
+            "Id": 11,
+            "Name": "SurvivorF_Eva",
+            "GivenName": "Jamie",
+            "Role": "Quarter Master",
+            "Position": [
+                7077.17,
+                25.1178,
+                6238.65
+            ],
+            "Orientation": [
+               -170.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "CargoPants_Beige",
+                "bs_zero",
+                "HikingBootsLow_Black",
+                "LeatherGloves_Beige"
+            ]
+        },
+        {
+            "Id": 12,
+            "Name": "SurvivorM_Seth",
+            "GivenName": "Seth",
+            "Role": "Quarter Master",
+            "Position": [
+                1154.15,
+                60.25,
+                10622.1
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "MVS_CombatPants_Black",
+                "SWAT_Balaclava",
+                "SWAT_Glove",
+                "SWAT_Shirt",
+                "SWAT_Vest",
+                "CombatBoots_Black",
+                "MVS_Comtacs_Black"
+            ]
+        },
+        {
+            "Id": 13,
+            "Name": "SurvivorM_Seth",
+            "GivenName": "Brandon",
+            "Role": "Quarter Master",
+            "Position": [
+                5401.13,
+                73.94,
+                1561.2
+            ],
+            "Orientation": [
+                35.0,
+                0.0,
+                0.0
+            ],
+            "Clothes": [
+                "bs_cartman",
+                "SWAT_Glove",
+                "MVS_GorkaPants_Multicam",
+                "CombatBoots_Black",
+                "MVS_Comtacs_Black"
+            ]
         }
     ],
     "TraderObjects": []

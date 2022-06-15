@@ -1,0 +1,27 @@
+************************** 2022-06-02T16:00:19+00:00 **************************
+2022-06-02T16:00:27+00:00 | [INFO	] Server up (GameLabs v1.71)
+2022-06-02T16:00:27+00:00 | [INFO	] Experimental speed check is enabled
+2022-06-02T16:00:55+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2022-06-02T16:38:13+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<223f27e0>> fired for already disconnected player [steam64=76561199146462101]
+2022-06-02T17:00:27+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-06-02T17:00:27+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-06-02T17:00:27+00:00 | [WARN	] RegisterAsync re-authorized
+2022-06-02T18:00:32+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-06-02T18:00:32+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-06-02T18:00:33+00:00 | [WARN	] RegisterAsync re-authorized
+2022-06-02T18:36:37+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2022-06-02T18:36:37+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-06-02T18:36:37+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199232000311, distance=5572.29u, unitsPerSecond=2228.92 [threshold=8, inVehicle=0, triggers=1])
+2022-06-02T18:36:37+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-06-02T18:36:37+00:00 | [WARN	] ****************************************
+2022-06-02T19:00:37+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-06-02T19:00:37+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-06-02T19:00:38+00:00 | [WARN	] RegisterAsync re-authorized
+2022-06-02T20:00:42+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-06-02T20:00:42+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-06-02T20:00:43+00:00 | [WARN	] RegisterAsync re-authorized
+2022-06-02T21:00:48+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-06-02T21:00:48+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-06-02T21:00:48+00:00 | [WARN	] RegisterAsync re-authorized
+2022-06-02T22:00:00+00:00 | [INFO	] (Reporter) Disabled
+2022-06-02T22:00:00+00:00 | [INFO	] (Core) Attempting graceful exit
