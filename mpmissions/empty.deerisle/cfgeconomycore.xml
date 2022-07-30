@@ -100,9 +100,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="ModTypes/TraderPlus">
 		<file name="types.xml" type="types" />
 	</ce>
-	<ce folder="ModTypes/ZeroyFishingZ">
-		<file name="types.xml" type="types" />
-	</ce>
 	<ce folder="ModTypes/Windstride">
 		<file name="types.xml" type="types" />
 	</ce>
@@ -119,6 +116,12 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="types.xml" type="types" />
 	</ce>
 	<ce folder="ModTypes/Raft">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/Geb">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/GebsFloraFauna">
 		<file name="types.xml" type="types" />
 	</ce>
 </economycore>

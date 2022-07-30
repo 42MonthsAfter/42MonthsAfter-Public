@@ -40,8 +40,8 @@
 			</agent>
 
 			<item name="globalCountMax" val="50" />
-			<item name="zoneCountMin" val="1" />
-			<item name="zoneCountMax" val="3" />
+			<item name="zoneCountMin" val="2" />
+			<item name="zoneCountMax" val="4" />
 			<item name="playerSpawnRadiusNear" val="25" />
 			<item name="playerSpawnRadiusFar" val="75" />
 		</territory>
@@ -57,7 +57,7 @@
 				<spawn configName="Animal_LepusEuropaeus" chance="1" />
 			</agent>
 
-			<item name="globalCountMax" val="25" />
+			<item name="globalCountMax" val="50" />
 			<item name="zoneCountMin" val="3" />
 			<item name="zoneCountMax" val="5" />
 			<item name="playerSpawnRadiusNear" val="15" />

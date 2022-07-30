@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
+    <event name="Infectedkids">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>250</max>
+        <lifetime>3600</lifetime>
+        <restock>600</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="4" lootmin="0" max="0" min="3" type="ZmbM_kid"/>
+            <child lootmax="4" lootmin="0" max="0" min="2" type="ZmbM_kid2"/>
+            <child lootmax="4" lootmin="0" max="0" min="2" type="ZmbM_kid3"/>
+            <child lootmax="4" lootmin="0" max="0" min="2" type="ZmbF_kid"/>
+            <child lootmax="4" lootmin="0" max="0" min="3" type="ZmbF_kid2"/>
+            <child lootmax="4" lootmin="0" max="0" min="2" type="ZmbF_kid3"/>
+        </children>
+    </event>
 	<event name="Interceptor">
 		<nominal>2</nominal>
 		<min>1</min>
@@ -203,14 +225,14 @@
 		</children>
 	</event>
     <event name="AmbientHen">
-		<nominal>16</nominal>
-        <min>6</min>
-        <max>24</max>
+		<nominal>42</nominal>
+        <min>22</min>
+        <max>50</max>
         <lifetime>1800</lifetime>
-        <restock>0</restock>
+        <restock>300</restock>
         <saferadius>100</saferadius>
         <distanceradius>0</distanceradius>
-        <cleanupradius>0</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>mixed</limit>
@@ -220,42 +242,34 @@
             <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_GallusGallusDomesticusF_Brown"/>
             <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_GallusGallusDomesticusF_Spotted"/>
             <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_GallusGallusDomesticusF_White"/>
+            <child lootmax="0" lootmin="0" max="6" min="3" type="babychicken"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="geb_Turkey"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="geb_Peacock"/>
         </children>
     </event>
     <event name="AmbientBear">
-        <nominal>12</nominal>
-        <min>4</min>
-        <max>16</max>
+        <nominal>24</nominal>
+        <min>10</min>
+        <max>35</max>
         <lifetime>1800</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <saferadius>200</saferadius>
         <distanceradius>0</distanceradius>
-        <cleanupradius>0</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_UrsusArctos"/>
+            <child lootmax="0" lootmin="0" max="10" min="1" type="Animal_UrsusArctos"/>
+            <child lootmax="0" lootmin="0" max="6" min="2" type="Radioactive_Bear_Tough"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Radioactive_Bear_Beast"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Radioactive_Bear_juggernaut"/>
+            <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_Polarbear"/>
+            <child lootmax="0" lootmin="0" max="4" min="1" type="bear_elder"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="bear_goldenelder"/>
         </children>
     </event>
-	<event name="AmbientPolarbear">
-        <nominal>1</nominal>
-        <min>1</min>
-        <max>1</max>
-        <lifetime>1800</lifetime>
-        <restock>0</restock>
-        <saferadius>200</saferadius>
-        <distanceradius>0</distanceradius>
-        <cleanupradius>0</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>custom</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_Polarbear"/>
-        </children>
-    </event>	
     <event name="AmbientCow">
         <nominal>14</nominal>
         <min>8</min>
@@ -276,6 +290,9 @@
             <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_BosTaurus_Brown"/>
             <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_BosTaurus_Spotted"/>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_BosTaurus_White"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Calf"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Calf2"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Calf3"/>
         </children>
     </event>
     <event name="AmbientDeer">
@@ -294,6 +311,8 @@
         <children>
             <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_CervusElaphus"/>
             <child lootmax="0" lootmin="0" max="3" min="1" type="Animal_CervusElaphusF"/>
+            <child lootmax="0" lootmin="0" max="3" min="1" type="deer_goldenhind"/>
+            <child lootmax="0" lootmin="0" max="3" min="1" type="deer_whitestag"/>
         </children>
     </event>
     <event name="AmbientGoat">
@@ -314,6 +333,7 @@
             <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CapraHircus_Black"/>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CapraHircus_Brown"/>
             <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_CapraHircus_White"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="pelt_goldenhind"/>
         </children>
     </event>
     <event name="AmbientPig">
@@ -330,7 +350,14 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_SusDomesticus"/>
+            <child lootmax="0" lootmin="0" max="3" min="1" type="Animal_CapraHircusF"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CapraHircus_Black"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CapraHircus_Brown"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_CapraHircus_White"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="baby_goat"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="baby_goat2"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="baby_goat3"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="baby_goat4"/>
         </children>
     </event>
     <event name="AmbientRoeDeer">
@@ -367,6 +394,7 @@
         <children>
             <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_OvisAries"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Animal_OvisAriesF"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="little_lamb"/>
         </children>
     </event>
     <event name="AmbientWildBoar">
@@ -402,6 +430,11 @@
         <children>
             <child lootmax="0" lootmin="0" max="6" min="2" type="Animal_CanisLupus_Grey"/>
             <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_CanisLupus_White"/>
+            <child lootmax="0" lootmin="0" max="6" min="2" type="Radioactive_Wolf_juggernaut"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Radioactive_Wolf_Beast"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Radioactive_Wolf_Tough"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="wolf_ghosthound"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="wolf_hellhound"/>
         </children>
     </event>
     <event name="InfectedArmy">
@@ -985,6 +1018,10 @@
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="BoletusMushroom"/>
             <child lootmax="0" lootmin="0" max="0" min="0" type="MacrolepiotaMushroom"/>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="geb_Lionsmane"/>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="geb_Blackmorel"/>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="geb_Whitemorel"/>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="geb_Puffball"/>
         </children>
     </event>
     <event name="TrajectoryDeciduous">
@@ -1002,6 +1039,10 @@
         <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="LactariusMushroom"/>
+			<child lootmax="0" lootmin="0" max="0" min="0" type="geb_Lionsmane"/>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="geb_Blackmorel"/>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="geb_Whitemorel"/>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="geb_Puffball"/>
         </children>
     </event>
     <event name="TrajectoryHumus">
@@ -1020,6 +1061,10 @@
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="AgaricusMushroom"/>
             <child lootmax="0" lootmin="0" max="0" min="0" type="PleurotusMushroom"/>
+			<child lootmax="0" lootmin="0" max="0" min="0" type="geb_Lionsmane"/>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="geb_Blackmorel"/>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="geb_Whitemorel"/>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="geb_Puffball"/>
         </children>
     </event>
     <event name="TrajectoryPear">

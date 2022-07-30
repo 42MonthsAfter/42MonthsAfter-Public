@@ -334,7 +334,7 @@
     </type>
     <type name="Msp_Mailbox">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>3888000</lifetime>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -345,7 +345,7 @@
     </type>
     <type name="Msp_TrashCan">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>3888000</lifetime>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>

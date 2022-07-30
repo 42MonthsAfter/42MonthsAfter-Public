@@ -1,0 +1,242 @@
+{
+    "BomberAltitude": 550,
+    "BomberSpeed": 10,
+    "NumOfBombs": 20,
+    "Notifications": 0,
+    "EnableShips": 0,
+    "EnableSubmarine": 0,
+    "EnableAndula": 1,
+    "EnableMig21": 1,
+    "EnableUFO": 1,
+    "EnableMi24": 1,
+    "Interval": 30.0,
+    "SubmarineInterval": 60.0,
+    "BoatInterval": 60.0,
+    "AndulaInterval": 60.0,
+    "Mig21Interval": 45.0,
+    "UFOInterval": 55.0,
+    "Mi24Interval": 10.0,
+    "AirRaidLocations": [
+        {
+            "name": "Waldoboro 01",
+            "sirenpos": "8727.00  24 9170.83",
+            "target": "9100.00  0 9518.32",
+            "type": "normal"
+        },
+        {
+            "name": "Waldoboro 02",
+            "sirenpos": "8727.00  24 9170.83",
+            "target": "8488.00  0 8889.44",
+            "type": "normal"
+        },
+        {
+            "name": "Old Town",
+            "sirenpos": "1896.50  24 9035.73",
+            "target": "1946.00  0 9030.23",
+            "type": "normal"
+        },
+        {
+            "name": "The Swamp",
+            "sirenpos": "3722.50  24 8828.99",
+            "target": "3722.50 0 8828.99",
+            "type": "normal"
+        },
+        {
+            "name": "Power Plant",
+            "sirenpos": "4741.50  24 7062.07",
+            "target": "4875.00  0 7075.59",
+            "type": "normal"
+        },
+        {
+            "name": "Warren Cove",
+            "sirenpos": "7082.00  24 5438.20",
+            "target": "7082 0 5438.20",
+            "type": "normal"
+        },
+        {
+            "name": "Airfield",
+            "sirenpos": "5496.00  24 3676.02",
+            "target": "5496 0 3676",
+            "type": "normal"
+        },
+        {
+            "name": "Paris Island",
+            "sirenpos": "2627.00  24 4158.96",
+            "target": "2995.00  0 3834.51",
+            "type": "normal"
+        },
+        {
+            "name": "Hazelands",
+            "sirenpos": "4517.50  24 2729.04",
+            "target": "4517 0 2729",
+            "type": "normal"
+        },
+        {
+            "name": "Scout Camp",
+            "sirenpos": "4968.00  24 2107.42",
+            "target": "4968 0 2107",
+            "type": "normal"
+        },
+        {
+            "name": "Zelenogorsk railyard",
+            "sirenpos": "2571 24 5078",
+            "target": "2233 0 5204",
+            "type": "normal"
+        },
+        {
+            "name": "Stonington 01",
+            "sirenpos": "6874.00  24 1959.81",
+            "target": "6350.00  0 2038.92",
+            "type": "normal"
+        },
+        {
+            "name": "Stonington 02",
+            "sirenpos": "6874.00  24 1959.81",
+            "target": "7187.00  0 1503.17",
+            "type": "normal"
+        },
+        {
+            "name": "Stonington 03",
+            "sirenpos": "6874.00  24 1959.81",
+            "target": "6872.00  0 2364.38",
+            "type": "normal"
+        },
+        {
+            "name": "Stonington 04",
+            "sirenpos": "6874.00  24 1959.81",
+            "target": "7288.50  0 2617.53",
+            "type": "normal"
+        },
+        {
+            "name": "Kushville",
+            "sirenpos": "7525.00  24 3928.77",
+            "target": "7525 0 3928",
+            "type": "normal"
+        },
+        {
+            "name": "Scout Camp",
+            "sirenpos": "8486.00  24 5286.26",
+            "target": "8486 0 5286",
+            "type": "normal"
+        },
+        {
+            "name": "Sunset Cross",
+            "sirenpos": "6603.00  24 6366.78",
+            "target": "6603 0 6366",
+            "type": "normal"
+        },
+        {
+            "name": "Eastbrook",
+            "sirenpos": "10373.0  24 7863.90",
+            "target": "10373 0 7863",
+            "type": "normal"
+        },
+        {
+            "name": "Bayville",
+            "sirenpos": "10151.  24 12040.70",
+            "target": "10151 0 12040",
+            "type": "normal"
+        },
+        {
+            "name": "Novodmitrovsk",
+            "sirenpos": "11487 24 14480",
+            "target": "11763 0 14259",
+            "type": "normal"
+        },
+        {
+            "name": "Woodworking Industrial",
+            "sirenpos": "4460.00  24 12063.66",
+            "target": "4460 0 12063",
+            "type": "normal"
+        },
+        {
+            "name": "Swanville",
+            "sirenpos": "5288.00  24 12422.02",
+            "target": "5288 0 12422",
+            "type": "normal"
+        },
+        {
+            "name": "Portland 01",
+            "sirenpos": "6060.00  24 14586.16",
+            "target": "6373.00  0 14852.53",
+            "type": "normal"
+        },
+        {
+            "name": "Portland 02",
+            "sirenpos": "6060.00  24 14586.16",
+            "target": "6063.00  0 14602.18",
+            "type": "normal"
+        },
+        {
+            "name": "Portland 03",
+            "sirenpos": "6060.00  24 14586.16",
+            "target": "6063.00  0 14186.59",
+            "type": "normal"
+        },
+        {
+            "name": "Swan Island 01",
+            "sirenpos": "1129.00  24 15341.82",
+            "target": "715.00  0 15087.46",
+            "type": "normal"
+        },
+        {
+            "name": "Swan Island 02",
+            "sirenpos": "1129.00  24 15341.82",
+            "target": "1422.00  0 15578.15",
+            "type": "normal"
+        },
+        {
+            "name": "Swan Island 03",
+            "sirenpos": "1129.00  24 15341.82",
+            "target": "1175.00  0 15076.45",
+            "type": "normal"
+        },
+        {
+            "name": "Oceanville",
+            "sirenpos": "10232.00  24 4913.62",
+            "target": "10232 0 4913",
+            "type": "normal"
+        },
+        {
+            "name": "Georgetown",
+            "sirenpos": "4696.00  24 4442.08",
+            "target": "4696 0 4442",
+            "type": "normal"
+        },
+        {
+            "name": "East Harbor",
+            "sirenpos": "11435.00  24 10156.72",
+            "target": "10156 0 10156",
+            "type": "normal"
+        }
+    ],
+    "SubTrajectory": [
+        {
+            "name": "1",
+            "pos": [
+                "0 -1 800",
+                "3092 -1 985",
+                "3676 -1 1677",
+                "6491 -1 1599",
+                "10310 -1 1319",
+                "15500 -1 2500"
+            ]
+        },
+        {
+            "name": "2",
+            "pos": [
+                "3092 -1 985"
+            ]
+        }
+    ],
+    "BoatTrajectory": [
+        {
+            "name": "1",
+            "pos": [
+                "15323 -1 13495",
+                "13981 -1 8879",
+                "15272 -1 153"
+            ]
+        }
+    ]
+}
