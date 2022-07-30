@@ -1,0 +1,40 @@
+************************** 2022-07-21T22:00:20+00:00 **************************
+2022-07-21T22:00:27+00:00 | [INFO	] Server up (GameLabs v1.72)
+2022-07-21T22:00:27+00:00 | [INFO	] Experimental speed check is enabled
+2022-07-21T22:00:29+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2022-07-21T22:00:57+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2022-07-21T22:15:35+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<b6f184c0>> fired for already disconnected player [steam64=76561198036774377]
+2022-07-21T23:00:29+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-07-21T23:00:29+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-07-21T23:00:30+00:00 | [WARN	] RegisterAsync re-authorized
+2022-07-22T00:00:35+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-07-22T00:00:35+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-07-22T00:00:35+00:00 | [WARN	] RegisterAsync re-authorized
+2022-07-22T00:58:25+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2022-07-22T01:00:40+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-07-22T01:00:40+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-07-22T01:00:40+00:00 | [WARN	] RegisterAsync re-authorized
+2022-07-22T01:13:58+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<1f65dc00>> fired for already disconnected player [steam64=76561199050306488]
+2022-07-22T02:00:45+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-07-22T02:00:45+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-07-22T02:00:45+00:00 | [WARN	] RegisterAsync re-authorized
+2022-07-22T02:27:14+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2022-07-22T02:27:14+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-07-22T02:27:14+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198036774377, distance=4989.08u, unitsPerSecond=1995.63 [threshold=8, inVehicle=0, triggers=1])
+2022-07-22T02:27:14+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-07-22T02:27:14+00:00 | [WARN	] ****************************************
+2022-07-22T02:31:47+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2022-07-22T02:31:47+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-07-22T02:31:47+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198036774377, distance=7093.82u, unitsPerSecond=2837.53 [threshold=8, inVehicle=0, triggers=2])
+2022-07-22T02:31:47+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-07-22T02:31:47+00:00 | [WARN	] ****************************************
+2022-07-22T02:50:24+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2022-07-22T02:50:24+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-07-22T02:50:24+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198036774377, distance=7032.11u, unitsPerSecond=2812.84 [threshold=8, inVehicle=0, triggers=3])
+2022-07-22T02:50:24+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-07-22T02:50:24+00:00 | [WARN	] ****************************************
+2022-07-22T03:00:50+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-07-22T03:00:50+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-07-22T03:00:50+00:00 | [WARN	] RegisterAsync re-authorized
+2022-07-22T03:51:03+00:00 | [INFO	] (Reporter) Disabled
+2022-07-22T03:51:03+00:00 | [INFO	] (Core) Attempting graceful exit

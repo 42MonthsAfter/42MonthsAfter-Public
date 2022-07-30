@@ -1,0 +1,17 @@
+************************** 2022-06-16T01:54:41+00:00 **************************
+2022-06-16T01:54:49+00:00 | [INFO	] Server up (GameLabs v1.71)
+2022-06-16T01:54:49+00:00 | [INFO	] Experimental speed check is enabled
+2022-06-16T01:54:51+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2022-06-16T02:37:19+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2022-06-16T02:37:19+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-06-16T02:37:19+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198036774377, distance=20.8892u, unitsPerSecond=8.35569 [threshold=8, inVehicle=0, triggers=1])
+2022-06-16T02:37:19+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-06-16T02:37:19+00:00 | [WARN	] ****************************************
+2022-06-16T02:54:52+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-06-16T02:54:52+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-06-16T02:54:52+00:00 | [WARN	] RegisterAsync re-authorized
+2022-06-16T03:54:57+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-06-16T03:54:57+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-06-16T03:54:58+00:00 | [WARN	] RegisterAsync re-authorized
+2022-06-16T04:00:00+00:00 | [INFO	] (Reporter) Disabled
+2022-06-16T04:00:00+00:00 | [INFO	] (Core) Attempting graceful exit

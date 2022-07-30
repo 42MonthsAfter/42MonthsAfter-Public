@@ -2,12 +2,12 @@
     "PlayerID": "76561198089279995",
     "PlayerName": "Crunch",
     "PlayerNotlisted": 0,
-    "KRPlayerPoints": -945,
+    "KRPlayerPoints": -450,
     "PlayerDeaths": 5,
     "Stats": [
         {
             "Name": "ZombieKill",
-            "Stat": 9
+            "Stat": 55
         },
         {
             "Name": "PlayerSucide",
@@ -19,11 +19,15 @@
         },
         {
             "Name": "StagKills",
-            "Stat": 0
+            "Stat": 2
         },
         {
             "Name": "WolfKills",
-            "Stat": 0
+            "Stat": 4
+        },
+        {
+            "Name": "HindKills",
+            "Stat": 1
         }
     ]
 }

@@ -2,24 +2,24 @@
     "PlayerID": "76561199013191843",
     "PlayerName": "??????",
     "PlayerNotlisted": 0,
-    "KRPlayerPoints": 16100,
-    "PlayerDeaths": 1,
+    "KRPlayerPoints": 16420,
+    "PlayerDeaths": 2,
     "Stats": [
         {
             "Name": "BearKills",
-            "Stat": 14
+            "Stat": 0
         },
         {
             "Name": "ZombieKill",
-            "Stat": 1147
+            "Stat": 4
         },
         {
             "Name": "PigKills",
-            "Stat": 1
+            "Stat": 0
         },
         {
             "Name": "StagKills",
-            "Stat": 3
+            "Stat": 0
         },
         {
             "Name": "DoeKills",
@@ -27,15 +27,15 @@
         },
         {
             "Name": "RoebuckKills",
-            "Stat": 1
+            "Stat": 0
         },
         {
             "Name": "HindKills",
-            "Stat": 3
+            "Stat": 0
         },
         {
             "Name": "longest_survivor_hit",
-            "Stat": 2
+            "Stat": 0
         },
         {
             "Name": "PlayerSucide",
@@ -43,10 +43,18 @@
         },
         {
             "Name": "Wild_BoarKills",
-            "Stat": 1
+            "Stat": 0
         },
         {
             "Name": "WolfKills",
+            "Stat": 5
+        },
+        {
+            "Name": "PlayerKill",
+            "Stat": 0
+        },
+        {
+            "Name": "RoosterKills",
             "Stat": 25
         }
     ]

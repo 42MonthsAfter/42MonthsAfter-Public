@@ -89,14 +89,20 @@
 			<!-- different agent types - class has to begin with AgentType:w -->
 			<agent type="Male" chance="1">
 				<spawn configName="Animal_UrsusArctos" chance="1" />
+				<spawn configName="bear_elder" chance="0.40" />
+				<spawn configName="bear_goldenelder" chance="0.20" />
+				<spawn configName="Radioactive_Bear_Tough" chance="0.60" />
 			</agent>
 			<agent type="Female" chance="3">
 				<spawn configName="Animal_UrsusArctos" chance="1" />
+				<spawn configName="Radioactive_Bear_juggernaut" chance="0.20" />
+				<spawn configName="Radioactive_Bear_Beast" chance="0.40" />
+				<spawn configName="bear_elder" chance="0.60" />
 			</agent>
 
 			<item name="globalCountMax" val="30" />
-			<item name="zoneCountMin" val="1" />
-			<item name="zoneCountMax" val="2" />
+			<item name="zoneCountMin" val="3" />
+			<item name="zoneCountMax" val="4" />
 			<item name="playerSpawnRadiusNear" val="100" />
 			<item name="playerSpawnRadiusFar" val="200" />
 		</territory>
@@ -147,14 +153,16 @@
             <!-- different agent types - class has to begin with AgentType:w -->
             <agent type="Male" chance="1">
                 <spawn configName="Animal_CervusElaphus" chance="1" />
+                <spawn configName="deer_whitestag" chance=".20" />
             </agent>
             <agent type="Female" chance="3">
                 <spawn configName="Animal_CervusElaphusF" chance="1" />
+                <spawn configName="deer_goldenhind" chance=".20" />
             </agent>
 
             <item name="globalCountMax" val="30" />
-            <item name="zoneCountMin" val="1" />
-            <item name="zoneCountMax" val="2" />
+            <item name="zoneCountMin" val="3" />
+            <item name="zoneCountMax" val="4" />
             <item name="playerSpawnRadiusNear" val="100" />
             <item name="playerSpawnRadiusFar" val="200" />
         </territory>
@@ -165,14 +173,16 @@
             <!-- different agent types - class has to begin with AgentType:w -->
             <agent type="Male" chance="1">
                 <spawn configName="Animal_CapreolusCapreolus" chance="1" />
+                <spawn configName="deer_whitestag" chance="0.20" />
             </agent>
             <agent type="Female" chance="3">
                 <spawn configName="Animal_CapreolusCapreolusF" chance="1" />
+                <spawn configName="deer_goldenhind" chance="0.20" />
             </agent>
 
             <item name="globalCountMax" val="30" />
-            <item name="zoneCountMin" val="1" />
-            <item name="zoneCountMax" val="2" />
+            <item name="zoneCountMin" val="2" />
+            <item name="zoneCountMax" val="4" />
             <item name="playerSpawnRadiusNear" val="100" />
             <item name="playerSpawnRadiusFar" val="200" />
         </territory>

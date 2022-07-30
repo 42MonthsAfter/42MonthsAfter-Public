@@ -243,8 +243,6 @@
             <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_GallusGallusDomesticusF_Spotted"/>
             <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_GallusGallusDomesticusF_White"/>
             <child lootmax="0" lootmin="0" max="6" min="3" type="babychicken"/>
-            <child lootmax="0" lootmin="0" max="4" min="2" type="geb_Turkey"/>
-            <child lootmax="0" lootmin="0" max="4" min="2" type="geb_Peacock"/>
         </children>
     </event>
     <event name="AmbientBear">

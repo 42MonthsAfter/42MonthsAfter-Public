@@ -1,0 +1,26 @@
+************************** 2022-06-14T18:15:43+00:00 **************************
+2022-06-14T18:15:51+00:00 | [INFO	] Server up (GameLabs v1.71)
+2022-06-14T18:15:51+00:00 | [INFO	] Experimental speed check is enabled
+2022-06-14T18:15:52+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2022-06-14T19:05:06+00:00 | [ERROR	] ServerPoll errorCode(8)
+2022-06-14T19:15:52+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-06-14T19:15:52+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-06-14T19:15:52+00:00 | [WARN	] RegisterAsync re-authorized
+2022-06-14T20:15:57+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-06-14T20:15:57+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-06-14T20:15:57+00:00 | [WARN	] RegisterAsync re-authorized
+2022-06-14T20:47:14+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2022-06-14T20:47:14+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-06-14T20:47:14+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198034611550, distance=10704u, unitsPerSecond=4281.62 [threshold=8, inVehicle=0, triggers=1])
+2022-06-14T20:47:14+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-06-14T20:47:14+00:00 | [WARN	] ****************************************
+2022-06-14T20:49:19+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2022-06-14T20:49:19+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-06-14T20:49:19+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198034611550, distance=10990.9u, unitsPerSecond=4396.37 [threshold=8, inVehicle=0, triggers=1])
+2022-06-14T20:49:19+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-06-14T20:49:19+00:00 | [WARN	] ****************************************
+2022-06-14T21:16:02+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-06-14T21:16:02+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-06-14T21:16:03+00:00 | [WARN	] RegisterAsync re-authorized
+2022-06-14T22:00:00+00:00 | [INFO	] (Reporter) Disabled
+2022-06-14T22:00:00+00:00 | [INFO	] (Core) Attempting graceful exit

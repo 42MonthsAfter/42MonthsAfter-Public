@@ -1,0 +1,25 @@
+************************** 2022-07-02T22:00:36+00:00 **************************
+2022-07-02T22:00:44+00:00 | [INFO	] Server up (GameLabs v1.72)
+2022-07-02T22:00:44+00:00 | [INFO	] Experimental speed check is enabled
+2022-07-02T22:00:46+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2022-07-02T22:10:13+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2022-07-02T22:53:54+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<e65ca350>> fired for already disconnected player [steam64=76561198069464245]
+2022-07-02T23:00:45+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-07-02T23:00:45+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-07-02T23:00:46+00:00 | [WARN	] RegisterAsync re-authorized
+2022-07-03T00:00:51+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-07-03T00:00:51+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-07-03T00:00:51+00:00 | [WARN	] RegisterAsync re-authorized
+2022-07-03T01:00:56+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-07-03T01:00:56+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-07-03T01:00:56+00:00 | [WARN	] RegisterAsync re-authorized
+2022-07-03T01:54:36+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2022-07-03T02:01:01+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-07-03T02:01:01+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-07-03T02:01:01+00:00 | [WARN	] RegisterAsync re-authorized
+2022-07-03T03:01:06+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-07-03T03:01:06+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-07-03T03:01:07+00:00 | [WARN	] RegisterAsync re-authorized
+2022-07-03T03:06:22+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<19953730>> fired for already disconnected player [steam64=76561199108250772]
+2022-07-03T04:00:10+00:00 | [INFO	] (Reporter) Disabled
+2022-07-03T04:00:10+00:00 | [INFO	] (Core) Attempting graceful exit

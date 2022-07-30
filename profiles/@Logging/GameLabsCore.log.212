@@ -1,0 +1,28 @@
+************************** 2022-06-28T22:00:44+00:00 **************************
+2022-06-28T22:00:53+00:00 | [INFO	] Server up (GameLabs v1.72)
+2022-06-28T22:00:53+00:00 | [INFO	] Experimental speed check is enabled
+2022-06-28T22:00:55+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2022-06-28T23:00:54+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-06-28T23:00:54+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-06-28T23:00:55+00:00 | [WARN	] RegisterAsync re-authorized
+2022-06-29T00:00:36+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2022-06-29T00:01:00+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-06-29T00:01:00+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-06-29T00:01:00+00:00 | [WARN	] RegisterAsync re-authorized
+2022-06-29T00:01:21+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<45c8da90>> fired for already disconnected player [steam64=76561199091115825]
+2022-06-29T01:01:05+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-06-29T01:01:05+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-06-29T01:01:05+00:00 | [WARN	] RegisterAsync re-authorized
+2022-06-29T01:55:17+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2022-06-29T01:55:17+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-06-29T01:55:17+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199108250772, distance=23.695u, unitsPerSecond=9.47799 [threshold=8, inVehicle=0, triggers=1])
+2022-06-29T01:55:17+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-06-29T01:55:17+00:00 | [WARN	] ****************************************
+2022-06-29T02:01:10+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-06-29T02:01:10+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-06-29T02:01:10+00:00 | [WARN	] RegisterAsync re-authorized
+2022-06-29T03:01:15+00:00 | [ERROR	] ServerPoll errorCode(5)
+2022-06-29T03:01:15+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-06-29T03:01:16+00:00 | [WARN	] RegisterAsync re-authorized
+2022-06-29T04:00:17+00:00 | [INFO	] (Reporter) Disabled
+2022-06-29T04:00:17+00:00 | [INFO	] (Core) Attempting graceful exit

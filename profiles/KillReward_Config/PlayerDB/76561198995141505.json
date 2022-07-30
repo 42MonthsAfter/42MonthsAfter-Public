@@ -1,8 +1,13 @@
 {
     "PlayerID": "76561198995141505",
-    "PlayerName": "NomadicSporadic",
+    "PlayerName": "Bunker",
     "PlayerNotlisted": 0,
-    "KRPlayerPoints": 0,
-    "PlayerDeaths": 0,
-    "Stats": []
+    "KRPlayerPoints": -1000,
+    "PlayerDeaths": 2,
+    "Stats": [
+        {
+            "Name": "PlayerSucide",
+            "Stat": 0
+        }
+    ]
 }
